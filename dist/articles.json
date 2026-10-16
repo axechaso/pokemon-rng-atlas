@@ -3124,5 +3124,1349 @@
         "脚本与工具"
       ]
     ]
+  },
+  {
+    "id": "devon-emerald-captures",
+    "title": "绿宝石：绘画重播种与野生、定点捕获",
+    "original_title": "Emerald Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-12-07",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/12/07/emerald-captures/",
+    "summary": "以 VBA-RR、Lua 与 PokeFinder 搜索野生和定点目标，并介绍利用绘画重播种或战斗录像减少等待。需计算从博物馆到目标地点的消耗，区分定点 Method 1 与野生 H1／H2／H4；VBlank 可能改变生成方法，示例延迟须自行校准。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "PokeFinder",
+      "绘画",
+      "Battle Video",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-frlg-captures",
+    "title": "火红／叶绿：初期 Seed Bot 与捕获乱数",
+    "original_title": "FRLG Captures",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-11-03",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/11/03/frlg-captures/",
+    "summary": "通过 VBA-RR 的 Lua Initial Seed Bot 在标题画面命中 Seed，再用 PokeFinder 搜索定点 Method 1 或野生 H1／H2／H4。火红／叶绿的同步特性不传递性格；帮助系统、图鉴与训练家卡会影响视频函数，需要实测 VBlank 与遭遇延迟。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "Initial Seed Bot",
+      "PokeFinder",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-initial-seeds",
+    "title": "BW／BW2：Standard Seed 与 C-Gear Seed 的模拟器校准",
+    "original_title": "5th Gen Initial Seeds",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-06-21",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/06/21/5th-gen-initial-seeds/",
+    "summary": "区分由游戏版本、语言、主机参数、日期时间和按键决定的 Standard Seed，以及涉及 MAC、时间与 Delay 的 C-Gear Seed。以 DeSmuME、RunAsDate 和 Lua 读取结果；多数教程使用 Standard Seed，BW 连入之森则需注意传送时重新计算 C-Gear Seed。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "RunAsDate",
+      "Standard Seed",
+      "C-Gear",
+      "Timer0"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-pandoras-box",
+    "title": "XD：TID／SID 调整与 Anti-Shiny、Shiny-Skip",
+    "original_title": "XD Pandora’s Box",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-05-30",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/05/30/xd-pandoras-box/",
+    "summary": "用 Gen 3 TID/SID Frame Finder、PokeFinder 和 Dolphin Lua Core 搜索并命中 ID，分别说明 PAL 与美日版命名画面的推进差异。XD 的暗黑宝可梦有闪光锁；特定 ID 组合用于 NPC 交换闪光或改变反闪光重算路径，不会解除暗黑宝可梦的闪光锁。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Dolphin",
+      "TID/SID",
+      "Anti-Shiny",
+      "Shiny-Skip",
+      "PAL"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-starter-pokemon",
+    "title": "HGSS：研究所进入时机与初始伙伴乱数",
+    "original_title": "HGSS Starter Pokémon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-04-03",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/04/03/hgss-starter-pokemon/",
+    "summary": "在 DeSmuME 中以 Method 1 搜索初始伙伴，借助 RunAsDate 命中初期 Seed，再用 Lua 监测 NPC 消耗及进入空木研究所的时机。三只伙伴依次生成，目标偏移不同；若同时追求指定个体值与闪光，需要预先核对 TID／SID 和 PID 的组合。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "Method 1",
+      "NPC",
+      "空木研究所"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-rs-frlg-breeding",
+    "title": "红蓝宝石／火红叶绿：Held 与 Pickup 两阶段孵化",
+    "original_title": "RS-FRLG Breeding",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-04-02",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/04/02/rs-frlg-breeding/",
+    "summary": "使用 VBA-RR、Lua 和 PokeFinder Egg，分别处理产蛋时的 Held 部分与领蛋时的 Pickup 部分，再校准个体值和继承。仅适用于红蓝宝石及火红／叶绿，不含绿宝石；不变之石不传递性格，亲代顺序、兼容性与 VBlank 会影响预测。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "PokeFinder",
+      "Held",
+      "Pickup",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "孵化乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-bw-breeding",
+    "title": "黑／白：Standard Seed 与 PIDRNG 孵化流程",
+    "original_title": "BW Breeding",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-04-01",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/04/01/bw-breeding/",
+    "summary": "以 PokeFinder 的 Gen 5 Egg 搜索亲代、国际孵化和目标属性，在 DeSmuME 中命中 Standard Seed 后用 Lua 跟踪 PIDRNG，借 NPC 消耗到达领取目标。必须正确设置亲代顺序、百变怪与继承条件并保持 C-Gear 关闭；本文的孵化流程只适用于黑／白。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "PIDRNG",
+      "Standard Seed",
+      "Masuda"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-parametri-desmume",
+    "title": "BW／BW2：DeSmuME 版本与游戏语言参数表",
+    "original_title": "Parametri DeSmuME",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-31",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/31/parametri-desmume/",
+    "summary": "说明如何填写 PokeFinder 第五世代模拟器档案，并按 DeSmuME 版本、游戏版本和语言列出 Timer0、VCount、GxStat、VFrame 等参数。表格由 Real.96 逐项研究，不能直接当作实机参数或套用到不同模拟器版本；本站仅提供索引与摘要。",
+    "evidence": "模拟器参数参考",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "Timer0",
+      "VCount",
+      "GxStat",
+      "VFrame",
+      "Real96"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-breeding",
+    "title": "DPt：MTRNG 产蛋 PID 与 LCRNG 领取 IV 的分阶段孵化",
+    "original_title": "DPPt Breeding",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-31",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/31/dppt-breeding/",
+    "summary": "在 DeSmuME 与 PokeFinder 中分两次命中 Seed：先用 MTRNG 决定蛋 PID，再保存待领蛋并搜索 LCRNG 的个体值继承。教程以抛硬币、聒噪鸟与日记推进不同算法；原文的旧工具流程要求亲代不持不变之石或力量系列道具。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "MTRNG",
+      "LCRNG",
+      "聒噪鸟"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-pandoras-box",
+    "title": "BW／BW2：通过命名确认推进调整 TID／SID",
+    "original_title": "5th Gen Pandora’s Box",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-28",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/28/5th-gen-pandoras-box/",
+    "summary": "先选择指定 PID 或 ID 组合，再由 PokeFinder 的 Gen 5 TID/SID 搜索 Standard Seed、时间和按键。DeSmuME 中通过重复输入名字、在确认时回答“否”推进 PIDRNG；若结果偏移，可按实际 TID 与启动时间反查命中位置。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "TID/SID",
+      "PIDRNG",
+      "Pandora’s Box"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-pandoras-box",
+    "title": "HGSS：新游戏介绍画面的 ID Delay 校准",
+    "original_title": "HGSS Pandora’s Box",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-22",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/22/hgss-pandoras-box/",
+    "summary": "使用 PokeFinder 的 Gen 4 TID/SID 与 Seed to Time 搜索目标，并借 RunAsDate、DeSmuME 和 Lua 在新游戏介绍结束时命中 Delay。通过实际 TID 反查偏差，命名键盘大小写切换用于调整 Delay 奇偶；原文给出的输入偏移须按版本校准。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "TID/SID",
+      "Delay",
+      "Pandora’s Box"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-pandoras-box",
+    "title": "圆形竞技场：为暗黑捕获规划 TID／SID",
+    "original_title": "Colosseum Pandora’s Box",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-17",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/17/colosseum-pandoras-box/",
+    "summary": "先按普通或 Shadow Lock 遭遇搜索 PID，再用 Gen 3 TID/SID Frame Finder 规划玩家 ID，并在 Dolphin Lua Core 中配合 GameCube RTC 命中。闪光判定须区分对手与玩家 ID；后台消耗可能跳过目标，需要调整即时存档时机与命名确认延迟。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Dolphin",
+      "GameCube RTC",
+      "TID/SID",
+      "Shadow Lock"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-starter-pokemon",
+    "title": "DPt 初始伙伴教程：钻石／珍珠湖畔领取示例",
+    "original_title": "DPPt Starter Pokémon",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-16",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/16/dppt-starter-pokemon/",
+    "summary": "以 DeSmuME、PokeFinder Method 1 和 Lua 监测 NPC 推进，校准从 201 号道路进入湖畔并打开手提箱的目标时机。虽然原标题包含 DPPt，正文采用钻石／珍珠的领取剧情；白金的事件地点与触发流程不同，不能直接照搬该示例。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "Method 1",
+      "初始伙伴",
+      "钻石",
+      "珍珠"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-wondercards",
+    "title": "DPt／HGSS：神秘礼物卡领取个体值乱数",
+    "original_title": "4th Gen Wondercards",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-14",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/14/4th-gen-wondercards/",
+    "summary": "使用 PokeFinder 的 Wondercard IVs 搜索个体值，再以 DeSmuME、RunAsDate 与 Lua 控制商店送货员领取时机。本文的旧流程主要预测 IV，未提供通用性格控制；已有配信卡可直接使用，导入卡片时须核对适用版本、重复卡与事件条件。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "Wondercard IVs",
+      "神秘礼物",
+      "PKHeX"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-breeding",
+    "title": "HGSS：分开控制蛋 PID 与领取个体值",
+    "original_title": "HGSS Breeding",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-14",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/14/hgss-breeding/",
+    "summary": "使用 PokeFinder Egg、DeSmuME 与 Lua，先选择无需额外产蛋推进的 PID，再保存待领蛋并重新命中领取 IV 的 Seed。PID 与 IV 分别由 MTRNG 和 LCRNG 控制；可用电台或聒噪鸟推进，旧工具流程要求亲代不持不变之石或力量系列道具。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "MTRNG",
+      "LCRNG",
+      "电台",
+      "聒噪鸟"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-pokeradar",
+    "title": "DPt：宝可追踪闪光草丛与 Chained Spreads",
+    "original_title": "DPPt Pokéradar",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-11",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/11/dppt-pokeradar/",
+    "summary": "在 DeSmuME 中结合 PokeFinder 的 Chained Spreads 与 Researcher，分别规划闪光草丛出现和进入草丛的目标。需维持连锁、处理 NPC 与草丛距离消耗；特性和性别受生成结果限制，部分 Seed 无法按示例生成闪光草丛，不能保证无需长连锁即可成功。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "Pokéradar",
+      "Chained Spreads",
+      "Researcher",
+      "闪光草丛"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-pandoras-box",
+    "title": "DPt：新游戏 TID／SID 搜索与 Delay 修正",
+    "original_title": "DPPt Pandora’s Box",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/10/dppt-pandoras-box/",
+    "summary": "利用 PokeFinder 的 Gen 4 TID/SID 搜索目标 PID 对应的 ID，再以 RunAsDate、DeSmuME 和 Lua 校准新游戏生成时机。正文以钻石／珍珠的红色暴鲤龙电视剧情示范；白金需另核对介绍画面，实际 TID 可用于反查 Delay 与奇偶偏差。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "TID/SID",
+      "Delay",
+      "Pandora’s Box"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-e-frlg-pandoras-box",
+    "title": "绿宝石／火红叶绿：先确定 TID 再校准 SID",
+    "original_title": "E-FRLG Pandora’s Box",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-12-30",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/12/30/e-frlg-pandoras-box/",
+    "summary": "在 VBA-RR 中先以 Lua TID Bot 固定训练家 ID，再把当前 Seed 与推进数交给 Gen 3 TID/SID Frame Finder 搜索 SID 目标。最后在开场对话处命中并用 Frame Correction 修正动画消耗；TID 与 SID 的生成时点分开处理。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "TID Bot",
+      "TID/SID",
+      "Frame Correction"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-live-battery-captures",
+    "title": "红蓝宝石：RTC 正常环境的野生与定点捕获",
+    "original_title": "Live Battery Captures",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-12-01",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/12/01/live-battery-captures/",
+    "summary": "在 VBA-RR 中启用 RTC，使用 RunAsDate 固定启动日期时间，再以 PokeFinder 和 Lua 校验初期 Seed 及目标推进。定点与野生遭遇使用不同生成方法，同步特性不传递性格；需要实测遭遇延迟与 VBlank，不适用于直接照搬干电池设置。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "RTC",
+      "RunAsDate",
+      "PokeFinder",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dead-battery-pandoras-box",
+    "title": "红蓝宝石：干电池条件下的 TID／SID 乱数",
+    "original_title": "Dead Battery Pandora’s Box",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-30",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/30/dead-battery-pandoras-box/",
+    "summary": "关闭 VBA-RR 的 RTC 以模拟干电池，从固定初期 Seed 05A0 搜索目标 TID／SID，并用 Lua 监测开场对话前的消耗。原文以约 75 次推进作为初始校准值，实际结果需反查附近 ID 组合修正；本文不使用 RTC 正常时的日期播种流程。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "干电池",
+      "05A0",
+      "TID/SID",
+      "Pandora’s Box"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-live-battery-pandoras-box",
+    "title": "红蓝宝石：RTC 正常条件下的 TID／SID 乱数",
+    "original_title": "Live Battery Pandora’s Box",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-29",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/29/live-battery-pandoras-box/",
+    "summary": "启用 VBA-RR 的 RTC，通过日期时间改变初期 Seed，再由 PokeFinder 或 Finder-ToolBox 搜索目标 ID 与推进数。使用 RunAsDate 和 Lua 校准开场确认时机，按实际 TID／SID 修正延迟；与干电池方案的主要区别在初期播种条件。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "RTC",
+      "RunAsDate",
+      "Finder-ToolBox",
+      "TID/SID"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-setup-citra-python",
+    "title": "第六／第七世代：旧版 CitraRNG 与 Python 环境配置",
+    "original_title": "Setup Citra & Python",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-26",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/26/setup-citra-python/",
+    "summary": "整理 Citra Canary 的固定 RTC、地区设置、逐帧操作及 Python CitraRNG 连接方式，覆盖 XY、ORAS、SM 与 USUM。原文依赖旧 Canary 脚本接口、PySide2／pyzmq 和指定游戏更新版本；属于历史环境配置，不能假定兼容当前 Python 或其他模拟器分支。",
+    "evidence": "模拟器配置说明（旧环境）",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Citra",
+      "CitraRNG",
+      "Python",
+      "PySide2",
+      "pyzmq"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "太阳／月亮",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "究极之日／究极之月",
+        "脚本与工具"
+      ]
+    ]
+  },
+  {
+    "id": "devon-emerald-breeding",
+    "title": "绿宝石：Timer／Advances 与孵化两阶段校准",
+    "original_title": "Emerald Breeding",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-21",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/21/emerald-breeding/",
+    "summary": "使用 VBA-RR、Lua 和 PokeFinder 分别处理产蛋 PID 与领取 IV，核对 Timer、Calibration、Redraws 和亲代继承。绿宝石的 VBlank 可导致 Normal／Split／Alternate 差异；原文的旧工具流程要求不使用不变之石，需要按实际产蛋结果校准。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "VBA-RR",
+      "PokeFinder",
+      "Timer",
+      "Redraws",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-jirachi-finder",
+    "title": "Jirachi-Finder：第三世代配信的存档区校验和校准",
+    "original_title": "Jirachi-Finder",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/20/jirachi-finder/",
+    "summary": "为 WISHMKR 基拉祈等以存档区校验和播种的配信准备目标 Checksum 0，输入训练家资料、游戏选项与精确游戏时间进行搜索。需用 Lua 核对保存时刻，并按文本速度校准存档延迟；该工具用于准备接收存档，具体配信仍需配合相应教程。",
+    "evidence": "模拟器工具教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Jirachi-Finder",
+      "Finder-ToolBox",
+      "Checksum 0",
+      "WISHMKR"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-captures",
+    "title": "BW／BW2：分别对齐 IVRNG 与 PIDRNG 的捕获流程",
+    "original_title": "5th Gen Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-19",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/19/5th-gen-captures/",
+    "summary": "使用 RNG Reporter、DeSmuME、RunAsDate 与 Lua 搜索 Standard Seed，分别对齐个体值和性格、特性、闪光等 PIDRNG 目标。需核对 BW2、Memory Link 与漫游状态，保持 C-Gear 关闭；NPC、128 步计数和特殊遭遇会影响两类推进。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "RNG Reporter",
+      "IVRNG",
+      "PIDRNG",
+      "Memory Link"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-wondercards",
+    "title": "BW／BW2：导入 PGF 配信参数并控制领取时机",
+    "original_title": "5th Gen Wondercards",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-19",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/19/5th-gen-wondercards/",
+    "summary": "在 PokeFinder Event 中导入目标配信卡 PGF，搜索 Standard Seed 后于 DeSmuME 中用 Lua 跟踪 PIDRNG 并从送货员领取。本文的配信计算使用 PID 推进，不能套用普通捕获的 IV 帧推进；卡片版本、固定属性、按键与 C-Gear 状态均需匹配。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "PGF",
+      "Wondercards",
+      "PIDRNG"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-connettivita-dolphin-vbam",
+    "title": "Dolphin 与 VBA-M：GameCube／GBA 联机设置",
+    "original_title": "Connettività Dolphin ⇄ VBA-M",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-16",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/16/connettivita-dolphin-vbam/",
+    "summary": "为圆形竞技场、XD、BOX、Bonus Disc 及 Channel 配信等场景配置 Dolphin Lua Core 与 VBA-M 联机。教程列出 GBA 端口、双核、音频后端和 Link 设置，用于传送与配信准备；这些选项依赖文中的旧版组合，需要按实际模拟器核对。",
+    "evidence": "模拟器联机配置说明",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Dolphin",
+      "VBA-M",
+      "GameCube",
+      "GBA",
+      "联机"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon Channel",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "脚本与工具"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-captures",
+    "title": "DPt／HGSS：Method J／K 野生与定点捕获入门",
+    "original_title": "4th Gen Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/15/4th-gen-captures/",
+    "summary": "以 PokeFinder、DeSmuME 和 RunAsDate 命中初期 Seed，按 DPt 的 Method J 或 HGSS 的 Method K 搜索目标，并用 Lua 检查推进。需正确设置遭遇类型、槽位和队首特性；日记、聒噪鸟、电台与 NPC 的消耗不同，应按游戏与目标分别核对。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "PokeFinder",
+      "Method J",
+      "Method K",
+      "聒噪鸟"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-initial-seeds",
+    "title": "DPt／HGSS：RunAsDate 与初期 Seed、Delay 校准",
+    "original_title": "4th Gen Initial Seeds",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/15/4th-gen-initial-seeds/",
+    "summary": "解释进入存档时的日期时间与 Delay 如何确定初期 Seed，并用 RunAsDate、DeSmuME 和 Lua 控制启动。包含通过 GBA 插槽、新游戏菜单或年份处理 Delay 奇偶，以及天气或快速推进造成 Lua 初期 Seed 显示变化时的 Weather Fix 注意点。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "DeSmuME",
+      "RunAsDate",
+      "Delay",
+      "Weather Fix",
+      "初期Seed"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "en-smogon-gen7-egg-introduction",
+    "title": "SM／USUM：第七世代孵化乱数入门",
+    "original_title": "Egg RNG in Generation 7: Introduction",
+    "author": "Eisenherz / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/sm_egg_rng_part1",
+    "summary": "说明太阳／月亮及究极之日／究极之月的蛋状态链、亲代条件与收蛋／拒蛋推进差异。闪光目标需要已知 TSV，并按文中工具要求设置闪耀护符或国际孵化条件；本篇提供机制与准备说明，具体推 Seed 和领取步骤在 Windows、macOS 分篇。",
+    "evidence": "孵化机制与实机流程入门",
+    "status": "中文摘要",
+    "tags": [
+      "Smogon",
+      "Eisenherz",
+      "TSV",
+      "PSV",
+      "Egg RNG"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-smogon-gen7-egg-windows",
+    "title": "SM／USUM：Windows 孵蛋推 Seed 与最短领取路径",
+    "original_title": "Egg RNG in Generation 7: Guide (Windows users)",
+    "author": "Eisenherz / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/sm_egg_rng_part2",
+    "summary": "通过双不变之石鲤鱼王的 127 次性格观测反推蛋 Seed，并提供从未进行过培育时的 8 蛋替代流程。使用 Windows 版 3DS RNG Tool 搜索目标与最短收蛋／拒蛋路径；顺序、亲代和闪光相关设置必须一致，完成后需保存领取后的当前状态。",
+    "evidence": "实机教程（孵蛋推 Seed）",
+    "status": "中文摘要",
+    "tags": [
+      "Smogon",
+      "Eisenherz",
+      "Windows",
+      "3DSRNGTool",
+      "127 Magikarp",
+      "8 Eggs"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-smogon-gen7-egg-macos",
+    "title": "SM／USUM：macOS 与 Java 工具的孵化乱数",
+    "original_title": "Egg RNG in Generation 7: Guide (macOS users)",
+    "author": "Eisenherz / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/sm_egg_rng_part3",
+    "summary": "以 127 次鲤鱼王性格观测取得四段蛋 Seed，再使用需要 Java 的 .com 第七世代孵化工具搜索并规划收蛋、拒蛋。需留意 Seed 四段的填写顺序、亲代和道具设置、TSV 及国际孵化条件，并在领取目标后更新当前 Seed，避免后续预测错位。",
+    "evidence": "实机教程（孵蛋推 Seed）",
+    "status": "中文摘要",
+    "tags": [
+      "Smogon",
+      "Eisenherz",
+      "macOS",
+      "Java",
+      ".com",
+      "127 Magikarp"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-gen6-tinymt-timeline-spec",
+    "title": "XY／ORAS：TinyMT 时间线校准参数表",
+    "original_title": "TinyMT Timeline Spec Sheet",
+    "author": "wwwwwwzx / 3DSRNGTool 项目",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/TinyMT-Timeline-Spec-Sheet",
+    "summary": "列出好友狩猎、异次元洞、空中传说、XY 的 ID 及多种定点事件所用 TinyMT 方法、校准动作和延迟。过场同步需核对队伍数量与记忆强度，部分目标有专用设置；这是 3DSRNGTool 参数参考，当前状态获取与具体环境校准需结合对应教程。",
+    "evidence": "官方时间线参数参考",
+    "status": "中文摘要",
+    "tags": [
+      "3DSRNGTool",
+      "TinyMT",
+      "Timeline",
+      "校准",
+      "Cutscenes Sync"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "时间线与校准"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "时间线与校准"
+      ]
+    ]
+  },
+  {
+    "id": "en-tera-finder-raid-calculator",
+    "title": "朱／紫：太晶团体战种子枚举与遭遇计算器",
+    "original_title": "Raid Calculator",
+    "author": "Manu098vm / Tera Finder 项目",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/Tera-Finder/wiki/Raid-Calculator",
+    "summary": "解释按版本、进度、普通／黑结晶／活动遭遇及 EC 等条件枚举太晶团体战种子；活动计算需要对应事件数据。文档明确每日 Seed 由加密安全随机数生成，无法预测自然推进；计算可离线完成，将结果应用到游戏需相应存档编辑或破解连接条件。",
+    "evidence": "种子枚举与编辑工具文档",
+    "status": "中文摘要",
+    "tags": [
+      "Tera Finder",
+      "Raid Calculator",
+      "太晶团体战",
+      "Seed",
+      "EC",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ]
+    ]
+  },
+  {
+    "id": "en-tera-finder-reward-calculator",
+    "title": "朱／紫：太晶团体战奖励种子计算与筛选",
+    "original_title": "Reward Calculator",
+    "author": "Manu098vm / Tera Finder 项目",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/Tera-Finder/wiki/Reward-Calculator",
+    "summary": "按奖励道具和三明治加成搜索太晶团体战种子，说明 Accurate Search 对太晶碎块与闪光筛选的作用，并要求活动数据匹配。结果用于种子研究或存档编辑；每日 Seed 采用加密安全随机数，不能据此预测正常调日期后的奖励或推进路径。",
+    "evidence": "奖励枚举与编辑工具文档",
+    "status": "中文摘要",
+    "tags": [
+      "Tera Finder",
+      "Reward Calculator",
+      "太晶团体战",
+      "奖励",
+      "Accurate Search"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战奖励研究"
+      ]
+    ]
+  },
+  {
+    "id": "en-real96-pokelua",
+    "title": "PokeLua：第一及第三至第五世代模拟器脚本目录",
+    "original_title": "PokeLua",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/PokeLua",
+    "summary": "列出第一及第三至第五世代的状态读取与部分自动化功能，以及 mGBA、Dolphin Lua、DeSmuME 和 BizHawk 的支持条件。旧 Devon LuaScripts 指向此项目；第二世代仍标记为 soon，不能视为已支持。需先启动游戏再加载脚本，并按模拟器核对即时存档操作。",
+    "evidence": "官方模拟器脚本说明",
+    "status": "中文摘要",
+    "tags": [
+      "PokeLua",
+      "Real96",
+      "Lua",
+      "mGBA",
+      "Dolphin",
+      "DeSmuME",
+      "BizHawk"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ]
+  },
+  {
+    "id": "en-3dsrngtool-overview",
+    "title": "3DS RNG Tool：功能范围与最终输入画面索引",
+    "original_title": "3DS RNG Tool",
+    "author": "wwwwwwzx / 3DSRNGTool 项目",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool",
+    "summary": "官方 README 列出第六世代孵化、ID 与遭遇，第七世代孵化及遭遇，以及虚拟控制台宝可梦经虚拟传送转入时的乱数功能，并索引各类最终输入画面。部分功能配合 PokeCalcNTR／NTR-CFW；本篇是功能与触发点参考，具体延迟和环境要求仍需查阅分项教程。",
+    "evidence": "官方工具与触发画面参考",
+    "status": "中文摘要",
+    "tags": [
+      "3DSRNGTool",
+      "PokeCalcNTR",
+      "NTR-CFW",
+      "孵化",
+      "Transporter",
+      "虚拟控制台",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "宝可梦虚拟传送",
+        "传送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-bdsp-rng-reference",
+    "title": "BDSP：四段 RNG 状态与时间线的命令行参考实现",
+    "original_title": "BDSP RNG Reference",
+    "author": "Zaksabeast",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zaksabeast/BDSP-RNG-Reference",
+    "summary": "提供 BDSP 乱数的命令行参考实现，示例包含输入四段 RNG 状态、设置 offset／delay、搜索闪光与匹配 Single／Double 时间线。适合作为实机乱数流程的离线计算参考；README 未提供完整状态读取步骤，示例中的状态和延迟也不能直接套用到其他存档。",
+    "evidence": "机制参考实现（计算工具）",
+    "status": "中文摘要",
+    "tags": [
+      "BDSP",
+      "Zaksabeast",
+      "RNG Reference",
+      "四段状态",
+      "Timeline"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "机制研究"
+      ]
+    ]
   }
 ]

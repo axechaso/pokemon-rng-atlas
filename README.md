@@ -37,7 +37,7 @@ python -m http.server 8000
 
 同一原文只能存在一条文章记录，但可被多个 `routes` 收录。例如同一篇 DPt 游戏厅文章同时包含实机调整与 DeSmuME Lua 实验，因而可以分别进入实机和模拟器栏目。
 
-资料卡和列表均标记原文语言。首页搜索“英文”或“English”可筛选英文来源，搜索“意大利语”“Italian”或“Italiano”可筛选意大利语来源，也可直接搜索原标题。搜索“DevonStudios”或“DevonStudio”可查看本轮整理的 Devon Studios 资料。实机栏目包含普通硬件、破解读取和硬件自动化方法，各篇摘要会注明相应条件。
+资料卡和列表均标记原文语言。首页搜索“英文”或“English”可筛选英文来源，搜索“意大利语”“Italian”或“Italiano”可筛选意大利语来源，也可直接搜索原标题。搜索“DevonStudios”或“DevonStudio”可查看已收录的 Devon Studios 资料，搜索“Smogon”可查看第七世代孵化指南。实机栏目包含普通硬件、破解读取和硬件自动化方法，各篇摘要会注明相应条件；离线计算参考与种子编辑文档也会单独标明用途。
 
 录入后执行：
 
@@ -51,9 +51,11 @@ python scripts/build.py
 
 `scripts/check_feeds.py` 会读取 `data/sources.json` 中的 Hatena 博客 Atom/RSS，只获取标题、链接和日期并筛选 RNG 关键词；新发现保存到 `data/discovery_candidates.json`，**不会未经审核直接发布到网站**。
 
-当前配置 11 个日文博客 Feed。其他来源包括 [Devon Studios](https://devonstudios.it/) 的意大利语专题、[官方 GitHub](https://github.com/DevonStudios) 的英文工具说明，以及 [Admiral-Fish / RNGWriteups](https://github.com/Admiral-Fish/RNGWriteups) 的英文机制文档。此前也已收录 [PokemonRNG.com](https://www.pokemonrng.com/) 及其[原始指南仓库](https://github.com/zaksabeast/PokemonRNGGuides) 的 9 篇指南，本轮按要求未新增该站来源。这些来源目前人工核对后收录，未配置 RSS 自动发现。
+当前配置 11 个日文博客 Feed。其他来源包括 [Devon Studios](https://devonstudios.it/) 的意大利语专题、[官方 GitHub](https://github.com/DevonStudios) 的英文工具说明、[Admiral-Fish / RNGWriteups](https://github.com/Admiral-Fish/RNGWriteups) 的英文机制文档，以及 [Smogon](https://www.smogon.com/ingame/rng/)、[3DSRNGTool](https://github.com/wwwwwwzx/3DSRNGTool)、[PokeLua](https://github.com/Real96/PokeLua)、[BDSP RNG Reference](https://github.com/zaksabeast/BDSP-RNG-Reference) 和 [Tera Finder](https://github.com/Manu098vm/Tera-Finder) 的英文指南与工具文档。此前已收录 [PokemonRNG.com](https://www.pokemonrng.com/) 及其[原始指南仓库](https://github.com/zaksabeast/PokemonRNGGuides) 的 9 篇指南，后续两轮按要求未新增该站来源。这些来源目前人工核对后收录，未配置 RSS 自动发现。
 
 Devon Studios 的作者与发表日期按官网文章元数据核对；其部分英文标题、English 标签对应的正文实际为意大利语，均按正文标注。官方工具 README 未注明发表日期，记为 `null`。旧版 [LuaScripts](https://github.com/DevonStudios/LuaScripts) 已停止维护，维护者指向 [Real96/PokeLua](https://github.com/Real96/PokeLua)；教程依赖的旧模拟器、插件及存档工具条件在各资料卡中注明。
+
+已索引本次核对到的全部 **79 篇 Devon 官网教程**及 4 份官方英文工具说明。PokeLua 归属 Real96，第二世代在其 README 中仍标记为 `soon`。Tera Finder 文档用于朱紫种子枚举和编辑研究：每日 Seed 使用加密安全随机数，不能将计算器描述成可预测自然调日期推进的乱数流程。
 
 ```bash
 python scripts/check_feeds.py
@@ -81,7 +83,9 @@ ChatGPT 里的“Hatena 宝可梦乱数资料巡检”定时任务与此 GitHub 
 
 ## 当前范围
 
-当前 **104 条来源资料：日文 40 条、英文 14 条、意大利语 50 条**，已包含第一至第九世代的代表性资料。覆盖水晶、红蓝宝石、绿宝石、FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+当前 **142 条来源资料：日文 40 条、英文 23 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖水晶、红蓝宝石、绿宝石、FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+
+2026-10-16：新增 **38 条来源**（意大利语 29 条、英文 9 条），补齐 Devon 官网当前 79 篇教程的索引，重点补充第三至第五世代捕获、孵化、ID 与配信基础流程，以及 CitraRNG 环境和 GameCube／GBA 联机配置。新增 Smogon 的 SM／USUM 孵化系列、TinyMT 参数表、3DSRNGTool、PokeLua、BDSP 参考实现与朱紫太晶团体战种子研究文档；核对旧工具限制、游戏范围与发布日期，未新增 PokemonRNG.com 来源。
 
 2026-10-16：新增 **54 条 Devon Studios 来源**，包括 50 篇意大利语专题及 4 份英文工具说明。重点补充 GameCube 配信、礼物蛋、赠送与交换，第三至第五世代特殊遭遇，以及 3DS 校准、配信和动态 PID 孵化；扩展意大利语显示与语言关键词搜索。公开内容为原创摘要和来源索引，未转载完整正文。
 
