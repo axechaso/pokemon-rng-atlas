@@ -58,7 +58,11 @@ python scripts/build.py
 
 当前配置 11 个日文博客 Feed。其他来源包括 [Devon Studios](https://devonstudios.it/) 的意大利语专题、[官方 GitHub](https://github.com/DevonStudios) 的英文工具说明、[Admiral-Fish / RNGWriteups](https://github.com/Admiral-Fish/RNGWriteups) 的英文机制文档，以及 [Smogon](https://www.smogon.com/ingame/rng/)、[3DSRNGTool](https://github.com/wwwwwwzx/3DSRNGTool)、[PokeLua](https://github.com/Real96/PokeLua)、[BDSP RNG Reference](https://github.com/zaksabeast/BDSP-RNG-Reference) 和 [Tera Finder](https://github.com/Manu098vm/Tera-Finder) 的英文指南与工具文档。此前已收录 [PokemonRNG.com](https://www.pokemonrng.com/) 及其[原始指南仓库](https://github.com/zaksabeast/PokemonRNGGuides) 的 9 篇指南，后续补充按要求未新增该站来源。这些来源目前人工核对后收录，未配置 RSS 自动发现。
 
-本轮沿工具与插件的原始说明扩展 [CaptureSight](https://github.com/zaksabeast/CaptureSight)、[PokeReader](https://github.com/zaksabeast/PokeReader)、[TinyFinder](https://github.com/Bambo-Rambo/TinyFinder)、[Project_Xs](https://github.com/Lincoln-LM/Project_Xs)、[owoow](https://github.com/LegoFigure11/owoow) 及 [Moarencounterbots Wiki](https://github.com/Lusamine/SysBot.NET/wiki)，并收录 [Bambo-Rambo](https://github.com/Bambo-Rambo/RNG-Guides)、[Billo](https://billo-guides.github.io/) 与 [Pokemon Automation](https://pokemonautomation.github.io/) 的英文操作文档。作者明确弃用的旧 Wiki、空白占位页及受限帖文不作为本轮新来源。
+此前沿工具与插件的原始说明扩展 [CaptureSight](https://github.com/zaksabeast/CaptureSight)、[PokeReader](https://github.com/zaksabeast/PokeReader)、[TinyFinder](https://github.com/Bambo-Rambo/TinyFinder)、[Project_Xs](https://github.com/Lincoln-LM/Project_Xs)、[owoow](https://github.com/LegoFigure11/owoow) 及 [Moarencounterbots Wiki](https://github.com/Lusamine/SysBot.NET/wiki)，并收录 [Bambo-Rambo](https://github.com/Bambo-Rambo/RNG-Guides)、[Billo](https://billo-guides.github.io/) 与 [Pokemon Automation](https://pokemonautomation.github.io/) 的英文操作文档。作者明确弃用的旧 Wiki、空白占位页及受限帖文不作为新来源。
+
+本轮继续沿作者的其他仓库、贡献者与引用追溯到 [Ten Lines](https://github.com/lincoln-lm/ten-lines)、[Pokémon RNG Docs](https://lincoln-lm.github.io/pokemon-rng-docs/)、[Real96](https://github.com/Real96) 的每日遭遇及道具工具、[zep715 的 RBY Lua](https://github.com/zep715/rbylua)、[GSC Lua](https://github.com/wwwwwwzx/gsclua) 和 [KnownUnown 原作者页面](https://co291424.com/tool/KnownUnown.php)。主动扩展 [Smogon RNG 专区](https://www.smogon.com/ingame/rng/) 的 BW、DPt／HGSS、PPRNG 与剑盾团体战指南，并补充 Anubis 的野生生成研究、Billo 的 GRASS／PickyUppy 指南、サイファー的日版 N64 礼物与 BDSP 蛋尺寸等实机研究。工具、机制原文、操作教程和公开演示通过关联来源连接。
+
+Switch 版 FRLG 统一归入“火红／叶绿（Switch 版）”；日版《ポケモンスタジアム2》对应欧美版 Pokémon Stadium，按第一世代单独归类。自动搜索、条件读取、预测和补丁／种子编辑依据原文注明。简短 README 与概率表仅作为工具参考，未补写原作者没有提供的完整操作流程。Iris 当前 README 只有 Project_Xs 后续项目的简短介绍，迁移线索放在原资料卡核对说明中。
 
 YouTube 原题与频道通过公开 oEmbed 核对，摘要仅按可读标题、简介或配套原文描述主题；未逐段核对视频，未确认的绝对发布日期保留为 `null`。X 公开帖的正文、作者和日期通过公开 oEmbed 核对，保留当前规范账号链接；只概括可读原帖，不把演示、进展或短帖写成完整教程。Anubis 的道具打印机 [Gist 索引](https://gist.github.com/Lusamine/112d4230919fadd254f0e6dfca850471) 与其公开研究帖互相关联。
 
@@ -93,7 +97,9 @@ ChatGPT 里的“Hatena 宝可梦乱数资料巡检”定时任务与此 GitHub 
 
 ## 当前范围
 
-当前 **197 条来源资料：日文 46 条、英文 72 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖水晶、红蓝宝石、绿宝石、FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+当前 **252 条来源资料：日文 52 条、英文 121 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖红蓝黄、日版 N64 竞技场2、金银／水晶、红蓝宝石、绿宝石、GBA 与 Switch 版 FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+
+2026-10-16：新增 **55 条来源**（英文 49 条、日文 6 条），包括 19 份工具说明、33 份图文教程与机制文档、1 支配套 YouTube 演示及 2 条 X 研究者原帖。沿 GitHub 作者、贡献者和原始引用补充 GB／GSC、第四世代每日物种与道具、Switch 版 FRLG、LGPE 隐藏道具及第三至第五世代机制，并主动扩展 Smogon、作者资料站和博客。增加配套互链，区分工具用途、补丁条件和历史结论；未新增 PokemonRNG.com 来源。
 
 2026-10-16：新增 **55 条来源**（英文 49 条、日文 6 条），包括 13 份 GitHub Wiki、5 份工具／插件说明、17 份图文教程与研究索引、17 支 YouTube 视频、3 条 X 公开帖文。补充第六世代野生、群战、图鉴导航、剑盾道具项目及 BDSP 工具环境，增加资料形式筛选和配套来源互链；已注明元数据核对范围、工具条件和不可预测范围，未新增 PokemonRNG.com 来源。
 

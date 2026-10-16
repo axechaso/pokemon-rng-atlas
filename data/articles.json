@@ -32,12 +32,12 @@
     "author": "オワコンの地:ワソポタミア文明",
     "date": "2026-05-17",
     "url": "https://wasou3721.hatenablog.com/entry/2026/05/17/235553",
-    "summary": "介绍 Switch 版 FRLG 固定遭遇的实机尝试与条件设计。作者在脚注中指出部分 ID 调整需借助自动化，不能简单视为完整手动教程。",
+    "summary": "介绍 Switch 版 FRLG 定点遭遇的实机尝试与条件设计。作者在脚注中指出部分 ID 调整需借助自动化，不能简单视为完整手动教程。",
     "evidence": "实机实践",
     "status": "中文摘要",
     "tags": [
       "Switch",
-      "固定遭遇",
+      "定点遭遇",
       "初期Seed",
       "注意更正"
     ],
@@ -45,13 +45,13 @@
       [
         "实机",
         "第三世代",
-        "火红／叶绿",
+        "火红／叶绿（Switch 版）",
         "定点乱数"
       ],
       [
         "实机",
         "第三世代",
-        "火红／叶绿",
+        "火红／叶绿（Switch 版）",
         "ID乱数"
       ]
     ],
@@ -5184,7 +5184,8 @@
       "video-bdsp-starter-blinks",
       "video-bdsp-legends-blinks",
       "en-bdsp-rng-reference"
-    ]
+    ],
+    "review_notes": "作者另有 Iris 项目（https://github.com/lincoln-lm/iris），其 README 将其称为 Player Blink／Project Xs 的后续项目；本次该页仅有简短介绍。这里归档的是 Project_Xs 已公开的参数说明，使用前请核对作者最新发布与文档。"
   },
   {
     "id": "en-owoow",
@@ -6526,5 +6527,2555 @@
       "post-frlg-egg-preparation"
     ],
     "review_notes": "可读正文、作者账号与日期通过公开 oEmbed 核对；未逐帧核对附带演示媒体。"
+  },
+  {
+    "id": "en-pokefinder",
+    "title": "PokéFinder：第三四世代及第五八世代部分功能的工具总览",
+    "original_title": "PokéFinder",
+    "author": "Admiral-Fish 与 PokéFinder 贡献者",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/PokeFinder",
+    "summary": "官方 README 列出第三、第四世代捕获、孵化、ID、GameCube，以及第五、第八世代部分预测功能，并说明 Windows、macOS、Linux 的安装条件和构建依赖。可作为各教程寻找官方发行版与核对功能范围的入口；具体游戏、遭遇类型与版本仍需查看对应界面和教程。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "PokéFinder",
+      "官方发行版",
+      "跨平台",
+      "功能范围"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "团体战乱数"
+      ]
+    ],
+    "source_type": "tool"
+  },
+  {
+    "id": "en-ten-lines",
+    "title": "Ten Lines：第三世代初期 Seed、目标搜索与校准工具",
+    "original_title": "Ten Lines: A Suite of Tools for RNG Manipulation in Generation 3",
+    "author": "lincoln-lm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/lincoln-lm/ten-lines",
+    "summary": "面向第三世代实机的浏览器工具，整合 FRLG 已采集初期 Seed 列表、目标搜索、RSE 绘画与 FRLG 初期 Seed 候选搜索，以及带个体值计算的校准页。README 还注明对 blisy 自制 e-Reader 事件的支持，需与官方配信分别理解；网站可作为 PWA 离线使用。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "Ten Lines",
+      "初期Seed",
+      "绘画",
+      "PWA"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-pokefinder",
+      "rs-painting-seed-2025",
+      "en-frlg-switch-seed-farmer"
+    ]
+  },
+  {
+    "id": "en-lgpe-item-tool",
+    "title": "LGPE Item RNG Tool：睡眠对白推种与隐藏道具预测",
+    "original_title": "lgpe-item-rng-tool",
+    "author": "lincoln-lm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/lincoln-lm/lgpe-item-rng-tool",
+    "summary": "将 LGPE 隐藏道具推种和结果预测做成桌面工具，README 明确引用 Anubis、サイファー与作者本人的研究，并链接 64 次二值观测的状态恢复脚本。完整的非破解操作应配合サイファー的睡眠对白教程阅读，其中包括时间变更惩罚、补充观测和 Seed 字段名称更正。",
+    "evidence": "工具作者说明",
+    "status": "中文摘要",
+    "tags": [
+      "LGPE",
+      "睡眠对白",
+      "Xoroshiro",
+      "大师球"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "lgpe-master-ball-2026",
+      "ja-lgpe-master-ball-research"
+    ]
+  },
+  {
+    "id": "en-real96-gen4-swarm",
+    "title": "DPt／HGSS：每日大量出现物种的 MT 与群组流程",
+    "original_title": "Gen4SwarmDailyEncounterRNGTool",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/Gen4SwarmDailyEncounterRNGTool",
+    "summary": "附各版本大量出现物种与地点表，并给出搜索初期 Seed、推进 MT、向群组 NPC 建立新群组、存档跨越午夜后确认结果的步骤。DPt 的抛硬币和 HGSS 的建群操作各自承担 MT 推进作用；控制的是每日大量出现安排，具体捕获个体仍需另外进行遭遇乱数。",
+    "evidence": "工具说明与操作步骤",
+    "status": "中文摘要",
+    "tags": [
+      "Swarm",
+      "大量出现",
+      "MT",
+      "群组NPC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "每日遭遇乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "每日遭遇乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "en-pokefinder"
+    ]
+  },
+  {
+    "id": "en-real96-great-marsh",
+    "title": "DPt：大湿地每日出现物种与区域搜索",
+    "original_title": "DPPtGreatMarshDailyEncountersRNGTool",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/DPPtGreatMarshDailyEncountersRNGTool",
+    "summary": "收录大湿地每日遭遇表，说明以初期 Seed 和 MT 推进搜索目标，再通过建群、存档跨午夜让结果作用到各区域。操作中抛硬币或建立新群组都可推进 MT；工具决定每日物种与区域安排，个体值、性格与捕获时机需配合后续遭遇流程。",
+    "evidence": "工具说明与操作步骤",
+    "status": "中文摘要",
+    "tags": [
+      "Great Marsh",
+      "大湿地",
+      "每日物种",
+      "MT"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "大湿地乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "每日遭遇乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-real96-gen4-swarm",
+      "en-smogon-gen4-basics"
+    ]
+  },
+  {
+    "id": "en-real96-honey-tree",
+    "title": "DPt：涂蜜树遭遇分组、槽位与小卡比兽树说明",
+    "original_title": "DPPtHoneyTreeRNGTool",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/DPPtHoneyTreeRNGTool",
+    "summary": "以工具和概率表补充涂蜜树遭遇分组、槽位与版本差异。README 特别说明部分 TID／SID 组合仅对应三棵不同的小卡比兽树，以及连续给同一棵树涂蜜时的 90% 同组保留判定；程序会询问连续涂蜜条件并纳入计算。",
+    "evidence": "工具说明与机制表",
+    "status": "中文摘要",
+    "tags": [
+      "Honey Tree",
+      "小卡比兽",
+      "遭遇槽",
+      "连续涂蜜"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "涂蜜树乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "涂蜜树乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "devon-dppt-honey-trees"
+    ],
+    "review_notes": "README 主要提供遭遇表、机制备注和编译方式，完整操作需结合配套涂蜜树教程及初期 Seed 校准流程。"
+  },
+  {
+    "id": "en-real96-pickup",
+    "title": "白金／HGSS：拾取特性道具的计算工具与等级表",
+    "original_title": "PtHGSSPickupItemsRNGTool",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/PtHGSSPickupItemsRNGTool",
+    "summary": "提供白金与 HGSS 拾取特性道具的搜索工具及等级分段概率表，可用于核对等级与目标道具的对应关系。README 明确限于 PtHGSS，并提供 C++20 编译方式；这份说明侧重工具用途和数据表，需结合实际游戏校准与程序输入使用。",
+    "evidence": "工具说明与概率表",
+    "status": "中文摘要",
+    "tags": [
+      "Pickup",
+      "拾取特性",
+      "等级分段",
+      "白金限定"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "道具拾取乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "道具拾取乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "道具拾取乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-pokefinder"
+    ],
+    "review_notes": "在“钻石／珍珠／白金”合并目录中仅对应白金，未据此推定支持钻石或珍珠。未将简短 README 视作完整操作指南。"
+  },
+  {
+    "id": "en-real96-rock-smash-items",
+    "title": "HGSS：碎岩道具工具与地点概率表",
+    "original_title": "HGSSRockSmashItemsRNGTool",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/HGSSRockSmashItemsRNGTool",
+    "summary": "提供 HGSS 碎岩道具乱数计算工具，README 按地点列出可获得道具及概率，并给出编译方式。可作为化石、碎片等道具项目的数据与工具入口；摘要按原文限定为碎岩道具，野生宝可梦遭遇需要使用对应捕获流程。",
+    "evidence": "工具说明与概率表",
+    "status": "中文摘要",
+    "tags": [
+      "Rock Smash",
+      "碎岩",
+      "化石",
+      "概率表"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "碎岩道具乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "碎岩道具乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-real96-pickup"
+    ],
+    "review_notes": "README 以道具表与工具用途为主，未提供逐步校准教程；使用前需核对程序输入及自身游戏条件。"
+  },
+  {
+    "id": "en-bdsp-cheat-engine-lua",
+    "title": "BDSP 模拟器：Cheat Engine Lua 的 RNG 与个体信息读取",
+    "original_title": "BDSP-CheatEngine-Lua",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/BDSP-CheatEngine-Lua",
+    "summary": "说明在 Yuzu／Ryujinx 进程中配置 Cheat Engine 的 MEM_MAPPED 扫描并载入版本对应 Lua 脚本，读取 RNG、训练家、野生、孵化、漫游、队伍与盒子信息。原文要求游戏 1.1.1 以上，并解释停止、重启脚本和输出窗口操作。属于旧模拟器环境的读取辅助流程。",
+    "evidence": "工具作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Cheat Engine",
+      "Lua",
+      "Yuzu",
+      "Ryujinx"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-bdsp-rng-reference",
+      "en-project-xs"
+    ],
+    "review_notes": "按原文归档其旧模拟器与游戏版本条件，未据 README 验证所有后续模拟器分支、系统或游戏更新的兼容性。"
+  },
+  {
+    "id": "en-frlg-switch-seed-farmer",
+    "title": "Switch 版 FRLG：初期 Seed 批量采集脚本",
+    "original_title": "FRLGSwitchSeedFarmer",
+    "author": "Real96",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Real96/FRLGSwitchSeedFarmer",
+    "summary": "面向破解 Switch 的 FRLG 初期 Seed 采集，文档说明 Wi-Fi／USB 连接、按键、重复尝试策略、采集起点与数量，以及原始和去重结果 CSV 的命名。结果按游戏版本、语言及设置区分，适合补充 Seed 列表与研究计时；属于采集和自动输入工具，仍需另行搜索及命中目标。",
+    "evidence": "工具作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "FRLG Switch",
+      "Seed Farmer",
+      "sys-botbase",
+      "CSV"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-grass",
+      "en-billo-frlg-switch-setup"
+    ]
+  },
+  {
+    "id": "en-alt-3ds-settings",
+    "title": "Alt 3DS Settings：无需重启的系统校时辅助",
+    "original_title": "Alt 3DS Settings",
+    "author": "zaksabeast",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zaksabeast/Alt-3ds-Settings",
+    "summary": "通过与系统设置相同的服务调整 3DS 时钟，同时重置毫秒并避免系统设置的重启步骤。作者将其定位为重复 RNG 尝试的校时辅助，适合结合初期 Seed 与计时教程理解；它本身不负责搜索目标个体或完成乱数操作，需要可运行该自制程序的破解 3DS。",
+    "evidence": "工具作者说明",
+    "status": "中文摘要",
+    "tags": [
+      "3DS",
+      "系统时间",
+      "毫秒",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "devon-3dstimefinder",
+      "en-3ds-ntr-helper"
+    ]
+  },
+  {
+    "id": "en-multiboot-jirachi-patches",
+    "title": "第三世代配信：Multiboot 补丁与三类基拉祈的生成差异",
+    "original_title": "Multiboot Emulator Patches",
+    "author": "zaksabeast",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zaksabeast/Multiboot-Jirachi-Patches",
+    "summary": "说明 Wishmaker、Meteor、Wishing Star 与树果修复蛇纹熊的 multiboot 兼容补丁及模拟器使用条件，并对比三类基拉祈的 TID、存档／RTC 种子和闪光锁差异。另有 RNG 参考实现与样例分布。这里使用补丁改变配信程序运行条件，属于补丁与机制研究，需与原始 GameCube 联机领取流程分别核对。",
+    "evidence": "补丁说明与机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Multiboot",
+      "Wishmaker",
+      "Meteor",
+      "Wishing Star"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "devon-wishmaker-jirachi",
+      "en-pokefinder"
+    ],
+    "review_notes": "仅整理作者公开的补丁说明及生成差异，未获取配信 ROM、执行补丁或据样例保证任意模拟器兼容。"
+  },
+  {
+    "id": "en-grass",
+    "title": "GRASS：Switch 版 FRLG 的读取与乱数工具",
+    "original_title": "GBA RNG Abuse for Switch Systems (GRASS)",
+    "author": "LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/LegoFigure11/GRASS",
+    "summary": "作者将 GRASS 定位为 Switch 版火红／叶绿的在开发 RNG 工具与 sys-botbase 客户端，README 说明研究、内存偏移及读取方法的贡献来源，并指向 Billo 的完整教程。适用于破解 Switch；目标搜索、ID、定点和野生的具体步骤以配套教程为准。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "GRASS",
+      "FRLG Switch",
+      "sys-botbase",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-billo-frlg-switch-setup",
+      "en-frlg-switch-seed-farmer"
+    ]
+  },
+  {
+    "id": "en-parliament",
+    "title": "ParLiAment：阿尔宙斯定点与地图传说宝可梦工具",
+    "original_title": "ParLiAment",
+    "author": "LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/LegoFigure11/ParLiAment",
+    "summary": "针对阿尔宙斯定点主 RNG 与地图传说生成器 RNG 的预测工具，支持 PA8 到 Group Seed 求解、读取野生和盒子个体、条件筛选及 Baby Mode 自动输入／返回 HOME 暂停。直接连接依赖破解 Switch 与 sys-botbase；普通实机借助他人导出 PA8 的流程可参考关联教程。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "ParLiAment",
+      "OWL",
+      "Group Seed",
+      "PA8"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-billo-pla-retail",
+      "en-moar-pla-rng"
+    ]
+  },
+  {
+    "id": "en-arse",
+    "title": "ARSE：BDSP 宝可追踪预测、读种与连锁自动化",
+    "original_title": "AutomaticRadarSeedExtrapolator (ARSE)",
+    "author": "LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/LegoFigure11/AutomaticRadarSeedExtrapolator",
+    "summary": "提供 BDSP 宝可追踪连锁续接与野生个体预测、自动／手动 Delay 校准、读种和推进追踪，并按物种、个体值、闪光、尺寸与特定 EC 筛选。文档说明 Wi-Fi／USB 依赖及自动化功能；其提到的 Always Shiny、Always Hidden Ability 是预测的摇草结果类型，需结合追踪器机制阅读。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "ARSE",
+      "Poké Radar",
+      "Delay",
+      "EC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "宝可追踪乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-billo-bdsp-radar"
+    ],
+    "review_notes": "README 中的 patches 指宝可追踪的草丛，不据此将工具描述为安装闪光或隐藏特性修改补丁。连接所需 sysmodule 不包含在工具中。"
+  },
+  {
+    "id": "en-pickyuppy",
+    "title": "PickyUppy：LGPE 隐藏道具的破解读取与预测",
+    "original_title": "PickyUppy",
+    "author": "LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/LegoFigure11/PickyUppy",
+    "summary": "用于华蓝洞窟与火箭游戏城地面隐藏道具的 RNG 预测，是基于 Anubis 研究与 LINQPad 脚本的 sys-botbase 图形客户端。README 指向 Billo 的操作指南，直接读取需要破解 Switch；可与睡眠对白推种的普通实机方法对照选择。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "PickyUppy",
+      "LGPE",
+      "隐藏道具",
+      "sys-botbase"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-billo-lgpe-items",
+      "en-lgpe-item-tool",
+      "lgpe-master-ball-2026"
+    ]
+  },
+  {
+    "id": "en-gsc-lua",
+    "title": "金银／水晶：旧版 VBA Lua 搜索、读取与捕获脚本",
+    "original_title": "gsclua",
+    "author": "wwwwwwzx；Sipanale 等贡献者",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/gsclua",
+    "summary": "在 zep715 的 RBY 脚本基础上扩展 GSC，说明 TID、定点／赠送、野生、孵化、钓鱼和捕获脚本的启动时机，并附 38 号道路游走三兽的自动搜索演示。README 指定 VBA-rr 23.6，并注明地区支持与贡献者；其中多项是自动尝试和条件检测，需按脚本功能理解。",
+    "evidence": "工具作者说明",
+    "status": "中文摘要",
+    "tags": [
+      "GSC",
+      "VBA-rr 23.6",
+      "Lua",
+      "自动搜索"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第二世代",
+        "金／银",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "金／银",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "水晶",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "水晶",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-rby-lua",
+      "video-gsc-lua-entei"
+    ],
+    "review_notes": "按旧模拟器脚本环境归档，未将自动寻闪等同于普通实机的 Seed 预测，也未据此声称支持现代 VBA 或任意模拟器。"
+  },
+  {
+    "id": "en-rby-lua",
+    "title": "红蓝黄：赠送、定点、钓鱼与传送属性 Lua 脚本",
+    "original_title": "rbylua",
+    "author": "zep715",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zep715/rbylua",
+    "summary": "说明第一世代赠送、定点、钓鱼、ID 与游戏内交换脚本的触发画面，并提供通过宝可梦银行传送后的性格／闪光信息查看。README 指定 VBA-rr 23.6，感谢 zaksabeast 对传送器更新的适配；野生脚本另需 IPS 补丁，传送性格查看与自动搜索的用途应分别理解。",
+    "evidence": "原作者脚本说明",
+    "status": "中文摘要",
+    "tags": [
+      "RBY",
+      "Lua",
+      "VBA-rr",
+      "宝可梦虚拟传送"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "传送性格与闪光"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-gsc-lua",
+      "gb-prng-2019"
+    ],
+    "review_notes": "第一世代中的“寻闪”针对满足后续世代或传送判定的 DV 条件；原游戏本身没有闪光外观。野生模块使用修改 RNG 行为的 IPS 补丁，不能套作未修改游戏的实机指南。"
+  },
+  {
+    "id": "en-gen5-initial-seeding",
+    "title": "BW／BW2：SHA-1 初期 Seed 与 C-Gear Seed 的组成",
+    "original_title": "Gen 5/Initial Seeding.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%205/Initial%20Seeding.md",
+    "summary": "逐项解释语言、版本、机型、Nazo、Timer0、VCount、MAC、日期时间和启动按键如何组成 SHA-1 输入并产生第五世代初期 Seed，附 DeSmuME 白版算例。末节单独说明 C-Gear 的日期、Delay 和 MAC 种子计算，可用于理解标准 Seed 与 C-Gear 校准为何不同。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "SHA-1",
+      "Nazo",
+      "Timer0",
+      "C-Gear"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-bw-basics",
+      "devon-5th-gen-initial-seeds"
+    ]
+  },
+  {
+    "id": "en-gen5-initial-frame",
+    "title": "BW／BW2：开机初始推进表与记忆连接影响",
+    "original_title": "Gen 5/Initial Frame.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%205/Initial%20Frame.md",
+    "summary": "用等价的概率表和伪代码解释第五世代启动后已消耗的帧数，并区分继续游戏、已有存档开新档与没有存档开新档。BW2 另有记忆连接相关推进及重复值检查，因此同一初期 Seed 下应按游戏与存档状态计算起始帧。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "初始帧",
+      "Memory Link",
+      "PIDRNG",
+      "启动推进"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-gen5-initial-seeding",
+      "en-smogon-bw-pid"
+    ]
+  },
+  {
+    "id": "en-gen5-event-generation",
+    "title": "第五世代配信：WC 参数如何改变生成顺序与推进",
+    "original_title": "Gen 5/Event Generation.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%205/Event%20Generation.md",
+    "summary": "按神秘卡字段说明随机或指定个体值、性格、性别、特性、闪光和蛋状态对生成流程的影响，列出加载时的额外推进与后续 PID 修正。还区分配信蛋使用玩家 ID、普通配信使用活动 ID 的情况，适合核对不同神秘卡为何不能共用固定帧偏移。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Wondercard",
+      "WC5",
+      "PID",
+      "配信蛋"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "devon-5th-gen-wondercards",
+      "en-gen5-initial-frame"
+    ]
+  },
+  {
+    "id": "en-dream-radar-generation",
+    "title": "梦境雷达：传送槽位对 PID 与个体值推进的影响",
+    "original_title": "Gen 5/Dream Radar.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%205/Dream%20Radar.md",
+    "summary": "解释梦境雷达一次最多六只传送个体如何按槽位类型、性别和性别比推进 PIDRNG 与 MT，以及灵兽等传说槽位的额外消耗。逐步列出个体值、PID、性别修正、特性和性格生成，并说明这些个体具有闪光锁。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Dream Radar",
+      "槽位",
+      "PIDRNG",
+      "Mersenne Twister"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-dream-radar",
+      "devon-dream-radar"
+    ]
+  },
+  {
+    "id": "en-swsh-egg-generation",
+    "title": "剑盾孵化机制：加密种子与已知状态下的生成步骤",
+    "original_title": "Gen 8/Egg Generation.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%208/Egg%20Generation.md",
+    "summary": "按父母排序、性别、性格、特性、遗传个体值、EC、PID 与球种等步骤分析剑盾孵化。原文指出蛋 Seed 的一部分来自加密安全随机字节，文中的设置种子实验用于验证生成过程；知道算法并不代表可以通过通常操作预测下一个自然蛋 Seed。",
+    "evidence": "早期机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Egg Generation",
+      "xoroshiro128+",
+      "CryptoRNG",
+      "遗传"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "孵化机制研究"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "剑／盾",
+        "孵化机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-swsh-raid-generation"
+    ],
+    "review_notes": "原文对部分未使用闪光加成时的 PID 等细节保留未知，按研究范围归档；不作为完整普通实机孵化乱数教程。"
+  },
+  {
+    "id": "en-swsh-raid-generation",
+    "title": "剑盾团体战机制：巢穴初始化与个体生成的不同阶段",
+    "original_title": "Gen 8/Raid Generation.md",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%208/Raid%20Generation.md",
+    "summary": "分析巢穴初始化与给定 Raid Seed 后的个体生成，依序说明 EC、临时 ID、PID、闪光修正、保证个体值、特性、性别、性格和尺寸。原文所说初始化使用加密随机数，需与后续已有巢穴状态的调日期预测流程一并理解；它是机制参考，实际操作可接 Smogon 团体战指南。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Raid Generation",
+      "临时ID",
+      "闪光修正",
+      "保证IV"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "团体战乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "剑／盾",
+        "团体战乱数"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "剑／盾",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-swsh-raid",
+      "en-anubis-overworld-generation"
+    ]
+  },
+  {
+    "id": "en-rng-docs-lcg",
+    "title": "LCG 机制文档：逆推、跳帧、距离与游戏参数",
+    "original_title": "Linear Congruential Generator (LCG)",
+    "author": "lincoln-lm",
+    "date": null,
+    "language": "en",
+    "url": "https://lincoln-lm.github.io/pokemon-rng-docs/PRNGs/lcg/",
+    "summary": "系统说明 LCG 的状态递推、输出缩减、反向推进、快速跳帧和距离求解，并列出 PokeRNG、XDRNG 等宝可梦游戏参数。文档特别区分取模、乘移位等输出方式，可用于理解第三四世代、GameCube 与第五世代算法实现；属于数学与开发参考。",
+    "evidence": "作者机制文档",
+    "status": "中文摘要",
+    "tags": [
+      "LCG",
+      "PokeRNG",
+      "XDRNG",
+      "距离函数"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-rng-docs-lcg-recovery",
+      "en-gen5-initial-seeding"
+    ]
+  },
+  {
+    "id": "en-rng-docs-xorshift",
+    "title": "BDSP Xorshift：状态初始化、输出差异与逆向推进",
+    "original_title": "Xorshift",
+    "author": "lincoln-lm",
+    "date": null,
+    "language": "en",
+    "url": "https://lincoln-lm.github.io/pokemon-rng-docs/PRNGs/xorshift/",
+    "summary": "以 BDSP 使用的 Unity 128-bit Xorshift 为例，说明四段状态、输出取值、随机浮点、逆向推进与跳帧。文档区分库中存在的 set_seed 接口和 BDSP 实际填充状态的方法，讨论输出范围造成的边界偏差，可辅助理解眨眼推种与预测工具的状态格式。",
+    "evidence": "作者机制文档",
+    "status": "中文摘要",
+    "tags": [
+      "Xorshift128",
+      "Unity",
+      "状态恢复",
+      "逆向推进"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-project-xs",
+      "en-bdsp-rng-reference"
+    ]
+  },
+  {
+    "id": "en-rng-docs-lcg-recovery",
+    "title": "第三四世代：从连续的部分 LCG 输出恢复候选状态",
+    "original_title": "LCG State Recovery From Two Consecutive Partial Outputs",
+    "author": "lincoln-lm",
+    "date": null,
+    "language": "en",
+    "url": "https://lincoln-lm.github.io/pokemon-rng-docs/Specific-Techniques/lcg-partial/",
+    "summary": "推导从连续两次 PokeRNG 高位输出恢复完整状态的方法，给出候选低位差分、模运算推导及实现。适用于 Method 1／2／4 的 PID、个体值候选反推等研究，文档也明确部分候选仍需验证，并将原始技术归功于 Parzival／StarfBerry。",
+    "evidence": "算法推导",
+    "status": "中文摘要",
+    "tags": [
+      "LCG Reversal",
+      "部分输出",
+      "PIDIV",
+      "StarfBerry"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-rng-docs-lcg",
+      "en-smogon-pid-iv"
+    ]
+  },
+  {
+    "id": "en-sv-early-rng-research",
+    "title": "朱紫早期研究：给定团体战 Seed 的预测与自然种子来源",
+    "original_title": "About the RNG.md",
+    "author": "Manu098vm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/SVResearches/blob/master/Random%20Writings/About%20the%20RNG.md",
+    "summary": "记录通过 GDB 调试观察朱紫宝可梦生成中 Xoroshiro 与 CryptoRNG 的分支，以及给定团体战 Seed 时可复现个体的实验。作者补注每日种子的加密随机来源得到 Anubis 确认，并把预设种子注入明确列为编辑行为。属于早期研究笔记，需结合后来的 Tera Finder 文档理解。",
+    "evidence": "早期调试与实验",
+    "status": "中文摘要",
+    "tags": [
+      "SVResearches",
+      "CryptoRNG",
+      "GDB",
+      "种子注入"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ],
+      [
+        "模拟器",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-tera-finder-raid-calculator",
+      "en-tera-seed-checker"
+    ],
+    "review_notes": "原文对当时未知内容保留猜测，收录范围限于所述宝可梦生成与团体战实验；其早期概括不能用于否定后来发现的道具打印机等其他可调整项目。"
+  },
+  {
+    "id": "en-smogon-swsh-raid",
+    "title": "Smogon 剑盾团体战：捕获反推 Seed、推进与物种重置",
+    "original_title": "SS Raid RNG Guide",
+    "author": "shiny finder / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/raid_rng",
+    "summary": "完整讲解许愿星巢穴的 Seed Searcher 捕获反推、RaidFinder 结果查询、日期推进与目标前的物种重置，区分普通、稀有和活动池。包含离线邀请方式与在线方式的条件，提醒保留目标巢穴并避免自然跨午夜。文中对当时可调整范围的导语属于旧结论，应结合后来的野生研究阅读。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Seed Searcher",
+      "RaidFinder",
+      "许愿星",
+      "四日法"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "团体战乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "swsh-raid-2020",
+      "en-swsh-raid-generation"
+    ],
+    "review_notes": "教程以旧版工具及当时活动表为例，需使用与目标活动匹配的数据。普通实机的 IV 反推和已有 Seed 查询分别有不同前提。"
+  },
+  {
+    "id": "en-smogon-bw-basics",
+    "title": "BW 实机基础：标准 Seed、C-Gear 与参数校准",
+    "original_title": "BW RNG Manipulation Guide Part 1 - Common Information for Breeding, Capturing, and Receiving Perfect Pokemon",
+    "author": "Kaphotics / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/bw_rng_part1",
+    "summary": "介绍第五世代 IVRNG 与 PIDRNG 的分工、64-bit 标准 Seed、C-Gear Seed、Delay、启动按键和 DS 参数校准，并说明如何确认命中种子。以黑白与 RNG Reporter 的旧界面为主，Mac 用户另指向 PPRNG，可与底层 SHA-1 初期 Seed 文档互相参照。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "BW",
+      "RNG Reporter",
+      "标准Seed",
+      "参数校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-gen5-initial-seeding",
+      "devon-5th-gen-initial-seeds"
+    ]
+  },
+  {
+    "id": "en-smogon-bw-pid",
+    "title": "BW：用 Chatot 确认起始帧并控制 PIDRNG",
+    "original_title": "BW RNG Manipulation Guide Part 3 - How to Capture Perfect and / or Shiny Pokemon by Controlling the PIDRNG",
+    "author": "Kaphotics / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/bw_rng_part3",
+    "summary": "在已命中目标个体值 Seed 的基础上，说明 PIDRNG 起始帧、游走 NPC 干扰、聒噪鸟录音推进与反复捕获校准，从而控制性格、性别、特性及闪光。需先完成第五世代基础参数与 IV 流程，原文按黑白与 RNG Reporter 操作。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "PIDRNG",
+      "Chatot",
+      "聒噪鸟",
+      "初始帧"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-bw-basics",
+      "en-gen5-initial-frame"
+    ]
+  },
+  {
+    "id": "en-smogon-hidden-grotto",
+    "title": "BW2 隐藏洞穴：256 步刷新、槽位与性别设置",
+    "original_title": "Guide to Hidden Grotto Encounter Abuse",
+    "author": "Hozu / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/hidden_grotto_abuse",
+    "summary": "以雌性六尾为例解释隐藏洞穴刷新顺序、256 步计数、槽位和子槽位，并要求排在目标前的洞穴保持占用以减少额外消耗。原文分别说明刷新性别概率与捕获界面实际性别比设置，个体值需后续定点流程，且洞穴宝可梦不能闪光。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Hidden Grotto",
+      "256步",
+      "SubSlot",
+      "性别比"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "隐藏洞穴乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "bw2-hidden-grotto-2026",
+      "devon-hidden-grottos"
+    ]
+  },
+  {
+    "id": "en-smogon-pprng-entralink",
+    "title": "PPRNG 连入之森：BW 与 BW2 的种子和帧差异",
+    "original_title": "PPRNG Guide - Capturing Perfect Entralink Pokemon",
+    "author": "religiousjedi / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/pprng_gen5_10_entralink",
+    "summary": "以 macOS 工具 PPRNG 说明连入之森捕获，区分 BW 需要标准与 C-Gear 双种子、BW2 使用标准 Seed 的流程，以及不同 IV 起始帧。讨论队伍步数、拒绝遭遇的大量推进、森林个体产生的 NPC 干扰与性格计时。适用于已在连入之森保留目标的旧环境。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "PPRNG",
+      "macOS",
+      "Entralink",
+      "C-Gear"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "连入之森乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "连入之森乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "devon-bw-entralink-captures",
+      "devon-bw2-entralink-captures"
+    ],
+    "review_notes": "原文涉及已结束服务的 Pokémon Dream World，收录为既有森林数据与历史操作参考；未据旧教程声称现在仍可通过原官方服务取得新目标。"
+  },
+  {
+    "id": "en-smogon-gen4-basics",
+    "title": "DPt／HGSS 实机基础：EonTimer、Delay 与命中 Seed",
+    "original_title": "DPP / HGSS RNG Manipulation Guide Part 1 - Common Information for Breeding, Capturing, and Receiving Perfect Pokemon",
+    "author": "Everstone / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/dpphgss_rng_part1",
+    "summary": "按实际 DS 与卡带说明第四世代 Seed、Delay、Frame、两段 EonTimer、系统时钟设置和目标输入。区分 DPt 与 HGSS 的校准初值、硬币／电话等准备条件，建立“搜索—命中—验证—推进”的基础流程；截图和下载链接属于旧版工具。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "EonTimer",
+      "Delay",
+      "DS实机",
+      "RNG Reporter"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-id",
+      "en-real96-gen4-swarm",
+      "en-pokefinder"
+    ]
+  },
+  {
+    "id": "en-smogon-gen4-id",
+    "title": "DPt／HGSS ID：Pandora’s Box、目标 PID 与 Delay 修正",
+    "original_title": "DPP / HGSS RNG Manipulation Guide Part 4 - How to Abuse for your Desired TID/SID",
+    "author": "Everstone / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/dpphgss_rng_part4",
+    "summary": "说明先挑选希望闪光的 PID／个体分布，再在 Pandora’s Box 寻找兼容 TID／SID，用 Seed to Time 和 EonTimer 建新档，并从实得 TID 反查 Delay 校准。分别给出 DPt 与 HGSS 最后输入位置和秒数设置，操作涉及重新开始存档。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Pandora’s Box",
+      "TID",
+      "SID",
+      "闪光PID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "devon-dppt-pandoras-box",
+      "devon-hgss-pandoras-box"
+    ]
+  },
+  {
+    "id": "en-smogon-cute-charm-radar",
+    "title": "第四世代：迷人之躯 ID 分组与 DPt 宝可追踪",
+    "original_title": "DPP / HGSS RNG Manipulation Guide Part 5 - Cute Charm TID/SID and Poke Radar Abuse",
+    "author": "Everstone / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/dpphgss_rng_part5",
+    "summary": "前半解释迷人之躯触发后 PID 分组、首位性别及目标性别比如何配合 ID 形成闪光；后半给出 DPt 宝可追踪普通草丛起链、确定位置与目标个体的流程。迷人之躯只对符合条件的有性别物种有效，宝可追踪部分仅适用于 DPt。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Cute Charm",
+      "迷人之躯",
+      "Poké Radar",
+      "性别比"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-id",
+      "dpt-pokeradar-2026"
+    ]
+  },
+  {
+    "id": "en-smogon-pid-iv",
+    "title": "第三四世代机制基础：PID、个体值、闪光与生成方法",
+    "original_title": "The Process of PID and IV Creation of Non-Bred Pokemon",
+    "author": "X-Act / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/pid_iv_creation",
+    "summary": "从二进制与十六进制出发，解释 LCG 输出如何组成 PID 和个体值，以及性格、性别、特性、闪光、未知图腾形态和晃晃斑花纹等关联。附 Method 1／2／4 与连锁闪光的生成示例，是理解旧世代 PIDIV 关系的机制参考。",
+    "evidence": "早期机制解析",
+    "status": "中文摘要",
+    "tags": [
+      "PIDIV",
+      "Method 1",
+      "Method 2",
+      "Method 4"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-rng-docs-lcg-recovery",
+      "en-smogon-secret-id"
+    ],
+    "review_notes": "按原文覆盖的第三世代与钻石／珍珠时代机制阅读；其旧版方法说明不能直接推广为所有后续游戏的统一生成流程。"
+  },
+  {
+    "id": "en-smogon-secret-id",
+    "title": "第三四世代：用既有闪光个体推算兼容 SID",
+    "original_title": "Deducing Your Secret ID in the Third and Fourth Generations",
+    "author": "mingot / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/deducing_secret_id",
+    "summary": "说明从合适的既有闪光个体的准确个体值、性格与生成方法反查候选 PID，再结合 TID 推算兼容 SID。结尾明确此法通常只确定用于闪光判定的高 13 位，真实 SID 仍可能在所得值到加 7 的范围；要求来自目标存档、符合普通 PIDIV 关系的非孵化／非连锁闪光。",
+    "evidence": "机制与计算教程",
+    "status": "中文摘要",
+    "tags": [
+      "SID反推",
+      "PID",
+      "闪光",
+      "高13位"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-pid-iv",
+      "en-smogon-gen4-id"
+    ]
+  },
+  {
+    "id": "en-smogon-sweet-scent",
+    "title": "第四世代甜甜香气：动作消耗与遭遇后的帧定位",
+    "original_title": "A Guide to Sweet Scent in the Fourth Generation",
+    "author": "Ditto / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/appendix_sweetscent",
+    "summary": "区分 DPt、HGSS、草地、洞穴、冲浪与跟随宝可梦条件下甜甜香气产生的推进，说明天气限制与遭遇结束后按 Actual Frame 继续定位的计算。附逐次遭遇、日志翻页和转向的算例，强调 HGSS 部分消耗需要按本存档校准。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Sweet Scent",
+      "甜甜香气",
+      "Actual Frame",
+      "天气"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "en-smogon-dp-npcs"
+    ]
+  },
+  {
+    "id": "en-smogon-dp-npcs",
+    "title": "钻石／珍珠：游走 NPC 位置与干扰控制表",
+    "original_title": "The Diamond and Pearl Wandering NPC List",
+    "author": "Ditto / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/dp_npc_guide",
+    "summary": "按城镇、道路、洞穴和大湿地区域列出钻石／珍珠游走 NPC，并区分可借对战搜寻器停止的训练家与无法停止的其他角色。解释固定路线移动与随机游走对 RNG 的不同影响，可用于选择校准地点和排查额外推进。",
+    "evidence": "地点调查表",
+    "status": "中文摘要",
+    "tags": [
+      "Wandering NPC",
+      "游走NPC",
+      "对战搜寻器",
+      "DP限定"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "en-real96-great-marsh"
+    ],
+    "review_notes": "目录将 DPt 合并展示，但原文对象是钻石与珍珠；白金的地图及 NPC 变化需另行核对。"
+  },
+  {
+    "id": "en-billo-frlg-switch-setup",
+    "title": "Switch 版 FRLG：GRASS 连接与目标类型入门",
+    "original_title": "Switch FireRed & LeafGreen RNG (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/ports/frlg/",
+    "summary": "完整说明破解 Switch 上 GRASS 的连接、Seed 追踪、Spread Finder、ID、定点和野生页签，以及 Delay、Method、VBlank 等术语。教程明确将 TID 自动重置与 SID 定时输入区分，并引导按目标选择后续章节；此环境使用 sys-botbase 或 USB 连接。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "GRASS",
+      "FRLG Switch",
+      "Delay",
+      "VBlank"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-grass",
+      "en-billo-frlg-switch-id",
+      "en-billo-frlg-switch-static",
+      "en-billo-frlg-switch-wild"
+    ]
+  },
+  {
+    "id": "en-billo-frlg-switch-id",
+    "title": "Switch 版 FRLG：TID 自动尝试与 SID 定时命中",
+    "original_title": "FRLG TID/SID Manipulation (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/ports/frlg/tid-sid/",
+    "summary": "按只要指定 TID、只调整 SID 令目标 PID 闪光、或同时满足两者三种需求说明流程。包括 Spread Finder、ID Delay 的手动／自动校准、TID Bot 与 SID 最后输入，以及 Baby Mode。TID 重置搜索和 SID 乱数输入承担不同作用，需要破解 Switch 与 GRASS。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "TID Bot",
+      "SID",
+      "闪光PID",
+      "GRASS"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-grass",
+      "en-billo-frlg-switch-setup",
+      "frlg-switch-zapdos-moltres-2026"
+    ]
+  },
+  {
+    "id": "en-billo-frlg-switch-static",
+    "title": "Switch 版 FRLG：定点、赠送与交换个体的 Delay 校准",
+    "original_title": "FRLG Static RNG (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/ports/frlg/static/",
+    "summary": "按定点战斗与 NPC 赠送分别准备存档和队伍，说明 GRASS 的手动／自动 Delay 校准、Seed 重置、Method 和目标条件搜索及命中。覆盖御三家、游戏城、赠送与游戏内交换等类别；目标本身仍需在存档中已解锁，工具说明不代表会解锁事件。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Static",
+      "Gifts",
+      "Method 1",
+      "Delay"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "赠送与交换乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-grass",
+      "en-billo-frlg-switch-setup",
+      "frlg-switch-zapdos-moltres-2026"
+    ]
+  },
+  {
+    "id": "en-billo-frlg-switch-wild",
+    "title": "Switch 版 FRLG：野生、钓鱼与碎岩的遭遇校准",
+    "original_title": "FRLG Wild RNG (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/ports/frlg/wild/",
+    "summary": "说明野生物种的遭遇槽、方法与个体值筛选，按草地／洞穴／水面、钓鱼和碎岩准备对应触发条件，并用 GRASS 校准 Delay、搜索合适 Seed 和目标。属于破解读取与输入辅助流程；每类遭遇的 Method 和最终输入需按原文条件选择。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Encounter Slot",
+      "Method H1",
+      "Sweet Scent",
+      "GRASS"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "碎岩乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-grass",
+      "en-billo-frlg-switch-setup"
+    ]
+  },
+  {
+    "id": "en-billo-lgpe-items",
+    "title": "LGPE：PickyUppy 隐藏道具刷新、读种与最终输入",
+    "original_title": "LGPE Item RNG (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/lgpe/item",
+    "summary": "使用 PickyUppy 操作华蓝洞窟和火箭游戏城隐藏道具，解释 256 步判定、每日刷新点、喷雾抑制野生推进及不同互动方式的推进速度。末段通过 Partner Menu Close 选项计入相棒菜单消耗并命中目标；直接追踪 Seed 需要破解 Switch 与 sys-botbase。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "PickyUppy",
+      "Partner Menu Close",
+      "大师球",
+      "隐藏道具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-pickyuppy",
+      "en-lgpe-item-tool",
+      "lgpe-master-ball-2026",
+      "post-cloudmax-lgpe-items"
+    ]
+  },
+  {
+    "id": "en-anubis-overworld-generation",
+    "title": "剑盾野生机制：适用遭遇与 32-bit 个体种子的关系",
+    "original_title": "Overworld RNG in Gen 8 (SWSH).MD",
+    "author": "Anubis / Lusamine",
+    "date": null,
+    "language": "en",
+    "url": "https://gist.github.com/Lusamine/e17168d92019672c1f9dcc1a246d9818",
+    "summary": "原始研究说明哪些野生、钓鱼、地图定点等遭遇使用 Overworld RNG，并与脚本定点、礼物、树上遭遇等生成方式分别讨论。解释存档中的野生数据、32-bit Seed 与 PID、EC、个体值及尺寸的关联，附合法性校验实现和数据集；部分最初未知的生成细节可接另一篇 Spawn RNG 笔记。",
+    "evidence": "原始机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Anubis",
+      "Overworld8RNG",
+      "PIDIV",
+      "32-bit Seed"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-anubis-overworld-spawns",
+      "en-swsh-raid-generation",
+      "en-billo-swsh-overworld",
+      "en-owoow"
+    ]
+  },
+  {
+    "id": "en-anubis-overworld-spawns",
+    "title": "剑盾遭遇生成：首位特性、击倒再生与图鉴推荐顺序",
+    "original_title": "SWSH Overworld Spawn RNG.md",
+    "author": "Anubis / Lusamine",
+    "date": null,
+    "language": "en",
+    "url": "https://gist.github.com/Lusamine/09618e2ccf1f409da1338c13e0e32dc4",
+    "summary": "逐步说明隐藏遭遇生成检查，以及首位特性、击倒再生、属性吸引、图鉴推荐和普通槽位选择的顺序，附等级与证章相关研究入口。内存地址按盾 1.3.2 标注，剑的地址不同；作者也明确部分可见符号生成仍未详细调查。",
+    "evidence": "原始机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Spawn RNG",
+      "首位特性",
+      "图鉴推荐",
+      "盾1.3.2"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-anubis-overworld-generation",
+      "en-billo-swsh-overworld"
+    ]
+  },
+  {
+    "id": "ja-lgpe-master-ball-research",
+    "title": "LGPE：大师球拾取研究与睡眠对白推种的来源",
+    "original_title": "【ピカブイ】マスボ乱数",
+    "author": "サイファーの日記",
+    "date": "2024-10-03",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/10/03/190716",
+    "summary": "记录华蓝洞窟大师球道具乱数从传送糖果推种发展到睡眠对白推种的过程，解释隐藏道具取值、相棒互动推进与重新定位。后续补注加入 64 次观测工具、调日期大量推进及时间变更惩罚对额外消耗的影响，实际工具操作可继续阅读 2026 年的配套教程。",
+    "evidence": "实机研究与后续补注",
+    "status": "中文摘要",
+    "tags": [
+      "LGPE",
+      "睡眠对白",
+      "rand301",
+      "时间变更惩罚"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "机制研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "lgpe-master-ball-2026",
+      "en-lgpe-item-tool",
+      "post-cloudmax-lgpe-items"
+    ]
+  },
+  {
+    "id": "ja-bdsp-egg-size",
+    "title": "BDSP 普通实机：先固定蛋内容，再调整领取时的尺寸",
+    "original_title": "BDSP孵化のサイズ調整(CFW無)",
+    "author": "サイファーの日記",
+    "date": "2025-02-25",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2025/02/25/193532",
+    "summary": "在已经完成孵化乱数、固定蛋内容后，转而调整实际领取蛋时生成的身高与体重。通过地下大洞窟眨眼读种、目标尺寸搜索、返回地面的 Delay 与领取最后输入校准，并借阿尔宙斯检查偏移。作者给出实测计时与个体案例，参数仍需按自身条件校准。",
+    "evidence": "实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "蛋尺寸",
+      "眨眼法",
+      "Delay",
+      "无需破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "尺寸乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-project-xs",
+      "en-rng-docs-xorshift"
+    ],
+    "review_notes": "此文省略了固定蛋内容的前置孵化乱数流程；尺寸证章涉及后续兼容游戏的判定，未把 BDSP 本身描述成可直接授予朱紫尺寸证章。"
+  },
+  {
+    "id": "ja-stadium-jp-gifts",
+    "title": "日版宝可梦竞技场2：赠送个体的博士眨眼校准",
+    "original_title": "ポケモンスタジアム２の乱数",
+    "author": "サイファーの日記",
+    "date": "2024-12-04",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/12/04/000000",
+    "summary": "介绍日版 N64《ポケモンスタジアム2》（对应欧美版 Pokémon Stadium）通关礼物个体的实机调整。基于 lincoln 的研究，利用卡带选择画面快速推进与大木博士眨眼微调，给出 AAAA／FFFF DV 目标和最后输入时机；AAAA 个体转入第二世代后可显示闪光。",
+    "evidence": "实机实践与机制引用",
+    "status": "中文摘要",
+    "tags": [
+      "N64",
+      "Pokémon Stadium",
+      "DV",
+      "博士眨眼"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "宝可梦竞技场2（日版）",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "article",
+    "review_notes": "按日版标题及第一世代场景单独归类。原文中的可达目标、计时与 Transfer Pak 条件仅适用于其所述版本和场景。"
+  },
+  {
+    "id": "ja-oras-rainbow-pokeblock",
+    "title": "ORAS：高级彩虹能量方块的 TinyMT 调整",
+    "original_title": "すごいにじいろポロック乱数",
+    "author": "サイファーの日記",
+    "date": "2024-07-31",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/07/31/072528",
+    "summary": "通过 6genBlinkSearch 定位 TinyMT，再用 MiscRNGTool 搜索能做出高级彩虹能量方块的目标，说明原料树果稀有度、Delay 和切换制作前后的额外推进。原文以常见树果与实测参数为例，属于普通实机的道具制作项目，需先完成第六世代眨眼读种。",
+    "evidence": "实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "Pokéblock",
+      "TinyMT",
+      "6genBlinkSearch",
+      "MiscRNGTool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "能量方块乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "gen6-basics-2024",
+      "en-tinyfinder"
+    ]
+  },
+  {
+    "id": "ja-known-unown",
+    "title": "HGSS KnownUnown：电台与已解锁字母下的形态确认",
+    "original_title": "HGSSアンノーン形状確認ツール(KnownUnown)",
+    "author": "ごんぜっと / GonZ",
+    "date": null,
+    "language": "ja",
+    "url": "https://co291424.com/tool/KnownUnown.php",
+    "summary": "原作者页面说明 HGSS 未知图腾形态确认工具，区分使用电台、未使用电台与 !／? 的结果，并解释形态解锁状态与未持有字母的影响。还附形态计算处理与示例；页面明确只实现形态确认、未整合同步计算，需自行配合个体值与遭遇流程。",
+    "evidence": "原作者工具与处理说明",
+    "status": "中文摘要",
+    "tags": [
+      "KnownUnown",
+      "未知图腾",
+      "电台",
+      "形态解锁"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "未知图腾乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "未知图腾乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "devon-4th-gen-unown",
+      "post-gonz-known-unown"
+    ]
+  },
+  {
+    "id": "video-gsc-lua-entei",
+    "title": "GSC Lua 演示：游走炎帝的自动搜索与捕获",
+    "original_title": "Entei - Gen 2 LUA Demo",
+    "author": "Lotad (ImALotad)",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=jFTGqBfL7aE",
+    "summary": "wwwwwwzx 的 gsclua README 将此视频作为游走三兽脚本的配套演示，原题说明展示第二世代炎帝。可用于查看自动搜索与捕获的操作表现；启动位置、模拟器版本及脚本条件请以对应仓库文档为准。",
+    "evidence": "作者文档引用的视频",
+    "status": "中文摘要",
+    "tags": [
+      "GSC",
+      "Entei",
+      "Lua Demo",
+      "游走三兽"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第二世代",
+        "金／银",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "水晶",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gsc-lua"
+    ],
+    "review_notes": "仅核对英文公开视频标题、频道与 gsclua 原作者文档引用，未逐段观看或确认口播语言，未确认的绝对发布日期填空。"
+  },
+  {
+    "id": "post-gonz-known-unown",
+    "title": "KnownUnown 原作者发布帖：保存工具与处理研究的入口",
+    "original_title": "私が忘れそうなのと、元情報がインターネット上で埋もれて探せなくなりそうだったので、ツールと処理について公開しました。",
+    "author": "ごんぜっと / @_Gon_z",
+    "date": "2019-07-18",
+    "language": "ja",
+    "url": "https://x.com/_Gon_z/status/1151871686607687681",
+    "summary": "原作者说明为避免忘记以及原始信息被埋没，公开了 HGSS 未知图腾工具与处理说明，并链接 KnownUnown 页面。此帖用于核对工具来源与研究传承，完整计算和使用限制应继续阅读作者网站。",
+    "evidence": "公开作者帖文",
+    "status": "中文摘要",
+    "tags": [
+      "KnownUnown",
+      "GonZ",
+      "作者发布",
+      "研究来源"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "未知图腾乱数"
+      ]
+    ],
+    "source_type": "post",
+    "related_sources": [
+      "ja-known-unown"
+    ],
+    "review_notes": "按公开 oEmbed 核对当前可读正文、作者及日期；原帖无独立标题，以首句作为原题索引。未将短帖作为完整教程。"
+  },
+  {
+    "id": "post-cloudmax-lgpe-items",
+    "title": "LGPE 道具研究帖：华蓝洞窟大师球点与每日化石",
+    "original_title": "Did some testing to figure out how the Cerulean Cave item spawns worked.",
+    "author": "CloudMax / @CloudMax94",
+    "date": "2018-11-23",
+    "language": "en",
+    "url": "https://x.com/CloudMax94/status/1065995174239764485",
+    "summary": "CloudMax 的公开测试帖指出大师球是华蓝洞窟球类隐藏点的稀有结果，并提到超梦附近有每日化石点。サイファー的道具乱数研究将其作为物品点分类的参考；此帖提供早期机制线索，原帖正文没有完整推种或命中流程。",
+    "evidence": "公开实验帖文",
+    "status": "中文摘要",
+    "tags": [
+      "CloudMax",
+      "华蓝洞窟",
+      "每日化石",
+      "隐藏道具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "机制研究"
+      ]
+    ],
+    "source_type": "post",
+    "related_sources": [
+      "ja-lgpe-master-ball-research",
+      "en-billo-lgpe-items"
+    ],
+    "review_notes": "按公开 oEmbed 核对英文正文、作者及日期；原帖无独立标题，以首句作为原题索引。未核对附图中的全部分布表或完整讨论串。"
   }
 ]
