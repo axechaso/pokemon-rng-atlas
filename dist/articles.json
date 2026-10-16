@@ -1,7 +1,7 @@
 [
   {
     "id":"frlg-gba-zapdos-2026",
-    "title":"FRLG GBA 实机：闪光 A0 闪电鸟固定乱数",
+    "title":"FRLG GBA 实机：闪光 A0 闪电鸟定点乱数",
     "original_title":"【FRLG】実機GBA版 菱形色A0サンダー 固定乱数＋ブロマイドリボン取得【3世代乱数】",
     "author":"剣盾から始める過去作乱数",
     "date":"2026-03-22",
@@ -10,7 +10,7 @@
     "evidence":"实机实践",
     "status":"中文摘要",
     "tags":["初期Seed","闪光","固定遭遇","GBA"],
-    "routes":[["实机","第三世代","火红／叶绿","固定乱数"]]
+    "routes":[["实机","第三世代","火红／叶绿","定点乱数"]]
   },
   {
     "id":"frlg-switch-zapdos-moltres-2026",
@@ -23,7 +23,7 @@
     "evidence":"实机实践",
     "status":"中文摘要",
     "tags":["Switch","固定遭遇","初期Seed","注意更正"],
-    "routes":[["实机","第三世代","火红／叶绿","固定乱数"],["实机","第三世代","火红／叶绿","ID乱数"]]
+    "routes":[["实机","第三世代","火红／叶绿","定点乱数"],["实机","第三世代","火红／叶绿","ID乱数"]]
   },
   {
     "id":"gen3-method-shift-2015",
@@ -92,16 +92,16 @@
   },
   {
     "id":"bw-stationary-2026",
-    "title":"BW：固定遭遇乱数（5genSearch-web）",
+    "title":"BW：定点乱数（5genSearch-web）",
     "original_title":"【ポケモンBW1】固定乱数(スマホ対応・5genSearch-web使用版)",
     "author":"ミルクの日記",
     "date":"2026-05-25",
     "url":"https://milk4724.hatenablog.com/entry/20260525/00000000",
-    "summary":"第5世代 BW 固定遭遇乱数教程，包括 Seed 搜索、帧推进及命中后的偏差修正步骤。",
+    "summary":"第5世代 BW 定点乱数教程，包括 Seed 搜索、帧推进及命中后的偏差修正步骤。",
     "evidence":"实机教程",
     "status":"中文摘要",
     "tags":["固定遭遇","LCG","MT","5genSearch-web"],
-    "routes":[["实机","第五世代","黑／白","固定乱数"]]
+    "routes":[["实机","第五世代","黑／白","定点乱数"]]
   },
   {
     "id":"bw-dittos-2026",
@@ -131,7 +131,7 @@
   },
   {
     "id":"sm-stationary-2017",
-    "title":"SM/USUM 第七世代固定遭遇乱数入门",
+    "title":"SM/USUM 第七世代定点乱数入门",
     "original_title":"【USM対応】第7世代固定シンボル乱数調整のすすめ",
     "author":"ろいしんぶろぐ / Blastoise_X",
     "date":"2017-01-29",
@@ -140,7 +140,7 @@
     "evidence":"实机教程",
     "status":"中文摘要",
     "tags":["针定位","固定遭遇","3DS RNG Tool"],
-    "routes":[["实机","第七世代","太阳／月亮","固定乱数"],["实机","第七世代","究极之日／究极之月","固定乱数"]]
+    "routes":[["实机","第七世代","太阳／月亮","定点乱数"],["实机","第七世代","究极之日／究极之月","定点乱数"]]
   },
   {
     "id":"sm-egg-2017",
