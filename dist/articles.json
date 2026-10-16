@@ -9077,5 +9077,3738 @@
       "en-billo-lgpe-items"
     ],
     "review_notes": "按公开 oEmbed 核对英文正文、作者及日期；原帖无独立标题，以首句作为原题索引。未核对附图中的全部分布表或完整讨论串。"
+  },
+  {
+    "id": "video-rby-buffering-hwangbro",
+    "title": "红蓝黄视频：输入缓冲、开场复现与 IGT 失败排查",
+    "original_title": "Pokemon RBY RNG Manipulation Guide",
+    "author": "hwangbro",
+    "date": "2021-03-01",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=QirPrbub21g",
+    "summary": "以早期世代状况复现为主题，章节涵盖 RNG 概览、输入缓冲、开场操作、物品音效和游戏内计时 IGT 导致的失败。适合作为读懂复现路线的基础；具体路线、存档与版本条件需随原视频核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "输入缓冲",
+      "IGT",
+      "速通"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "状况复现"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-rby-zapdos",
+    "title": "红蓝黄视频：闪电鸟 DV 与传送后的闪光条件",
+    "original_title": "Guaranteed Shiny or Perfect Zapdos in Gen 1(How to RNG Zapdos in RBY)",
+    "author": "im a blisy ._.",
+    "date": "2022-11-04",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=yZQ10BBIz-Y",
+    "summary": "围绕第一世代闪电鸟的 DV 目标提供乱数视频入口。第一世代本身不显示闪光，原题中的 Shiny 应结合传送后的 DV 判定理解，不能直接套用第三世代以后的 PID／个体值流程。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "DV",
+      "闪电鸟",
+      "传送"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "传送性格与闪光"
+      ],
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-rby-lua"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-rby-impossible-dvs",
+    "title": "红蓝视频：野生 DV 组合为什么存在不可达结果",
+    "original_title": "Pokemon Red/Blue - RNG and the impossible DV combinations",
+    "author": "Crystal_",
+    "date": "2016-08-14",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=BcIxMyf8yHY",
+    "summary": "介绍红蓝版野生生成与 DV 可达性的关系，简介指出不同遭遇率会影响可出现的组合，并引用 Smogon 研究。它是机制解释与演示资料，不是任意 DV 都能命中的保证。",
+    "evidence": "机制解释与公开演示",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "DV",
+      "可达性",
+      "遭遇率"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "机制研究"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-rby-gift-lua",
+    "title": "红蓝黄视频：Lua 辅助的初始伙伴、化石与游戏厅赠送",
+    "original_title": "RNG Guide: Gen 1 Gift Pokemon (Starters, Fossils, Game Corner)",
+    "author": "Lotad (ImALotad)",
+    "date": "2017-08-05",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=bfbaLfF_JHY",
+    "summary": "整理第一世代赠送宝可梦的模拟器乱数主题，包含初始伙伴、化石复原和游戏厅兑换。简介直接提供 zep715 的 giftbot.lua，属于模拟器 Lua 工作流，需要与普通实机输入复现区分。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Lua",
+      "giftbot",
+      "模拟器"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-rby-lua"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-crystal-totodile",
+    "title": "水晶视频：小锯鳄目标个体的状况复现示例",
+    "original_title": "Pokemon Crystal Perfect Totodile Rng Manipulation Tutorial",
+    "author": "Ivan Rossitto",
+    "date": "2019-02-13",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=6N3PuqS8Z5s",
+    "summary": "作者演示水晶版小锯鳄的目标个体复现，并附额外文字资料入口。适合作为初始伙伴复现案例；简介未完整列出语言、版本与输入路线条件，不能据此套用到任意存档或全部城都初始伙伴。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "小锯鳄",
+      "状况复现"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第二世代",
+        "水晶",
+        "初始伙伴乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gsc-lua"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。语言按公开英文标题、简介及英文语音字幕轨判断；未采用其他自动翻译字幕作为原文语言依据。"
+  },
+  {
+    "id": "video-rs-starter-blisy",
+    "title": "红蓝宝石视频：初始伙伴闪光乱数",
+    "original_title": "GUARANTEED SHINY STARTER IN POKEMON RUBY AND SAPPHIRE",
+    "author": "im a blisy ._.",
+    "date": "2020-09-30",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=5feON9zDy6g",
+    "summary": "以红蓝宝石初始伙伴为目标的乱数教程入口。使用前应核对卡带 RTC 电池状态与初期 Seed 条件；不能直接把绿宝石固定从零起始的流程套到红蓝宝石。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "初始伙伴",
+      "RTC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初始伙伴乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-pokefinder",
+      "en-eontimer",
+      "devon-3rd-gen-gift-pokemon"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-rs-wild-blisy",
+    "title": "红蓝宝石视频：普通野生遭遇乱数",
+    "original_title": "GUARANTEED WILD SHINY POKEMON IN RUBY AND SAPPHIRE(How to RNG Manipulate Wild Pokemon in RS)",
+    "author": "im a blisy ._.",
+    "date": "2021-01-21",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=z7W7J657tqY",
+    "summary": "围绕红蓝宝石普通野生闪光遭遇展开。可配合捕获图文指南查阅遭遇方式、种子条件和命中偏差，使用时仍需区分 RTC 正常与电池耗尽环境。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "野生",
+      "RTC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-pokefinder",
+      "en-eontimer",
+      "devon-live-battery-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-rse-rock-smash",
+    "title": "红蓝宝石／绿宝石视频：碎岩遭遇乱数",
+    "original_title": "GUARANTEED SHINY ROCK SMASH POKEMON IN RUBY/SAPPHIRE/EMERALD (How to RNG Rock Smash)",
+    "author": "im a blisy ._.",
+    "date": "2024-07-13",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=lk_YzV08jKU",
+    "summary": "专门讨论第三世代碎岩遇敌，覆盖红蓝宝石与绿宝石。碎岩包含是否遇敌和个体生成等判断，需按游戏分别搜索与校准，不能把所有碎岩帧都当作有效遭遇。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "碎岩",
+      "遭遇判定"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "碎岩乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "碎岩乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "retail-rs-rock-smash",
+      "devon-3rd-gen-rock-smash",
+      "en-pokefinder",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-rs-static-gifts",
+    "title": "红蓝宝石视频：定点与赠送宝可梦乱数",
+    "original_title": "EASY SHINY LEGENDS IN RUBY AND SAPPHIRE(How to RNG Manipulate Stationary and Gift Pokemon in R/S)",
+    "author": "im a blisy ._.",
+    "date": "2022-04-22",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=_8qxkkGeXok",
+    "summary": "以红蓝宝石定点传说与赠送个体为主题的教学视频。可配合 Method 1 与赠送时点图文阅读；不同事件最终确认动作和生成延迟需分别校准。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Method1",
+      "定点",
+      "赠送"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-rs-method1",
+      "devon-3rd-gen-gift-pokemon",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-rs-eggs",
+    "title": "红蓝宝石视频：孵化闪光蛋乱数",
+    "original_title": "EASY SHINY EGGS IN POKEMON RUBY AND SAPPHIRE(How to RNG Eggs in Pokemon R/S)",
+    "author": "im a blisy ._.",
+    "date": "2022-01-04",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=ee6NUY6L-QM",
+    "summary": "介绍红蓝宝石孵化乱数的闪光目标。与第三世代孵化图文指南关联，便于区分蛋的 PID／性格与领取个体值阶段；不能直接沿用绿宝石的同一组参数。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "孵化",
+      "PID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-rs-frlg-breeding",
+      "en-pokefinder",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-emerald-starter-sid",
+    "title": "绿宝石视频：初始伙伴与 SID 乱数",
+    "original_title": "GUARANTEED SHINY STARTER IN POKEMON EMERALD!(How to RNG a Shiny Starter and SID in Emerald)",
+    "author": "im a blisy ._.",
+    "date": "2022-06-05",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=-1XfmKlSojY",
+    "summary": "面向绿宝石初始伙伴闪光及 SID 主题的教学入口。可与 ID／赠送生成时点资料对照，理解为什么只知道训练家公开 ID 仍不足以直接筛选闪光目标。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "SID",
+      "初始伙伴"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-e-frlg-pandoras-box",
+      "devon-3rd-gen-gift-pokemon",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-emerald-egg-ivs",
+    "title": "绿宝石视频：孵化个体值阶段的目标校准",
+    "original_title": "EASY FLAWLESS BREEDING POKEMON EMERALD (RNG ABUSE IV BREEDING)",
+    "author": "im a blisy ._.",
+    "date": "2017-03-30",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=-MbS04657-k",
+    "summary": "聚焦绿宝石孵化中的个体值控制，作为闪光蛋 PID 阶段之外的补充。可对照图文指南确认亲代遗传与领取阶段的分工；原视频属于较早工具版本的资料。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "孵化",
+      "个体值",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-emerald-breeding",
+      "video-emerald-pokenav-eggs",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-frlg-teachytv",
+    "title": "FRLG 视频：Teachy TV 推进与目标个体",
+    "original_title": "How TeachyTV in Fire Red can get you AMAZING POKEMON? (TeachyTV FRLG RNG Tutorial)",
+    "author": "im a blisy ._.",
+    "date": "2019-08-02",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=knVo5xSl9hw",
+    "summary": "以教学电视 Teachy TV 为核心，介绍 FRLG 乱数中的推进方法。关联现代种子工具和实机图文，方便区分初期 Seed、消耗和目标个体搜索；这是 GBA 原版资料，Switch 版启动条件需另行核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "TeachyTV",
+      "推进"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-ten-lines",
+      "en-flowtimer-java",
+      "retail-frlg-perfect"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-frlg-emulator-eggs",
+    "title": "FRLG 模拟器视频：mGBA、PokeLua 与闪光蛋",
+    "original_title": "(EMU) How to RNG Manipulate for Shiny Eggs in Pokémon FireRed and LeafGreen",
+    "author": "Acrylic",
+    "date": "2024-11-15",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=4WIJO2yh43I",
+    "summary": "使用 mGBA、PokéFinder 和 Real96 的 FRLG Lua，处理模拟器中的闪光蛋目标；简介另附 Python 脚本与 PKHeX 参考。作者明确要求 FRLG 1.1，并提醒更新 mGBA，不能把它写成 1.0 版或普通实机教程。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "mGBA",
+      "PokeLua",
+      "FRLG1.1",
+      "Python"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-real96-pokelua",
+      "en-pokefinder",
+      "devon-rs-frlg-breeding"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-emulator-fishing",
+    "title": "FRLG 模拟器视频：钓鱼目标与偏移量计算",
+    "original_title": "(EMU) How to RNG Manipulate for Shiny Fishing Encounters in Pokémon FireRed and LeafGreen",
+    "author": "Acrylic",
+    "date": "2025-03-18",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=ZR7s-IV-kmw",
+    "summary": "以 FRLG 1.1 的 mGBA／PokeLua 读取为基础，配合 PokéFinder 搜索钓鱼目标，并引用作者的 Offset Calculator。校准依据目标与实际命中位置的差值，需要保留模拟器和版本条件。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "mGBA",
+      "PokeLua",
+      "FRLG1.1",
+      "钓鱼"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "钓鱼乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-real96-pokelua",
+      "en-pokefinder",
+      "en-acrylic-offset-calculator",
+      "retail-frlg-fishing"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-starter",
+    "title": "Switch 版 FRLG 视频：初始伙伴闪光与工具配置",
+    "original_title": "How to RNG Shiny Starter Pokemon in FireRed/LeafGreen (Nintendo Switch)",
+    "author": "Yoggtwo",
+    "date": "2026-03-19",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=-Ygw6Mm_P_k",
+    "summary": "使用 Ten Lines 与网页 EonTimer 的初始伙伴教程，并链接定点入门及 Papa Jefé 的漏洞说明。初始伙伴和 SID 推断、普通捕获与另附的 ACE 辅助方法应按具体步骤区分。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Switch",
+      "TenLines",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-switch-static",
+      "video-frlg-switch-ace-context",
+      "retail-frlg-starter"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-static",
+    "title": "Switch 版 FRLG 视频：定点乱数入门与多轮校准",
+    "original_title": "Beginner RNG Manipulation Tutorial - Static Encounters (FireRed/LeafGreen, Nintendo Switch 1/2)",
+    "author": "Yoggtwo",
+    "date": "2026-03-16",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=uamRpViUzwQ",
+    "summary": "面向 Switch／Switch 2 版 FRLG 的定点遭遇入门，简介章节保留多轮尝试与校准过程。配套 Ten Lines 和网页 EonTimer，用于理解初期 Seed、目标位置与实际偏差的关系。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Switch",
+      "校准",
+      "定点"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "retail-frlg-static"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-roamers-ace",
+    "title": "Switch 版 FRLG 视频：漫游三兽与 ACE 变量辅助",
+    "original_title": "How to Get Shiny Roaming Entei, Raikou, Suicune - Pokemon FireRed/LeafGreen RNG Manipulation Guide",
+    "author": "Yoggtwo",
+    "date": "2026-04-07",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=COnScVHBjxM",
+    "summary": "围绕炎帝、雷公和水君的漫游生成展开，章节包含校准、凯西／三兽对应、重新生成初始伙伴以及 Change Variable ACE Code。它同时涉及乱数命中与 ACE 改变变量，不能概括为完全不修改游戏状态的普通捕获。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Switch",
+      "漫游",
+      "ACE",
+      "变量修改"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-switch-ace-context",
+      "devon-3rd-gen-roamers"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-japanese-tool-wild",
+    "title": "FRLG 日文视频：3genSearch 工具与野生乱数入门",
+    "original_title": "いまからはじめるポケモン乱数調整！「ツール解説＆野生乱数編」【ポケモン3世代・FRLG解説編】",
+    "author": "浮游感",
+    "date": "2021-10-12",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=L-WmpUXJ_ac",
+    "summary": "浮游感的日文入门视频，主题为第三世代 FRLG 工具解释与野生乱数。简介提供夜綱的 3genSearch，适合与作者工具原始说明对照阅读。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "3genSearch",
+      "野生"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "ja-yatsuna-tools"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-japanese-starter-roamer",
+    "title": "Switch 版 FRLG 日文视频：初始伙伴、SID 与漫游三兽",
+    "original_title": "【switch最新版】いまからはじめるポケモン乱数調整！Part2「御三家乱数＆徘徊3犬編」【ポケモン3世代・FRLG解説編】",
+    "author": "浮游感",
+    "date": "2026-04-11",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=KivpHUnGvcE",
+    "summary": "章节区分 Switch 版差异、SID 决定时点与推断、初始伙伴实操，以及漫游三兽的奇偶帧偏差。配套列出 3genSearch、CCTimer 和 PokéFinder，示例目标为妙蛙种子与炎帝。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Switch",
+      "3genSearch",
+      "CCTimer",
+      "SID",
+      "奇偶帧"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "ja-yatsuna-tools",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-deoxys-japanese",
+    "title": "FRLG 日文视频：诞生之岛代欧奇希斯与定点校准",
+    "original_title": "【乱数調整】幻のポケモンと運命的な出会いがしたい！Part2「たんじょうのしま デオキシス編」【オーロラチケット】【ポケモン3世代 FRLG】",
+    "author": "浮游感",
+    "date": "2026-03-07",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=ZTnF_2yvVNI",
+    "summary": "按章节介绍定点乱数、工具、SID 推断与代欧奇希斯捕获演示，简介附 3genSearch、CCTimer 和 TimeCalc。前提是已具备极光船票／进入诞生之岛的条件；视频不构成原始配信当前仍可领取的证明。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "代欧奇希斯",
+      "极光船票",
+      "诞生之岛"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "ja-yatsuna-tools",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-emerald-pokenav-eggs",
+    "title": "绿宝石日文视频：宝可领航员辅助的闪光蛋与个体值",
+    "original_title": "【乱数調整】エメラルドで色違い孵化乱数調整を解説！(ポケナビ乱数調整)",
+    "author": "しのぎ(shinogi)",
+    "date": "2026-06-30",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=AII9qjbULAs",
+    "summary": "前半讲闪光蛋，后半讲个体值，两部分都以宝可领航员乱数为基础。作者保留参考视频出处，可与孵化图文比较两阶段的生成与校准，避免把闪光 PID 和领取 IV 当成一次操作。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "宝可领航员",
+      "孵化",
+      "PID",
+      "个体值"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-emerald-breeding",
+      "ja-yatsuna-tools"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-auto-controller",
+    "title": "Switch 版 FRLG 视频：Auto Controller 2 的硬件自动输入",
+    "original_title": "HANDS FREE RNG Manipulation Tutorial in Fire Red & Leaf Green - Auto Controller 2 v0.5.0",
+    "author": "brianuuuSonic",
+    "date": "2026-04-05",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=7cS4DqFoaX8",
+    "summary": "介绍 Auto Controller 2 v0.5.0 的 FRLG RNG 程序，章节包含 SID、目标搜索、额外输入与两轮校准。由外接微控制器模拟手柄并结合采集卡输入，作者说明主机可无需破解；这仍属于需要额外硬件的自动化流程。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "硬件自动化",
+      "微控制器",
+      "采集卡",
+      "AutoController2"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-auto-controller2",
+      "en-ten-lines",
+      "ja-yatsuna-tools",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-frlg-switch-ace-context",
+    "title": "Switch 版 FRLG 视频：乱数相关流程中的 ACE 前置说明",
+    "original_title": "FireRed & LeafGreen are BETTER with Glitches on Nintendo Switch",
+    "author": "Papa Jefé",
+    "date": "2026-03-06",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=2gzzreka6UA",
+    "summary": "解释邮件漏洞、通过箱子名称执行代码及测试个体等 ACE 操作，可辅助理解部分漫游乱数教程为何要求改变变量或重置事件。它是漏洞与状态修改说明，不能作为普通 RNG 捕获或仅仅读取信息的教程。",
+    "evidence": "相关漏洞与辅助流程说明",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "ACE",
+      "任意代码执行",
+      "状态修改"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "video-frlg-switch-roamers-ace"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-xd-pokespot-shiny",
+    "title": "XD 视频：实机 Poké Spot 闪光 PID 阶段",
+    "original_title": "Shiny PokeSpot RNG Guide: Retail XD Gale of Darkness",
+    "author": "Papa Jefé",
+    "date": "2019-05-01",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=UksYXu7ZppU",
+    "summary": "Papa Jefé 的 Poké Spot 实机系列第一部分，聚焦闪光个体生成，并提供 GameCube 工具资源。应与第二部分的个体值校准分开理解；Poké Spot 野生与 XD 暗黑宝可梦的闪光限制也不同。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "PokéSpot",
+      "PID",
+      "实机"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "Poké"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "Spot乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "video-xd-pokespot-ivs",
+      "en-gc-rng-assistant",
+      "devon-xd-poke-spots-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-xd-pokespot-ivs",
+    "title": "XD 视频：实机 Poké Spot 个体值阶段",
+    "original_title": "PokeSpot IV RNG Guide: Retail XD Gale of Darkness (Part 2)",
+    "author": "Papa Jefé",
+    "date": "2019-05-02",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=PVhY2rLj01w",
+    "summary": "同系列第二部分，补充 Poké Spot 个体值阶段的乱数操作。配合第一部分和 Devon 图文了解 PID、出现状态与捕获个体值的分工；简介中的旧工具下载地址需另行确认可用性。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "PokéSpot",
+      "个体值",
+      "实机"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "Poké"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "Spot乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "video-xd-pokespot-shiny",
+      "devon-xd-poke-spots-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-xd-basics",
+    "title": "XD 视频：GameCube 乱数基础",
+    "original_title": "Pokemon XD: Gale of Darkness RNG Basics",
+    "author": "im a blisy ._.",
+    "date": "2019-12-19",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=C7S-np4mM4M",
+    "summary": "以 XD 暗之旋风的 RNG 基础为主题，作为进入初始伙伴、ID 与暗黑捕获资料前的视频入口。XD 不同遭遇的锁定规则不同，不能从基础教程推断所有暗黑个体都能闪光。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "GameCube",
+      "基础"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gc-rng-assistant",
+      "devon-xd-shadow-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-colosseum-tid-sid",
+    "title": "圆形竞技场视频：为目标个体规划 TID／SID",
+    "original_title": "PERFECT SHINY SPREADS IN COLO? (How to RNG TID and SID in Pokemon Colosseum)",
+    "author": "im a blisy ._.",
+    "date": "2018-12-14",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=_VPNT3UhwmI",
+    "summary": "围绕圆形竞技场的训练家 ID 与 SID 乱数展开，目标是让后续可达 PID 对应理想闪光组合。可结合图文与工具说明查阅新游戏确认时点，勿将 ID 命中等同于已经完成暗黑捕获。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "GameCube",
+      "TID",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gc-rng-assistant",
+      "devon-colosseum-pandoras-box"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-colosseum-basics",
+    "title": "圆形竞技场视频：种子与 RNG 基础",
+    "original_title": "Pokemon Colosseum RNG Basics and other information",
+    "author": "im a blisy ._.",
+    "date": "2020-02-05",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=8XExtOynWaY",
+    "summary": "圆形竞技场乱数基础视频，配套阅读可从随机对战读种、初始伙伴预测与定时确认开始。具体暗黑个体仍有队伍锁与推进条件，需要继续查阅对应捕获资料。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "GameCube",
+      "基础"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gc-rng-assistant",
+      "devon-colosseum-shadow-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-gc-assistant-author",
+    "title": "GameCube 视频：GC RNG Assistant 原作者教程",
+    "original_title": "Pokémon Colosseum & Pokémon XD: Gale of Darkness RNG manipulation tutorial",
+    "author": "aldelaro5",
+    "date": "2019-02-06",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=zjdrphsMvVU",
+    "summary": "aldelaro5 为圆形竞技场和 XD 制作的工具配套教程。README 明确使用随机对战定位当前 Seed，并在姓名确认时命中目标，主要用于初始伙伴与相关 ID 预测；不能扩写成全部暗黑捕获自动化。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "GC-RNG-Assistant",
+      "原作者",
+      "随机对战"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-gc-rng-assistant",
+      "en-flowtimer-java",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-colosseum-blink-suicune",
+    "title": "圆形竞技场视频：眨眼法与高个体值水君",
+    "original_title": "Blink RNG is really easy, actually. Perfect Shiny Suicune (Pokemon Colosseum)",
+    "author": "Alex-RNG",
+    "date": "2024-10-22",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=j9BVzmg8B6c",
+    "summary": "以水君为例讲普通眨眼法与高个体值目标，并附 Copilot 工具和文字指南。作者在简介更正：可使用任何会眨眼的宝可梦，只需正确配置工具，并非只能用太阳伊布；需要相应画面观察／采集条件。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "眨眼",
+      "Copilot",
+      "水君"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "暗黑宝可梦乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "ja-yatsuna-tools",
+      "devon-colosseum-shadow-captures"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。Copilot 的网盘文件未下载或执行；工具获取入口保留在原视频简介。"
+  },
+  {
+    "id": "video-channel-jirachi",
+    "title": "Channel 视频：向红蓝宝石领取闪光基拉祈",
+    "original_title": "GUARANTEED SHINY JIRACHI IN POKEMON RUBY AND SAPPHIRE FROM POKEMON CHANNEL",
+    "author": "im a blisy ._.",
+    "date": "2020-02-04",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=fRs13qE7RPk",
+    "summary": "以 Pokémon Channel 的基拉祈配信乱数为主题，目标接收游戏为红蓝宝石。需具备支持配信的 Channel 版本、接收存档和相应联机条件；它与美版 Bonus Disc 的 WISHMKR 方法不同。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Channel",
+      "基拉祈",
+      "GameCube",
+      "GBA"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "Pokémon Channel",
+        "配信乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-channel-jirachi",
+      "video-channel-jirachi-repeat"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-channel-jirachi-repeat",
+    "title": "Channel 视频：重复领取基拉祈的乱数专题",
+    "original_title": "EASY INFINITE SHINY JIRACHIS FROM POKEMON CHANNEL WITHOUT CHEATING",
+    "author": "im a blisy ._.",
+    "date": "2020-04-16",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=e2hGP30Dge8",
+    "summary": "作者在 Channel 基拉祈专题中的后续视频，讨论重复获取与闪光目标。原题的 Infinite 不表示无前提批量生成；版本、接收存档和重复领取限制应配合图文与视频实际步骤核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Channel",
+      "基拉祈",
+      "配信"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "Pokémon Channel",
+        "配信乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-channel-jirachi",
+      "video-channel-jirachi"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-wishmkr-checksum-demo",
+    "title": "WISHMKR 视频：模拟器校准校验和后在实机领取",
+    "original_title": "Pokémon Colosseum Wishmaker Disc RNG - Shiny WISHMKR Jirachi",
+    "author": "Manu SkyLink98",
+    "date": "2021-01-10",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=gkKgaL21z3M",
+    "summary": "作者先在 VBA-RR 中调整红蓝宝石存档 Block B Section 0 校验和，再将存档恢复到红宝石卡带，用官方 Bonus Disc 领取。属于模拟器辅助与存档回写的配信演示，且可闪光 Seed 和组合有限。",
+    "evidence": "作者配套演示",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "WISHMKR",
+      "VBA-RR",
+      "存档回写",
+      "校验和"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-wishmaker-jirachi",
+      "devon-jirachi-finder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。语言按作者公开英文说明标注；未将无字幕演示误标为意大利语。"
+  },
+  {
+    "id": "video-hgss-static",
+    "title": "HGSS 视频：定点宝可梦乱数",
+    "original_title": "FASTEST SHINY METHOD IN HEART GOLD(How to RNG Manip Static Pokemon in HGSS)",
+    "author": "im a blisy ._.",
+    "date": "2022-08-26",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Jb5t5ZHVcEo",
+    "summary": "以心金魂银的定点目标为主题。可与第四世代基础图文一起核对 Delay、Seed 确认及推进方法，区分定点、漫游和赠送事件的生成时点。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "HGSS",
+      "定点",
+      "Delay"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "devon-4th-gen-captures",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-hgss-starter-3ds",
+    "title": "HGSS 视频：3DS 上的初始伙伴与迷人之躯",
+    "original_title": "GUARANTEED SHINY STARTER POKEMON IN HEARTGOLD AND SOUL SILVER AND CUTE CHARM GLITCH ON 3DS",
+    "author": "im a blisy ._.",
+    "date": "2020-08-08",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=aHfVnqkmmUw",
+    "summary": "讨论在 3DS 运行心金魂银时的初始伙伴闪光和迷人之躯配置。可对照 ID 分组与基础校准资料阅读；使用 DS 实机参数前需考虑 3DS 启动与计时差异。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "3DS",
+      "迷人之躯",
+      "初始伙伴"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "迷人之躯乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-cute-charm-radar",
+      "devon-hgss-starter-pokemon",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-gen4-cute-charm-id",
+    "title": "第四世代视频：迷人之躯 TID／SID 组合",
+    "original_title": "HOW TO DO THE CUTE CHARM GLITCH IN 25 MINUTES OR LESS (How to RNG Cute Charm TID/SID combo!)",
+    "author": "im a blisy ._.",
+    "date": "2018-07-25",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=icFud3PS0v0",
+    "summary": "围绕迷人之躯所需的 TID／SID 组合展开。它依赖目标 PID 分组、性别比例及领队特性等前提，不等同于把所有遭遇的自然闪光率无条件改变。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "迷人之躯",
+      "TID",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "迷人之躯乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-cute-charm-radar",
+      "en-smogon-gen4-id"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-dppt-starter-cute-charm",
+    "title": "DPt 视频：初始伙伴与迷人之躯的新方法专题",
+    "original_title": "NEW EASY METHOD FOR GUARANTEED SHINY STARTER AND CUTE CHARM GLITCH IN DIAMOND/PEARL/PLATINUM",
+    "author": "im a blisy ._.",
+    "date": "2025-10-31",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=os0AOt1VMi0",
+    "summary": "2025 年发布的钻石珍珠白金初始伙伴与迷人之躯教程入口。配套关联 ID 分组和 DPt 初始伙伴图文；具体新旧方法差异及各版本事件流程仍应按视频实际步骤核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "DPt",
+      "初始伙伴",
+      "迷人之躯"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "迷人之躯乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-cute-charm-radar",
+      "devon-dppt-starter-pokemon",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-gen4-manaphy-egg",
+    "title": "第四世代视频：玛纳霏蛋的闪光乱数",
+    "original_title": "LEGIT SHINY MANAPHY EGG (HOW TO RNG MANAPHY EGG GEN 4)",
+    "author": "im a blisy ._.",
+    "date": "2017-04-20",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=6Naa785WD4M",
+    "summary": "围绕宝可梦巡护员传来的玛纳霏蛋展开。需要区分领取存档与交换后的孵化判定，并具备原始蛋来源和相应游戏；本条属于第四世代，不是 BDSP 的早期特典蛋。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "玛纳霏",
+      "礼物蛋",
+      "交换孵化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "礼物蛋乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "礼物蛋乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-manaphy-egg",
+      "en-smogon-gen4-basics"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-platinum-emulator-eggs",
+    "title": "白金模拟器视频：DeSmuME 与 Lua 孵化乱数",
+    "original_title": "(EMU) How to RNG Manipulate for Shiny Eggs in Pokémon Platinum",
+    "author": "Acrylic",
+    "date": "2024-11-18",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=-dZTQeU0bTQ",
+    "summary": "使用 DeSmuME、PokéFinder、RunAsDate 与 Devon 旧 Lua 进行白金孵化目标调整，另附 PKHeX 参考和 Lua DLL 排错。旧 LuaScripts 已停止维护，当前使用者需对照 PokeLua 与模拟器兼容情况。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "白金",
+      "DeSmuME",
+      "Lua",
+      "RunAsDate",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-dppt-breeding",
+      "devon-tool-luascripts",
+      "en-real96-pokelua",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-hgss-phs-japanese",
+    "title": "HGSS 日文视频：PHS 定点闪光目标与工具环境",
+    "original_title": "4世代乱数ツールを使用して好きな色違いポケモンを捕まえる方法！！【ポケモンHGSS 色固定乱数】",
+    "author": "タマみゆch【リボンコンプ】",
+    "date": "2021-04-30",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=Fcy3HqMGqLs",
+    "summary": "以第四世代工具寻找心金魂银定点闪光目标，简介附 PHS、Java 及配套 ID／孵化视频入口。保留旧工具环境，适合与现代工具或实机基础指南对照，不能直接混用参数。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "PHS",
+      "Java",
+      "HGSS"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-dp-roamer-japanese",
+    "title": "钻石珍珠日文视频：漫游个体与预设 ID 条件",
+    "original_title": "【乱数調整】実質5Vの色違いを簡単に出す解説(徘徊編)【ポケモンDP】",
+    "author": "parallel(パラレル)",
+    "date": "2022-04-15",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=-z_ZOXGik7o",
+    "summary": "以钻石珍珠漫游目标为例，简介列出克雷色利亚／艾姆利多相关 Seed 与 PID，并指向前两集的设置和 ID 前置。本条不是任意既有存档都能直接复制结果的流程，且未扩展为白金同参数适用。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "钻石珍珠",
+      "漫游",
+      "ID前置"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-4th-gen-roamers",
+      "en-smogon-gen4-id"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-hgss-secret-id",
+    "title": "HGSS 视频：Secret ID 乱数专题",
+    "original_title": "How to RNG Manipulate your Secret ID in Heart Gold/Soul Silver",
+    "author": "im a blisy ._.",
+    "date": "2022-07-15",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=PSIbk9CYRd0",
+    "summary": "以心金魂银 Secret ID 为核心的乱数教程。可结合 Pandora’s Box 与训练家 ID 图文理解目标 PID、TID／SID 和闪光条件的联系，注意新建存档操作与既有存档 SID 推断是不同用途。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "HGSS",
+      "SID",
+      "ID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-hgss-pandoras-box",
+      "en-smogon-gen4-id",
+      "en-smogon-secret-id"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-hgss-gifts",
+    "title": "HGSS 视频：赠送宝可梦乱数",
+    "original_title": "Shiny Gift Pokemon Every Time(How to RNG Gifts in HGSS)",
+    "author": "im a blisy ._.",
+    "date": "2022-12-21",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Ps3XDWO0x_c",
+    "summary": "聚焦心金魂银的赠送个体。与第四世代赠送生成时点图文互联，使用前应核对实际赠送事件、生成方法和 Seed 确认，不把不同礼物蛋和配信混为一类。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "HGSS",
+      "赠送"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-4th-gen-gift-pokemon",
+      "en-smogon-gen4-basics",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-hgss-wild",
+    "title": "HGSS 视频：普通野生闪光乱数",
+    "original_title": "GUARANTEED WILD SHINY POKEMON IN HEART GOLD AND SOUL SILVER(How to RNG Wild Pokemon in HGSS)",
+    "author": "im a blisy ._.",
+    "date": "2022-06-26",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=7nwsCLacQrM",
+    "summary": "心金魂银普通野生目标的实操视频入口。与基础校准、捕获图文互联，便于继续查阅遭遇槽、领队特性和推进；特殊头锤树、捕虫大赛仍需各自条件。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "HGSS",
+      "野生"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-4th-gen-captures",
+      "en-smogon-gen4-basics",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-bw-parameters",
+    "title": "BW／BW2 视频：硬件参数与 Timer0 校准",
+    "original_title": "How to calibrate RNG for Pokemon B/W or B/W2",
+    "author": "im a blisy ._.",
+    "date": "2016-06-16",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=ZKwS7J-cbTc",
+    "summary": "第五世代乱数的参数校准入口，覆盖黑白和黑白2。应先为实际主机与游戏版本建立参数，再使用种子目标；尤其不能把 BW2 多 Timer0 情况视为单次命中即可确定。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Timer0",
+      "参数校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-bw-basics",
+      "en-pokefinder",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-bw-3ds",
+    "title": "BW／BW2 视频：3DS 运行环境的乱数说明",
+    "original_title": "How to RNG Abuse on a 3DS for Pokemon B/W and B/W2",
+    "author": "im a blisy ._.",
+    "date": "2016-09-05",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Oo4XAfhVckw",
+    "summary": "专门讨论用 3DS 运行黑白／黑白2的乱数环境。可与参数教程一起查看启动时间和硬件差异；在 DS 或 DS Lite 测出的参数不能直接当作同卡带在 3DS 上的参数。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "3DS",
+      "Timer0",
+      "硬件参数"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "video-bw-parameters",
+      "en-smogon-bw-basics",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-bw-tid-sid",
+    "title": "BW／BW2 视频：训练家 TID／SID 乱数",
+    "original_title": "How to RNG Abuse Trainer ID and Secret ID in B/W or B/W2",
+    "author": "im a blisy ._.",
+    "date": "2016-08-12",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=gJp4RNuhQXI",
+    "summary": "为第五世代训练家 ID 与 SID 目标提供视频说明。关联命名确认推进和实机基础资料，需在具体游戏参数下选择目标；它与在既有存档中寻找未知 SID 的流程不同。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "TID",
+      "SID",
+      "第五世代"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-5th-gen-pandoras-box",
+      "en-smogon-bw-basics",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-bw-starters",
+    "title": "BW／BW2 视频：初始伙伴闪光与 PID 推进",
+    "original_title": "GUARANTEED SHINY STARTER IN POKEMON BLACK/WHITE/BW2(How to RNG Shiny Starter in BW1/2)",
+    "author": "im a blisy ._.",
+    "date": "2018-08-08",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=qU97vIgzi0Y",
+    "summary": "以黑白和黑白2的初始伙伴为对象。两组游戏开局事件和可推进空间不同，需配合对应版本的 IV／PID 限制阅读，不能只凭同一标题混用全部步骤。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "初始伙伴",
+      "PID",
+      "IV"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初始伙伴乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-5th-gen-starter-pokemon",
+      "en-smogon-bw-pid",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-dream-radar-reporter",
+    "title": "梦境雷达视频：RNG Reporter 的接收乱数",
+    "original_title": "How to RNG Abuse Dream Radar Pokemon in RNG Reporter B/W2",
+    "author": "im a blisy ._.",
+    "date": "2016-06-29",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=vwdCSCZJx-Q",
+    "summary": "使用 RNG Reporter 讲解黑白2接收梦境雷达个体的乱数。需要已有梦境雷达与黑白2环境；接收顺序、传送槽位和参数应按对应软件核对，不是黑白1的功能。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "梦境雷达",
+      "RNGReporter",
+      "BW2"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-dream-radar",
+      "video-dream-radar-therian"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-dream-radar-therian",
+    "title": "梦境雷达视频：灵兽形态传说的接收目标",
+    "original_title": "How to RNG Abuse Therain Legendaries from Dream Radar in RNG Reporter B/W2",
+    "author": "im a blisy ._.",
+    "date": "2016-07-02",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Xuej-gPfxNg",
+    "summary": "同作者针对梦境雷达灵兽形态传说的后续说明。与普通接收教程、Devon 图文互联，重点保留特定传送对象与接收顺序条件，不能将所有槽位按同一偏移处理。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "梦境雷达",
+      "灵兽",
+      "传送槽位"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "video-dream-radar-reporter",
+      "devon-dream-radar"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-dream-radar-pprng",
+    "title": "梦境雷达视频：早期 PPRNG／macOS 流程",
+    "original_title": "RNG Abuse Using PPRNG--How to Get Flawless Dream Radar Pokemon",
+    "author": "religiousjedi",
+    "date": "2012-10-12",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=3ru3fLNk9cA",
+    "summary": "2012 年的 PPRNG 接收教程，简介明确要求黑白2卡带、梦境雷达和参数知识，可与 RNG Reporter 方法对照。原文提到的 Pokecheck 等历史服务已不应视为当前可用的 SID 检查途径。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "PPRNG",
+      "macOS",
+      "历史工具",
+      "梦境雷达"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-dream-radar",
+      "video-dream-radar-reporter"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-bw-roamer-weather",
+    "title": "黑白视频：漫游传说的天气与 PID 干扰",
+    "original_title": "Pokemon B/W: Roamer RNG Abuse Tutorial for Nature/IV/Shininess",
+    "author": "ArtIngenious",
+    "date": "2011-07-24",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=lJi-T_dPxH8",
+    "summary": "早期 RNG Reporter 9.81 Beta 的龙卷云／雷电云教程。简介详细区分 IV 目标与 PID 推进，讨论降雨、降雪、七号道路 NPC 和季节切换对结果的影响；适用黑白，不扩展为黑白2漫游流程。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "漫游",
+      "天气",
+      "NPC",
+      "PID",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-5th-gen-roamers",
+      "retail-bw-noise",
+      "en-smogon-bw-pid"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-oras-dexnav-search-2026",
+    "title": "ORAS 视频：新版 TinyFinder 的图鉴导航搜索功能",
+    "original_title": "How to RNG manipulate DexNav encounters in Pokemon ORAS (DexNav search function)",
+    "author": "Bambo_Rambo",
+    "date": "2026-02-19",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=6fhQCWTXU3Y",
+    "summary": "Bambo_Rambo 介绍重新实现眨眼推进后的 DexNav 搜索流程，指出搜索动画中角色眨眼会消耗 RNG，并要求区域内所有 NPC 停止移动。配套 TinyFinder、3DSRNGTool 与 PokeReader，属于读取插件环境，实机需要破解条件。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "TinyFinder",
+      "PokeReader",
+      "破解",
+      "NPC",
+      "眨眼"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-tinyfinder",
+      "en-3dsrngtool-overview",
+      "en-pokereader",
+      "en-bambo-gen6-dexnav",
+      "en-bambo-gen6-dexnav-notes"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-gen6-fishing-tinyfinder",
+    "title": "XY／ORAS 视频：TinyFinder 钓鱼与拒绝学习招式推进",
+    "original_title": "Fishing RNG made EASY in 7 minutes (Pokemon XY/ORAS)",
+    "author": "Bambo_Rambo",
+    "date": "2026-02-15",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Bju9dhtfuqM",
+    "summary": "以模拟器录制演示第六世代钓鱼，作者说明同流程可用于 3DS／2DS。配套 TinyFinder、3DSRNGTool 和 PokeReader，并解释通过尝试学习 TM／HM 后取消来推进；实机使用读取插件需要破解。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "TinyFinder",
+      "PokeReader",
+      "破解",
+      "钓鱼",
+      "TM",
+      "HM"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "钓鱼乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "钓鱼乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "钓鱼乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-tinyfinder",
+      "en-3dsrngtool-overview",
+      "en-pokereader"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-oras-dexnav-cappy",
+    "title": "ORAS 视频：图鉴导航的隐藏特性、遗传招式与闪光",
+    "original_title": "Pokemon Gen 6 DexNav RNG - HA, Egg Moves, and Shinies",
+    "author": "CappyCapital",
+    "date": "2021-12-18",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=acqLZJjAGGk",
+    "summary": "CappyCapital 的图鉴导航专题，讨论隐藏特性、遗传招式、闪光和个体值目标。简介未完整列出每步读取环境，需配合详细工具指南确认；不能写成仅靠普通连锁就能精确指定全部属性。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "DexNav",
+      "隐藏特性",
+      "遗传招式"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-bambo-gen6-dexnav",
+      "en-tinyfinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介的致谢资源不等于全部为本视频实际依赖，未据此推断使用 Switch 工具。"
+  },
+  {
+    "id": "video-gen6-stationary-blisy",
+    "title": "XY／ORAS 视频：第六世代定点闪光目标",
+    "original_title": "GUARANTEED SHINIES XY ORAS GEN 6 STATIONARY RNG ABUSE",
+    "author": "im a blisy ._.",
+    "date": "2017-06-30",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=vAMzPPjTMSw",
+    "summary": "以 XY 与 ORAS 定点乱数为主题的早期视频。第六世代流程通常需获取当前 RNG 状态，工具、读取插件与游戏事件条件应配合对应图文确认，不能默认普通未破解实机即可直接照做。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "第六世代",
+      "定点",
+      "工具条件"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-pokereader",
+      "en-tinyfinder"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-usum-starter-retail-blink",
+    "title": "USUM 视频：实机初始伙伴、开场种子与眨眼定位",
+    "original_title": "How to RNG Manipulate SHINY STARTER Pokemon in Ultra Sun / Ultra Moon - Full Retail Guide",
+    "author": "Yoggtwo",
+    "date": "2026-09-14",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=GVeXnnixkFc",
+    "summary": "按章节追踪开场录像、初期 Seed、训练家 ID、眨眼读种和多次校准，配套 7GenBlinkTool、3DSRNGTool 与 EonTimer。需要取得可分析的画面记录；普通实机的眨眼法与破解读取状态的方法应分别理解。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "USUM",
+      "初始伙伴",
+      "眨眼",
+      "录像",
+      "实机"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-usum-wormhole-calibration",
+    "title": "USUM 视频：究极之洞传说的读种、目标与校准",
+    "original_title": "GET EVERY SHINY LEGENDARY FROM WORMHOLES - Ultra Sun/Moon RNG Manipulation FULL GUIDE",
+    "author": "Yoggtwo",
+    "date": "2026-09-17",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=pbzUaAFHWKk",
+    "summary": "章节从环境设置和获取 Seed 开始，依次选择目标、设置计时器并展示多轮校准。适用究极之日／究极之月的究极之洞遭遇，配套 3DSRNGTool 与 EonTimer；各目标的场景与 NPC 条件仍需单独核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "究极之洞",
+      "传说",
+      "校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-eontimer",
+      "video-usum-starter-retail-blink"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-usum-poipole",
+    "title": "USUM 视频：毒贝比目标、NPC 干扰与不安全落点",
+    "original_title": "GUARANTEED SHINY POIPOLE - RNG Manipulation Guide - Pokemon Ultra Sun/Moon",
+    "author": "Yoggtwo",
+    "date": "2026-09-24",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=QNUyNQ4QF0g",
+    "summary": "围绕毒贝比赠送乱数展开，章节明确讨论 NPC 干扰、不安全落点及多轮偏差校准。配套 3DSRNGTool 与 EonTimer，应使用毒贝比对应的生成时点与场景配置，不能照搬究极之洞目标参数。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "毒贝比",
+      "NPC",
+      "安全帧",
+      "校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "赠送乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-3ds-gen7-timeline",
+      "en-eontimer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-sm-wild",
+    "title": "太阳月亮视频：普通野生遭遇乱数",
+    "original_title": "SHINIES GUARANTEED IN SUN AND MOON (How to RNG Wild Pokemon in Sun Moon)",
+    "author": "im a blisy ._.",
+    "date": "2017-04-24",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=Zv-57WoGb6M",
+    "summary": "太阳月亮野生闪光乱数的早期教程入口。关联第七世代工具与时间线说明，使用前需核对读取环境、NPC 和遇敌类型；不要将普通野生、SOS 和钓鱼全部视为相同方法。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "太阳月亮",
+      "野生",
+      "工具条件"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-3ds-gen7-timeline"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-gen7-tsv-tid-sid",
+    "title": "SM／USUM 视频：TSV、TID 与 SID 乱数",
+    "original_title": "HOW TO RNG TRAINER SHINY VALUE  IN ULTRA SUN AND MOON AND S/M(TSV AND TID/SID RNG GUIDE)",
+    "author": "im a blisy ._.",
+    "date": "2018-03-22",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=HUiqzCj2Nbg",
+    "summary": "讨论第七世代训练家闪光值 TSV 及 TID／SID。可与初期 Seed 和工具读取说明配套理解；TSV、界面显示 ID 与内部 TID／SID 不是可不加区分替换的数值。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "TSV",
+      "TID",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "devon-7th-gen-initial-seeds"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-sm-breeding-calibration",
+    "title": "太阳月亮视频：孵化校准与蛋乱数",
+    "original_title": "SHINY EGGS IN SUN AND MOON GUARANTEED (How to Calibrate and RNG Breed in S/M)",
+    "author": "im a blisy ._.",
+    "date": "2017-05-12",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=HO9gvhPCMd8",
+    "summary": "以太阳月亮孵化乱数及校准为主题。关联 Windows 与 macOS 文字指南，便于核对蛋 Seed、亲代条件及最短领取路径；不同护符和语言组合需使用对应设定。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "孵化",
+      "蛋Seed",
+      "校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-gen7-egg-introduction",
+      "en-smogon-gen7-egg-windows",
+      "en-smogon-gen7-egg-macos"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-sm-wondercard",
+    "title": "太阳月亮视频：配信性格与个体值目标",
+    "original_title": "GUARANTEED NATURE AND IVS ON EVENT POKEMON IN SUN AND MOON! (HOW TO RNG WONDERCARD POKEMON S/M)",
+    "author": "im a blisy ._.",
+    "date": "2017-05-18",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=MjfNWq8MI-Q",
+    "summary": "以太阳月亮 Wonder Card 领取的性格与个体值控制为主题。需有相应配信卡，并按卡片参数确认哪些属性固定、是否存在闪光锁，不能把配信乱数泛称为任意配信都能闪光。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "WonderCard",
+      "配信",
+      "性格",
+      "个体值"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "配信乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-7th-gen-wondercards-time-line",
+      "devon-wondercards-time-leap",
+      "en-3dsrngtool-overview"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。简介含跨世代通用资源列表，未据此确认全部操作细节；关联的现行工具文档不表示旧视频使用同一版本。"
+  },
+  {
+    "id": "video-usum-wormhole-timeline-leap",
+    "title": "USUM 视频：究极之洞与 Timeline Leap",
+    "original_title": "Pokemon Gen 7 Wormhole RNG - A Legendary Guide",
+    "author": "CappyCapital",
+    "date": "2021-03-12",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=GL9IWvuGUjo",
+    "summary": "CappyCapital 的第七世代系列结尾，聚焦 USUM 究极之洞传说与究极异兽，并介绍 Timeline Leap。属于旧工具时代的流程，需结合对应读取插件／破解环境、NPC 与时间线条件使用。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "究极之洞",
+      "TimelineLeap",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-timelineleap",
+      "devon-citrarng-wormhole-stationaries",
+      "en-3ds-gen7-timeline"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-gen7-sos",
+    "title": "第七世代视频：SOS 双状态追踪与低等级暴飞龙",
+    "original_title": "Pokemon Gen 7 SOS RNG - Low Level, Fully Evolved HA Monsters",
+    "author": "CappyCapital",
+    "date": "2021-02-25",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=JyQW4buHeGY",
+    "summary": "以第一座岛的低等级暴飞龙为案例讨论 SOS，简介指出需要同时追踪两方面的推进。配合第七世代工具与 SOS 图文核对读取环境和呼叫条件，不能把普通野生目标搜索直接替代 SOS。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "SOS",
+      "暴飞龙",
+      "双状态"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "SOS乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "SOS乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。适用游戏族按第七世代 SOS 主题归类，实际示例版本和逐步参数尚未逐段确认。"
+  },
+  {
+    "id": "video-gen7-fishing",
+    "title": "第七世代视频：钓鱼双输入与道具槽",
+    "original_title": "Pokemon Gen 7 Fishing RNG - *magikarp intensifies*",
+    "author": "CappyCapital",
+    "date": "2021-03-09",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=gpyIO4c5fjM",
+    "summary": "CappyCapital 的第七世代钓鱼专题，简介附 3DSRNGTool 的 FishingItemSlots 配套文档。与工具 Wiki 的抛竿、收竿双输入流程互联；地点、道具槽与读取插件条件需要按具体游戏核对。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "钓鱼",
+      "道具槽",
+      "双输入"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "钓鱼乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3ds-gen7-fishing",
+      "en-3dsrngtool-overview"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-gen7-japanese-seed-chapter",
+    "title": "SM／USUM 日文视频：定点系列第一章与当前位置",
+    "original_title": "【ポケモンSM/USUM】⑨でも出来る固定シンボル乱数調整 第一章「初期seedと現在位置」【ゆっくり解説】",
+    "author": "Φ -phi-",
+    "date": "2018-01-12",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=EwACSHtUkbE",
+    "summary": "Φ 的定点乱数系列从初期 Seed 与当前位置开始，简介直接列出后续目标捕获、漫游究极异兽和毒贝比章节。使用旧版 3DSRNGTool 0.9.9.1，适合补充日文术语与流程脉络，实际使用应核对现行工具差异。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "初期Seed",
+      "当前位置",
+      "系列教程",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-3ds-gen7-timeline"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-swsh-cram-o-matic",
+    "title": "剑盾视频：合成机器的破解与非破解路线",
+    "original_title": "Pokemon Sword and Shield Cram-o-matic RNG - Unlimited Apriballs and Sport/Safari Balls!",
+    "author": "CappyCapital",
+    "date": "2022-06-06",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=swkJieirxmU",
+    "summary": "介绍铠之孤岛合成机器的稀有球目标，作者明确说明可走破解或非破解路线，并引用 Anubis 的研究。非破解方案仍可能依赖外部种子检查／导出服务；旧 cappyrng 服务当前可用性未核实。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "合成机器",
+      "DLC",
+      "种子检查"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "合成机器乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-owoow",
+      "en-moar-swsh-rng"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。合成机器实际需要铠之孤岛 DLC；未将视频所称 non-CFW 等同于完全不需要外部数据获取。"
+  },
+  {
+    "id": "video-bdsp-arceus-timeline",
+    "title": "BDSP 视频：阿尔宙斯眨眼法与时间线校准",
+    "original_title": "I got THREE Shiny Arceus in One Night with this INSANE Method",
+    "author": "Papa Jefé",
+    "date": "2022-03-18",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=6tbCmEt5Nr8",
+    "summary": "用 Project_Xs 和 PokéFinder 分阶段定位 Seed、推进目标并处理阿尔宙斯时间线。目标发生在 BDSP；需要完成传说 阿尔宙斯的相应解锁进度，不能把它误归为传说 阿尔宙斯的闪光捕获教程。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "阿尔宙斯",
+      "眨眼",
+      "ProjectXs",
+      "解锁前置"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs",
+      "en-pokefinder",
+      "en-bdsp-rng-reference"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-bdsp-heatran-japanese",
+    "title": "BDSP 日文视频：席多蓝恩旧版工具配置",
+    "original_title": "【日本初】色違いヒードランの乱数調整解説【ポケモンBDSP】",
+    "author": "ふくみみ",
+    "date": "2022-04-08",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=n4LNtmC84ME",
+    "summary": "介绍 BDSP 席多蓝恩的乱数调整，简介给出 cave.json 和示例 Delay 87，并指向旧 BDSP-RNG-Tools。参数属于作者该场景示例；旧仓库当前获取受限，不能保证仍能直接下载，也不能将 87 当作所有环境通用值。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "席多蓝恩",
+      "cave.json",
+      "历史工具"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs",
+      "en-bdsp-rng-reference"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-swsh-raid-japanese-2019",
+    "title": "剑盾日文视频：早期三星至五星团体战乱数",
+    "original_title": "【ポケモン剣盾】夢特性も対応！色違い固定☆3～☆5レイド乱数のやり方 ※改造無し",
+    "author": "R4VEN TV / れいぶん",
+    "date": "2019-12-27",
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=NLXlZBqHSx4",
+    "summary": "2019 年发布的三星至五星闪光团体战教程，原标题包含隐藏特性与不修改的说明。保留为早期实机方法，旧种子检查工具和 DLC 前规则需结合后续指南核对，不将当时的全部服务视为现行可用。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "团体战",
+      "历史方法",
+      "2019"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "团体战乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-smogon-swsh-raid"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-sv-item-printer-full-osirus",
+    "title": "朱紫视频：道具打印机球彩、双倍奖励与各类产物",
+    "original_title": "Item Printer RNG Exploit COMPLETE Guide for ALL Items in Pokemon Scarlet and Violet DLC",
+    "author": "Osirus",
+    "date": "2024-04-17",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=RvCZ_tHfsMA",
+    "summary": "Osirus 的完整专题分开介绍球彩准备、稀有球、双倍奖励和道具日期时间表，简介附 ItemPrinterDeGacha 与研究者出处。需要对应 DLC 及打印机升级；不能把这里的时间种子机制推广成朱紫每日团体战 Seed 可预测。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "道具打印机",
+      "球彩",
+      "双倍奖励",
+      "DLC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-auto-item-printer",
+      "video-osirus-item-printer",
+      "video-blisy-item-printer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-sv-item-printer-automation",
+    "title": "朱紫视频：Pokemon Automation 自动道具打印机演示",
+    "original_title": "Pokemon Automation: Automatic Item Printer RNG manipulation",
+    "author": "J W",
+    "date": "2024-07-07",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=XEMFVwbK4GQ",
+    "summary": "演示 Pokemon Automation 的自动打印机乱数，简介同时提供硬件视频和硬件需求文档。属于外接控制器／微控制器等设备参与的自动化，应与仅手动校时按键的流程区分。",
+    "evidence": "配套自动化演示",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "硬件自动化",
+      "PokemonAutomation",
+      "道具打印机"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-auto-item-printer"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "video-flowtimer-gunnermaniac",
+    "title": "FlowTimer 视频：速通与乱数多段计时入门",
+    "original_title": "How to Use FlowTimer (RNG Manipulation in Pokemon Speedrunning)",
+    "author": "Gunnermaniac",
+    "date": "2019-05-04",
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=hF1zg31TAxk",
+    "summary": "由 FlowTimer-Java README 直接引用的教学视频，介绍将计时器用于宝可梦速通／RNG 操作。简介含旧版本下载和 Java 地址，实际安装应回到原项目发布入口核对，不把历史运行库下载当作当前必需版本。",
+    "evidence": "公开视频教程",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "FlowTimer",
+      "多段计时",
+      "速通"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "状况复现"
+      ],
+      [
+        "实机",
+        "第二世代",
+        "水晶",
+        "状况复现"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-flowtimer-java",
+      "en-gc-rng-assistant"
+    ],
+    "review_notes": "核对公开标题、频道、简介、章节（如有）与 YouTube 发布日期元数据；日期保留源端时区。未逐段观看或实机验证。"
+  },
+  {
+    "id": "en-eontimer",
+    "title": "EonTimer：第三至第五世代与自定义多段网页计时",
+    "original_title": "EonTimer",
+    "author": "DasAmpharos / ToastPlusOne",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/DasAmpharos/EonTimer",
+    "summary": "当前 README 介绍 EonTimer 的网页重写：第三世代标准／变量目标、第四世代 Delay 与秒数校准、第五世代 Standard／C-Gear／Entralink，以及自定义多段计时。可安装为离线 PWA；旧视频桌面版界面与现行网页界面不同。",
+    "evidence": "官方工具 README",
+    "status": "中文摘要",
+    "tags": [
+      "EonTimer",
+      "计时器",
+      "PWA",
+      "校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-ten-lines",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对原仓库当前英文 README，未执行其中安装或构建命令；未注明独立发表日期。网页入口 https://dasampharos.github.io/EonTimer/ 。"
+  },
+  {
+    "id": "en-flowtimer-java",
+    "title": "FlowTimer-Java：原项目引用的视频教程",
+    "original_title": "FlowTimer-Java",
+    "author": "stringflow",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/stringflow/FlowTimer-Java",
+    "summary": "仓库 README 主要以视频入口介绍 FlowTimer，直接引用 Gunnermaniac 的使用教程。收录为多段计时工具的原始来源索引，不把简短 README 扩写成完整安装或校准手册。",
+    "evidence": "原始仓库与配套视频入口",
+    "status": "中文摘要",
+    "tags": [
+      "FlowTimer",
+      "Java",
+      "计时器"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-flowtimer-gunnermaniac",
+      "en-gc-rng-assistant"
+    ],
+    "review_notes": "核对 README 中实际存在的教程链接；未安装或运行程序，未核实旧二进制及 Java 下载。未以提交日期代替发表日期。"
+  },
+  {
+    "id": "en-gc-rng-assistant",
+    "title": "GC RNG Assistant：随机对战读种与初始伙伴预测",
+    "original_title": "GC-pokemon-RNG-manipulation-assistant",
+    "author": "aldelaro5",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/aldelaro5/GC-pokemon-RNG-manipulation-assistant",
+    "summary": "通过圆形竞技场／XD 随机对战确定当前 Seed，再预测新游戏与姓名确认时机下的初始伙伴、ID 及能力。README 提供完整使用说明，需准备对应游戏的预计算数据，配合计时器命中确认帧；它不是所有暗黑捕获的自动执行器。",
+    "evidence": "作者工具与完整 README",
+    "status": "中文摘要",
+    "tags": [
+      "GameCube",
+      "随机对战",
+      "预计算",
+      "计时"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-gc-assistant-author",
+      "en-flowtimer-java",
+      "en-eontimer"
+    ],
+    "review_notes": "核对系统需求、预计算数据、种子搜索、目标预测及计时流程；未执行下载或构建命令。"
+  },
+  {
+    "id": "en-acrylic-offset-calculator",
+    "title": "Offset Calculator：目标帧与实际遭遇的差值校准",
+    "original_title": "Offset Calculator",
+    "author": "acrylicc / Acrylic",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/acrylicc/offset-calculator",
+    "summary": "以 FRLG 模拟器为例，比较目标位置和实际遇到个体对应的位置，计算需要修正的帧，再回读即时存档重试。README 展示 PokéFinder 查询与校准截图；它只计算偏差，不会自动得出未知 Seed 或自动命中个体。",
+    "evidence": "作者工具与示例说明",
+    "status": "中文摘要",
+    "tags": [
+      "Python",
+      "Offset",
+      "即时存档",
+      "PokéFinder"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-frlg-emulator-fishing",
+      "en-pokefinder"
+    ],
+    "review_notes": "核对英文 README 的具体示例及使用范围，未运行脚本。"
+  },
+  {
+    "id": "en-auto-controller2",
+    "title": "Auto Controller 2：Switch 版 FRLG 乱数自动输入程序",
+    "original_title": "Auto Controller 2",
+    "author": "brianuuu",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/brianuuu/AutoController2",
+    "summary": "Switch／Switch 2 自动化工具，v0.5.0 发布记录明确加入 FRLG RNG Manipulation 程序。配套作者视频说明由微控制器模拟 Pro 手柄，并结合采集卡和额外硬件完成校准与输入；不是无需外设的普通手动计时器。",
+    "evidence": "原始仓库、发布记录与作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "AutoController2",
+      "硬件自动化",
+      "微控制器",
+      "采集卡"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-frlg-switch-auto-controller"
+    ],
+    "review_notes": "当前 README 只有简短介绍，功能依据另行核对的 v0.5.0 发布记录与作者视频简介。发布记录日期 2026-04-05 不冒充整个仓库的发表日期；未下载或执行程序。"
+  },
+  {
+    "id": "retail-rs-safari",
+    "title": "红蓝宝石：狩猎地带路线与 Map Refreshing",
+    "original_title": "R/S Safari Zone & Map Refreshing",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/rs/intermediate/safarizone/",
+    "summary": "针对无法在狩猎地带内部存档的情况，用菜单刷新和固定走位压制 NPC 干扰，并规划经过草地与不同区域的路线。前提明确为 RTC 电池耗尽、初期 Seed 5A0，使用 Ten Lines 与 EonTimer，原文也列出 GBA 模拟器环境。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "狩猎地带",
+      "MapRefreshing",
+      "NPC",
+      "电池耗尽"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "狩猎地带乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "狩猎地带乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-rs-roamer",
+    "title": "红蓝宝石：漫游释放时点与个体值读取错误",
+    "original_title": "R/S Roamer Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/rs/intermediate/roaming-pokemon/",
+    "summary": "从通关后家中电视释放拉帝欧斯／拉帝亚斯的事件开始，用 Ten Lines 和计时器校准，再安排搜寻与捕获。原文限定电池耗尽环境，并解释红蓝宝石漫游个体读取错误导致多数个体值为零，不能承诺任意高个体值目标。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "漫游",
+      "电池耗尽",
+      "个体值错误"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "漫游乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "devon-3rd-gen-roamers"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-rs-rock-smash",
+    "title": "红蓝宝石：碎岩遭遇的空结果与多次校准",
+    "original_title": "R/S Rock Smash Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/rs/intermediate/rock-smash-rs/",
+    "summary": "用朝北鼻等碎岩目标说明 Ten Lines 搜索、空遭遇与实际命中校准，并提醒可碎岩物体也可能影响 RNG。原文限定电池耗尽的 5A0 起点，需按地点与碎岩类别筛选；不是每次敲石头都能遇敌。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "碎岩",
+      "朝北鼻",
+      "电池耗尽"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "碎岩乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "碎岩乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "video-rse-rock-smash",
+      "en-ten-lines",
+      "en-eontimer"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-frlg-static",
+    "title": "FRLG：Ten Lines 定点与赠送目标的实机校准",
+    "original_title": "FR/LG Static Encounter Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/frlg/beginner/frlgstatic/",
+    "summary": "从赠送鲤鱼王示例讲起，说明声音／按键配置、主机类型、SID、目标搜索和偏差校准，覆盖定点与赠送。原文另列破解 3DS 的 open_agb_firm 环境；漫游三兽不在本篇流程内。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "定点",
+      "赠送",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-switch-static"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-frlg-starter",
+    "title": "FRLG：用初始伙伴闪光反推 SID",
+    "original_title": "FR/LG Starter Manip & SID Deduction",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/frlg/beginner/frlgstarter/",
+    "summary": "通过开局定时、公开 TID、SID 候选与初始伙伴结果逐步缩小 SID。作者明确说明本法是在推断 SID，并非任意控制 TID／SID；主机帧率、文本速度和命名后时间线都影响校准。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "SID推断",
+      "初始伙伴",
+      "帧率"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-switch-starter"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-frlg-perfect",
+    "title": "FRLG：高个体值定点目标与启动输入搜索",
+    "original_title": "FR/LG Perfect IV Static Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/frlg/advanced/perfect-static-manip/",
+    "summary": "进阶指南从目标 32 位 Seed、启动设置与输入序列寻找高个体值、性格和觉醒力量组合，使用 Ten Lines 与 EonTimer。能否闪光还受存档 TID／SID 和可达 PID 组合限制；原文提到改变 SID 的漏洞／编辑属于另一个条件，不能当作普通命中本身。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "进阶",
+      "初期Seed",
+      "个体值",
+      "觉醒力量"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-teachytv"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-frlg-fishing",
+    "title": "FRLG：钓鱼额外消耗、等级范围与偏差识别",
+    "original_title": "FR/LG Fishing Encounter Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/frlg/intermediate/fishing/",
+    "summary": "针对抛竿失败带来的额外消耗，以及同槽位宽等级范围造成的个体识别困难，逐步选择钓点、鱼竿、目标并校准。示例为彩虹市池塘臭泥，使用 Ten Lines 与 EonTimer，并要求先知道 SID。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "钓鱼",
+      "遭遇槽",
+      "校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "钓鱼乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "video-frlg-emulator-fishing"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-frlg-safari",
+    "title": "FRLG：狩猎地带固定路线与遇敌控制",
+    "original_title": "FR/LG Safari Zone Encounter Manip",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/frlg/intermediate/safari-zone/",
+    "summary": "因为内部无法存档，从入口开始用一致走位和菜单操作减少草地、水面、NPC 与道具球的消耗差异，示例为西区肯泰罗。乱数只保证目标出现的条件；狩猎球捕获与逃跑仍需另行判断，可能要重复命中。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "狩猎地带",
+      "NPC",
+      "肯泰罗"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "狩猎地带乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-ten-lines",
+      "en-eontimer",
+      "retail-rs-safari"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-bw-noise",
+    "title": "BW／BW2：NPC、天气与四号道路车辆的乱数干扰",
+    "original_title": "Gen 5 RNG noise Guide",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/bw/extra%20credit/npcs/",
+    "summary": "区分静止、固定路线与随机移动 NPC，说明读档、甜甜香气／香甜蜂蜜期间的额外消耗，以及地点中较安静的区域。另讲天气处理、四号道路车辆、剧情进度差异与配信领取地点，可配合地点工具选位；部分地点备注仍保留作者待确认说明。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "NPC",
+      "天气",
+      "车辆",
+      "干扰"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "retail-bw-location",
+      "en-smogon-bw-pid",
+      "video-bw-roamer-weather"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-bw-sid",
+    "title": "BW／BW2：用原始伙伴或固定闪光推断既有存档 SID",
+    "original_title": "SID finding Guide",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/bw/extra%20credit/sidfinding/",
+    "summary": "利用初始伙伴缩小 SID；BW2 还提供以固定闪光为线索的替代方法。前提包括原卡带、建档时主机、建档前未软重启；初始伙伴法还要求建档到领取间未重启，不能概括为所有旧存档均可无条件找回 SID。",
+    "evidence": "原始英文操作指南",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "SID推断",
+      "初始伙伴",
+      "既有存档"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-pokefinder",
+      "en-smogon-bw-basics",
+      "video-bw-tid-sid"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "retail-bw-location",
+    "title": "Gen 5 Location Tool：天气、NPC 数量与安静区域参考",
+    "original_title": "Gen 5 Location Tool",
+    "author": "Retail Pokémon RNG（页面未署个人作者）",
+    "date": null,
+    "language": "en",
+    "url": "https://retailrng.com/bw/extra%20credit/gen5locationtool/",
+    "summary": "与 Gen 5 RNG noise Guide 配套的交互地点工具，区分 BW1／BW2，提供天气、随机移动 NPC、安静区域及地点备注。它用于计划目标地点和减少干扰，不负责读取当前 Seed 或代替硬件参数校准。",
+    "evidence": "作者站点交互工具与说明",
+    "status": "中文摘要",
+    "tags": [
+      "RetailRNG",
+      "TenLines",
+      "天气",
+      "NPC",
+      "地点表"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "retail-bw-noise"
+    ],
+    "review_notes": "核对正文、环境要求和配套资源。页面未明确署个人作者／发表日期，未采用主题模板的 article:author 或抓取时间代填；未实际操作游戏或执行页面脚本。"
+  },
+  {
+    "id": "en-smogon-rs-method1",
+    "title": "红蓝宝石：电池耗尽下的 Method 1 与 TID／SID",
+    "original_title": "Ruby and Sapphire RNG Manipulation of Method 1 Pokemon and TID/SID Guide",
+    "author": "NixHex / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/rs_nonbredrng",
+    "summary": "以 RTC 电池耗尽、固定 Seed 5A0 为前提，解释红蓝宝石 Method 1 的定点与赠送目标、初始帧，以及为闪光组合规划 TID／SID。属于早期指南，不适用于 RTC 正常环境的同参数操作，也不要求玩家照原文拆除电池。",
+    "evidence": "原始图文指南",
+    "status": "中文摘要",
+    "tags": [
+      "Method1",
+      "电池耗尽",
+      "5A0",
+      "TID",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-eontimer",
+      "video-rs-static-gifts",
+      "devon-dead-battery-pandoras-box"
+    ],
+    "review_notes": "核对 Smogon 正文署名 NixHex、适用电池状态及目录；原文未注明发表日期。仅整理技术前提，未执行其硬件操作建议。"
+  },
+  {
+    "id": "en-smogon-gen4-eggs",
+    "title": "DPt／HGSS：先确定蛋 PID，再命中领取个体值",
+    "original_title": "DPP / HGSS RNG Manipulation Guide Part 3 - How to Hatch Perfect Pokemon",
+    "author": "Everstone / Smogon",
+    "date": null,
+    "language": "en",
+    "url": "https://www.smogon.com/ingame/rng/dpphgss_rng_part3",
+    "summary": "孵化指南先配置亲代与个体值目标，再选择闪光蛋 Seed，分别处理 PID 确认与领取 IV。原文按 DPt／HGSS 说明硬币、电话、聒噪和 NPC 干扰，强调临近目标时应停在正确的前一帧，失败后通过实际 IV 回查。",
+    "evidence": "原始图文指南",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "PID",
+      "IV",
+      "RNGReporter",
+      "NPC"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-smogon-gen4-basics",
+      "video-hgss-eggs",
+      "devon-dppt-breeding",
+      "devon-hgss-breeding"
+    ],
+    "review_notes": "核对正文署名 Everstone 及两组游戏的步骤差异；未运行游戏或验证各示例 Seed。原文未明确发表日期。"
+  },
+  {
+    "id": "ja-yatsuna-tools",
+    "title": "夜綱工具索引：3genSearch、CoReader 与多世代辅助工具",
+    "original_title": "作ったもの",
+    "author": "夜綱 / yatsuna827",
+    "date": null,
+    "language": "ja",
+    "url": "https://scrapbox.io/yatsuna827827-12010999/%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE",
+    "summary": "原作者集中说明 3genSearch、CoSearch／CoReader、XDSearch／XDReader、ChatotTool 等工具，并保留下载入口和机制文章。3genSearch 从 Quan 的项目接续开发；部分工具仅输出列表或已中断开发，不能把整个索引当作一套自动完成所有乱数的教程。",
+    "evidence": "原作者工具说明与索引",
+    "status": "中文摘要",
+    "tags": [
+      "3genSearch",
+      "CoSearch",
+      "CoReader",
+      "XDReader",
+      "ChatotTool",
+      "原作者"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿（Switch 版）",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-frlg-japanese-tool-wild",
+      "video-frlg-switch-japanese-starter-roamer",
+      "ja-yatsuna-chatot",
+      "ja-yatsuna-cosearch-id"
+    ],
+    "review_notes": "通过 Scrapbox 公开页面数据核对正文和项目归属；未下载网盘程序。页面编辑时间与创建时间不代替明确发表日期。Switch 分类依据另行收录的视频使用说明，不推断所有旧工具都适配 Switch。"
+  },
+  {
+    "id": "ja-yatsuna-chatot",
+    "title": "ChatotTool：相邻音高定位初期 Seed 与当前消耗",
+    "original_title": "ChatotTool 取扱説明書",
+    "author": "夜綱 / yatsuna827",
+    "date": null,
+    "language": "ja",
+    "url": "https://scrapbox.io/yatsuna827827-12010999/ChatotTool%20%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8",
+    "summary": "说明 Chatot Search、Counter、消耗数重新定位与启动时刻计算。通过相邻聒噪音高的高／低／相近缩小 Seed，建议预录 880 Hz 正弦波；启动时刻按 59.8261 fps 计算，直接把帧数输入假定 60 fps 的计时器会出现误差。",
+    "evidence": "原作者完整操作说明",
+    "status": "中文摘要",
+    "tags": [
+      "ChatotTool",
+      "聒噪",
+      "音高",
+      "880Hz",
+      "帧率"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "ja-yatsuna-tools",
+      "en-smogon-gen4-basics"
+    ],
+    "review_notes": "核对 Scrapbox 公开原文中的前提、操作与计时差异；未下载或运行工具，原文未明确发表日期。"
+  },
+  {
+    "id": "ja-yatsuna-cosearch-id",
+    "title": "圆形竞技场：CoSearch 范围搜索 ID 与偏差修正",
+    "original_title": "CoSearchを使ったポケモンコロシアムID調整の解説　範囲指定版",
+    "author": "夜綱 / yatsuna827",
+    "date": null,
+    "language": "ja",
+    "url": "https://scrapbox.io/yatsuna827827-12010999/CoSearch%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%83%A0ID%E8%AA%BF%E6%95%B4%E3%81%AE%E8%A7%A3%E8%AA%AC%E3%80%80%E7%AF%84%E5%9B%B2%E6%8C%87%E5%AE%9A%E7%89%88",
+    "summary": "先以随机对战和 CoReader 确定 Seed，再通过 CoSearch 条件编辑器搜索 TID、安排消耗、定时确认姓名并回查偏差。说明随机对战推进与设置保存每次 24 消耗的组合，读取画面推荐采集卡；操作目标和空白时间需按本机校准。",
+    "evidence": "原作者逐步操作说明",
+    "status": "中文摘要",
+    "tags": [
+      "CoSearch",
+      "CoReader",
+      "随机对战",
+      "采集卡",
+      "TID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "ja-yatsuna-tools",
+      "en-gc-rng-assistant",
+      "video-colosseum-tid-sid"
+    ],
+    "review_notes": "核对公开原文步骤和示例；未将例子的 Seed、帧数与偏差当作通用常量。Scrapbox 的后台编辑日期不作为发表日期。"
   }
 ]
