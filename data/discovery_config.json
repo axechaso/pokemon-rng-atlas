@@ -1,0 +1,24 @@
+{
+  "host_delay_seconds": 1.0,
+  "feeds_per_run": 24,
+  "archive_pages_per_run": 8,
+  "candidate_pages_per_run": 12,
+  "searches": [
+    { "query": "ポケモン 乱数調整", "sort": "recent" },
+    { "query": "ポケモン 乱数調整", "sort": "popular" },
+    { "query": "ポケモン 初期seed", "sort": "recent" },
+    { "query": "ポケモン 初期seed", "sort": "popular" },
+    { "query": "ポケモン ID調整", "sort": "recent" },
+    { "query": "ポケモン 孵化 乱数", "sort": "popular" },
+    { "query": "HGSS 乱数", "sort": "popular" },
+    { "query": "BW 乱数", "sort": "popular" },
+    { "query": "エメラルド 乱数", "sort": "popular" },
+    { "query": "ポケモン RNG", "sort": "popular" },
+    { "query": "孵化乱数", "sort": "popular" },
+    { "query": "固定乱数", "sort": "popular" },
+    { "query": "初期seed", "sort": "popular" },
+    { "query": "エメラルド乱数", "sort": "popular" },
+    { "query": "色乱数", "sort": "recent" },
+    { "query": "乱数調整", "sort": "recent" }
+  ]
+}

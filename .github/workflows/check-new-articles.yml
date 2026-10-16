@@ -1,30 +1,76 @@
-name: Discover new Hatena articles
+name: Discover Hatena sources and revisions
 on:
   schedule:
-    - cron: '17 0 * * *' # around 09:17 JST, delays possible
+    - cron: '17 0 * * *' # Around 08:17 China / 09:17 Japan; delays are possible.
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: Inspect additional rotating archive pages and candidate articles
+        type: boolean
+        default: false
 permissions:
   contents: write
+concurrency:
+  group: hatena-watch-main
+  cancel-in-progress: false
 jobs:
   discover:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check source feeds
-        run: python scripts/check_feeds.py
-      - name: Commit unpublished candidates (if any)
+      - name: Discover candidates and inspect published Hatena articles
+        id: monitor
+        continue-on-error: true
+        env:
+          BACKFILL: ${{ inputs.backfill || false }}
         run: |
-          if [ -f data/discovery_candidates.json ]; then
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add data/discovery_candidates.json
-            if ! git diff --cached --quiet; then
-              git commit -m 'docs: record new Hatena RNG candidates for review'
-              git push
-            fi
+          rm -f reports/discovery-run.json reports/discovery-review.md
+          args=()
+          if [ "$BACKFILL" = "true" ]; then
+            args+=(--backfill)
           fi
+          python scripts/check_feeds.py "${args[@]}"
+      - name: Show coverage and review queue
+        if: ${{ always() && !cancelled() }}
+        run: |
+          if [ -f reports/discovery-review.md ]; then
+            head -c 900000 reports/discovery-review.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'Monitoring stopped before a current report could be generated. Check the discovery step logs.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Save monitoring report
+        if: ${{ always() && !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: hatena-review-${{ github.run_id }}
+          path: |
+            reports/discovery-*.json
+            reports/discovery-review.md
+            data/discovery_candidates.json
+            data/revision_candidates.json
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Commit review queue and monitoring state
+        if: ${{ always() && !cancelled() }}
+        run: |
+          if [ ! -f reports/discovery-run.json ]; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/discovery_candidates.json data/revision_candidates.json data/source_watch_state.json data/discovery_sources.json reports/discovery-review.md reports/discovery-run.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: update Hatena candidates and source revision watch'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Fail when a critical monitoring channel is unavailable
+        if: ${{ steps.monitor.outcome == 'failure' }}
+        run: exit 1

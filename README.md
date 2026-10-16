@@ -52,11 +52,50 @@ python scripts/build.py
 
 `dist/` 会自动重新生成网站所有目录和文章资料卡。注意：**不要编辑 `dist/` 内的生成页面**，这些会被覆盖。
 
-## 自动发现（候选不等于公开发表）
+## 自动发现与原文修订监测
 
-`scripts/check_feeds.py` 会读取 `data/sources.json` 中的 Hatena 博客 Atom/RSS，只获取标题、链接和日期并筛选 RNG 关键词；新发现保存到 `data/discovery_candidates.json`，**不会未经审核直接发布到网站**。
+每天自动生成[待审核更新清单](reports/discovery-review.md)，分别列出新来源线索、已收录原文变化与获取失败。**候选不等于已收录；脚本不修改 `data/articles.json`，也不会未经审核创建网站资料卡。** 原始候选尚未完成语言和相关性审核，可能包含其他游戏或不适合收录的页面。
 
-当前配置 11 个日文博客 Feed。其他来源包括 [Devon Studios](https://devonstudios.it/) 的意大利语专题、[官方 GitHub](https://github.com/DevonStudios) 的英文工具说明、[Admiral-Fish / RNGWriteups](https://github.com/Admiral-Fish/RNGWriteups) 的英文机制文档，以及 [Smogon](https://www.smogon.com/ingame/rng/)、[3DSRNGTool](https://github.com/wwwwwwzx/3DSRNGTool)、[PokeLua](https://github.com/Real96/PokeLua)、[BDSP RNG Reference](https://github.com/zaksabeast/BDSP-RNG-Reference) 和 [Tera Finder](https://github.com/Manu098vm/Tera-Finder) 的英文指南与工具文档。此前已收录 [PokemonRNG.com](https://www.pokemonrng.com/) 及其[原始指南仓库](https://github.com/zaksabeast/PokemonRNGGuides) 的 9 篇指南，后续补充按要求未新增该站来源。这些来源目前人工核对后收录，未配置 RSS 自动发现。
+发现范围不再限于预先登记的 11 个博客：
+
+- Hatena Bookmark 的跨博客搜索 RSS：按宝可梦、初期 Seed、ID、孵化及游戏名组合查询，兼顾近期结果和历史热门结果，不设近五年限制。它只覆盖书签搜索索引可见的页面，**不是对 Hatena 全平台的穷举**。
+- 读取已登记和新发现博客的 Atom／RSS2／RSS1；从已收录文章的正文引用寻找其他作者。
+- 按博客轮换读取归档分页，持续回溯旧文；新博客进入独立的发现来源登记表，不直接成为已核实作者。
+
+第一期修订监测覆盖已收录的 **44 篇 Hatena 原文**。首次成功读取仅建立基线；后续比较文章标题、正文段落、正文链接、图片地址和源站日期元数据。导航、侧栏、评论、分享按钮与广告不参与正文指纹。只有日期元数据变化时会单独标明相应字段，不能据此判断技术内容已修正。图片地址不变但图片文件被替换、嵌入视频内容变化，目前无法识别。其他 **208 条来源（其他网站、GitHub、YouTube、X）暂未纳入正文修订监测**。
+
+保留首次基线、最近成功观察与待审变化历史；重复运行不清空待审记录，获取失败或正文提取失败不覆盖有效基线。只保存标题、日期、段落和链接的哈希及变化数量，**不保存或公开原文全文**。`published_raw`、`source_updated_raw`、书签索引日期、HTTP ETag／Last-Modified 与抓取时间分别记录；缺失发表日期不会用更新时间替代，未来置顶日期需要人工核实。
+
+| 文件 | 用途 |
+| --- | --- |
+| `data/sources.json` | 人工登记的初始博客来源 |
+| `data/discovery_config.json` | 搜索词、每轮 Feed／归档／候选页数量和请求间隔 |
+| `data/discovery_sources.json` | 自动发现的博客、首次发现时间和依据 |
+| `data/discovery_candidates.json` | 待审新来源、发现途径、元数据和审核状态 |
+| `data/source_watch_state.json` | 原文基线、最近观察、HTTP 条件请求、轮换游标及获取错误 |
+| `data/revision_candidates.json` | 原文变化历史及审核状态 |
+| `reports/discovery-review.md` | 可直接阅读的待审核更新清单 |
+| `reports/discovery-run.json` | 本次请求、覆盖范围、预算与失败明细 |
+
+```bash
+python scripts/check_feeds.py
+# 增加本轮归档回溯和候选原文核对，仍受请求预算约束
+python scripts/check_feeds.py --backfill --request-limit 180
+# 人工核实某条修订并说明处理结果；如需改摘要，仍须另行编辑 articles.json
+python scripts/check_feeds.py --accept-revision <修订ID> --note "核对结果与本站处理说明"
+```
+
+已收录到 `articles.json` 的候选下次运行会标记为 `published`。不合适的候选可将 `review_status` 改为 `dismissed` 并填写 `review_note`，保留记录以避免再次加入。修订审核命令保留变化历史；仅当该条变化仍对应最近观察时更新已审核基线，不会把基线回退至旧版本。运行巡检可刷新审核清单。
+
+默认每轮最多 180 次获取调用、14 分钟、每个响应 3 MB；遵守 `robots.txt` 及其抓取间隔。每轮最多读取 24 个 Feed、8 个归档页、12 篇候选原文，归档与候选在 `--backfill` 时加倍。页面按最近尝试时间轮换，候选核对名额的三分之一优先重试之前失败的页面；获取受限与预算未覆盖部分均在报告列出。返回 HTTP 304 时保留已有指纹。关键词、索引排名、Feed 留存和旧博客模板会造成漏检，正文哈希变化只是人工复核信号。
+
+`.github/workflows/check-new-articles.yml` 每天约北京时间 **08:17** 运行，也可在 [Actions](https://github.com/axechaso/pokemon-rng-atlas/actions/workflows/check-new-articles.yml) 手动启动并选择回溯模式。Actions 可能延迟。工作流展示报告、保留 30 天运行附件并提交候选与监测状态；任一关键通道（原文检测、跨博客搜索）完全不可用时会报告失败，同时保留已经取得的结果。状态提交不触发 Pages 重建。并发巡检串行执行，推送前先 rebase，出现冲突时停止而不覆盖他人修改。
+
+ChatGPT 里的“Hatena 宝可梦乱数资料巡检”定时任务与此 GitHub 工作流相互独立，**不会自动把 ChatGPT 报告写入这个网站**。
+
+## 其他资料来源与核对范围
+
+其他来源包括 [Devon Studios](https://devonstudios.it/) 的意大利语专题、[官方 GitHub](https://github.com/DevonStudios) 的英文工具说明、[Admiral-Fish / RNGWriteups](https://github.com/Admiral-Fish/RNGWriteups) 的英文机制文档，以及 [Smogon](https://www.smogon.com/ingame/rng/)、[3DSRNGTool](https://github.com/wwwwwwzx/3DSRNGTool)、[PokeLua](https://github.com/Real96/PokeLua)、[BDSP RNG Reference](https://github.com/zaksabeast/BDSP-RNG-Reference) 和 [Tera Finder](https://github.com/Manu098vm/Tera-Finder) 的英文指南与工具文档。此前已收录 [PokemonRNG.com](https://www.pokemonrng.com/) 及其[原始指南仓库](https://github.com/zaksabeast/PokemonRNGGuides) 的 9 篇指南，后续补充按要求未新增该站来源。这些来源目前人工核对后收录。
 
 此前沿工具与插件的原始说明扩展 [CaptureSight](https://github.com/zaksabeast/CaptureSight)、[PokeReader](https://github.com/zaksabeast/PokeReader)、[TinyFinder](https://github.com/Bambo-Rambo/TinyFinder)、[Project_Xs](https://github.com/Lincoln-LM/Project_Xs)、[owoow](https://github.com/LegoFigure11/owoow) 及 [Moarencounterbots Wiki](https://github.com/Lusamine/SysBot.NET/wiki)，并收录 [Bambo-Rambo](https://github.com/Bambo-Rambo/RNG-Guides)、[Billo](https://billo-guides.github.io/) 与 [Pokemon Automation](https://pokemonautomation.github.io/) 的英文操作文档。作者明确弃用的旧 Wiki、空白占位页及受限帖文不作为新来源。
 
@@ -69,14 +108,6 @@ YouTube 原题与频道通过公开 oEmbed 核对，摘要仅按可读标题、�
 Devon Studios 的作者与发表日期按官网文章元数据核对；其部分英文标题、English 标签对应的正文实际为意大利语，均按正文标注。官方工具 README 未注明发表日期，记为 `null`。旧版 [LuaScripts](https://github.com/DevonStudios/LuaScripts) 已停止维护，维护者指向 [Real96/PokeLua](https://github.com/Real96/PokeLua)；教程依赖的旧模拟器、插件及存档工具条件在各资料卡中注明。
 
 已索引本次核对到的全部 **79 篇 Devon 官网教程**及 4 份官方英文工具说明。PokeLua 归属 Real96，第二世代在其 README 中仍标记为 `soon`。Tera Finder 文档用于朱紫种子枚举和编辑研究：每日 Seed 使用加密安全随机数，不能将计算器描述成可预测自然调日期推进的乱数流程。
-
-```bash
-python scripts/check_feeds.py
-```
-
-仓库附带 `.github/workflows/check-new-articles.yml`，当你把本目录推送到 GitHub 并启用 Actions 后，可每天定期收集候选。它只监控已经录入 `sources.json` 的博客，**不是全 Hatena 平台的完整搜索引擎**；平台范围的历史文章发现仍需人工或独立巡检任务扩展来源。RSS 只能覆盖博客 Feed 目前保留的条目，旧文需要另行回溯归档。GitHub Actions 计划任务可能延迟。
-
-ChatGPT 里的“Hatena 宝可梦乱数资料巡检”定时任务与此 GitHub 工作流相互独立，**不会自动把 ChatGPT 报告写入这个网站**。
 
 ## 发布到 GitHub Pages
 
@@ -98,6 +129,8 @@ ChatGPT 里的“Hatena 宝可梦乱数资料巡检”定时任务与此 GitHub 
 ## 当前范围
 
 当前 **252 条来源资料：日文 52 条、英文 121 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖红蓝黄、日版 N64 竞技场2、金银／水晶、红蓝宝石、绿宝石、GBA 与 Switch 版 FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+
+2026-10-16：扩展 Hatena 跨博客发现、历史归档回溯与已收录原文修订检测，自动生成待审核清单和失败报告。新增资料巡检说明入口。候选等待人工核实，正式资料仍为 252 条。
 
 2026-10-16：新增 **55 条来源**（英文 49 条、日文 6 条），包括 19 份工具说明、33 份图文教程与机制文档、1 支配套 YouTube 演示及 2 条 X 研究者原帖。沿 GitHub 作者、贡献者和原始引用补充 GB／GSC、第四世代每日物种与道具、Switch 版 FRLG、LGPE 隐藏道具及第三至第五世代机制，并主动扩展 Smogon、作者资料站和博客。增加配套互链，区分工具用途、补丁条件和历史结论；未新增 PokemonRNG.com 来源。
 

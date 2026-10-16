@@ -1,0 +1,184 @@
+{
+  "https://blastoise-x.hatenablog.com/": {
+    "name": "ろいしんぶろぐ",
+    "homepage": "https://blastoise-x.hatenablog.com/",
+    "feed": "https://blastoise-x.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://bzl.hatenablog.com/": {
+    "name": "bzl.hatenablog.com",
+    "homepage": "https://bzl.hatenablog.com/",
+    "feed": "https://bzl.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029"
+  },
+  "https://d.hatena.ne.jp/FuchiAz/": {
+    "name": "d.hatena.ne.jp",
+    "homepage": "https://d.hatena.ne.jp/FuchiAz/",
+    "feed": "https://d.hatena.ne.jp/FuchiAz/rss",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://fuchiaz.hatenadiary.org/entry/20110109/1294611196"
+  },
+  "https://dokudenpa.hatenablog.jp/": {
+    "name": "毒電波にご注意を",
+    "homepage": "https://dokudenpa.hatenablog.jp/",
+    "feed": "https://dokudenpa.hatenablog.jp/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://e52301147.hatenablog.com/": {
+    "name": "サイファーの日記",
+    "homepage": "https://e52301147.hatenablog.com/",
+    "feed": "https://e52301147.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://eruakudiary.hatenablog.com/": {
+    "name": "eruakudiary.hatenablog.com",
+    "homepage": "https://eruakudiary.hatenablog.com/",
+    "feed": "https://eruakudiary.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://fuchiaz.hatenadiary.org/": {
+    "name": "fuchiaz.hatenadiary.org",
+    "homepage": "https://fuchiaz.hatenadiary.org/",
+    "feed": "https://fuchiaz.hatenadiary.org/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://hijikichi.hatenablog.com/": {
+    "name": "hijikichi.hatenablog.com",
+    "homepage": "https://hijikichi.hatenablog.com/",
+    "feed": "https://hijikichi.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://honasho5.hatenadiary.org/": {
+    "name": "honasho5.hatenadiary.org",
+    "homepage": "https://honasho5.hatenadiary.org/",
+    "feed": "https://honasho5.hatenadiary.org/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://hope3gen.hatenablog.com/": {
+    "name": "ニケルダーク大学",
+    "homepage": "https://hope3gen.hatenablog.com/",
+    "feed": "https://hope3gen.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://kuzuhiko.hatenadiary.org/": {
+    "name": "kuzuhiko.hatenadiary.org",
+    "homepage": "https://kuzuhiko.hatenadiary.org/",
+    "feed": "https://kuzuhiko.hatenadiary.org/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E5%AD%B5%E5%8C%96%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://larvesta10.hatenablog.com/": {
+    "name": "めらめら",
+    "homepage": "https://larvesta10.hatenablog.com/",
+    "feed": "https://larvesta10.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://metagross-armor.hatenablog.com/": {
+    "name": "metagross-armor.hatenablog.com",
+    "homepage": "https://metagross-armor.hatenablog.com/",
+    "feed": "https://metagross-armor.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/HGSS%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://miga0547.hatenablog.com/": {
+    "name": "miga0547.hatenablog.com",
+    "homepage": "https://miga0547.hatenablog.com/",
+    "feed": "https://miga0547.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://milk4724.hatenablog.com/": {
+    "name": "ミルクの日記",
+    "homepage": "https://milk4724.hatenablog.com/",
+    "feed": "https://milk4724.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://milk4724.hatenadiary.org/": {
+    "name": "milk4724.hatenadiary.org",
+    "homepage": "https://milk4724.hatenadiary.org/",
+    "feed": "https://milk4724.hatenadiary.org/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://namofure.hatenablog.com/": {
+    "name": "TASはTASけあい",
+    "homepage": "https://namofure.hatenablog.com/",
+    "feed": "https://namofure.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://notwogetstwo.hatenablog.com/": {
+    "name": "notwogetstwo.hatenablog.com",
+    "homepage": "https://notwogetstwo.hatenablog.com/",
+    "feed": "https://notwogetstwo.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://oupo.hatenadiary.com/": {
+    "name": "oupoの日記",
+    "homepage": "https://oupo.hatenadiary.com/",
+    "feed": "https://oupo.hatenadiary.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://prie0908.hatenadiary.com/": {
+    "name": "prie0908.hatenadiary.com",
+    "homepage": "https://prie0908.hatenadiary.com/",
+    "feed": "https://prie0908.hatenadiary.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://purely11.hatenablog.com/": {
+    "name": "剣盾から始める過去作乱数",
+    "homepage": "https://purely11.hatenablog.com/",
+    "feed": "https://purely11.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://rusted-coil-test.hatenablog.com/": {
+    "name": "rusted-coil-test.hatenablog.com",
+    "homepage": "https://rusted-coil-test.hatenablog.com/",
+    "feed": "https://rusted-coil-test.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/HGSS%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://taiyaki3gen.hatenablog.com/": {
+    "name": "ぽけどころ",
+    "homepage": "https://taiyaki3gen.hatenablog.com/",
+    "feed": "https://taiyaki3gen.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://takedpok.hatenablog.com/": {
+    "name": "takedpok.hatenablog.com",
+    "homepage": "https://takedpok.hatenablog.com/",
+    "feed": "https://takedpok.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:21:46+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E5%9B%BA%E5%AE%9A%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://wasou3721.hatenablog.com/": {
+    "name": "オワコンの地:ワソポタミア文明",
+    "homepage": "https://wasou3721.hatenablog.com/",
+    "feed": "https://wasou3721.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "data/sources.json"
+  },
+  "https://you396.hatenadiary.jp/": {
+    "name": "you396.hatenadiary.jp",
+    "homepage": "https://you396.hatenadiary.jp/",
+    "feed": "https://you396.hatenadiary.jp/feed",
+    "discovered_at": "2026-10-16T06:16:56+00:00",
+    "discovered_via": "https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  }
+}
