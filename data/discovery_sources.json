@@ -6,6 +6,13 @@
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
   },
+  "https://buster-poke.hatenablog.com/": {
+    "name": "buster-poke.hatenablog.com",
+    "homepage": "https://buster-poke.hatenablog.com/",
+    "feed": "https://buster-poke.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:40:49+00:00",
+    "discovered_via": "https://d.hatena.ne.jp/buster_poke/rss"
+  },
   "https://bzl.hatenablog.com/": {
     "name": "bzl.hatenablog.com",
     "homepage": "https://bzl.hatenablog.com/",
@@ -18,21 +25,27 @@
     "homepage": "https://d.hatena.ne.jp/FuchiAz/",
     "feed": "https://d.hatena.ne.jp/FuchiAz/rss",
     "discovered_at": "2026-10-16T06:21:46+00:00",
-    "discovered_via": "https://fuchiaz.hatenadiary.org/entry/20110109/1294611196"
+    "discovered_via": "https://fuchiaz.hatenadiary.org/entry/20110109/1294611196",
+    "enabled": false,
+    "migrated_to": "https://fuchiaz.hatenadiary.org/"
   },
   "https://d.hatena.ne.jp/buster_poke/": {
     "name": "d.hatena.ne.jp",
     "homepage": "https://d.hatena.ne.jp/buster_poke/",
     "feed": "https://d.hatena.ne.jp/buster_poke/rss",
     "discovered_at": "2026-10-16T06:33:44+00:00",
-    "discovered_via": "https://blastoise-x.hatenablog.com/entry/method"
+    "discovered_via": "https://blastoise-x.hatenablog.com/entry/method",
+    "enabled": false,
+    "migrated_to": "https://buster-poke.hatenablog.com/"
   },
   "https://d.hatena.ne.jp/oupo/": {
     "name": "d.hatena.ne.jp",
     "homepage": "https://d.hatena.ne.jp/oupo/",
     "feed": "https://d.hatena.ne.jp/oupo/rss",
     "discovered_at": "2026-10-16T06:33:44+00:00",
-    "discovered_via": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0"
+    "discovered_via": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
+    "enabled": false,
+    "migrated_to": "https://oupo.hatenadiary.com/"
   },
   "https://dokudenpa.hatenablog.jp/": {
     "name": "毒電波にご注意を",
@@ -145,6 +158,13 @@
     "feed": "https://notwogetstwo.hatenablog.com/feed",
     "discovered_at": "2026-10-16T06:21:46+00:00",
     "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://nyokki2319.hatenablog.com/": {
+    "name": "nyokki2319.hatenablog.com",
+    "homepage": "https://nyokki2319.hatenablog.com/",
+    "feed": "https://nyokki2319.hatenablog.com/feed",
+    "discovered_at": "2026-10-16T06:40:49+00:00",
+    "discovered_via": "https://blastoise-x.hatenablog.com/entry/TID-to-TSV"
   },
   "https://oupo.hatenadiary.com/": {
     "name": "oupoの日記",
