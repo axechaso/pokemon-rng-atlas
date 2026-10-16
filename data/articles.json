@@ -1388,5 +1388,1741 @@
         "初期Seed与校准"
       ]
     ]
+  },
+  {
+    "id": "devon-channel-jirachi",
+    "title": "Channel：用菜单推进调整配信基拉祈",
+    "original_title": "Channel Jirachi",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-04-09",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/04/09/channel-jirachi/",
+    "summary": "使用 Finder-ToolBox 的 Channel 方法搜索个体，再以 GameCube RTC、RunAsDate 和菜单开关次数推进，联机传送到红宝石／蓝宝石。原文依赖旧版 Dolphin Lua Core 与 VBA-M；接收存档需通关联盟、在宝可梦中心保存并留出队伍空位。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Channel",
+      "基拉祈",
+      "GameCube RTC",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon Channel",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-pokemon-box-gift-eggs",
+    "title": "Pokémon BOX：四种特殊招式礼物蛋的校准",
+    "original_title": "Pokémon Box Gift Eggs",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-04-02",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/04/02/pokemon-box-gift-eggs/",
+    "summary": "针对青绵鸟、蛇纹熊、向尾喵和皮丘礼物蛋，用 Method 1 Reverse 搜索并建立视觉帧与 Origin Seed 的对应，再校准 Dolphin 的启动时间。需同时备份 GBA 与 GameCube 存档；不同礼物蛋可能要分别校准，闪光需考虑交换后的孵化存档。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "礼物蛋",
+      "Method 1 Reverse",
+      "Origin Seed",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "礼物蛋乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-gift-umbreon-espeon",
+    "title": "圆形竞技场：开局月亮伊布与太阳伊布的赠送乱数",
+    "original_title": "Colosseum Gift Umbreon\\Espeon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-14",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/14/colosseum-gift-umbreon-espeon/",
+    "summary": "说明开局两只伊布的生成与 TID／SID 的联系，在 Dolphin Lua 环境中配合 PokeFinder 和 RTC 校准命名确认时点。两只个体不能同时任意选取理想个体值；原文指出它们均不能为雌性或闪光，需先理解 ID 乱数流程。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "太阳伊布",
+      "月亮伊布",
+      "TID/SID",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-gift-eevee",
+    "title": "XD：开局伊布与 ID 生成联动的乱数调整",
+    "original_title": "XD Gift Eevee",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-13",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/13/xd-gift-eevee/",
+    "summary": "用 RNG Reporter、PokeFinder 与旧版 Dolphin Lua Core 搜索开局伊布，按命名确认到个体生成的偏移校准。伊布的 PID 与 TID／SID 生成相连，闪光和个体值的组合受约束；PAL 与美日版的推进操作有差异。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "伊布",
+      "TID/SID",
+      "RNG Reporter",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-poke-spots-captures",
+    "title": "XD：Poké Spot 野生个体的 PID 与个体值分阶段调整",
+    "original_title": "XD Poké Spots Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/10/xd-poke-spots-captures/",
+    "summary": "Poké Spot 的 PID 在出现通知时决定，个体值则在确认野生遭遇时生成，因此需要分两次校准。原文用 PokeFinder、Dolphin Lua 和步数计数控制流程；这些野生个体可以闪光，但移动消耗、盆才怪等事件和目标跳过会影响结果。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Poké Spot",
+      "PID",
+      "个体值",
+      "步数"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "Poké Spot乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-dukings-trades",
+    "title": "XD：Duking 交换个体的 TID／SID 与生成时点",
+    "original_title": "XD Duking’s Trades",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-08",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/08/xd-dukings-trades/",
+    "summary": "使用 PokeFinder 和 Dolphin Lua 推进 NPC 交换个体，结合菜单消耗校准交谈时点。交换所得个体使用 NPC 的 TID 与玩家存档的 SID；若追求闪光，须先以这组 ID 检查目标 PID，而不能直接套用玩家自己的完整 ID 组合。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Duking",
+      "NPC交换",
+      "TID/SID",
+      "PID"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "交换乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-mt-battle-johto-starters",
+    "title": "XD：战斗山城都初始伙伴奖励乱数",
+    "original_title": "XD Mt. Battle Johto Starters",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-07",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/07/xd-mt-battle-johto-starters/",
+    "summary": "以同一队伍完成故事模式战斗山百人挑战后，在最终战结束前校准菊草叶、火球鼠或小锯鳄奖励。原文使用 Dolphin Lua、即时存档和 PokeFinder，需预留最后一战的乱数消耗；战斗动画与场上个体会改变可到达帧。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "战斗山",
+      "城都初始伙伴",
+      "PokeFinder",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "赠送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-shadow-captures",
+    "title": "XD：暗黑宝可梦的 Shadow Lock 与重遇限制",
+    "original_title": "XD Shadow Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-06-29",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/06/29/xd-shadow-captures/",
+    "summary": "使用旧版 Dolphin Lua Core 与 PokeFinder 调整暗黑个体，区分队伍约束、前一个暗黑个体是否已生成及 Anti-Shiny／Shiny-Skip 情形。XD 暗黑个体不能闪光；首次遭遇会固定 PID，重遇时不能把它当作全新个体重新搜索。",
+    "evidence": "模拟器进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Shadow Lock",
+      "Shiny-Skip",
+      "首次遭遇",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "暗黑宝可梦乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-xd-shadows-roadmap",
+    "title": "XD：按流程排列的暗黑宝可梦乱数路线图",
+    "original_title": "XD Shadows Roadmap",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/15/xd-shadows-roadmap/",
+    "summary": "按剧情出现顺序汇总暗黑目标的 Shadow Lock、场景噪声、建议推进范围和战斗动画消耗，作为捕获教程的配套索引。所列范围依赖队伍、招式与中途战斗状态，作者要求先行校准；流程使用 Lua 和即时存档。",
+    "evidence": "模拟器实测路线索引",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "路线图",
+      "Shadow Lock",
+      "场景噪声",
+      "Lua"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "暗黑宝可梦乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-mt-battle-ho-oh",
+    "title": "圆形竞技场：战斗山百人挑战的凤王奖励乱数",
+    "original_title": "Colosseum Mt. Battle Ho-Oh",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-05-22",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/05/22/colosseum-mt-battle-ho-oh/",
+    "summary": "完成剧情并净化全部 48 只暗黑宝可梦后，使用剧情队伍挑战战斗山 VS 100。原文在最后一战前保留存档，以 Dolphin Lua 与 PokeFinder 校准战斗结束时的奖励生成；这只凤王不能闪光，战斗动画会影响可到达帧。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "凤王",
+      "战斗山",
+      "PokeFinder",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "赠送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-e-reader-shadows",
+    "title": "圆形竞技场日版：e-Reader 暗黑个体的 PID 调整",
+    "original_title": "Colosseum e-Reader Shadows",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-04-29",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/04/29/colosseum-e-reader-shadows/",
+    "summary": "面向日版剧情通关后的 e-Reader 专属暗黑波克比、咩利羊与巨钳螳螂，说明 Dolphin 与 VBA-M 联机及 PokeFinder 搜索。它们的性格、性别和个体值预设，主要可调整 PID 与特性；不能套用普通暗黑个体的个体值筛选。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "e-Reader",
+      "日版限定",
+      "PID",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "e-Reader乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-shadow-captures",
+    "title": "圆形竞技场：暗黑个体生成、队伍锁与帧跳过",
+    "original_title": "Colosseum Shadow Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-04-07",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/04/07/colosseum-shadow-captures/",
+    "summary": "用 PokeFinder、RunAsDate 和旧版 Dolphin Lua Core 搜索暗黑个体，结合普通与暗黑宝可梦摘要推进。部分敌方队伍存在性格、性别约束；首次遭遇固定 PID，场景噪声和不可到达帧需要靠即时存档与重新校准处理。",
+    "evidence": "模拟器进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Shadow Lock",
+      "PID",
+      "场景噪声",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "暗黑宝可梦乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-colosseum-shadows-roadmap",
+    "title": "圆形竞技场：暗黑宝可梦的存档点与消耗路线图",
+    "original_title": "Colosseum Shadows Roadmap",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-05-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/05/10/colosseum-shadows-roadmap/",
+    "summary": "按剧情顺序记录暗黑目标附近的存档点、移动路线、背景噪声和推进范围，并附具体场景操作建议。路线依赖中途战斗是否已完成及队伍的取胜速度，不能把示例消耗当作通用常数；原文使用 Lua 与即时存档辅助。",
+    "evidence": "模拟器实测路线索引",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "路线图",
+      "存档点",
+      "场景噪声",
+      "Lua"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "暗黑宝可梦乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-gamecube-initial-seeds",
+    "title": "GameCube：Origin Seed、RTC 与启动时间校准",
+    "original_title": "GameCube Initial Seeds",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/20/gamecube-initial-seeds/",
+    "summary": "在 Dolphin Lua 环境中先记录基准日期的 Origin Seed，再通过 PokeFinder 的 GameCube RTC 逆算目标启动时间，交由 RunAsDate 固定。教程解释 32／64 位程序匹配和时间选项；这是模拟器控制条件下的方法。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Origin Seed",
+      "GameCube RTC",
+      "RunAsDate",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon Channel",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-pokemon-box-captures",
+    "title": "Pokémon BOX 冒险模式：Method 4 与 H4 捕获",
+    "original_title": "Pokémon Box Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/15/pokemon-box-captures/",
+    "summary": "通过 BOX 冒险模式运行红宝石／蓝宝石，在 Dolphin Lua 与 VBA-M 联机环境中寻找 Method 4 定点和 Method H4 野生个体。初期 Seed 取自 GBA RTC，VBlank 仍会改变生成方法；原文还讨论两个平台间的存档同步问题。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Method 4",
+      "Method H4",
+      "VBlank",
+      "Dolphin"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-wishmaker-jirachi",
+    "title": "WISHMKR 基拉祈：用存档区校验和控制配信 Seed",
+    "original_title": "Wishmaker Jirachi",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-10-29",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/10/29/wishmaker-jirachi/",
+    "summary": "讲解 Colosseum Bonus Disc 的 WISHMKR 基拉祈以红宝石／蓝宝石存档 B 块第 0 区校验和作为 Seed，再用 Finder-ToolBox、Jirachi-Finder 与旧版 VBA-RR 准备目标存档。Seed 限于 16 位，传送依赖 Dolphin／VBA-M 联机环境。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "WISHMKR",
+      "基拉祈",
+      "Checksum",
+      "Jirachi-Finder"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-gba-direct-distributions",
+    "title": "第三世代：部分 GBA 直送配信的校验和 Seed",
+    "original_title": "GBA Direct Distributions",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-16",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/16/gba-direct-distributions/",
+    "summary": "以 Doel 代欧奇希斯、10 周年和 Aura 梦幻等直送配信为例，说明各存档区校验和经 XOR 形成 16 位 Seed，再通过 Jirachi-Finder 和 Lua 校准。依赖原文指定的 VBA-RR 存档处理；适用配信存在闪光限制，须核对配信程序支持的游戏。",
+    "evidence": "模拟器机制与教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "直送配信",
+      "Checksum",
+      "XOR",
+      "Jirachi-Finder"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "配信乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3rd-gen-initial-seeds",
+    "title": "红蓝宝石：通过 RTC 与 RunAsDate 命中初期 Seed",
+    "original_title": "3rd Gen Initial Seeds",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-29",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/29/3rd-gen-initial-seeds/",
+    "summary": "用 PokeFinder 将目标 Seed 转换为启动日期和时间，再由 RunAsDate 固定 VBA-RR 的 RTC，以 Lua 确认结果。原文强调这是红宝石／蓝宝石的时间生成机制，不能直接用于火红／叶绿或绿宝石。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "初期Seed",
+      "RTC",
+      "RunAsDate",
+      "VBA-RR"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3rd-gen-gift-pokemon",
+    "title": "第三世代：赠送、化石与初始伙伴的生成时点",
+    "original_title": "3rd Gen Gift Pokémon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-22",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/22/3rd-gen-gift-pokemon/",
+    "summary": "将 GBA 第三世代赠送个体按 Method 1 搜索，逐项说明领取对话和生成延迟，包括初始伙伴、化石与剧情礼物。需先掌握对应游戏的捕获及初期 Seed 流程，并用 VBA-RR Lua 核对；游戏内固定数据的 NPC 交换不属于此方法。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "赠送",
+      "Method 1",
+      "化石",
+      "Lua"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "赠送乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "赠送乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "赠送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3rd-gen-roamers",
+    "title": "第三世代：漫游个体的释放事件与个体值限制",
+    "original_title": "3rd Gen Roamers",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-17",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/17/3rd-gen-roamers/",
+    "summary": "按电视事件、颜色选择和剧情对话等生成节点调整漫游个体，在 VBA-RR 中配合 PokeFinder 与 Lua 校准。红蓝宝石和火红／叶绿有漫游个体值缺陷，绿宝石已修复；应在释放时调整，而非等到草丛遭遇时才开始。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "漫游",
+      "Method 1",
+      "个体值缺陷",
+      "Lua"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "漫游乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "漫游乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "漫游乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3rd-gen-rock-smash",
+    "title": "第三世代：碎岩遇敌与 VBlank 生成方法",
+    "original_title": "3rd Gen Rock Smash",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-12-08",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/12/08/3rd-gen-rock-smash/",
+    "summary": "用 Finder-ToolBox 搜索碎岩目标，按游戏与 VBlank 情况区分 Method H1／H2／H4，并通过 VBA-RR Lua 校准。火红／叶绿可利用遇敌步数计数保证触发，红蓝宝石和绿宝石不能直接使用这项技巧；同步性格仅适用于绿宝石。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "碎岩",
+      "VBlank",
+      "Method H",
+      "步数"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "碎岩乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "碎岩乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "碎岩乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-frlg-unown",
+    "title": "FRLG：未知图腾形态与 Reverse Method 调整",
+    "original_title": "FRLG Unown",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-11-09",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/11/09/frlg-unown/",
+    "summary": "针对七之岛遗迹的未知图腾，用 Finder-ToolBox 同时筛选字母、PID 和个体值，再以 GBA Initial Seeds Finder 与 VBA-RR Lua 校准。其生成使用 Reverse Method；VBlank 可能切换方法，同步特性不能传递性格。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "未知图腾",
+      "Reverse Method",
+      "VBlank",
+      "形态"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "未知图腾乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3rd-gen-pokerus",
+    "title": "红蓝宝石／绿宝石：战斗结算的宝可病毒乱数",
+    "original_title": "3rd Gen Pokérus",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/20/3rd-gen-pokerus/",
+    "summary": "用 VBA-RR Lua 先测量战斗结算延迟，再由 Pokerus-Finder 搜索感染目标帧并逐帧确认。原文适用于红宝石、蓝宝石和绿宝石，要求检查队伍的既往感染状态；火红／叶绿不在该工具与流程的支持范围内。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Pokérus",
+      "宝可病毒",
+      "Pokerus-Finder",
+      "VBA-RR"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "宝可病毒乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "宝可病毒乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-headbutt-trees",
+    "title": "HGSS：头锤树的分组与野生乱数",
+    "original_title": "HGSS Headbutt Trees",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-04-16",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/04/16/hgss-headbutt-trees/",
+    "summary": "区分由 TID／SID 决定的普通树分组与位置预设的特殊树，用 PokeFinder 的 Method K／Headbutt 搜索目标。原文在 DeSmuME Lua 环境中暂停并校准出招时点；所用工具没有完整树型地图，需要先确认目标树。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "头锤树",
+      "Headbutt",
+      "Method K",
+      "TID/SID"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "头锤树乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-unown",
+    "title": "第四世代：未知图腾字母、解谜进度与电台",
+    "original_title": "4th Gen Unown",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-23",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/23/4th-gen-unown/",
+    "summary": "分别整理 DPt 遗迹房间和 HGSS 解谜、捕获记录对未知图腾形态的影响，配合 Finder-ToolBox、Unown-Finder-G4 与 DeSmuME Lua 搜索。HGSS 的神秘电台可改变部分字母候选，但不能把同一规则套用于问号与叹号形态。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "未知图腾",
+      "Unown-Finder-G4",
+      "神秘电台",
+      "形态"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "未知图腾乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "未知图腾乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-gift-pokemon",
+    "title": "第四世代：赠送与剧情礼物的 Method 1 调整",
+    "original_title": "4th Gen Gift Pokémon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-02-07",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/02/07/4th-gen-gift-pokemon/",
+    "summary": "用 PokeFinder 的 Method 1 和 DeSmuME Lua 调整赠送个体，并逐项列出对话、移动与生成时点。涵盖 DPt、HGSS 的剧情礼物和部分特殊事件；刺刺耳皮丘的 PID 等属性已固定，只能调整个体值，初始伙伴需参照独立教程。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "赠送",
+      "Method 1",
+      "剧情事件",
+      "刺刺耳皮丘"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "赠送乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "赠送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-bug-catching-contest",
+    "title": "HGSS：捕虫大赛的日期、队伍与推进条件",
+    "original_title": "HGSS Bug Catching Contest",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-27",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/27/hgss-bug-catching-contest/",
+    "summary": "使用 PokeFinder 的 Method K／Bug Catching Contest 与 DeSmuME Lua，在允许举办大赛的日期搜索目标。队伍仅能带一只，使用甜甜香气时还要核对首发特性条件；场内无法带聒噪鸟辅助，原文改用电台进行精细推进。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "捕虫大赛",
+      "Method K",
+      "电台",
+      "甜甜香气"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "捕虫大赛乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-honey-trees",
+    "title": "DPt：涂蜜树物种选择与捕获分两步调整",
+    "original_title": "DPPt Honey Trees",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-22",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/22/dppt-honey-trees/",
+    "summary": "先通过 Researcher 与遭遇表控制涂蜜后出现的物种，再用 Method J 调整个体。原文在 DeSmuME Lua 环境中说明小卡比兽特殊树、NPC 消耗与重复涂同一棵树的影响；这些条件不能用普通野生遭遇槽直接代替。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "涂蜜树",
+      "小卡比兽",
+      "Researcher",
+      "Method J"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "涂蜜树乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dppt-trophy-garden",
+    "title": "DPt：自豪的后院每日物种与遭遇槽调整",
+    "original_title": "DPPt Trophy Garden",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/20/dppt-trophy-garden/",
+    "summary": "说明豪宅主人公布的当日与前日稀有物种分别占据遭遇槽 6、7，先调整公布物种，再进行捕获乱数。用 PokeFinder、DeSmuME Lua 和日记／聒噪鸟推进；普通草丛与宝可追踪采用不同搜索配置，日期变化也需提前安排。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Trophy Garden",
+      "遭遇槽",
+      "每日物种",
+      "Method J"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "自豪的后院乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-roamers",
+    "title": "第四世代：漫游释放顺序与起始偏移",
+    "original_title": "4th Gen Roamers",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-01-06",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/06/4th-gen-roamers/",
+    "summary": "按 DPt、HGSS 的漫游释放事件整理 Method 1 搜索与起始帧补正，再用 DeSmuME Lua 和聒噪鸟校准。多只漫游同时生成时存在顺序与不同偏移，不能将一个目标的推进数直接用于其余个体；同步特性不参与此生成方法。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "漫游",
+      "Method 1",
+      "Starting Frame",
+      "释放顺序"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "漫游乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "漫游乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-4th-gen-pokerus",
+    "title": "第四世代：宝可病毒的 DP 与 Pt／HGSS 流程",
+    "original_title": "4th Gen Pokérus",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-31",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/31/4th-gen-pokerus/",
+    "summary": "用 Pokerus-Finder 搜索战斗中可感染的目标，并通过 DeSmuME Lua 测量结算延迟。钻石／珍珠需要专用脚本；白金与 HGSS 使用另一套流程，以队伍中接近升级个体的精灵球动画推进，不能混用两个分支的校准步骤。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Pokérus",
+      "宝可病毒",
+      "Pokerus-Finder",
+      "DeSmuME"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可病毒乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "宝可病毒乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-manaphy-egg",
+    "title": "玛纳霏蛋：领取存档与交换孵化的闪光条件",
+    "original_title": "Manaphy Egg",
+    "author": "Devon Studios / Drakero",
+    "date": "2021-03-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/10/manaphy-egg/",
+    "summary": "围绕第四世代玛纳霏蛋的防闪光重抽，用 Finder-ToolBox 与 DeSmuME Lua 调整领取结果。需要分别准备领取与孵化存档：领取方不使目标 PID 闪光，再交换给具有相应 TID／SID 的存档孵化；原文也涉及神秘礼物卡的导入。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "玛纳霏",
+      "Manaphy",
+      "PID",
+      "交换孵化"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "礼物蛋乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "礼物蛋乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hgss-safari-zone",
+    "title": "HGSS：狩猎地带的摆件、等待天数与遭遇槽",
+    "original_title": "HGSS Safari Zone",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/10/hgss-safari-zone/",
+    "summary": "先按目标物种安排区域、摆件及生效天数，再用 Method K 与 DeSmuME Lua 校准。原文所用 PokeFinder 未完整处理狩猎地带遭遇槽，因此需要实际捕获结果建立映射；移动触发的 128 步消耗也要计入。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Safari Zone",
+      "摆件",
+      "遭遇槽",
+      "128步"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "狩猎地带乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-bw2-entralink-captures",
+    "title": "BW2：Standard Seed 的连入之森捕获乱数",
+    "original_title": "BW2 Entralink Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-03-03",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/03/03/bw2-entralink-captures/",
+    "summary": "在 DeSmuME 中用 RNG Reporter 搜索 Standard Seed，并分别对齐连入之森的个体值与 PID 推进。原文使用 Gen 5 Save Tool 准备森林内容，需计入交谈和脚本显示补正；这些个体不能闪光，同步特性也不能传递性格。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Entralink",
+      "Standard Seed",
+      "连入之森",
+      "RNG Reporter"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "连入之森乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-bw-entralink-captures",
+    "title": "BW：C-Gear Seed 的连入之森捕获乱数",
+    "original_title": "BW Entralink Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-02-27",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/02/27/bw-entralink-captures/",
+    "summary": "用 RNG Reporter、RunAsDate 和 DeSmuME Lua 命中 C-Gear Seed，再对齐连入之森的个体值与性格。原文通过存档工具准备森林内容，森林中的个体移动会扰动 PID；流程含专属偏移，不能直接套用 BW2 的 Standard Seed 方法。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Entralink",
+      "C-Gear",
+      "连入之森",
+      "DeSmuME"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "连入之森乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-starter-pokemon",
+    "title": "BW／BW2：初始伙伴的 IV 帧与 PID 推进限制",
+    "original_title": "5th Gen Starter Pokémon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-02-26",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/02/26/5th-gen-starter-pokemon/",
+    "summary": "用 RNG Reporter 搜索初始伙伴，将 IV 帧限定为 1，再在 DeSmuME Lua 中校准 PID 与最终领取输入。开局尚无队伍，不能照搬普通捕获的个体值推进方式；BW 与 BW2 可用的 PID 推进手段也不同，闪光与个体值需共同搜索。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "初始伙伴",
+      "IVRNG",
+      "PIDRNG",
+      "RNG Reporter"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "初始伙伴乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-gift-pokemon",
+    "title": "第五世代：赠送个体与特殊性别、闪光条件",
+    "original_title": "5th Gen Gift Pokémon",
+    "author": "Devon Studios / _Dragon",
+    "date": "2022-02-23",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/02/23/5th-gen-gift-pokemon/",
+    "summary": "在 DeSmuME Lua 环境中用 RNG Reporter 分别搜索赠送个体的 IV 与 PID，并按领取事件扣除相应偏移。覆盖 BW、BW2 的剧情礼物与蛋；部分赠送有固定性别或闪光限制，不能全部按普通 Gift Pokémon 的同一配置处理。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "赠送",
+      "IVRNG",
+      "PIDRNG",
+      "生成偏移"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "赠送乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "赠送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-5th-gen-roamers",
+    "title": "BW：龙卷云／雷电云释放事件的天气消耗",
+    "original_title": "5th Gen Roamers",
+    "author": "Devon Studios / _Dragon",
+    "date": "2021-03-10",
+    "language": "it",
+    "url": "https://devonstudios.it/2021/03/10/5th-gen-roamers/",
+    "summary": "用 PokeFinder 搜索漫游目标的个体值，并在 DeSmuME Lua 中校准离屋后触发的 PID 生成。七号道路的天气和 NPC 会产生大量消耗，原文建议先选择易处理的季节，再通过即时存档与保存调整可到达帧；适用于黑／白。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "龙卷云",
+      "雷电云",
+      "天气",
+      "PIDRNG"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "漫游乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-hidden-grottos",
+    "title": "BW2：隐藏洞穴刷新与个体生成的两阶段乱数",
+    "original_title": "Hidden Grottos",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-19",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/19/hidden-grottos/",
+    "summary": "先按洞穴检查顺序填充前面的区域，再用 PokeFinder 控制 256 步检查时的刷新物种、物品与性别。之后另行搜索捕获个体值和性格；原文通过 DeSmuME Lua 与存档工具检查状态，并明确隐藏洞穴个体不能闪光。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Hidden Grotto",
+      "256步",
+      "刷新",
+      "PokeFinder"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "隐藏洞穴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-white-forest-captures",
+    "title": "白：白森林居民、初次进入与野生乱数",
+    "original_title": "White Forest Captures",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/15/white-forest-captures/",
+    "summary": "白森林的物种受居民影响，甜甜香气在此无效。原文在 DeSmuME 中用 PokeCGear 配置居民，再以初次进入后的遭遇和 RNG Reporter 校准；已有游玩记录时，居民过少会使草丛或水域消失，需要连同遭遇槽重新处理。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "White Forest",
+      "白森林",
+      "PokeCGear",
+      "居民"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "白",
+        "白森林乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-dream-radar",
+    "title": "BW2／梦境雷达：按传送顺序调整接收个体",
+    "original_title": "Dream RAdar",
+    "author": "Devon Studios / _Dragon",
+    "date": "2020-11-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/20/dream-radar/",
+    "summary": "以 PokeFinder 搜索梦境雷达传送结果，使用 DeSmuME Lua 与钥匙系统红外功能推进，再从 3DS 联动菜单接收。必须准确填写传送顺序、性别和回忆联动状态；这些个体不能闪光，多只传送时搜索目标与最后一个非空槽有关。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Dream Radar",
+      "PokeFinder",
+      "传送顺序",
+      "回忆联动"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "传送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-pcalc-6th-gen-wondercards",
+    "title": "XY／ORAS：PCalc 辅助的第六世代配信乱数",
+    "original_title": "PCalc: 6th Gen Wondercards",
+    "author": "Devon Studios / Drakero",
+    "date": "2022-02-02",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/02/02/pcalc-6th-gen-wondercards/",
+    "summary": "在运行 NTR-CFW／PCalc 的 3DS 上读取 Seed，导入相应 Wonder Card 后用 3DSRNGTool 搜索领取个体。原文讨论每次推进的奇偶性、保存造成的变化及最终对话输入，需使用兼容游戏的卡片；这是改机实机流程。",
+    "evidence": "改机实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "PCalc",
+      "Wonder Card",
+      "3DSRNGTool",
+      "NTR-CFW"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-citrarng-6th-gen-initial-seed",
+    "title": "XY／ORAS：Citra 的存档变量与初期 Seed 校准",
+    "original_title": "CitraRNG: 6th Gen Initial Seed",
+    "author": "Devon Studios / Drakero",
+    "date": "2022-01-17",
+    "language": "it",
+    "url": "https://devonstudios.it/2022/01/17/citrarng-6th-gen-initial-seed/",
+    "summary": "把初期 Seed 分解为 RTC 时间与 Save Variable 两类条件，用 CitraRNG、3DSTimeFinder 和 G6SeedtoTime 校准保存及启动输入。原文使用 Citra Canary 的固定时间，并说明毫秒条件会限制可得 Seed；失败时需重新选择时间或存档变量。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "CitraRNG",
+      "Save Variable",
+      "G6SeedtoTime",
+      "RTC"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-3dstimefinder",
+    "title": "第七世代：3DSTimeFinder 的 Tick／Offset 配置",
+    "original_title": "3DSTimeFinder",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-22",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/22/3dstimefinder/",
+    "summary": "在 Citra 固定时间模式下记录实际初期 Seed，再用 3DSTimeFinder 的 Gen 7 Calibrator 求 Tick 和 Offset，建立包含游戏、ID 与闪耀护符状态的资料。原文强调 ID 要使用内部 TID／SID，不能直接抄界面显示的训练家编号。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "3DSTimeFinder",
+      "Tick",
+      "Offset",
+      "Citra"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第七世代",
+        "太阳／月亮",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "究极之日／究极之月",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-7th-gen-initial-seeds",
+    "title": "SM／USUM：通过 NTR Helper 读取初期 Seed",
+    "original_title": "7th Gen Initial Seeds",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-16",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/16/7th-gen-initial-seeds/",
+    "summary": "说明第七世代初期 Seed 在启动阶段短暂存在于内存，需由 NTR 插件保留，再经局域网让 3DSRNGTool 的 NTR Helper 读取 Seed 和 TSV。流程需要已配置 NTR-CFW 与对应插件的 3DS／2DS。",
+    "evidence": "改机实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "NTR Helper",
+      "初期Seed",
+      "TSV",
+      "NTR-CFW"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-timelineleap",
+    "title": "SM／USUM：Time Line、Time Leap 与 NPC 眨眼",
+    "original_title": "Time Line & Time Leap",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-10-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/10/20/timelineleap/",
+    "summary": "在 NTR 插件可读取当前帧的前提下，解释 NPC 眨眼、安全帧与跳帧如何影响可到达目标。Time Leap 通过操作改变时间线的可达情况，部分野生项目则不需要该步骤；原文作为改机 3DS 上定点与配信教程的机制基础。",
+    "evidence": "改机实机机制教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Time Line",
+      "Time Leap",
+      "NPC眨眼",
+      "安全帧"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "时间线与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-7th-gen-wondercards-time-line",
+    "title": "SM／USUM：Wonder Card 的 Time Line 校准",
+    "original_title": "Wondercards: Time Line",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-17",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/17/7th-gen-wondercards-time-line/",
+    "summary": "用 NTR 插件和 3DSRNGTool，在好奥乐市郊指定宝可梦中心核对 NPC 数、建立安全帧时间线，再领取配信个体。原文要求停留在指定对话并验证校准结果；Wonder Card 的性格不受同步特性影响，卡片需匹配游戏版本。",
+    "evidence": "改机实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Wonder Card",
+      "Time Line",
+      "NPC",
+      "3DSRNGTool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-wondercards-time-leap",
+    "title": "SM／USUM：Wonder Card 的 Time Leap 目标调整",
+    "original_title": "Wondercards: Time Leap",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-20",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/20/wondercards-time-leap/",
+    "summary": "在理解 Time Line 后，用 NTR 插件与 3DSRNGTool 校准 Time Leap，使配信领取过程到达原先可能跳过的目标。原文结合 NPC 状态、对话时点与快速推进操作，需先核对地点、游戏版本和神秘礼物卡设置。",
+    "evidence": "改机实机进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Wonder Card",
+      "Time Leap",
+      "跳帧",
+      "NTR-CFW"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "配信乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-citrarng-wormhole-stationaries",
+    "title": "USUM：Citra 究极之洞定点的延迟与 Time Leap",
+    "original_title": "CitraRNG: Wormhole Stationaries",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-15",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/15/citrarng-wormhole-stationaries/",
+    "summary": "用 Citra Canary、CitraRNG 与 3DSTimeFinder 控制初期 Seed，再校准战斗触发延迟及 Time Leap。原文以究极之洞定点为例，提醒不同目标和地点会影响延迟与同步可用帧，并列出脚本连接不稳定时的处理；需对应旧版模拟器环境。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "究极之洞",
+      "CitraRNG",
+      "Time Leap",
+      "延迟"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第七世代",
+        "究极之日／究极之月",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-breeding-dynamic-pids",
+    "title": "SM／USUM：无护符、同语言亲代的动态 PID 孵化",
+    "original_title": "Breeding Dynamic PIDs",
+    "author": "Devon Studios / Drakero",
+    "date": "2020-11-13",
+    "language": "it",
+    "url": "https://devonstudios.it/2020/11/13/breeding-dynamic-pids/",
+    "summary": "在 NTR 插件与 3DSRNGTool 下分别调整蛋的遗传结果和领取时生成的 PID／ESV。方法要求存档没有闪耀护符，且亲代语言相同、不使用国际孵化；具备护符或不同语言亲代时，不能套用这里的动态 PID 流程。",
+    "evidence": "改机实机进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "动态PID",
+      "ESV",
+      "无闪耀护符",
+      "同语言亲代"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-tool-pokerus-finder",
+    "title": "Pokerus-Finder：官方英文说明",
+    "original_title": "Pokerus-Finder",
+    "author": "Devon Studios",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/DevonStudios/Pokerus-Finder",
+    "summary": "官方英文 README 列出宝可病毒乱数工具支持的红宝石、蓝宝石、绿宝石、DPt 与 HGSS，并链接对应模拟器教程。火红／叶绿不在支持清单中；具体的战斗结算延迟与 Lua 操作需继续参照官网分世代指南。",
+    "evidence": "官方工具说明",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Pokerus-Finder",
+      "Pokérus",
+      "宝可病毒"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "宝可病毒乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "宝可病毒乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可病毒乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "宝可病毒乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-tool-gen3tidsidframefinder",
+    "title": "Gen3TIDSIDFrameFinder：官方英文说明",
+    "original_title": "Gen3TIDSIDFrameFinder",
+    "author": "Devon Studios",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/DevonStudios/Gen3TIDSIDFrameFinder",
+    "summary": "官方英文 README 将工具用于绿宝石、火红／叶绿、圆形竞技场和 XD 的模拟器 TID／SID 乱数，未把红蓝宝石列为适用游戏。仓库注明该方案来自 Real96 对 hourglasseye 原项目的修改，详细命中步骤仍需配合相应游戏教程。",
+    "evidence": "官方工具说明",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "TID/SID",
+      "Real96",
+      "hourglasseye"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "devon-tool-gen6seedtimefinder",
+    "title": "Gen6SeedTimeFinder：官方英文说明",
+    "original_title": "Gen6SeedTimeFinder",
+    "author": "Devon Studios",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/DevonStudios/Gen6SeedTimeFinder",
+    "summary": "官方英文 README 将此工具定位为在 Citra 上命中 XY／ORAS 指定初期 Seed 的辅助程序。说明仅概述用途，没有列出完整操作或版本要求；校准 RTC 与存档变量时可继续阅读 Devon Studios 的第六世代 CitraRNG 专题。",
+    "evidence": "官方工具说明",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Gen6SeedTimeFinder",
+      "Citra",
+      "初期Seed"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "devon-tool-luascripts",
+    "title": "LuaScripts：官方英文说明",
+    "original_title": "Lua Scripts",
+    "author": "Devon Studios",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/DevonStudios/LuaScripts",
+    "summary": "官方英文 README 按第三至第五世代列出 GBA、GameCube 与 DS 模拟器脚本，覆盖野生、定点、赠送、ID 与信息读取等项目。旧仓库已停止维护，维护者明确指向 Real96/PokeLua；部分捕获功能仅为测试版或待实现，需逐项核对支持情况。",
+    "evidence": "官方工具目录（已迁移）",
+    "status": "中文摘要",
+    "tags": [
+      "DevonStudios",
+      "Lua",
+      "PokeLua",
+      "Real96"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "XD 暗之旋风",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ]
   }
 ]

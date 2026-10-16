@@ -13,7 +13,8 @@ ARTICLES = json.loads((ROOT / 'data/articles.json').read_text(encoding='utf-8'))
 OUT = ROOT / 'dist'
 GEN_ORDER = ['第一世代','第二世代','第三世代','第四世代','第五世代','第六世代','第七世代','第八世代','第九世代']
 ENVS = ['实机','模拟器']
-LANGUAGES = {'ja': '日文', 'en': '英文'}
+LANGUAGES = {'ja': '日文', 'en': '英文', 'it': '意大利语'}
+LANGUAGE_KEYWORDS = {'ja': 'Japanese ja', 'en': 'English en', 'it': 'Italian Italiano it'}
 
 
 def text(value):
@@ -87,7 +88,7 @@ def article_card(a, base, scope=()):
     labels = [f'<span class="chip">{text(date_label(a))}</span>', f'<span class="chip">{LANGUAGES[a["language"]]}原文</span>', '<span class="chip">'+text(' / '.join(envs))+'</span>', '<span class="chip chip-evidence">'+text(a['evidence'])+'</span>']
     tags = ''.join(f'<span class="tag">#{text(tag)}</span>' for tag in a['tags'][:4])
     hierarchy = ' · '.join(game_names)
-    language_keywords = LANGUAGES[a['language']] + (' English en' if a['language'] == 'en' else ' Japanese ja')
+    language_keywords = LANGUAGES[a['language']] + ' ' + LANGUAGE_KEYWORDS[a['language']]
     search_blob = (' '.join([a['title'],a['original_title'],a['author'],a['summary'],hierarchy,language_keywords] + a['tags'])).lower()
     return f'''<article class="article-card" data-search="{text(search_blob)}" data-date="{text(a['date'] or '')}">
       <div class="article-top">{''.join(labels)}</div>
@@ -138,12 +139,12 @@ def listing_page(scope):
     subset = sorted([a for a in ARTICLES if matches(a,scope)],key=newest_first,reverse=True)
     label = '全部资料' if not scope else scope[-1]
     hierarchy = ' / '.join(scope)
-    intro = ('收录日文和英文原始资料，提供中文技术摘要。按“实机 / 模拟器 → 世代 → 游戏 → 乱数项目”进入对应目录；搜索“英文”可查看英文来源。' if not scope else '当前位置：'+hierarchy+'。下方列出适用此分类的资料。')
+    intro = ('收录日文、英文和意大利语原始资料，提供中文技术摘要。按“实机 / 模拟器 → 世代 → 游戏 → 乱数项目”进入对应目录；可搜索语言、作者或 DevonStudios 等关键词。' if not scope else '当前位置：'+hierarchy+'。下方列出适用此分类的资料。')
     folders = scope_cards(scope,base) if len(scope)<4 else ''
     env_tabs = ''
     if not scope:
         env_tabs = '<div class="env-tabs"><a href="实机/"><span>◇</span><strong>实机乱数</strong><small>手动校准、改机读取、硬件自动化</small>↗</a><a href="模拟器/"><span>▣</span><strong>模拟器乱数</strong><small>Lua、内存读取、调试器与复现</small>↗</a></div>'
-    lead = f'''{breadcrumbs(scope,base)}<div class="hero"><div class="eyebrow"><span class="small-dot"></span> OPEN RESEARCH LIBRARY · 日文 / 英文原始资料</div><h1>{text(label) if scope else '让散落各处的 RNG 研究<br><em>变得可检索、可追溯。</em>'}</h1><p>{text(intro)}</p>{'' if scope else f'<div class="hero-stats"><span><b>{len(ARTICLES):02}</b> 条文章记录</span><span><b>{len({a["author"] for a in ARTICLES}):02}</b> 个资料来源</span><span><b>{len({tuple(r) for a in ARTICLES for r in a["routes"]}):02}</b> 个项目目录</span></div>'}</div>'''
+    lead = f'''{breadcrumbs(scope,base)}<div class="hero"><div class="eyebrow"><span class="small-dot"></span> OPEN RESEARCH LIBRARY · 日文 / 英文 / 意大利语原始资料</div><h1>{text(label) if scope else '让散落各处的 RNG 研究<br><em>变得可检索、可追溯。</em>'}</h1><p>{text(intro)}</p>{'' if scope else f'<div class="hero-stats"><span><b>{len(ARTICLES):02}</b> 条文章记录</span><span><b>{len({a["author"] for a in ARTICLES}):02}</b> 个资料来源</span><span><b>{len({tuple(r) for a in ARTICLES for r in a["routes"]}):02}</b> 个项目目录</span></div>'}</div>'''
     listing = f'''<section class="listing" id="articles"><div class="section-head"><h2>{'相关资料' if scope else '全部文章'}</h2><span id="resultCount">{len(subset)} 篇</span></div><div class="list-toolbar"><label class="search-box"><span>⌕</span><input id="articleSearch" type="search" aria-label="搜索资料" placeholder="搜索标题、原文、作者、语言、Seed、PID…" autocomplete="off"></label><select id="sortOrder" aria-label="排序方式"><option value="newest">发表日期 · 最新优先</option><option value="oldest">发表日期 · 最早优先</option><option value="title">标题 · A-Z</option></select></div><div class="article-list" id="articleList">{''.join(article_card(a,base,scope) for a in subset)}</div><div id="noResults" class="no-results" hidden>没有符合搜索条件的文章，可以尝试更短的关键词。</div></section>'''
     write_page(scope,label,lead+env_tabs+folders+listing)
 
@@ -175,7 +176,7 @@ article_index_base = prefix_for(article_index_parts)
 write_page(article_index_parts, '文章索引', breadcrumbs(article_index_parts,article_index_base) + '<div class="hero hero-narrow"><span class="eyebrow">ALL ARTICLES</span><h1>文章索引</h1></div><div class="article-list">' + ''.join(article_card(a,article_index_base) for a in sorted(ARTICLES,key=newest_first,reverse=True)) + '</div>')
 for route in routes: listing_page(route)
 for a in ARTICLES: article_page(a)
-simple_page(['关于'],'关于这个资料库','''<h2>四级分类</h2><p><strong>实机／模拟器 → 世代 → 游戏 → 乱数项目</strong>。每篇文章保留唯一记录；同一文章适用于多个场景时，出现在多个目录，但维护一份中文摘要和来源信息。实机栏目同时包含普通硬件、改机读取与硬件自动化方法，具体要求请查看各资料卡。</p><h2>内容原则</h2><p>只收录日文和英文原始资料，提供中文原创技术摘要，并保留原标题、作者、来源链接和资料性质。来源未注明发表日期时如实标记，日期排序将其置于末尾；网站收录时间与原文更新时间不替代发表日期。对草稿、实验性方法及未验证机制明确标记。未经许可不公开完整翻译转载。</p><h2>关于自动更新</h2><p>项目带有可配置的 Hatena RSS 候选发现脚本。候选需人工核实和分类后，才会进入公开目录；RSS 检查与 ChatGPT 的定时巡检是两个独立的系统。英文指南与机制文档目前经人工核对后收录。</p><h2>收录范围</h2><p>目前已包含第一至第九世代的代表性资料，来源包括日文作者博客、PokemonRNG.com 英文指南和 Admiral-Fish 的英文机制文档。各游戏与乱数项目仍会持续补充，尚未完成所有资料的穷举。</p>''')
-simple_page(['更新记录'],'更新记录','''<div class="timeline"><div class="timeline-item"><span>2026-10-16</span><h2>补充日文与英文资料</h2><p>新增 36 篇资料（日文 26 篇、英文 10 篇），总计 50 篇；补上第一、第二、第六、第八、第九世代，并扩展红蓝宝石、绿宝石、圆形竞技场、梦境雷达、Let's Go 与传说 阿尔宙斯等游戏。加入原文语言标记、语言关键词搜索和未注明发布日期的显示，扩充 4 个 RSS 来源。</p></div><div class="timeline-item"><span>2026-10-16</span><h2>网站目录初版</h2><p>建立四级目录架构、中文原创摘要、来源链接、搜索和文章资料卡，首次整理 14 篇示例文章。这是网站初版的整理日期，<strong>不代表这些文章都在当天发布</strong>。</p></div></div>''')
+simple_page(['关于'],'关于这个资料库','''<h2>四级分类</h2><p><strong>实机／模拟器 → 世代 → 游戏 → 乱数项目</strong>。每篇文章保留唯一记录；同一文章适用于多个场景时，出现在多个目录，但维护一份中文摘要和来源信息。实机栏目同时包含普通硬件、改机读取与硬件自动化方法，具体要求请查看各资料卡。</p><h2>内容原则</h2><p>收录日文、英文和意大利语原始资料，不收录中文来源或中文翻译页；提供中文原创技术摘要，并保留原标题、作者、来源链接和资料性质。语言按正文标注，不根据英文标题或网站标签推断。来源未注明发表日期时如实标记，日期排序将其置于末尾；网站收录时间与原文更新时间不替代发表日期。对草稿、实验性方法及未验证机制明确标记。未经许可不公开完整翻译转载。</p><h2>关于自动更新</h2><p>项目带有可配置的 Hatena RSS 候选发现脚本。候选需人工核实和分类后，才会进入公开目录；RSS 检查与 ChatGPT 的定时巡检是两个独立的系统。英文与意大利语指南、机制文档及工具说明目前经人工核对后收录。</p><h2>收录范围</h2><p>目前已包含第一至第九世代的代表性资料，来源包括日文作者博客、Devon Studios 官网及官方 GitHub、Admiral-Fish 的英文机制文档，以及此前收录的 PokemonRNG.com 英文指南。本轮增加 Devon Studios 的 50 篇意大利语专题与 4 份英文工具说明，补充 Channel、Bonus Disc、BOX 礼物蛋、特殊遭遇及 3DS 配信等项目。旧版模拟器、改机插件与工具迁移情况请查看各资料卡；各游戏与乱数项目仍会持续补充，尚未完成所有资料的穷举。</p>''')
+simple_page(['更新记录'],'更新记录','''<div class="timeline"><div class="timeline-item"><span>2026-10-16</span><h2>补充 Devon Studios 专题与英文工具文档</h2><p>新增 54 条 Devon Studios 来源：50 篇意大利语专题、4 份官方英文工具说明，全站共 104 条。扩展 Channel 与 WISHMKR 基拉祈、BOX 礼物蛋、GameCube 赠送和交换、头锤树、涂蜜树、狩猎地带、连入之森、白森林，以及第六、第七世代校准和配信。加入意大利语显示与 Italian／Italiano 关键词搜索，并注明旧 Lua 仓库已迁移。本轮未新增 PokemonRNG.com 来源。</p></div><div class="timeline-item"><span>2026-10-16</span><h2>补充日文与英文资料</h2><p>新增 36 篇资料（日文 26 篇、英文 10 篇），总计 50 篇；补上第一、第二、第六、第八、第九世代，并扩展红蓝宝石、绿宝石、圆形竞技场、梦境雷达、Let's Go 与传说 阿尔宙斯等游戏。加入原文语言标记、语言关键词搜索和未注明发布日期的显示，扩充 4 个 RSS 来源。</p></div><div class="timeline-item"><span>2026-10-16</span><h2>网站目录初版</h2><p>建立四级目录架构、中文原创摘要、来源链接、搜索和文章资料卡，首次整理 14 篇示例文章。这是网站初版的整理日期，<strong>不代表这些文章都在当天发布</strong>。</p></div></div>''')
 shutil.copy(ROOT/'data/articles.json',OUT/'articles.json')
 print(f'Generated {len(list(OUT.rglob("index.html")))} HTML pages; {len(ARTICLES)} canonical sources; {len(routes)} navigation categories')
