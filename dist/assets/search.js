@@ -17,6 +17,7 @@
     });
     const filtered = cards.slice().sort((a,b) => {
       if (sort.value === 'title') return a.querySelector('h3').textContent.localeCompare(b.querySelector('h3').textContent,'zh');
+      if (!a.dataset.date || !b.dataset.date) return Number(!a.dataset.date) - Number(!b.dataset.date);
       return sort.value === 'oldest' ? a.dataset.date.localeCompare(b.dataset.date) : b.dataset.date.localeCompare(a.dataset.date);
     });
     filtered.forEach(card => list.appendChild(card));

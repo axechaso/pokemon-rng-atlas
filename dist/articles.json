@@ -1,184 +1,1392 @@
 [
   {
-    "id":"frlg-gba-zapdos-2026",
-    "title":"FRLG GBA 实机：闪光 A0 闪电鸟定点乱数",
-    "original_title":"【FRLG】実機GBA版 菱形色A0サンダー 固定乱数＋ブロマイドリボン取得【3世代乱数】",
-    "author":"剣盾から始める過去作乱数",
-    "date":"2026-03-22",
-    "url":"https://purely11.hatenablog.com/entry/2026/03/22/190000",
-    "summary":"记录在 GBA 实机环境下调节 FRLG 初期 Seed、目标帧并捕获闪光闪电鸟的流程，同时讨论校正偏差与奖章获取。",
-    "evidence":"实机实践",
-    "status":"中文摘要",
-    "tags":["初期Seed","闪光","固定遭遇","GBA"],
-    "routes":[["实机","第三世代","火红／叶绿","定点乱数"]]
+    "id": "frlg-gba-zapdos-2026",
+    "title": "FRLG GBA 实机：闪光 A0 闪电鸟定点乱数",
+    "original_title": "【FRLG】実機GBA版 菱形色A0サンダー 固定乱数＋ブロマイドリボン取得【3世代乱数】",
+    "author": "剣盾から始める過去作乱数",
+    "date": "2026-03-22",
+    "url": "https://purely11.hatenablog.com/entry/2026/03/22/190000",
+    "summary": "记录在 GBA 实机环境下调节 FRLG 初期 Seed、目标帧并捕获闪光闪电鸟的流程，同时讨论校正偏差与奖章获取。",
+    "evidence": "实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "初期Seed",
+      "闪光",
+      "固定遭遇",
+      "GBA"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"frlg-switch-zapdos-moltres-2026",
-    "title":"Switch 版 FRLG：闪电鸟与火焰鸟乱数尝试",
-    "original_title":"Switch版FRLG乱数　ワンチャン手動でもできるかもしれない臆病めざ草理想サンダー＆ファイヤー",
-    "author":"オワコンの地:ワソポタミア文明",
-    "date":"2026-05-17",
-    "url":"https://wasou3721.hatenablog.com/entry/2026/05/17/235553",
-    "summary":"介绍 Switch 版 FRLG 固定遭遇的实机尝试与条件设计。作者在脚注中指出部分 ID 调整需借助自动化，不能简单视为完整手动教程。",
-    "evidence":"实机实践",
-    "status":"中文摘要",
-    "tags":["Switch","固定遭遇","初期Seed","注意更正"],
-    "routes":[["实机","第三世代","火红／叶绿","定点乱数"],["实机","第三世代","火红／叶绿","ID乱数"]]
+    "id": "frlg-switch-zapdos-moltres-2026",
+    "title": "Switch 版 FRLG：闪电鸟与火焰鸟乱数尝试",
+    "original_title": "Switch版FRLG乱数　ワンチャン手動でもできるかもしれない臆病めざ草理想サンダー＆ファイヤー",
+    "author": "オワコンの地:ワソポタミア文明",
+    "date": "2026-05-17",
+    "url": "https://wasou3721.hatenablog.com/entry/2026/05/17/235553",
+    "summary": "介绍 Switch 版 FRLG 固定遭遇的实机尝试与条件设计。作者在脚注中指出部分 ID 调整需借助自动化，不能简单视为完整手动教程。",
+    "evidence": "实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "Switch",
+      "固定遭遇",
+      "初期Seed",
+      "注意更正"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"gen3-method-shift-2015",
-    "title":"第三世代 Method 偏移的形成机制",
-    "original_title":"第三世代メソッドズレ",
-    "author":"ろいしんぶろぐ / Blastoise_X",
-    "date":"2015-02-18",
-    "url":"https://blastoise-x.hatenablog.com/entry/method",
-    "summary":"探讨第三世代 Pokémon 生成时 RNG 调用被插入后，PID 与个体值之间产生不同 Method 结果的原因。属于跨场景机制资料。",
-    "evidence":"机制研究",
-    "status":"中文摘要",
-    "tags":["Method","LCG","VBlank","生成机制"],
-    "routes":[["实机","第三世代","火红／叶绿","机制研究"],["模拟器","第三世代","火红／叶绿","机制研究"]]
+    "id": "gen3-method-shift-2015",
+    "title": "第三世代 Method 偏移的形成机制",
+    "original_title": "第三世代メソッドズレ",
+    "author": "ろいしんぶろぐ / Blastoise_X",
+    "date": "2015-02-18",
+    "url": "https://blastoise-x.hatenablog.com/entry/method",
+    "summary": "探讨第三世代 Pokémon 生成时 RNG 调用被插入后，PID 与个体值之间产生不同 Method 结果的原因。属于跨场景机制资料。",
+    "evidence": "机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Method",
+      "LCG",
+      "VBlank",
+      "生成机制"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第三世代",
+        "火红／叶绿",
+        "机制研究"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"hgss-capture-2014",
-    "title":"HGSS 捕获乱数：战斗临时 Seed 与四次捕获判定",
-    "original_title":"HGSS捕獲乱数",
-    "author":"ろいしんぶろぐ / Blastoise_X",
-    "date":"2014-08-08",
-    "url":"https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
-    "summary":"以战斗开始时生成的临时 Seed 为基础，研究捕获判定、挥指探测、敌方选招和实机命中方法。文中有实践视频及仍待验证的推测。",
-    "evidence":"实机实践与推测",
-    "status":"中文摘要",
-    "tags":["战斗Seed","捕获","挥指","RNG消费"],
-    "routes":[["实机","第四世代","心金／魂银","捕获乱数"],["实机","第四世代","心金／魂银","战斗乱数"]]
+    "id": "hgss-capture-2014",
+    "title": "HGSS 捕获乱数：战斗临时 Seed 与四次捕获判定",
+    "original_title": "HGSS捕獲乱数",
+    "author": "ろいしんぶろぐ / Blastoise_X",
+    "date": "2014-08-08",
+    "url": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
+    "summary": "以战斗开始时生成的临时 Seed 为基础，研究捕获判定、挥指探测、敌方选招和实机命中方法。文中有实践视频及仍待验证的推测。",
+    "evidence": "实机实践与推测",
+    "status": "中文摘要",
+    "tags": [
+      "战斗Seed",
+      "捕获",
+      "挥指",
+      "RNG消费"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "捕获乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "战斗乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"hgss-metronome-2010",
-    "title":"通过挥指出现的技能反推 Seed 的实验",
-    "original_title":"ゆびをふるで出た技でseedを特定してみようという試み",
-    "author":"oupoの日記",
-    "date":"2010-04-15",
-    "url":"https://oupo.hatenadiary.com/entry/20100415/1271287693",
-    "summary":"尝试根据战斗中挥指产生的技能追踪随机数序列，并逆推与战斗处理有关的 Seed，属于重要的早期 RNG 实验记录。",
-    "evidence":"机制实验",
-    "status":"中文摘要",
-    "tags":["挥指","Seed逆算","战斗乱数"],
-    "routes":[["实机","第四世代","心金／魂银","战斗乱数"]]
+    "id": "hgss-metronome-2010",
+    "title": "通过挥指出现的技能反推 Seed 的实验",
+    "original_title": "ゆびをふるで出た技でseedを特定してみようという試み",
+    "author": "oupoの日記",
+    "date": "2010-04-15",
+    "url": "https://oupo.hatenadiary.com/entry/20100415/1271287693",
+    "summary": "尝试根据战斗中挥指产生的技能追踪随机数序列，并逆推与战斗处理有关的 Seed，属于重要的早期 RNG 实验记录。",
+    "evidence": "机制实验",
+    "status": "中文摘要",
+    "tags": [
+      "挥指",
+      "Seed逆算",
+      "战斗乱数"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "战斗乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"dpt-slot-2024",
-    "title":"DPt 游戏厅老虎机 RNG 与 DeSmuME Lua 调查工具",
-    "original_title":"【ポケモンDPt】 トバリゲームコーナーの当たり台を探してみた話",
-    "author":"TASはTASけあい / namofure",
-    "date":"2024-12-23",
-    "url":"https://namofure.hatenablog.com/entry/2024/12/23/175741",
-    "summary":"研究帷幕游戏厅老虎机的配置、中奖判定与 RNG 消费；提供 DeSmuME Lua 分析脚本及游戏内乱数调整例子，适用于实机实践和模拟器研究两个栏目。",
-    "evidence":"模拟器分析与实践",
-    "status":"中文摘要",
-    "tags":["DeSmuME","Lua","老虎机","LCG"],
-    "routes":[["实机","第四世代","钻石／珍珠／白金","特殊事件乱数"],["模拟器","第四世代","钻石／珍珠／白金","特殊事件乱数"],["模拟器","第四世代","钻石／珍珠／白金","脚本与工具"]]
+    "id": "dpt-slot-2024",
+    "title": "DPt 游戏厅老虎机 RNG 与 DeSmuME Lua 调查工具",
+    "original_title": "【ポケモンDPt】 トバリゲームコーナーの当たり台を探してみた話",
+    "author": "TASはTASけあい / namofure",
+    "date": "2024-12-23",
+    "url": "https://namofure.hatenablog.com/entry/2024/12/23/175741",
+    "summary": "研究帷幕游戏厅老虎机的配置、中奖判定与 RNG 消费；提供 DeSmuME Lua 分析脚本及游戏内乱数调整例子，适用于实机实践和模拟器研究两个栏目。",
+    "evidence": "模拟器分析与实践",
+    "status": "中文摘要",
+    "tags": [
+      "DeSmuME",
+      "Lua",
+      "老虎机",
+      "LCG"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "特殊事件乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "特殊事件乱数"
+      ],
+      [
+        "模拟器",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"bw-id-2026",
-    "title":"BW/BW2：使用 5genSearch-web 进行 ID 乱数",
-    "original_title":"【ポケモンBW1/BW2】 IDの乱数調整 (5genSearch-web・スマホ対応版)",
-    "author":"ミルクの日記",
-    "date":"2026-03-26",
-    "url":"https://milk4724.hatenablog.com/entry/20260326/00000000",
-    "summary":"以 5genSearch-web 为基础的 TID/SID 调整教程，包含设置搜索条件、按键配置与 ID 目标筛选。",
-    "evidence":"实机教程",
-    "status":"中文摘要",
-    "tags":["TID","SID","5genSearch-web"],
-    "routes":[["实机","第五世代","黑／白","ID乱数"],["实机","第五世代","黑2／白2","ID乱数"]]
+    "id": "bw-id-2026",
+    "title": "BW/BW2：使用 5genSearch-web 进行 ID 乱数",
+    "original_title": "【ポケモンBW1/BW2】 IDの乱数調整 (5genSearch-web・スマホ対応版)",
+    "author": "ミルクの日記",
+    "date": "2026-03-26",
+    "url": "https://milk4724.hatenablog.com/entry/20260326/00000000",
+    "summary": "以 5genSearch-web 为基础的 TID/SID 调整教程，包含设置搜索条件、按键配置与 ID 目标筛选。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "TID",
+      "SID",
+      "5genSearch-web"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"bw-stationary-2026",
-    "title":"BW：定点乱数（5genSearch-web）",
-    "original_title":"【ポケモンBW1】固定乱数(スマホ対応・5genSearch-web使用版)",
-    "author":"ミルクの日記",
-    "date":"2026-05-25",
-    "url":"https://milk4724.hatenablog.com/entry/20260525/00000000",
-    "summary":"第5世代 BW 定点乱数教程，包括 Seed 搜索、帧推进及命中后的偏差修正步骤。",
-    "evidence":"实机教程",
-    "status":"中文摘要",
-    "tags":["固定遭遇","LCG","MT","5genSearch-web"],
-    "routes":[["实机","第五世代","黑／白","定点乱数"]]
+    "id": "bw-stationary-2026",
+    "title": "BW：定点乱数（5genSearch-web）",
+    "original_title": "【ポケモンBW1】固定乱数(スマホ対応・5genSearch-web使用版)",
+    "author": "ミルクの日記",
+    "date": "2026-05-25",
+    "url": "https://milk4724.hatenablog.com/entry/20260525/00000000",
+    "summary": "第5世代 BW 定点乱数教程，包括 Seed 搜索、帧推进及命中后的偏差修正步骤。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "固定遭遇",
+      "LCG",
+      "MT",
+      "5genSearch-web"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "定点乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"bw-dittos-2026",
-    "title":"BW：使用 5genSearch-web 搜索 6V 百变怪",
-    "original_title":"【ポケモンBW1】野生乱数 6Vメタモン(初心者向け・スマホ対応・5genSearch-web使用版)",
-    "author":"ミルクの日記",
-    "date":"2026-07-13",
-    "url":"https://milk4724.hatenablog.com/entry/20260713/00000000",
-    "summary":"面向初学者的 BW 野生乱数教程，以 6V 百变怪为示例，说明所需道具和工具设置。",
-    "evidence":"实机教程",
-    "status":"中文摘要",
-    "tags":["野生遭遇","百变怪","5genSearch-web"],
-    "routes":[["实机","第五世代","黑／白","野生乱数"]]
+    "id": "bw-dittos-2026",
+    "title": "BW：使用 5genSearch-web 搜索 6V 百变怪",
+    "original_title": "【ポケモンBW1】野生乱数 6Vメタモン(初心者向け・スマホ対応・5genSearch-web使用版)",
+    "author": "ミルクの日記",
+    "date": "2026-07-13",
+    "url": "https://milk4724.hatenablog.com/entry/20260713/00000000",
+    "summary": "面向初学者的 BW 野生乱数教程，以 6V 百变怪为示例，说明所需道具和工具设置。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "野生遭遇",
+      "百变怪",
+      "5genSearch-web"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"bw2-timer0-2026",
-    "title":"BW2：Timer0 稳定性调整方法",
-    "original_title":"【ポケモンBW2】 Timer0安定法の導入方法について",
-    "author":"ミルクの日記",
-    "date":"2026-07-03",
-    "url":"https://milk4724.hatenablog.com/entry/20260703/00000000",
-    "summary":"介绍通过调整环境让 BW2 的 Timer0 值更集中、提高 RNG 调整命中率的操作方法，适合已有参数识别经验的读者。",
-    "evidence":"实机教程",
-    "status":"中文摘要",
-    "tags":["Timer0","初期Seed","稳定性"],
-    "routes":[["实机","第五世代","黑2／白2","初期Seed与校准"]]
+    "id": "bw2-timer0-2026",
+    "title": "BW2：Timer0 稳定性调整方法",
+    "original_title": "【ポケモンBW2】 Timer0安定法の導入方法について",
+    "author": "ミルクの日記",
+    "date": "2026-07-03",
+    "url": "https://milk4724.hatenablog.com/entry/20260703/00000000",
+    "summary": "介绍通过调整环境让 BW2 的 Timer0 值更集中、提高 RNG 调整命中率的操作方法，适合已有参数识别经验的读者。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "Timer0",
+      "初期Seed",
+      "稳定性"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "初期Seed与校准"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"sm-stationary-2017",
-    "title":"SM/USUM 第七世代定点乱数入门",
-    "original_title":"【USM対応】第7世代固定シンボル乱数調整のすすめ",
-    "author":"ろいしんぶろぐ / Blastoise_X",
-    "date":"2017-01-29",
-    "url":"https://blastoise-x.hatenablog.com/entry/2017/01/29/143804",
-    "summary":"从标题画面针位置识别初期 Seed，再使用相应工具搜索目标并调整固定遭遇的时机；作者后续补充了 USUM 适配。",
-    "evidence":"实机教程",
-    "status":"中文摘要",
-    "tags":["针定位","固定遭遇","3DS RNG Tool"],
-    "routes":[["实机","第七世代","太阳／月亮","定点乱数"],["实机","第七世代","究极之日／究极之月","定点乱数"]]
+    "id": "sm-stationary-2017",
+    "title": "SM/USUM 第七世代定点乱数入门",
+    "original_title": "【USM対応】第7世代固定シンボル乱数調整のすすめ",
+    "author": "ろいしんぶろぐ / Blastoise_X",
+    "date": "2017-01-29",
+    "url": "https://blastoise-x.hatenablog.com/entry/2017/01/29/143804",
+    "summary": "从标题画面针位置识别初期 Seed，再使用相应工具搜索目标并调整固定遭遇的时机；作者后续补充了 USUM 适配。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "针定位",
+      "固定遭遇",
+      "3DS RNG Tool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "定点乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"sm-egg-2017",
-    "title":"SM 色固定孵化的进阶操作",
-    "original_title":"固定孵化ちょっと応用編",
-    "author":"ろいしんぶろぐ / Blastoise_X",
-    "date":"2017-09-26",
-    "url":"https://blastoise-x.hatenablog.com/entry/shiny-egg",
-    "summary":"利用第7世代孵化 RNG 特性，探讨通过拒收目标蛋调整性别、特性等条件的进阶操作以及限制。",
-    "evidence":"机制与实机教程",
-    "status":"中文摘要",
-    "tags":["孵化","色固定","特性","性别"],
-    "routes":[["实机","第七世代","太阳／月亮","孵化乱数"]]
+    "id": "sm-egg-2017",
+    "title": "SM 色固定孵化的进阶操作",
+    "original_title": "固定孵化ちょっと応用編",
+    "author": "ろいしんぶろぐ / Blastoise_X",
+    "date": "2017-09-26",
+    "url": "https://blastoise-x.hatenablog.com/entry/shiny-egg",
+    "summary": "利用第7世代孵化 RNG 特性，探讨通过拒收目标蛋调整性别、特性等条件的进阶操作以及限制。",
+    "evidence": "机制与实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "色固定",
+      "特性",
+      "性别"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"xd-zapdos-2023",
-    "title":"XD：面向对战个体的闪电鸟乱数",
-    "original_title":"【ポケモン】3世代環境における対戦個体調達用の乱数調整の解説 ポケモンXD サンダー編",
-    "author":"ニケルダーク大学",
-    "date":"2023-12-07",
-    "url":"https://hope3gen.hatenablog.com/entry/2023/12/07/234846",
-    "summary":"围绕 XD 闪电鸟的目标个体搜索和乱数调整进行说明，属于第三世代 GameCube 游戏的实用研究资料。",
-    "evidence":"实机攻略",
-    "status":"中文摘要",
-    "tags":["XD","闪电鸟","暗黑宝可梦"],
-    "routes":[["实机","第三世代","XD 暗之旋风","暗黑宝可梦乱数"]]
+    "id": "xd-zapdos-2023",
+    "title": "XD：面向对战个体的闪电鸟乱数",
+    "original_title": "【ポケモン】3世代環境における対戦個体調達用の乱数調整の解説 ポケモンXD サンダー編",
+    "author": "ニケルダーク大学",
+    "date": "2023-12-07",
+    "url": "https://hope3gen.hatenablog.com/entry/2023/12/07/234846",
+    "summary": "围绕 XD 闪电鸟的目标个体搜索和乱数调整进行说明，属于第三世代 GameCube 游戏的实用研究资料。",
+    "evidence": "实机攻略",
+    "status": "中文摘要",
+    "tags": [
+      "XD",
+      "闪电鸟",
+      "暗黑宝可梦"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "暗黑宝可梦乱数"
+      ]
+    ],
+    "language": "ja"
   },
   {
-    "id":"usum-egg-pid-2022",
-    "title":"USUM/SM：特殊 PID 孵化乱数的验证",
-    "original_title":"【第7世代乱数】PID孵化乱数検証",
-    "author":"ミルクの日記",
-    "date":"2022-05-01",
-    "url":"https://milk4724.hatenablog.com/entry/20220501/00000000",
-    "summary":"使用 BV 分析和 KeySAVe 等方式，验证特殊孵化条件下 PID 决定时机与乱数消费位置。文中包含测试环境与实验步骤。",
-    "evidence":"工具辅助实机验证",
-    "status":"中文摘要",
-    "tags":["PID","孵化","KeySAVe","BV分析"],
-    "routes":[["实机","第七世代","太阳／月亮","孵化乱数"],["实机","第七世代","究极之日／究极之月","孵化乱数"]]
+    "id": "usum-egg-pid-2022",
+    "title": "USUM/SM：特殊 PID 孵化乱数的验证",
+    "original_title": "【第7世代乱数】PID孵化乱数検証",
+    "author": "ミルクの日記",
+    "date": "2022-05-01",
+    "url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
+    "summary": "使用 BV 分析和 KeySAVe 等方式，验证特殊孵化条件下 PID 决定时机与乱数消费位置。文中包含测试环境与实验步骤。",
+    "evidence": "工具辅助实机验证",
+    "status": "中文摘要",
+    "tags": [
+      "PID",
+      "孵化",
+      "KeySAVe",
+      "BV分析"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ],
+    "language": "ja"
+  },
+  {
+    "id": "gb-prng-2019",
+    "title": "GB 宝可梦伪随机数：DIV 寄存器与红版 Lua 实验",
+    "original_title": "ゲームボーイのポケモンの疑似乱数",
+    "author": "oupoの日記",
+    "date": "2019-05-03",
+    "language": "ja",
+    "url": "https://oupo.hatenadiary.com/entry/2019/05/03/185819",
+    "summary": "介绍 GB 宝可梦随机数生成中 DIV 寄存器的作用，并附红版 Lua 实验脚本。作者以攻击总是击中要害作为初步观察；关于金银的相同机制来自外部引用，不能视作本文已独立验证。",
+    "evidence": "模拟器机制实验",
+    "status": "中文摘要",
+    "tags": [
+      "GB",
+      "DIV",
+      "Lua",
+      "伪随机数"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "机制研究"
+      ]
+    ]
+  },
+  {
+    "id": "vc-blue-moltres-2023",
+    "title": "VC 蓝版：火焰鸟状况复现与目标能力值",
+    "original_title": "VC青でファイヤーの状況再現をする（色違い・理想個体）",
+    "author": "サイファーの日記",
+    "date": "2023-12-05",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2023/12/05/000000",
+    "summary": "通过预先输入按键、硬重置和指定 IGT／等待帧，在 VC 蓝版复现目标火焰鸟。原文给出不同能力值组合；第一世代内不显示闪光效果，相关组合的闪光判定需转入第二世代后确认。",
+    "evidence": "VC 实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "VC",
+      "火焰鸟",
+      "状况复现",
+      "IGT"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "状况复现"
+      ]
+    ]
+  },
+  {
+    "id": "vc-crystal-id-2023",
+    "title": "日版 VC 水晶：TID 00000 的状况复现",
+    "original_title": "日本版VCクリスタルでTID00000を狙う",
+    "author": "サイファーの日記",
+    "date": "2023-03-09",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2023/03/09/183606",
+    "summary": "以没有存档的日版 VC 水晶为条件，通过重复返回标题和指定等待时长获得 TID 00000，并讨论北美版与日版的偏移。原版卡带及 VC 金银的条件不同，不能直接套用本文设置。",
+    "evidence": "VC 实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "VC",
+      "TID",
+      "水晶",
+      "状况复现"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第二世代",
+        "水晶",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "gen6-basics-2024",
+    "title": "XY／ORAS：第六世代实机乱数基础",
+    "original_title": "六世代乱数の基本的なやり方",
+    "author": "サイファーの日記",
+    "date": "2024-02-09",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/02/09/223006",
+    "summary": "说明初期 Seed 的时间变量与存档变量，利用化石复原后的能力值缩小候选，再校准目标帧。本文聚焦使用 MT 的定点遭遇和配信领取，不涵盖 TinyMT 或孵化乱数。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "MT",
+      "初期Seed",
+      "化石复原",
+      "3DSRNGTool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ]
+    ]
+  },
+  {
+    "id": "xy-friend-safari-2023",
+    "title": "XY：好友狩猎的 MT 与 TinyMT 双重定位",
+    "original_title": "フレンドサファリ乱数(完全版)",
+    "author": "サイファーの日記",
+    "date": "2023-06-29",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2023/06/29/163847",
+    "summary": "结合化石复原和眨眼观测定位 MT、TinyMT，说明好友狩猎中搜索目标、构建时间线及校正偏差的方法。需要先掌握第六世代初期 Seed 识别，并处理狩猎区域的消耗条件。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "好友狩猎",
+      "MT",
+      "TinyMT",
+      "眨眼"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "好友狩猎乱数"
+      ]
+    ]
+  },
+  {
+    "id": "oras-dexnav-2026",
+    "title": "ORAS：利用 Y 菜单进行图鉴导航乱数",
+    "original_title": "Yメニューを利用した図鑑ナビ乱数",
+    "author": "サイファーの日記",
+    "date": "2026-05-10",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2026/05/10/230342",
+    "summary": "在非雨天条件下，通过 Y 菜单与主角眨眼构建 TinyMT 时间线，控制图鉴导航的目标遭遇。原文说明此流程不包含个体值调整；需要先准备 TinyMT 初期 Seed 和相应搜索工具。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "图鉴导航",
+      "TinyMT",
+      "Y菜单",
+      "眨眼"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ]
+    ]
+  },
+  {
+    "id": "gen6-seed-sheet-2022",
+    "title": "ORAS：减少神奇糖果需求的 Seed 辅助表",
+    "original_title": "6世代乱数にふしぎなアメが必須ではなくなった",
+    "author": "ぽけどころ",
+    "date": "2022-12-12",
+    "language": "ja",
+    "url": "https://taiyaki3gen.hatenablog.com/entry/2022/12/12/173741",
+    "summary": "介绍与 CCTimer 同步的 Excel 辅助表，通过缩小初期 Seed 搜索范围，利用化石宝可梦的能力值定位，并提供定点偏移和长时间等待辅助。作者明确说明表格尚未完成，文章也未提供详细操作教程。",
+    "evidence": "辅助工具介绍（未完成）",
+    "status": "中文摘要",
+    "tags": [
+      "Excel",
+      "CCTimer",
+      "初期Seed",
+      "化石复原"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ]
+    ]
+  },
+  {
+    "id": "swsh-wild-2021",
+    "title": "剑盾：野生闪光与证章乱数入门",
+    "original_title": "【剣盾乱数調整】野生シンボル乱数調整のやり方【色証乱数】",
+    "author": "めらめら",
+    "date": "2021-12-13",
+    "language": "ja",
+    "url": "https://larvesta10.hatenablog.com/entry/2021/12/13/204342",
+    "summary": "使用 NX RNG Tool，通过宝可梦动作观测识别当前 state，再搜索野生目标并控制出现时机。本文介绍无需 CFW 的实机方法，涉及 TSV、地点噪声与偏移校准；特殊生成的定点个体需另行确认。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "NX RNG Tool",
+      "野生遭遇",
+      "闪光",
+      "证章"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "swsh-raid-2020",
+    "title": "剑盾：用捕获个体反查巢穴 Seed",
+    "original_title": "【剣盾乱数調整】最新ツールとPCでやる剣盾レイド乱数調整",
+    "author": "めらめら",
+    "date": "2020-04-01",
+    "language": "ja",
+    "url": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029",
+    "summary": "利用数次巢穴捕获结果与个体值，通过 SW Seed Calculator、8denSearch 识别 Seed，再搜索目标并推进日期。属于 2020 年的实机教程，操作依赖文中工具版本和巢穴设置。",
+    "evidence": "实机教程（历史工具）",
+    "status": "中文摘要",
+    "tags": [
+      "巢穴",
+      "SW Seed Calculator",
+      "8denSearch",
+      "个体值"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "极巨团体战乱数"
+      ]
+    ]
+  },
+  {
+    "id": "bdsp-capture-tool-2024",
+    "title": "BDSP：通过心情不定定位捕获乱数",
+    "original_title": "BDSPCaptureRNGToolの使い方",
+    "author": "サイファーの日記",
+    "date": "2024-03-18",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/03/18/160641",
+    "summary": "介绍 BDSPCaptureRNGTool，利用心情不定的能力变化定位战斗 Seed，并搜索和推进捕获判定。工具对捕获种类数不超过 30、能力达到正负 6 阶等情形存在未适配限制，使用前需核对原文条件。",
+    "evidence": "实机工具教程",
+    "status": "中文摘要",
+    "tags": [
+      "捕获",
+      "心情不定",
+      "战斗Seed",
+      "BDSPCaptureRNGTool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "捕获乱数"
+      ]
+    ]
+  },
+  {
+    "id": "sv-battle-2024",
+    "title": "朱紫：预知梦观测与战斗 RNG 研究",
+    "original_title": "SV戦闘乱数 + 初期の不具合",
+    "author": "サイファーの日記",
+    "date": "2024-01-22",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/01/22/130240",
+    "summary": "通过技能互换反复触发预知梦，记录二选一结果并使用 NX RNG Tool 推测战斗中的 xoroshiro state。原文另讨论早期版本的对战初始化问题；本文属于战斗机制研究，不能据此推广为通用遭遇或闪光教程。",
+    "evidence": "实机机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "战斗乱数",
+      "预知梦",
+      "xoroshiro",
+      "NX RNG Tool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "战斗乱数"
+      ]
+    ]
+  },
+  {
+    "id": "sv-item-printer-2026",
+    "title": "朱紫：道具打印机网页工具与 Switch 2 校准",
+    "original_title": "【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版)",
+    "author": "ミルクの日記",
+    "date": "2026-06-20",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
+    "summary": "提供道具打印机的时间／Seed 表和周边结果查询工具，用系统时间与等待时长控制道具或球种。需要 DLC 中的打印机、相应升级及材料；原文分别说明 Switch 与 Switch 2 的等待补正。",
+    "evidence": "实机网页工具教程",
+    "status": "中文摘要",
+    "tags": [
+      "道具打印机",
+      "DLC",
+      "Switch 2",
+      "时间校准"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ]
+  },
+  {
+    "id": "lgpe-master-ball-2026",
+    "title": "Let's Go：华蓝洞窟大师球拾取乱数",
+    "original_title": "LGPEでのマスボ乱数(ツール使用)",
+    "author": "サイファーの日記",
+    "date": "2026-02-12",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2026/02/12/193155",
+    "summary": "在华蓝洞窟隐藏道具点，通过相棒睡眠文本反查 Seed，再用日期变化和行动推进至大师球结果。原文包含时间变更惩罚、相棒状态和道具点准备条件，并对部分 Seed 名称作了更正。",
+    "evidence": "实机工具教程",
+    "status": "中文摘要",
+    "tags": [
+      "LGPE",
+      "大师球",
+      "隐藏道具",
+      "睡眠文本"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "Let's Go! 皮卡丘／伊布",
+        "道具拾取乱数"
+      ]
+    ]
+  },
+  {
+    "id": "rs-painting-seed-2025",
+    "title": "红蓝宝石：剧情早期利用绘画 Seed 调整野生个体",
+    "original_title": "【ポケモンRS】シナリオ攻略を出来るだけサボりながら絵画seedを利用した乱数調整をする方法",
+    "author": "ニケルダーク大学",
+    "date": "2025-09-08",
+    "language": "ja",
+    "url": "https://hope3gen.hatenablog.com/entry/2025/09/08/200414",
+    "summary": "利用凯那市华丽大赛会场的绘画，在较早剧情阶段准备野生乱数，并给出土居忍士实践。作者建议使用自动化以减少反复尝试；此早期路线依赖红蓝宝石的地图设施，不适用于绿宝石。",
+    "evidence": "实机实践与自动化",
+    "status": "中文摘要",
+    "tags": [
+      "绘画Seed",
+      "野生遭遇",
+      "剧情路线",
+      "自动化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "emerald-beldum-2024",
+    "title": "绿宝石：绘画 Seed 与 BV 保存获取铁哑铃",
+    "original_title": "【エメラルド新規勢向け乱数調整講座 #2】令和から始める！対戦環境を整えるための乱数調整 ダイゴのダンバル編",
+    "author": "ニケルダーク大学",
+    "date": "2024-09-02",
+    "language": "ja",
+    "url": "https://hope3gen.hatenablog.com/entry/2024/09/02/203000",
+    "summary": "以大吾赠送的铁哑铃为目标，解释绘画 Seed、战斗录像保存 Seed 及两者结合缩短等待的方法。文章包含目标搜索、实机调整、偏移检查和 BV 续接，需要先具备基础搜索与计时工具使用经验。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "铁哑铃",
+      "绘画Seed",
+      "BV保存",
+      "3genSearch"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "box-rs-eggs-2024",
+    "title": "Pokémon BOX RS：通过 ID 配合获得闪光特殊蛋",
+    "original_title": "【ポケモン3世代】ポケモンボックスRSで受け取れるタマゴを色違いにしたい人のための乱数調整",
+    "author": "ニケルダーク大学",
+    "date": "2024-10-29",
+    "language": "ja",
+    "url": "https://hope3gen.hatenablog.com/entry/2024/10/29/210000",
+    "summary": "根据特殊蛋孵化后的能力值反查 PID，再在接收用游戏中调整 TID／SID，使该蛋孵化为闪光。本文控制的是 ID 与 PID 的配合，不能用这套方法自由指定蛋的个体值。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "Pokémon BOX",
+      "特殊蛋",
+      "PID",
+      "TID/SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "特殊蛋与ID调整"
+      ]
+    ]
+  },
+  {
+    "id": "colosseum-seed-sorter-2025",
+    "title": "圆形竞技场：CoSeedSorter 自动化方案展示",
+    "original_title": "【ポケモンコロシアム】汎用乱数自動化プログラム『CoSeedSorter』",
+    "author": "毒電波にご注意を",
+    "date": "2025-12-17",
+    "language": "ja",
+    "url": "https://dokudenpa.hatenablog.jp/entry/CoSeedSorter",
+    "summary": "展示初期 Seed 筛选、眨眼定位、消耗推进和 NPC 控制的自动化设计，涉及 NX Macro Controller 等环境。作者明确表示 CoSeedSorter 程序本体尚未向公众发布，因此本文适合作为方案与研究线索。",
+    "evidence": "自动化方案展示（程序未公开）",
+    "status": "中文摘要",
+    "tags": [
+      "CoSeedSorter",
+      "暗黑宝可梦",
+      "自动化",
+      "眨眼"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "脚本与工具"
+      ]
+    ]
+  },
+  {
+    "id": "frlg-eggs-2024",
+    "title": "FRLG：蛋生成与领取的双阶段孵化乱数",
+    "original_title": "【ポケモンFRLG】孵化乱数 徹底解説 ＆ 自動化",
+    "author": "毒電波にご注意を",
+    "date": "2024-10-14",
+    "language": "ja",
+    "url": "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG",
+    "summary": "解释蛋生成时决定 PID 低位、领取时决定 PID 高位与个体值的流程，提供搜索、偏移确认和手动步骤。另介绍基于 NX Macro Controller 的硬件自动化；双次帧对齐和 Method 偏移仍是主要难点。",
+    "evidence": "实机教程与自动化",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "PID",
+      "Method",
+      "NX Macro Controller"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "bw2-stationary-2026",
+    "title": "BW2：5genSearch-web 定点乱数入门",
+    "original_title": "【ポケモンBW2】初心者向けの固定乱数(5genSearch-web使用版)",
+    "author": "ミルクの日記",
+    "date": "2026-10-12",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20261012/00000000",
+    "summary": "面向已完成参数识别的 BW2 玩家，说明目标个体值搜索、MT／LCG Seed 筛选、启动时间和消耗推进，并整理命中失败后的检查方式。工具支持网页操作，实机时间设置需区分 DS 与 3DS 系列。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "5genSearch-web",
+      "MT",
+      "LCG",
+      "固定遭遇"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "bw2-hidden-grotto-2026",
+    "title": "BW2：隐藏洞穴刷新物种的乱数调整",
+    "original_title": "【ポケモンBW2】 隠し穴に任意のポケモンを出現させる乱数調整",
+    "author": "ミルクの日記",
+    "date": "2026-07-30",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20260730/00000000",
+    "summary": "使用 SSS4、Bbwseedlist 等工具调整隐藏洞穴的刷新内容，需要将其他洞穴填满并留空目标洞穴。刷新物种与捕获个体值是两个步骤；原文明确隐藏洞穴个体不会闪光。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "隐藏洞穴",
+      "SSS4",
+      "Bbwseedlist",
+      "刷新"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "隐藏洞穴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "bw-eggs-2026",
+    "title": "BW：5genSearch-web 孵化乱数入门",
+    "original_title": "【BW1】初心者向けの孵化乱数(5genSearch-web使用版・スマホ対応)",
+    "author": "ミルクの日記",
+    "date": "2026-08-16",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20260816/00000000",
+    "summary": "以黑／白第一部为对象，说明亲代遗传条件、LCG Seed 搜索、育种准备、聒噪鸟消耗与领取结果确认。原文讨论 NPC 移动和国际孵化对结果的影响，适用范围不扩展到 BW2。",
+    "evidence": "实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "5genSearch-web",
+      "LCG",
+      "遗传"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "孵化乱数"
+      ]
+    ]
+  },
+  {
+    "id": "dpt-pokeradar-2026",
+    "title": "DPt：宝可追踪乱数的机制与工具索引",
+    "original_title": "【ポケモンDPt】ポケトレ乱数の手引書",
+    "author": "ミルクの日記",
+    "date": "2026-09-20",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20260920/00000000",
+    "summary": "梳理摇动草丛、闪光草丛和连续追踪等乱数用途，介绍搜索及逆算工具，并提示转向、移动和天气造成的限制。本文是补充资料与工具总览，具体操作需继续阅读所链接的专题教程。",
+    "evidence": "机制与工具综述",
+    "status": "中文摘要",
+    "tags": [
+      "宝可追踪",
+      "摇动草丛",
+      "连锁",
+      "DPtList"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ]
+    ]
+  },
+  {
+    "id": "hgss-red-gyarados-2026",
+    "title": "HGSS：红色暴鲤龙的特殊生成与定点乱数",
+    "original_title": "【ポケモンHGSS】赤いギャラドスの乱数調整",
+    "author": "ミルクの日記",
+    "date": "2026-09-22",
+    "language": "ja",
+    "url": "https://milk4724.hatenablog.com/entry/20260922/00000000",
+    "summary": "针对愤怒之湖红色暴鲤龙，结合追踪乱数逆算工具、4genSearch 或 PHS 搜索个体并设置实机启动和消耗。其保证闪光的生成过程有别于通常定点，文章面向已有第四世代乱数经验的读者。",
+    "evidence": "实机进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "红色暴鲤龙",
+      "PID",
+      "4genSearch",
+      "PHS"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "bw2-encounter-mechanics-2026",
+    "title": "BW2：普通草丛与深色草丛的遇敌消耗",
+    "original_title": "【ポケモンBW2】エンカウント乱数まとめ",
+    "author": "TASはTASけあい",
+    "date": "2026-06-26",
+    "language": "ja",
+    "url": "https://namofure.hatenablog.com/entry/2026/06/26/224206",
+    "summary": "汇总未持闪耀护符时，普通与深色草丛的步数、遇敌概率和乱数消耗，并列出自然遇敌的个体生成顺序。文中将左右同时同步的处理标为未验证，不能将这部分当作已确认结论。",
+    "evidence": "机制整理（含未验证项）",
+    "status": "中文摘要",
+    "tags": [
+      "遇敌判定",
+      "步数",
+      "乱数消耗",
+      "个体生成"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ]
+  },
+  {
+    "id": "gen7-sos-2023",
+    "title": "第七世代实机 SOS：行为记录与眨眼双重定位",
+    "original_title": "実機でのSOS乱数",
+    "author": "サイファーの日記",
+    "date": "2023-12-08",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2023/12/08/000000",
+    "summary": "介绍实机 SOS 乱数流程，分别通过战斗行为和眨眼定位 32 位 SOS SFMT 与 64 位主 SFMT，再配合搜索目标。工具需按 BCR 准备大型数据库，并处理连锁、PP 和部分地点的消耗异常。",
+    "evidence": "实机进阶教程",
+    "status": "中文摘要",
+    "tags": [
+      "SOS",
+      "SFMT",
+      "眨眼",
+      "7genBlinkSearch"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "SOS乱数"
+      ]
+    ]
+  },
+  {
+    "id": "gen7-evolution-blink-2024",
+    "title": "USUM：利用进化画面的眨眼稳定野生乱数",
+    "original_title": "進化時瞬きを利用した野生乱数",
+    "author": "サイファーの日記",
+    "date": "2024-05-26",
+    "language": "ja",
+    "url": "https://e52301147.hatenablog.com/entry/2024/05/26/141530",
+    "summary": "以究极之日的野生目标为例，在背包中进化宝可梦并利用招式学习后的眨眼定位，再用甜甜蜜触发遭遇。作者提供地点与天气补正的检查方法，并说明尚未验证所有区域。",
+    "evidence": "实机实践",
+    "status": "中文摘要",
+    "tags": [
+      "进化",
+      "眨眼",
+      "甜甜蜜",
+      "7genBlinkSearch"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "野生乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-crystal-starter",
+    "title": "水晶：PokeReader 辅助的初始伙伴乱数",
+    "original_title": "Crystal Starter RNG",
+    "author": "PokemonRNG.com 社区 / Zaksabeast（方法与工具）",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/gen2-starters/",
+    "summary": "利用 PokeReader 读取 ADIV／SDIV 状态，在收到初始伙伴的文本处暂停并逐帧推进到目标。需要支持 PokeReader 的改机或模拟器环境；原文说明方法仍不稳定，按键时长也会影响结果。",
+    "evidence": "改机／模拟器教程（实验性）",
+    "status": "中文摘要",
+    "tags": [
+      "PokeReader",
+      "初始伙伴",
+      "ADIV",
+      "SDIV"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第二世代",
+        "水晶",
+        "初始伙伴乱数"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "水晶",
+        "初始伙伴乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-crystal-celebi",
+    "title": "水晶：时拉比乱数的实验性流程",
+    "original_title": "Celebi in Crystal",
+    "author": "PokemonRNG.com 社区 / Zaksabeast（方法与工具）",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/gen2-celebi/",
+    "summary": "在放入 GS 球的文本处读取 PokeReader 状态，计算目标并逐帧推进后触发时拉比。需要改机或模拟器环境及可触发该事件的游戏进度；原文将方法标为高度实验性，并提醒避免额外按键干扰。",
+    "evidence": "改机／模拟器教程（高度实验性）",
+    "status": "中文摘要",
+    "tags": [
+      "时拉比",
+      "GS球",
+      "PokeReader",
+      "定点遭遇"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第二世代",
+        "水晶",
+        "定点乱数"
+      ],
+      [
+        "模拟器",
+        "第二世代",
+        "水晶",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-rs-dry-stationary",
+    "title": "红蓝宝石：模拟器干电池环境的定点乱数草稿",
+    "original_title": "Ruby and Sapphire Dead Battery Static RNG",
+    "author": "PokemonRNG.com / Subject（基于 Rick 的指南）",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/emulator-rs-dead-battery-stationary/",
+    "summary": "介绍禁用实时时钟后，使用 Lua、即时存档与 PokeFinder 校准红蓝宝石目标帧的方法，并提及绿宝石的固定初期 Seed。原文仍是未完成草稿，工具列表与 VBA-RR 步骤混用，需结合对应模拟器配置阅读。",
+    "evidence": "模拟器教程（草稿）",
+    "status": "中文摘要",
+    "tags": [
+      "干电池",
+      "PokeFinder",
+      "Lua",
+      "VBA-RR"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-colosseum-emulator",
+    "title": "圆形竞技场：Dolphin 与 RTC 定点乱数草稿",
+    "original_title": "Colosseum General RNG",
+    "author": "PokemonRNG.com / Jellal（原始指南）",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/emulator-colosseum-general/",
+    "summary": "用 PokeFinder、Dolphin 内存监视和 RunAsDate 控制 RTC 初期 Seed，再通过摘要、菜单等操作推进暗黑宝可梦目标。原文是草稿，并依赖 Dolphin 4.0-6848 等旧环境，提供不同地区版本的监视地址。",
+    "evidence": "模拟器教程（草稿）",
+    "status": "中文摘要",
+    "tags": [
+      "Dolphin",
+      "RTC",
+      "RunAsDate",
+      "暗黑宝可梦"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "暗黑宝可梦乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-dream-radar",
+    "title": "BW2／梦境雷达：模拟器接收个体的乱数调整",
+    "original_title": "Black 2 and White 2 Dream Radar RNG",
+    "author": "PokemonRNG.com 社区",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/emulator-b2w2-dream-radar/",
+    "summary": "在 DeSmuME 中使用 RNG Reporter 搜索梦境雷达接收个体的 IV 帧，并通过钥匙系统发送与接收操作推进。指南区分灵兽与其他个体的帧条件；性格可以预测，不能在给定 Seed 下任意调整。",
+    "evidence": "模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "梦境雷达",
+      "DeSmuME",
+      "RNG Reporter",
+      "钥匙系统"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ],
+      [
+        "模拟器",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "传送乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-oras-id",
+    "title": "ORAS：PokeReader 与 TinyMT 的 ID 乱数",
+    "original_title": "Omega Ruby and Alpha Sapphire TID RNG",
+    "author": "PokemonRNG.com 社区",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/retail-oras-tid/",
+    "summary": "读取 PokeReader 的 TinyMT Seed 后搜索 TID、SID 或 TSV，再利用角色命名确认时选择“否”来推进。需要改机或模拟器环境；特定 ID 组合可能不在当前 Seed 的可达范围，原文建议优先指定单一目标。",
+    "evidence": "改机／模拟器教程",
+    "status": "中文摘要",
+    "tags": [
+      "PokeReader",
+      "TinyMT",
+      "TID",
+      "SID"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "ID乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-gen7-timeline",
+    "title": "SM／USUM：NPC 眨眼与可到达帧时间线",
+    "original_title": "Ultra Sun and Ultra Moon Timeline RNG",
+    "author": "PokemonRNG.com 社区",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/retail-usum-timeline/",
+    "summary": "解释 NPC 眨眼造成的 RNG 消耗，以及通过安全帧建立可到达目标时间线的方法。指南需要装有 PokeReader 的 3DS 与 3DSRNGTool；SM 和 USUM 共用本文，区域没有 NPC 时无需使用时间线。",
+    "evidence": "改机实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "PokeReader",
+      "3DSRNGTool",
+      "NPC",
+      "Timeline"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "时间线与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ]
+  },
+  {
+    "id": "en-bdsp-stationary",
+    "title": "BDSP：CaptureSight 辅助的定点乱数",
+    "original_title": "Brilliant Diamond and Shining Pearl Static RNG",
+    "author": "PokemonRNG.com 社区",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/cfw-bdsp-stationary/",
+    "summary": "在装有 CaptureSight 的改机 Switch 上读取四段 RNG 状态，使用 Chatot 或 PokeFinder 搜索定点目标。原文整理初始伙伴、传说宝可梦和部分领取事件的触发画面与延迟，并提示眨眼可能导致偏移变化。",
+    "evidence": "改机实机教程",
+    "status": "中文摘要",
+    "tags": [
+      "CaptureSight",
+      "Chatot",
+      "PokeFinder",
+      "CFW"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "定点乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-arceus-mmo",
+    "title": "传说 阿尔宙斯：Sysbot 与 PermuteMMO 大大大量出现乱数",
+    "original_title": "Legends Arceus MMO RNG",
+    "author": "PokemonRNG.com 社区",
+    "date": null,
+    "language": "en",
+    "url": "https://www.pokemonrng.com/sysbot-lpa-mmo/",
+    "summary": "使用改机 Switch、sysbot、存档和 MMO Data Dumper 取得大量出现数据，再由 PermuteMMO 搜索闪光路径。指南解释多人战斗、惊吓与清场等推进指令，并提醒先在祝庆村保存和导出数据。",
+    "evidence": "改机实机工具教程",
+    "status": "中文摘要",
+    "tags": [
+      "Sysbot",
+      "PermuteMMO",
+      "MMO",
+      "大大大量出现"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "大大大量出现乱数"
+      ]
+    ]
+  },
+  {
+    "id": "en-gen6-seeding",
+    "title": "XY／ORAS：初期 Seed 的时间变量与存档变量",
+    "original_title": "Initial Seeding",
+    "author": "Admiral-Fish",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Admiral-Fish/RNGWriteups/blob/master/Gen%206/Initial%20Seeding.md",
+    "summary": "研究初期 Seed 为时间变量与存档变量之和的低 32 位，并示例在 Citra 中读取内存、固定 RTC 与比较帧间增量。文中地址来自 ORAS v1.2，机制同时涉及 XY；主要面向模拟器控制条件。",
+    "evidence": "模拟器机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "Citra",
+      "初期Seed",
+      "RTC",
+      "存档变量"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ]
+    ]
   }
 ]

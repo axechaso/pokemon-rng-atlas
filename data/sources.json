@@ -1,9 +1,57 @@
 [
-  {"name":"oupoの日記","feed":"https://oupo.hatenadiary.com/feed","homepage":"https://oupo.hatenadiary.com/"},
-  {"name":"ろいしんぶろぐ","feed":"https://blastoise-x.hatenablog.com/feed","homepage":"https://blastoise-x.hatenablog.com/"},
-  {"name":"ミルクの日記","feed":"https://milk4724.hatenablog.com/feed","homepage":"https://milk4724.hatenablog.com/"},
-  {"name":"TASはTASけあい","feed":"https://namofure.hatenablog.com/feed","homepage":"https://namofure.hatenablog.com/"},
-  {"name":"毒電波にご注意を","feed":"https://dokudenpa.hatenablog.jp/feed","homepage":"https://dokudenpa.hatenablog.jp/"},
-  {"name":"剣盾から始める過去作乱数","feed":"https://purely11.hatenablog.com/feed","homepage":"https://purely11.hatenablog.com/"},
-  {"name":"サイファーの日記","feed":"https://e52301147.hatenablog.com/feed","homepage":"https://e52301147.hatenablog.com/"}
+  {
+    "name": "oupoの日記",
+    "feed": "https://oupo.hatenadiary.com/feed",
+    "homepage": "https://oupo.hatenadiary.com/"
+  },
+  {
+    "name": "ろいしんぶろぐ",
+    "feed": "https://blastoise-x.hatenablog.com/feed",
+    "homepage": "https://blastoise-x.hatenablog.com/"
+  },
+  {
+    "name": "ミルクの日記",
+    "feed": "https://milk4724.hatenablog.com/feed",
+    "homepage": "https://milk4724.hatenablog.com/"
+  },
+  {
+    "name": "TASはTASけあい",
+    "feed": "https://namofure.hatenablog.com/feed",
+    "homepage": "https://namofure.hatenablog.com/"
+  },
+  {
+    "name": "毒電波にご注意を",
+    "feed": "https://dokudenpa.hatenablog.jp/feed",
+    "homepage": "https://dokudenpa.hatenablog.jp/"
+  },
+  {
+    "name": "剣盾から始める過去作乱数",
+    "feed": "https://purely11.hatenablog.com/feed",
+    "homepage": "https://purely11.hatenablog.com/"
+  },
+  {
+    "name": "サイファーの日記",
+    "feed": "https://e52301147.hatenablog.com/feed",
+    "homepage": "https://e52301147.hatenablog.com/"
+  },
+  {
+    "name": "ぽけどころ",
+    "feed": "https://taiyaki3gen.hatenablog.com/feed",
+    "homepage": "https://taiyaki3gen.hatenablog.com/"
+  },
+  {
+    "name": "めらめら",
+    "feed": "https://larvesta10.hatenablog.com/feed",
+    "homepage": "https://larvesta10.hatenablog.com/"
+  },
+  {
+    "name": "ニケルダーク大学",
+    "feed": "https://hope3gen.hatenablog.com/feed",
+    "homepage": "https://hope3gen.hatenablog.com/"
+  },
+  {
+    "name": "オワコンの地:ワソポタミア文明",
+    "feed": "https://wasou3721.hatenablog.com/feed",
+    "homepage": "https://wasou3721.hatenablog.com/"
+  }
 ]
