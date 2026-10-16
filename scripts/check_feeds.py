@@ -57,7 +57,8 @@ def hatena_host(host):
 
 def allowed_url(url):
     parts = urllib.parse.urlsplit(url)
-    return parts.scheme == 'https' and not parts.username and not parts.password and parts.port in (None, 443) and (hatena_host(parts.hostname) or parts.hostname == 'b.hatena.ne.jp')
+    migration = parts.hostname == 'hatena.blog' and parts.path == '/api/diary_redirect'
+    return parts.scheme == 'https' and not parts.username and not parts.password and parts.port in (None, 443) and (hatena_host(parts.hostname) or parts.hostname == 'b.hatena.ne.jp' or migration)
 
 
 def canonical(url):
@@ -584,10 +585,14 @@ def main():
         record = state['feeds'].setdefault(home, {})
         try:
             record['last_attempt_at'] = now
-            data, _, _ = fetcher.get(url)
+            data, _, final = fetcher.get(url)
             items = list(entries_from_xml(data))
             for item in items:
                 offer(item, 'blog-feed', url)
+            if hatena_host(urllib.parse.urlsplit(final).hostname) and homepage(final) != home:
+                register(final, url)
+                registry[home].update(enabled=False, migrated_to=homepage(final))
+                state['archives'].get(home, {}).pop('last_error', None)
             record['checked_at'] = now
             record.pop('last_error', None)
             fetcher.record('blog-feed', url, len(items))
@@ -608,11 +613,15 @@ def main():
         try:
             record['last_attempt_at'] = now
             data, headers, final = fetcher.get(url)
-            if homepage(final) != home:
-                raise ValueError('archive redirected to a different blog')
+            archive_home = homepage(final)
+            if archive_home != home:
+                if not hatena_host(urllib.parse.urlsplit(final).hostname):
+                    raise ValueError('archive redirected to a non-Hatena blog')
+                register(final, url)
+                registry[home].update(enabled=False, migrated_to=archive_home)
             document = EntryParser(final)
             document.feed(data.decode(headers.get_content_charset() or 'utf-8', 'replace'))
-            links = [anchor for anchor in document.anchors if article_url(anchor['url']) and homepage(anchor['url']) == home]
+            links = [anchor for anchor in document.anchors if article_url(anchor['url']) and homepage(anchor['url']) == archive_home]
             for item in links:
                 offer(item, 'blog-archive', url)
             page_hash = digest('\n'.join(sorted(set(article_url(item['url']) for item in links))))
