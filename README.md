@@ -37,7 +37,7 @@ python -m http.server 8000
 
 同一原文只能存在一条文章记录，但可被多个 `routes` 收录。例如同一篇 DPt 游戏厅文章同时包含实机调整与 DeSmuME Lua 实验，因而可以分别进入实机和模拟器栏目。
 
-资料卡和列表均标记原文语言。首页搜索“英文”或“English”可筛选英文来源，搜索“意大利语”“Italian”或“Italiano”可筛选意大利语来源，也可直接搜索原标题。搜索“DevonStudios”或“DevonStudio”可查看本轮整理的 Devon Studios 资料。实机栏目包含普通硬件、改机读取和硬件自动化方法，各篇摘要会注明相应条件。
+资料卡和列表均标记原文语言。首页搜索“英文”或“English”可筛选英文来源，搜索“意大利语”“Italian”或“Italiano”可筛选意大利语来源，也可直接搜索原标题。搜索“DevonStudios”或“DevonStudio”可查看本轮整理的 Devon Studios 资料。实机栏目包含普通硬件、破解读取和硬件自动化方法，各篇摘要会注明相应条件。
 
 录入后执行：
 
