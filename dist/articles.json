@@ -4468,5 +4468,2063 @@
         "机制研究"
       ]
     ]
+  },
+  {
+    "id": "en-3ds-gen6-timeline",
+    "title": "XY／ORAS：TinyMT 时间线与主 RNG 对齐",
+    "original_title": "Gen6 TinyMT Timeline Calibration",
+    "author": "wwwwwwzx",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/Gen6-TinyMT-Timeline-Calibration",
+    "summary": "说明第六世代 MT 与 TinyMT 的分工，并用角色眨眼、待机动作和飞翔状态校准 Tiny Timeline Tool。教程保留校准前的四段 TinyMT 状态，以主 RNG 帧建立对应时间线；自动校准依赖 NTR 调试断点并要求关闭 PSS。适用于破解 3DS 的旧工具流程。",
+    "evidence": "工具官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "TinyMT",
+      "TTT",
+      "PokeCalcNTR",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "时间线与校准"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-gen6-tinymt-timeline-spec",
+      "en-3dsrngtool-overview"
+    ]
+  },
+  {
+    "id": "en-3ds-gen7-timeline",
+    "title": "SM／USUM：安全帧与 Timeline 2.0 校准",
+    "original_title": "Gen7 Timeline Calibration (PokeCalcNTR Only)",
+    "author": "wwwwwwzx",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/Gen7-Timeline-Calibration-(PokeCalcNTR-Only)",
+    "summary": "解释安全帧、NPC 眨眼历史与实际生成帧之间的关系，介绍在最后输入画面建立时间线，以及 Timeline 2.0 对角色待机动作的修正。原文明确针对 PokeCalcNTR，需破解 3DS；NPC 为零时通常无需这套校准，其他随机消耗未受控时也不能直接套用预测。",
+    "evidence": "工具官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Timeline",
+      "安全帧",
+      "NPC",
+      "PokeCalcNTR"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "时间线与校准"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "时间线与校准"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-3dsrngtool-overview"
+    ]
+  },
+  {
+    "id": "en-3ds-ntr-helper",
+    "title": "3DS RNG Tool：NTR Helper 连接、读种与 ID Bot",
+    "original_title": "NTR Helper Usage",
+    "author": "wwwwwwzx",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/NTR-Helper-Usage",
+    "summary": "按 XY、ORAS、SM 和 USUM 分别说明 NTR Helper 获取初期 Seed 与 TSV 的连接时机，并介绍第六世代返回标题重新生成 MT Seed 的方式。后半说明 Rosalina Input Redirection 的 ID Bot 设置、日文键盘选项及停止画面。需要破解 3DS、同一网络与文档指定的 NTR／游戏更新版本。",
+    "evidence": "工具官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "NTR Helper",
+      "初期Seed",
+      "TSV",
+      "Input Redirection"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "en-3ds-gen6-timeline"
+    ]
+  },
+  {
+    "id": "en-3ds-gen7-fishing",
+    "title": "SM／USUM：抛竿与收竿双输入钓鱼乱数",
+    "original_title": "Gen7 Fishing RNG",
+    "author": "wwwwwwzx",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/Gen7-Fishing-RNG",
+    "summary": "以两次 A 输入分别控制抛竿和收竿，说明咬钩延迟、钓鱼窗口、宝可梦／道具分支和海洋居民之村王冠示例。文档区分吸盘特性、起泡钓点及拉普拉斯坐骑的参数；SM 与 USUM、首次钓鱼和经过的 NPC 都可能改变条件。依赖 PokeCalcNTR 时间线，属于破解实机方法。",
+    "evidence": "工具官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Fishing",
+      "王冠",
+      "Bite Delay",
+      "PokeCalcNTR"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "道具拾取乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "道具拾取乱数"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-3ds-gen7-timeline"
+    ]
+  },
+  {
+    "id": "en-3ds-friend-safari",
+    "title": "XY：好友狩猎的旧版 TTT 校准流程",
+    "original_title": "Friend Safari RNG",
+    "author": "wwwwwwzx（Real96 协助测试）",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/wwwwwwzx/3DSRNGTool/wiki/Friend-Safari-RNG",
+    "summary": "以百变怪为例介绍好友狩猎的 MT 搜索、TinyMT 遭遇槽与同步定位，再通过转向触发战斗。原文依赖 PokeCalcNTR G6、3DSRNGTool 及已经解锁的好友狩猎槽位，并讨论战后冷却与时间线重校准。属于旧版时间线方法，可与 Bambo-Rambo 的背包推进教程对照阅读。",
+    "evidence": "工具官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Friend Safari",
+      "百变怪",
+      "TinyMT",
+      "TTT"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "好友狩猎乱数"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-3ds-gen6-timeline",
+      "en-bambo-gen6-wild",
+      "xy-friend-safari-2023"
+    ]
+  },
+  {
+    "id": "ja-ipa-swsh-android-usage",
+    "title": "剑盾 Android 工具：动作输入、状态恢复与个体搜索",
+    "original_title": "剣盾野生乱数用Androidアプリの使い方",
+    "author": "IPA989",
+    "date": null,
+    "language": "ja",
+    "url": "https://github.com/IPA989/SwShOverWorldRNGTool/wiki/使い方-(日本語)",
+    "summary": "介绍 SwShOverWorldRNGTool 的 Android 操作：按物理／特殊招式动作记录 0、1，恢复当前状态，再筛选目标个体。原文提示搜索范围过大可能崩溃、结果数量和部分性别条件有限制。仓库 README 已说明 Google Play 发布终止，应从官方 Releases 获取 APK；Wiki 内旧商店说明需结合 README 阅读。",
+    "evidence": "工具作者 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Android",
+      "动作推种",
+      "State",
+      "APK"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "video-ipa-swsh-android",
+      "swsh-wild-2021"
+    ]
+  },
+  {
+    "id": "ja-ipa-swsh-tsv",
+    "title": "剑盾：利用新捕获的日替定点闪光反推 TSV／TRV",
+    "original_title": "TSVの特定方法",
+    "author": "IPA989",
+    "date": null,
+    "language": "ja",
+    "url": "https://github.com/IPA989/SwShOverWorldRNGTool/wiki/TSVの特定方法",
+    "summary": "利用日替定点闪光个体的个体值及其生成前后的 RNG 状态，在 Android 工具中反查 TSV；附 TRV 候选筛选和搜索失败排查。必须保留该次生成的状态信息，不能仅拿任意历史闪光套用；捕获后重启、雨天消耗、性别条件和闪耀护符设置都可能影响匹配。",
+    "evidence": "工具作者 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "TSV",
+      "TRV",
+      "日替定点",
+      "Android"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "ja-ipa-swsh-android-usage"
+    ]
+  },
+  {
+    "id": "en-tera-remote-connection",
+    "title": "Tera Finder：PKHeX 插件与破解 Switch 远程连接",
+    "original_title": "Connect To Remote Device",
+    "author": "Manu098vm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/Tera-Finder/wiki/Connect-To-Remote-Device",
+    "summary": "介绍独立版及 PKHeX 插件通过 sys-botbase Wi-Fi 或 USB-Botbase 连接运行中的朱紫，读取／编辑团体战与大量出现数据。文档区分标题画面、当天存档与编辑后重启等条件，并提示部分叠加插件可能影响内存连接。属于破解环境的内存研究与编辑说明，不能用来预测自然调日期产生的每日 Seed。",
+    "evidence": "插件官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "PKHeX插件",
+      "sys-botbase",
+      "USB",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-tera-finder-raid-calculator",
+      "en-tera-outbreak-editor"
+    ]
+  },
+  {
+    "id": "en-tera-seed-checker",
+    "title": "朱紫：从太晶团体战个体反查生成 Seed",
+    "original_title": "Seed Checker",
+    "author": "Manu098vm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/Tera-Finder/wiki/Seed-Checker",
+    "summary": "介绍 Tera Finder 的 Seed Checker：按个体属性计算可能的团体战生成 Seed，PKHeX 插件可以从当前选中的宝可梦填入参数。匹配依赖 PKHeX.Core 遭遇数据库，新活动可能需要更新。找到匹配只说明属性与某个生成结果相容，不能证明实际来源，也不提供每日 Seed 的未来预测。",
+    "evidence": "插件官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Seed Checker",
+      "PKHeX.Core",
+      "遭遇匹配",
+      "太晶团体战"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-tera-finder-raid-calculator"
+    ]
+  },
+  {
+    "id": "en-tera-outbreak-editor",
+    "title": "朱紫：大量出现查看、导出与编辑说明",
+    "original_title": "Mass Outbreak Viewer & Editor",
+    "author": "Manu098vm",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Manu098vm/Tera-Finder/wiki/Mass-Outbreak-Viewer-&-Editor",
+    "summary": "说明用朱紫存档或远程 RAM 查看大量出现，以及导出／导入 JSON、修改物种和坐标。原文要求使用当天保存的数据；远程修改需在标题画面，错误坐标或不支持的物种会导致不生成。收录为数据研究与编辑文档，不能把直接修改大量出现等同于自然乱数预测。",
+    "evidence": "插件官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "大量出现",
+      "存档编辑",
+      "RAM",
+      "JSON"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "大量出现数据研究"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-tera-remote-connection"
+    ]
+  },
+  {
+    "id": "en-moar-bdsp-rng",
+    "title": "Moarencounterbots：BDSP 监测、种子格式与图鉴推进",
+    "original_title": "BDSP EncounterBots",
+    "author": "Lusamine / Anubis",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Lusamine/SysBot.NET/wiki/BDSP-EncounterBots",
+    "summary": "列出 TID 搜索、CopySeed、RNG Monitor、Dex Flip 和 ZoneID 工具的作用与设置，并区分 RAM 的 128／64／32 位状态格式和 PokeFinder 专用排列。图鉴翻页可用于远距离推进，但暂停后可能仍有残余输入；地下大洞窟在 HOME 最小化时仍会继续推进。需破解 Switch、sys-botbase 与对应的 moarencounterbots 分支。",
+    "evidence": "自动化扩展官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Moarencounterbots",
+      "Dex Flip",
+      "RNG Monitor",
+      "PokeFinder"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-billo-bdsp-setup",
+      "en-billo-bdsp-radar",
+      "en-capturesight"
+    ]
+  },
+  {
+    "id": "en-moar-swsh-rng",
+    "title": "Moarencounterbots：剑盾 RNG 监测与咖喱、树木可控范围",
+    "original_title": "SWSH EncounterBots",
+    "author": "Lusamine / Anubis",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Lusamine/SysBot.NET/wiki/SWSH-EncounterBots",
+    "summary": "介绍剑盾的 CopySeed、RNG Monitor 和自动输入设置，也记录咖喱与树木遇敌的自动化条件。文档明确：咖喱可控制是否出现与物种，树木可控制物种及证章；这些遭遇的闪光、个体值和性格使用加密安全随机数，不能据此控制。需要破解 Switch；普通重复重置程序与实际 RNG 预测应按各小节区分。",
+    "evidence": "自动化扩展官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Moarencounterbots",
+      "咖喱",
+      "树木遇敌",
+      "CSPRNG"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "特殊遭遇研究"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-owoow",
+      "en-capturesight"
+    ]
+  },
+  {
+    "id": "en-moar-pla-rng",
+    "title": "Moarencounterbots：阿尔宙斯状态监测与传说生成器搜索",
+    "original_title": "LA EncounterBots",
+    "author": "Lusamine / Anubis",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Lusamine/SysBot.NET/wiki/LA-EncounterBots",
+    "summary": "说明传说 阿尔宙斯的主 RNG 状态复制、持续监测及 Overworld Legendary Seedcheck。生成器搜索区分村口、洞外存档位置，列出霏欧纳因玛纳霏和已捕获数量而切换的生成器层，并限定可使用的筛选条件。需要破解 Switch 与 sys-botbase；BDSP 的 PokeFinder 状态排列不适用于本作。",
+    "evidence": "自动化扩展官方 Wiki",
+    "status": "中文摘要",
+    "tags": [
+      "Moarencounterbots",
+      "Spawner",
+      "霏欧纳",
+      "Group Seed"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "wiki",
+    "related_sources": [
+      "en-billo-pla-retail",
+      "en-capturesight"
+    ]
+  },
+  {
+    "id": "en-capturesight",
+    "title": "CaptureSight：Switch 叠加插件安装与乱数状态读取",
+    "original_title": "CaptureSight",
+    "author": "zaksabeast",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zaksabeast/CaptureSight",
+    "summary": "官方 README 给出 Tesla 叠加层安装、文件位置和打开菜单的方法。剑盾可读取主 RNG、巢穴 Seed 与训练家信息；BDSP 可读取主状态、蛋 Seed 与 Group Seed；传说 阿尔宙斯列有生成器 Seed。需要破解 Switch，支持游戏与可读数据按对应章节区分，读取本身不等于完成某项乱数流程。",
+    "evidence": "插件官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "CaptureSight",
+      "Tesla",
+      "Overlay",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-moar-bdsp-rng",
+      "en-moar-swsh-rng",
+      "en-moar-pla-rng"
+    ]
+  },
+  {
+    "id": "en-pokereader",
+    "title": "PokeReader：3DS 的种子读取、暂停与逐帧插件",
+    "original_title": "PokeReader",
+    "author": "zaksabeast",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/zaksabeast/PokeReader",
+    "summary": "说明 3gx 插件的安装路径、RNG／队伍／野生／训练家信息菜单、暂停逐帧快捷键及 SOS 选择操作。实机依赖支持插件的 Luma 破解环境，README 也列出 Citra 用法；本次源码核对到 XY、ORAS、SM、USUM 等支持标题及版本检查。各游戏的数据页并非完全相同，需搭配相应方法教程。",
+    "evidence": "插件官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "PokeReader",
+      "3gx",
+      "Luma",
+      "逐帧"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "太阳／月亮",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "究极之日／究极之月",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-tinyfinder",
+      "en-bambo-gen6-wild",
+      "en-bambo-gen6-dexnav"
+    ],
+    "review_notes": "支持标题另外核对了仓库 reader_core/src/title.rs。源码列有部分语言的 VC 水晶与虚拟传送，但本卡不据此推断所有语言、版本或全部功能都兼容。"
+  },
+  {
+    "id": "en-tinyfinder",
+    "title": "TinyFinder：第六世代双 RNG 工具及操作说明",
+    "original_title": "TinyFinder",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/TinyFinder",
+    "summary": "介绍 TinyMT 遭遇槽、携带物、图鉴导航、野生、群战、钓鱼和宝可追踪筛选，以及模拟器日期搜索。README 明确尚未实现 TinyMT 时间线校准，许多遭遇改用背包内可预测操作推进；日期搜索的校准年月日时刻有严格要求。支持破解实机与模拟器的用途不同，配套英文教程给出完整操作。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "TinyFinder",
+      "TinyMT",
+      "背包推进",
+      "日期搜索"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "脚本与工具"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-bambo-gen6-wild",
+      "en-bambo-gen6-horde",
+      "en-bambo-gen6-dexnav",
+      "en-bambo-gen6-id",
+      "en-bambo-gen6-mt-seed"
+    ]
+  },
+  {
+    "id": "en-project-xs",
+    "title": "Project_Xs：BDSP 眨眼读种与时间线界面说明",
+    "original_title": "Project_Xs",
+    "author": "Lincoln-LM",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Lincoln-LM/Project_Xs",
+    "summary": "通过玩家或宝可梦眨眼恢复 BDSP 的 Xorshift 状态，README 逐项说明监测、再识别、序章小卡比兽、NPC 与时间线参数。可使用相机／采集卡输入，Windows 另有窗口捕获选项；输出包含四段和两段状态格式。无需通过破解直接读取游戏内存，但图像区域、延迟与 NPC 配置仍需按遭遇校准。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "Project_Xs",
+      "眨眼法",
+      "Xorshift",
+      "采集卡"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "video-bdsp-starter-blinks",
+      "video-bdsp-legends-blinks",
+      "en-bdsp-rng-reference"
+    ]
+  },
+  {
+    "id": "en-owoow",
+    "title": "owoow：剑盾野生与道具乱数工具的新版本说明",
+    "original_title": "owoow",
+    "author": "LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/LegoFigure11/owoow",
+    "summary": "继任旧 swsh-overworld-rng-gui，支持定点明雷、随机明雷、暗雷、钓鱼及部分道具预测。普通实机可用动作序列恢复状态，采集卡监测用于自动记录；破解环境另可连接 sys-botbase 读种并自动推进。README 还列出雨天校准、图鉴推荐和遭遇查询，完整教程由 Billo 等作者提供。",
+    "evidence": "工具官方 README",
+    "status": "中文摘要",
+    "tags": [
+      "owoow",
+      "LegoFigure11",
+      "动作推种",
+      "sys-botbase"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "tool",
+    "related_sources": [
+      "en-billo-swsh-overworld",
+      "en-billo-swsh-items"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-wild",
+    "title": "XY／ORAS：PokeReader 与背包推进的野生／好友狩猎教程",
+    "original_title": "XY/ORAS wild Pokemon RNG made EASY",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/NormalWild-FS-RNG.md",
+    "summary": "以 PokeReader、TinyFinder 和 3DS RNG Tool 配合控制 MT 与 TinyMT，覆盖普通单体野生和好友狩猎。教程从剧情临时 NPC、驱虫喷雾及位置准备开始，再用背包操作推进到目标，并在主 RNG 帧触发遭遇。支持破解实机与模拟器；队伍数量、出背包消耗和影响遇敌的特性都需匹配。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "TinyFinder",
+      "PokeReader",
+      "MT",
+      "TinyMT"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "野生乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "好友狩猎乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "好友狩猎乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-pokereader",
+      "en-tinyfinder",
+      "video-bambo-gen6-wild"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-horde",
+    "title": "XY／ORAS：群战甜蜜法与移动法的双 RNG 调整",
+    "original_title": "Horde Encounter RNG Abuse Guide",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/HordeRNG.md",
+    "summary": "比较使用甜甜蜜与移动触发群战两种方法，分别解释 MT 的个体生成与 TinyMT 的遭遇槽、同步、隐藏特性和触发判定。甜甜蜜需校准延迟；移动法需要处理离开背包的消耗，ORAS 还限于长草环境。教程依赖破解读取或 Citra，并提醒群战位置与遭遇槽是不同概念。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "群战",
+      "Honey",
+      "隐藏特性",
+      "TinyMT"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "群战乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "群战乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "群战乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "群战乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-bambo-gen6-wild",
+      "en-tinyfinder",
+      "en-3ds-ntr-helper"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-dexnav",
+    "title": "ORAS：图鉴导航闪光、隐藏特性与遗传招式定位",
+    "original_title": "DexNav RNG Abuse Guide",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/DexNavRNG.md",
+    "summary": "详细介绍移动触发的图鉴导航乱数：先筛 TinyMT 的物种、闪光、隐藏特性与招式，再组合 MT 的个体值，并校准步数计数、草丛坐标与菜单延迟。需要破解 3DS 或兼容模拟器读取工具；此流程不同于触屏直接搜索，钓鱼限定物种不适用该移动触发方式。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "DexNav",
+      "隐藏特性",
+      "遗传招式",
+      "TinyFinder"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-bambo-gen6-dexnav-notes",
+      "en-pokereader",
+      "en-tinyfinder",
+      "oras-dexnav-2026"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-dexnav-notes",
+    "title": "ORAS：图鉴导航连锁、地图坐标与延迟补充",
+    "original_title": "DexNav extra Info",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/ExtraInfo.md",
+    "summary": "补充 DexNav 与宝可追踪的区别、TinyFinder 筛选项、连锁中断条件、特殊地形和延迟不稳时的处理。重点说明目标坐标必须落在可遇敌区域，洞穴与水面还需留出移动空间。原文另含用 PKHeX 修改搜索等级的建议，该部分属于存档编辑，应与正常游戏内累积搜索等级的流程区分。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "DexNav",
+      "连锁",
+      "坐标",
+      "延迟"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "图鉴导航乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-bambo-gen6-dexnav"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-id",
+    "title": "XY／ORAS：Citra 中的 TinyMT 日期搜索与 ID 调整",
+    "original_title": "Gen 6 TID/SID RNG on Citra",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/Gen6TidSidRNG.md",
+    "summary": "用 CitraRNG 读取四段 TinyMT 状态，再通过 TinyFinder 日期搜索选择 TID／SID。XY 部分需要时间线或即时存档校准，ORAS 则利用重复进入命名画面推进。教程针对 Citra；初始 TinyMT 校准固定在一月一日 13:00:00，与搜索结果所选月份不同，不能混用设置。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "TID",
+      "SID",
+      "TinyMT",
+      "Citra"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "ID乱数"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "ID乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-tinyfinder",
+      "en-3ds-gen6-timeline"
+    ]
+  },
+  {
+    "id": "en-bambo-gen6-mt-seed",
+    "title": "XY／ORAS：用存档参数与 RTC 定向生成 MT Seed",
+    "original_title": "Gen 6 Main (MT) Seed RNG",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/Gen6MTSeedRNG.md",
+    "summary": "针对 Citra 说明按目标日期或日期与时刻组合搜索主 MT Seed，借助保存时机改变 Save Parameter，再于指定开场帧重新启动验证。教程区分一般日期搜索与同时对齐 MT／TinyMT 的高级用途，并单独解释奇偶帧切换。所用读取工具为 CitraRNG 或 PokeReader，模拟器初期 Seed 的一致性仍需校准。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "MT Seed",
+      "Save Parameter",
+      "RTC",
+      "奇偶帧"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第六世代",
+        "X／Y",
+        "初期Seed与校准"
+      ],
+      [
+        "模拟器",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-tinyfinder",
+      "en-gen6-seeding"
+    ]
+  },
+  {
+    "id": "en-bambo-gen7-sos",
+    "title": "SM／USUM：Citra SOS 状态、呼援路径与延迟控制",
+    "original_title": "SOS RNG",
+    "author": "Bambo-Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://github.com/Bambo-Rambo/RNG-Guides/blob/main/SOSRNG.md",
+    "summary": "作者以 Citra 为主讲解 SOS 独立状态与主 RNG 的配合，包含呼援概率、天气槽、连锁、麻痹／治愈推进路径及战斗延迟校准。文档记录 SOS 状态读取错误的修正和即时存档复现；示例队伍、道具部分使用 PKHeX 编辑，并非无需准备的普通实机流程。旧 PokeCalc 与读取脚本的稳定性限制需留意。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "SOS",
+      "CitraRNG",
+      "呼援",
+      "战斗延迟"
+    ],
+    "routes": [
+      [
+        "模拟器",
+        "第七世代",
+        "太阳／月亮",
+        "SOS乱数"
+      ],
+      [
+        "模拟器",
+        "第七世代",
+        "究极之日／究极之月",
+        "SOS乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "gen7-sos-2023",
+      "en-3dsrngtool-overview"
+    ]
+  },
+  {
+    "id": "en-billo-swsh-overworld",
+    "title": "剑盾普通实机：owoow 野生乱数入门与遭遇分类",
+    "original_title": "Overworld RNG Guide (RETAIL)",
+    "author": "Billo、Anubis、LegoFigure11",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/retail/swsh/overworld/main-page",
+    "summary": "介绍 owoow 的安装、界面和普通实机流程入口，覆盖动作找种／再识别、NPC 校准及定点明雷、随机明雷、暗雷、钓鱼和伽勒尔三鸟分类。原文建议初学者先选 NPC 较少的遭遇，并说明天气、光环与遭遇率筛选。各类遭遇的具体步骤分在后续章节；闪光搜索仍需正确的内部 TID／SID。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "owoow",
+      "普通实机",
+      "NPC校准",
+      "伽勒尔三鸟"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "漫游乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-owoow",
+      "swsh-wild-2021"
+    ]
+  },
+  {
+    "id": "en-billo-swsh-items",
+    "title": "剑盾普通实机：合成机器、洛托 ID 与瓦特商人教程索引",
+    "original_title": "SwSh Item RNG Guide (RETAIL)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/retail/swsh/item",
+    "summary": "说明 owoow 中合成机器、洛托 ID、雪中溪谷瓦特商人、挖矿老爹及吼鲸王刷新等工具入口和游戏内条件。共用基础包括动作读种、状态推进与 NPC 校准；道具章节再分别给出操作。道具、瓦特和旷野地区遭遇具有不同生成条件，不能仅用同一个按键时机套用所有项目。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "Cram-o-matic",
+      "Loto-ID",
+      "Watt Trader",
+      "Digging Pa"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "合成机器乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "洛托ID乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "每日特卖乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "挖矿奖励乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-owoow",
+      "en-auto-cramomatic",
+      "en-auto-daily-highlight"
+    ]
+  },
+  {
+    "id": "en-billo-bdsp-setup",
+    "title": "BDSP 破解实机：PokeFinder、读种与推进工具配置",
+    "original_title": "BDSP RNG Manipulation (CFW)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/bdsp/",
+    "summary": "讲解 PokeFinder、Moarencounterbots、PokeViewer.NET 与 sys-botbase 的连接和配置，提供定点、礼物、野生、钓鱼、孵化、地下大洞窟和 ID 的后续教程入口。强调 PokeFinder 使用内部 TID／SID，而非界面上的六位 ID，并区分不同 Seed 输出排列。需要破解 Switch，插件或游戏修改可能影响内存读取。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "PokeFinder",
+      "PokeViewer.NET",
+      "Moarencounterbots",
+      "破解"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-moar-bdsp-rng",
+      "en-billo-bdsp-radar"
+    ]
+  },
+  {
+    "id": "en-billo-bdsp-radar",
+    "title": "BDSP 破解实机：ARSE 连锁预测与宝可追踪配置",
+    "original_title": "BDSP Poké Radar RNG",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/bdsp/radar/",
+    "summary": "以 Automatic Radar Seed Extrapolator（ARSE）和 Moarencounterbots 为核心，说明读取状态、寻找继续连锁的目标以及个体搜索。页面逐项介绍程序窗口、RNG 监测和图鉴翻页工具，并链接宝可追踪基础与后续操作。依赖破解 Switch 和 sys-botbase；需正确选择 BDSP 模式和 Seed 排列。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "ARSE",
+      "Poké Radar",
+      "连锁",
+      "Moarencounterbots"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "宝可追踪乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-moar-bdsp-rng",
+      "en-billo-bdsp-setup"
+    ]
+  },
+  {
+    "id": "en-billo-raidcrawler",
+    "title": "朱紫：RaidCrawler 自动调日期与团体战筛选",
+    "original_title": "RaidCrawler Usage Guide",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/cfw/sv/raidcrawler/",
+    "summary": "介绍 RaidCrawler 与 sys-botbase 的连接、团体战和奖励筛选、扫描定位及循环调日期。该流程每次调日期后读取并重新扫描已生成的巢穴，属于破解环境的自动搜索；不是从当前每日 Seed 预测未来日期。文档还说明活动条件、程序停止与保存设置，需与直接编辑团体战 Seed 的研究用途区分。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "RaidCrawler",
+      "自动扫描",
+      "sys-botbase",
+      "太晶团体战"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战种子研究"
+      ],
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "太晶团体战奖励研究"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-tera-finder-raid-calculator",
+      "en-tera-finder-reward-calculator"
+    ]
+  },
+  {
+    "id": "en-billo-pla-retail",
+    "title": "传说 阿尔宙斯：借助 SysBot 文件反推传说生成器",
+    "original_title": "Legends: Arceus RNG (RETAIL)",
+    "author": "Billo-PS",
+    "date": null,
+    "language": "en",
+    "url": "https://billo-guides.github.io/retail/la/legendary",
+    "summary": "使用 ParLiAment 从两次连续捕获的 .pa8 文件恢复 Group Seed，再通过击倒／刷新推进指定传说或幻之宝可梦的生成器。玩家自己的主机可以无需破解，但仍需借助他人的破解 SysBot 导出个体文件。教程只覆盖列出的 Spawner RNG 遭遇，不包括所有主 RNG 传说；目标主要是个体值与性格。",
+    "evidence": "作者教程",
+    "status": "中文摘要",
+    "tags": [
+      "ParLiAment",
+      "Group Seed",
+      "SysBot",
+      "Spawner"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-moar-pla-rng"
+    ]
+  },
+  {
+    "id": "en-auto-item-printer",
+    "title": "朱紫：道具打印机硬件自动化与延迟自校准",
+    "original_title": "Item Printer RNG",
+    "author": "Pokemon Automation / Mysticial/Kuroneko；Nymphea、jw",
+    "date": null,
+    "language": "en",
+    "url": "https://pokemonautomation.github.io/Programs/PokemonSV/ItemPrinterRNG.html",
+    "summary": "官方文档介绍用视频反馈与控制器自动化运行道具打印机，按日期 Seed、打印次数及是否延续上一轮设置任务表，并根据实际奖品自动校准延迟。常用种子要求充分升级打印机，且依赖 BP 和材料；连续打印模式与回到房间重播种不同。此为采集与控制硬件的自动化方案，文档中的开发中模式不等于公开稳定功能。",
+    "evidence": "项目官方操作文档",
+    "status": "中文摘要",
+    "tags": [
+      "Pokemon Automation",
+      "硬件自动化",
+      "Delay",
+      "Item Printer"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-anubis-item-seed-index",
+      "video-osirus-item-printer"
+    ]
+  },
+  {
+    "id": "en-auto-cramomatic",
+    "title": "剑盾：合成机器稀有球的硬件自动化设置",
+    "original_title": "Cram-o-matic RNG",
+    "author": "Pokemon Automation / Fye（机制与原始计算：Anubis）",
+    "date": null,
+    "language": "en",
+    "url": "https://pokemonautomation.github.io/Programs/PokemonSwSh/CramomaticRNG.html",
+    "summary": "说明用视频识别与控制器自动化调整合成机器产物，列出非闪光以欧路普领队、球果背包位置、道场 NPC 数和目标球优先级。程序设置必须与主、副球果实际数量相符，否则可能使用其他道具；运动球还需要相邻的第二类球果。是需外接硬件和电脑视频反馈的自动化操作文档。",
+    "evidence": "项目官方操作文档",
+    "status": "中文摘要",
+    "tags": [
+      "Cram-o-matic",
+      "球果",
+      "稀有球",
+      "硬件自动化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "合成机器乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-billo-swsh-items"
+    ]
+  },
+  {
+    "id": "en-auto-daily-highlight",
+    "title": "剑盾：雪中溪谷每日特卖的自动化校准",
+    "original_title": "Daily Highlight RNG",
+    "author": "Pokemon Automation / Fye（商人机制：Anubis）",
+    "date": null,
+    "language": "en",
+    "url": "https://pokemonautomation.github.io/Programs/PokemonSwSh/DailyHighlightRNG.html",
+    "summary": "介绍自动搜索并购买冠之雪原瓦特商人的每日特卖，覆盖菜单布局、Y-Comm 调日期状态、非闪光以欧路普领队和 NPC 数定期校准。依赖控制硬件与 1080p 以上视频反馈；需要已解锁雪中溪谷且与商人交谈过。文档说明操作可能偏移，运行次数和目标道具应结合瓦特余额设置。",
+    "evidence": "项目官方操作文档",
+    "status": "中文摘要",
+    "tags": [
+      "Daily Highlight",
+      "瓦特商人",
+      "Y-Comm",
+      "硬件自动化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "每日特卖乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "en-billo-swsh-items"
+    ]
+  },
+  {
+    "id": "en-anubis-item-seed-index",
+    "title": "朱紫：Anubis 的道具打印机种子索引与排错说明",
+    "original_title": "Index of RNG Seeds for SV Item Printer",
+    "author": "Anubis / Lusamine",
+    "date": null,
+    "language": "en",
+    "url": "https://gist.github.com/Lusamine/112d4230919fadd254f0e6dfca850471",
+    "summary": "原作者集中解释时间 Seed、打印机等级、普通／道具奖励／精灵球奖励模式和连续组合种子的记号，并链接不同物品的种子清单。示例时刻指游戏实际生成时刻，按键需提前校准；大部分列表按大师球级打印机计算，不能把较低等级或不同奖励模式直接混用。另提供 ItemPrinterDeGacha 排错入口。",
+    "evidence": "研究者原始索引与说明",
+    "status": "中文摘要",
+    "tags": [
+      "Anubis",
+      "ItemPrinterDeGacha",
+      "种子清单",
+      "奖励模式"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "article",
+    "related_sources": [
+      "post-anubis-item-printer",
+      "en-auto-item-printer",
+      "video-blisy-item-printer",
+      "sv-item-printer-2026"
+    ]
+  },
+  {
+    "id": "video-bdsp-starter-blinks",
+    "title": "BDSP 视频：利用眨眼定位初始伙伴乱数",
+    "original_title": "GUARANTEED Shiny Starter Pokemon in BDSP using... BLINKS?",
+    "author": "Papa Jefé",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=FBnNWCy7-es",
+    "summary": "Papa Jefé 的 BDSP 初始伙伴眨眼法视频入口。主题是以画面中的眨眼定位状态，再规划目标初始伙伴；可先阅读 Project_Xs 对读种、NPC 和双阶段时间线参数的说明。本卡用于查找视频，具体按键时机与版本条件需按原视频及工具文档核实。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Papa Jefé",
+      "眨眼法",
+      "初始伙伴"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初始伙伴乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-bdsp-legends-blinks",
+    "title": "BDSP 视频：传说宝可梦的眨眼法乱数",
+    "original_title": "SHINY LEGENDS in an Hour Using... Blinks???",
+    "author": "Papa Jefé",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=tBONus3Kg8U",
+    "summary": "Papa Jefé 介绍 BDSP 传说宝可梦眨眼法的公开视频。可与 Project_Xs 的状态监测、再识别和时间线说明搭配；不同传说遭遇的 NPC、模型眨眼与延迟条件需要分别处理。视频标题中的耗时描述不作为本站对实际完成时间的保证。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Papa Jefé",
+      "眨眼法",
+      "传说"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-bdsp-introduction",
+    "title": "BDSP 视频：面向电脑用户的乱数入门",
+    "original_title": "You NEED to try this BROKEN Shiny Hunting Method in BDSP",
+    "author": "Papa Jefé",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=WdBe9OmxlM4",
+    "summary": "Papa Jefé 的 BDSP RNG 入门视频，公开简介将其定位为有电脑可用时的起点。本卡保留原题与频道，便于对照工具说明继续学习；视频未逐段核对，不能单凭标题推断所有遭遇、版本或孵化条件均适用。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Papa Jefé",
+      "BDSP",
+      "入门"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-bdsp-fossils",
+    "title": "BDSP 视频：化石复原的闪光乱数主题",
+    "original_title": "Shiny Fossil Pokemon in BDSP are FREE!",
+    "author": "Papa Jefé",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=DfWE7KuweUU",
+    "summary": "Papa Jefé 的 BDSP 化石复原闪光主题视频，补充礼物型遭遇的观看入口。化石复原需按对应生成方式处理，不宜直接套用定点传说的延迟；本卡仅索引主题与原始视频，没有把视频标题的宣传性表述当作操作验证。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Papa Jefé",
+      "化石",
+      "礼物"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "晶灿钻石／明亮珍珠",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-project-xs",
+      "en-billo-bdsp-setup"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-emerald-painting",
+    "title": "绿宝石视频：绘画重播种与高个体值传说",
+    "original_title": "Shiny Perfect Legendaries....From a Painting?",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=v1fxop08yOs",
+    "summary": "im a blisy 的绘画重播种主题视频，可与本站绿宝石绘画 Seed、BV 保存及捕获资料对照。该入口用于展示这一方法的教学视频；绘画与战斗录像的具体保存、加载条件仍需按相应原文核实。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "im a blisy",
+      "绘画Seed",
+      "传说"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "定点乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "emerald-beldum-2024",
+      "devon-emerald-captures"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-emerald-battle-video",
+    "title": "绿宝石视频：使用战斗录像处理远距离目标帧",
+    "original_title": "EASY 100,000+ FRAME SHINIES IN POKEMON EMERALD? (Battle video RNG Method)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=HlhM6BTDXvc",
+    "summary": "im a blisy 的 Battle video RNG Method 视频，主题是用战斗录像辅助绿宝石较远帧的乱数。可与绘画 Seed、BV 保存资料一起查看；本卡不根据视频标题推断特定帧一定可达，仍需核对当前种子、录像状态及目标生成方式。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "战斗录像",
+      "BV",
+      "远帧"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初期Seed与校准"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "emerald-beldum-2024"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-emerald-stationary",
+    "title": "绿宝石视频：定点与赠送宝可梦乱数",
+    "original_title": "EASY SHINY LEGENDARIES IN POKEMON EMERALD(How to RNG Stationary/Gift Pokemon in Emerald)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=66jIEyGy3OA",
+    "summary": "im a blisy 的绿宝石定点／赠送乱数教程视频入口。与野生遇敌不同，定点和礼物各有最后输入与生成条件；可搭配 Devon 的绿宝石捕获文章查看基础概念，本卡未逐段核对视频的校准参数。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "绿宝石",
+      "定点乱数",
+      "赠送"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "赠送乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-emerald-captures"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-emerald-wild",
+    "title": "绿宝石视频：普通野生闪光乱数",
+    "original_title": "GUARANTEED WILD SHINY POKEMON IN EMERALD(How to RNG Wild Pokemon in Emerald)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=pciQkasUJ7g",
+    "summary": "im a blisy 的绿宝石野生乱数教程，补充普通遇敌流程的英文视频入口。可与绿宝石捕获、Method 偏移资料对照阅读；本卡索引主题，没有独立复现视频中的操作或确认所有野生遭遇都使用相同延迟。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "绿宝石",
+      "野生",
+      "Method"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-emerald-captures",
+      "gen3-method-shift-2015"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-oras-eggs",
+    "title": "ORAS 视频：闪光蛋与孵化乱数",
+    "original_title": "GUARANTEED SHINY EGGS OMEGA RUBY ALPHA SAPPHIRE ( How to Breed RNG ORAS)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=FUmZSRfNwgA",
+    "summary": "im a blisy 的 ORAS 孵化乱数视频，提供英文闪光蛋教学的观看入口。第六世代工具和读取插件已有不同版本，实际操作前需对照原视频所用环境；本卡没有把题名中的保证性措辞作为方法已验证的结论。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "ORAS",
+      "孵化",
+      "闪光蛋"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "video-gen6-eggs-cappy"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-hgss-eggs",
+    "title": "HGSS 视频：蛋 PID 与领取 IV 的孵化调整",
+    "original_title": "Shiny Eggs made easy in HGSS(How to RNG Egg PID and IVs in HGSS)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=x6_rFx5B31E",
+    "summary": "im a blisy 的 HGSS 孵化视频，原标题明确分开讨论 Egg PID 与 IV。可与 Devon 的分阶段孵化文章对照，查阅产蛋与领取两部分的不同条件；本卡按公开元数据整理，尚未逐段核对校时与偏移步骤。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "HGSS",
+      "Egg PID",
+      "IV"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "devon-hgss-breeding"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-blisy-item-printer",
+    "title": "朱紫视频：道具打印机时间种子与目标产物",
+    "original_title": "GUARANTEED ITEM PRINTER DROPS IN SCARLET/VIOLET (How to RNG Manip the Item Printer...)",
+    "author": "im a blisy ._.",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=j10Zh7DuCcg",
+    "summary": "im a blisy 的道具打印机乱数教程，公开简介引用 Anubis 的物品清单。可与 Anubis 种子索引和打印机自动化说明配套；打印机等级、当前奖励模式、打印数量及按键提前量必须匹配，不能只抄日期而忽略条件。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Item Printer",
+      "Anubis",
+      "时间Seed"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-anubis-item-seed-index",
+      "post-anubis-item-printer"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-gen6-eggs-cappy",
+    "title": "XY／ORAS 视频：One Egg is an Oeuf 孵化教程",
+    "original_title": "Pokemon Gen 6 Egg RNG - One Egg is an Oeuf",
+    "author": "CappyCapital",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=xSo5kE5SSm4",
+    "summary": "CappyCapital 的第六世代孵化视频，公开简介表示会介绍两种蛋乱数方法，并提到该演示不需要 TinyFinder。可与 3DS RNG Tool 的孵化功能说明对照；具体采用的读取插件和游戏条件需按视频核实。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "CappyCapital",
+      "Gen6",
+      "孵化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-3dsrngtool-overview",
+      "video-oras-eggs"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-pla-mmo-cappy",
+    "title": "阿尔宙斯视频：需 SysBot 配合的大大大量出现教程",
+    "original_title": "Pokemon Legends Arceus Comprehensive MMO RNG Guide - No CFW Required!*",
+    "author": "CappyCapital",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=2ms3AmEtePA",
+    "summary": "CappyCapital 的大大大量出现 RNG 视频。虽然原标题写有 No CFW Required，公开简介的星号明确要求与 SysBot 交互：玩家自己的主机可以不破解，但数据取得仍借助外部服务。本卡保留这一条件，未将它描述为全程无需破解设备或外部读取的方法。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "CappyCapital",
+      "MMO",
+      "SysBot"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "传说 阿尔宙斯",
+        "大大大量出现乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-capturesight"
+    ],
+    "review_notes": "原标题与频道已通过 YouTube oEmbed 核对；按标题及公开简介概括主题，未逐段核对视频内容。绝对发布日期尚未确认。"
+  },
+  {
+    "id": "video-ipa-swsh-android",
+    "title": "剑盾视频：Android 野生色证乱数工具演示",
+    "original_title": "[ポケモン剣盾]SwShOverWorldRNGTool[色証乱数]",
+    "author": "SSRNG",
+    "date": null,
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=_dSY_tVnzQg",
+    "summary": "SwShOverWorldRNGTool 日文 Wiki 直接引用的 SSRNG 演示视频，可与动作输入、State 恢复和个体搜索说明对照观看。当前 APK 获取渠道以仓库 README 和 Releases 为准，旧 Wiki 的 Google Play 链接不代表应用仍在商店发布。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Android",
+      "色证",
+      "SwShOverWorldRNGTool"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "脚本与工具"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "ja-ipa-swsh-android-usage"
+    ],
+    "review_notes": "已核对 YouTube 原题与频道，并确认 IPA989 的 Wiki 直接引用此视频；未逐段核对视频，绝对发布日期未确认。"
+  },
+  {
+    "id": "video-osirus-item-printer",
+    "title": "朱紫视频：Osirus 的道具打印机稀有球教程",
+    "original_title": "Item Printer EXPLOIT for GUARANTEED Special Pokeballs in Pokemon Scarlet and Violet DLC",
+    "author": "Osirus",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=_wmDXrI5Wz4",
+    "summary": "Pokemon Automation 的官方操作文档引用此视频，作为手动理解道具打印机机制的入口。与自动化任务表对照时需注意：官方文档说明其 Continue Previous 连续打印扩展不包含在这支视频中，不能把两者的操作步骤视为完全相同。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Osirus",
+      "稀有球",
+      "Item Printer"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-auto-item-printer",
+      "en-anubis-item-seed-index"
+    ],
+    "review_notes": "已核对 YouTube 原题与频道，并确认 Pokemon Automation 官方文档引用；未逐段核对视频，绝对发布日期未确认。"
+  },
+  {
+    "id": "video-bambo-gen6-wild",
+    "title": "XY／ORAS 视频：Bambo-Rambo 的野生乱数实操演示",
+    "original_title": "Gen 6 Wild RNG - Demonstration video",
+    "author": "Bambo_Rambo",
+    "date": null,
+    "language": "en",
+    "url": "https://www.youtube.com/watch?v=aR6_LCbdIso",
+    "summary": "Bambo_Rambo 的 Gen 6 Wild RNG 演示，作者当前英文野生教程多次直接引用。适合对照 PokeReader、TinyFinder 与背包推进图文查看操作；作者也明确把视频定位为演示参考，完整条件仍需阅读配套指南。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "Bambo-Rambo",
+      "TinyFinder",
+      "PokeReader"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第六世代",
+        "X／Y",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第六世代",
+        "欧米伽红宝石／阿尔法蓝宝石",
+        "野生乱数"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "en-bambo-gen6-wild"
+    ],
+    "review_notes": "已核对 YouTube 原题与频道，并确认 Bambo-Rambo 当前图文教程引用；未逐段核对视频，绝对发布日期未确认。"
+  },
+  {
+    "id": "video-vc-blue-moltres",
+    "title": "VC 蓝版视频：火焰鸟状况复现演示",
+    "original_title": "VC青 めざ草ファイヤー 状況再現",
+    "author": "ナベリアン",
+    "date": null,
+    "language": "ja",
+    "url": "https://www.youtube.com/watch?v=I_-fBefP2Lo",
+    "summary": "ナベリアン的 VC 蓝版火焰鸟状况复现演示，本站已有日文文章引用此视频。可作为输入复现的观看补充；第一世代本身没有闪光外观，关联文章讨论的闪光属性需要转入第二世代判定。",
+    "evidence": "公开视频索引（未逐段核对）",
+    "status": "中文摘要",
+    "tags": [
+      "YouTube",
+      "VC蓝版",
+      "火焰鸟",
+      "状况复现"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第一世代",
+        "红／绿／蓝／皮卡丘",
+        "状况复现"
+      ]
+    ],
+    "source_type": "video",
+    "related_sources": [
+      "vc-blue-moltres-2023"
+    ],
+    "review_notes": "已核对 YouTube 原题与频道；该视频由已收录的日文状况复现文章引用。未逐段核对视频，绝对发布日期未确认。"
+  },
+  {
+    "id": "post-anubis-item-printer",
+    "title": "朱紫 X 原帖：Anubis 的道具打印机时间 Seed 示例",
+    "original_title": "Now that the dust has settled, I'll write my own thread about how to manipulate the RNG for the Item Printer!",
+    "author": "Anubis / @Sibuna_Switch",
+    "date": "2024-04-10",
+    "language": "en",
+    "url": "https://x.com/Sibuna_Switch/status/1777868941789987004",
+    "summary": "作者公开帖给出日期与时刻示例，并提醒按键提前一至两秒；先打印一次触发精灵球奖励，再立即打印十次取得球种组合。这里只概括本条可读文字；完整打印机等级、奖励模式和组合种子限制另见作者 Gist，不把这条短帖当成独立完整教程。",
+    "evidence": "研究者公开原帖",
+    "status": "中文摘要",
+    "tags": [
+      "X",
+      "Anubis",
+      "Item Printer",
+      "时间Seed"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第九世代",
+        "朱／紫",
+        "道具打印机乱数"
+      ]
+    ],
+    "source_type": "post",
+    "related_sources": [
+      "en-anubis-item-seed-index",
+      "video-blisy-item-printer"
+    ],
+    "review_notes": "正文语言、作者与发表日期通过 X 公开 oEmbed 核对；本卡概括当前可读帖文，不代表已核对整条讨论串或附带媒体。"
+  },
+  {
+    "id": "post-frlg-egg-preparation",
+    "title": "FRLG X 原帖：孵化自动化的步数与存档准备",
+    "original_title": "FRLG孵化乱数自動化 (爺前固定) の準備です。",
+    "author": "@Nazza_Rella",
+    "date": "2024-10-05",
+    "language": "ja",
+    "url": "https://x.com/Nazza_Rella/status/1842619869373825340",
+    "summary": "公开帖补充 FRLG 产蛋前状态自动化的准备：寄放亲代、使用黄金喷雾、前往玉虹奖品兑换处，并按喷雾结束后的步数安排站位与存档。可与双阶段孵化长文配套阅读；属于该作者特定硬件自动化方案的准备条件，不是所有孵化方法的通用步数。",
+    "evidence": "作者公开步骤补充",
+    "status": "中文摘要",
+    "tags": [
+      "X",
+      "FRLG",
+      "孵化",
+      "步数"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "post",
+    "related_sources": [
+      "frlg-eggs-2024",
+      "post-frlg-egg-demo"
+    ],
+    "review_notes": "正文与日期通过公开 oEmbed 核对。旧文章引用用户名 Natu5307051，当前返回的原帖地址为 Nazza_Rella；使用当前规范链接。"
+  },
+  {
+    "id": "post-frlg-egg-demo",
+    "title": "FRLG X 原帖：产蛋前与领蛋自动化的进展展示",
+    "original_title": "FRLG孵化乱数自動化ほぼ完成です。",
+    "author": "@Nazza_Rella",
+    "date": "2024-09-29",
+    "language": "ja",
+    "url": "https://x.com/Nazza_Rella/status/1840407543669235929",
+    "summary": "作者报告将产蛋前状态和领取蛋两部分整合进同一个程序，并说明凯西兑换状态通知、初期 Seed 定位、孵化与闪光判定等自动化环节。属于进展与演示帖，未提供独立完整的安装操作流程；具体方法应结合后续孵化文章与准备帖。",
+    "evidence": "作者公开进展帖",
+    "status": "中文摘要",
+    "tags": [
+      "X",
+      "FRLG",
+      "硬件自动化",
+      "演示"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "孵化乱数"
+      ]
+    ],
+    "source_type": "post",
+    "related_sources": [
+      "frlg-eggs-2024",
+      "post-frlg-egg-preparation"
+    ],
+    "review_notes": "可读正文、作者账号与日期通过公开 oEmbed 核对；未逐帧核对附带演示媒体。"
   }
 ]
