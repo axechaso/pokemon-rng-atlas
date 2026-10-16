@@ -1,0 +1,29 @@
+(() => {
+  const list = document.getElementById('articleList');
+  if (!list) return;
+  const search = document.getElementById('articleSearch');
+  const sort = document.getElementById('sortOrder');
+  const count = document.getElementById('resultCount');
+  const empty = document.getElementById('noResults');
+  const cards = Array.from(list.querySelectorAll('.article-card'));
+  const params = new URLSearchParams(location.search);
+  if (params.has('q')) search.value = params.get('q');
+  function update() {
+    const query = search.value.trim().toLocaleLowerCase();
+    let visible = 0;
+    cards.forEach(card => {
+      card.hidden = query.length > 0 && !card.dataset.search.includes(query);
+      if (!card.hidden) visible++;
+    });
+    const filtered = cards.slice().sort((a,b) => {
+      if (sort.value === 'title') return a.querySelector('h3').textContent.localeCompare(b.querySelector('h3').textContent,'zh');
+      return sort.value === 'oldest' ? a.dataset.date.localeCompare(b.dataset.date) : b.dataset.date.localeCompare(a.dataset.date);
+    });
+    filtered.forEach(card => list.appendChild(card));
+    count.textContent = `${visible} 篇`;
+    empty.hidden = visible !== 0;
+  }
+  search.addEventListener('input',update);
+  sort.addEventListener('change',update);
+  update();
+})();
