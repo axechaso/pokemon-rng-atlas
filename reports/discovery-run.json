@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-18T04:36:02+00:00",
+  "generated_at": "2026-10-19T04:42:37+00:00",
   "scope": "Hatena only; cross-blog queries and bounded crawling, not an exhaustive index",
   "requests": 130,
   "request_limit": 180,
-  "pending_articles": 286,
+  "pending_articles": 287,
   "pending_revisions": 0,
   "hatena_articles": 44,
   "baselines": 44,
   "outside_revision_scope": 304,
-  "errors": 9,
+  "errors": 10,
   "channels": [
     {
       "channel": "revision",
@@ -372,31 +372,32 @@
     },
     {
       "channel": "blog-feed",
-      "url": "https://purely11.hatenablog.com/feed",
+      "url": "https://nyokki2319.hatenablog.com/feed",
       "status": "ok",
-      "items": 26
+      "items": 8
     },
     {
       "channel": "blog-feed",
-      "url": "https://rusted-coil-test.hatenablog.com/feed",
-      "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://taiyaki3gen.hatenablog.com/feed",
+      "url": "https://oupo.hatenadiary.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://takedpok.hatenablog.com/feed",
+      "url": "https://prie0908.hatenadiary.com/feed",
       "status": "ok",
-      "items": 5
+      "items": 16
     },
     {
       "channel": "blog-feed",
-      "url": "https://wasou3721.hatenablog.com/feed",
+      "url": "https://sina-poke.hatenablog.com/feed",
+      "status": "error",
+      "items": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://you396.hatenadiary.jp/feed",
       "status": "ok",
       "items": 30
     },
@@ -517,59 +518,51 @@
     },
     {
       "channel": "blog-archive",
-      "url": "https://rusted-coil-test.hatenablog.com/archive?page=3",
-      "status": "ok",
-      "items": 42
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://sina-poke.hatenablog.com/archive?page=1",
-      "status": "error",
-      "items": 0,
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://taiyaki3gen.hatenablog.com/archive?page=3",
+      "url": "https://e52301147.hatenablog.com/archive?page=4",
       "status": "ok",
       "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://wasou3721.hatenablog.com/archive?page=3",
+      "url": "https://eruakudiary.hatenablog.com/archive?page=3",
       "status": "ok",
-      "items": 58
+      "items": 69
     },
     {
       "channel": "blog-archive",
-      "url": "https://you396.hatenadiary.jp/archive?page=3",
+      "url": "https://fuchiaz.hatenadiary.org/archive?page=3",
+      "status": "ok",
+      "items": 40
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://hijikichi.hatenablog.com/archive?page=3",
+      "status": "ok",
+      "items": 65
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://honasho5.hatenadiary.org/archive?page=3",
+      "status": "ok",
+      "items": 52
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://hope3gen.hatenablog.com/archive?page=4",
       "status": "ok",
       "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://blastoise-x.hatenablog.com/archive?page=1",
+      "url": "https://kuzuhiko.hatenadiary.org/archive?page=3",
       "status": "ok",
-      "items": 48
+      "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://buster-poke.hatenablog.com/archive?page=2",
+      "url": "https://larvesta10.hatenablog.com/archive?page=1",
       "status": "ok",
-      "items": 56
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://dokudenpa.hatenablog.jp/archive?page=4",
-      "status": "ok",
-      "items": 10
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/FuchiAz/20111220",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: redirected to a non-article page"
+      "items": 52
     },
     {
       "channel": "candidate-verify",
@@ -587,19 +580,6 @@
     },
     {
       "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/FuchiAz/20110527",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: redirected to a non-article page"
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116",
-      "status": "ok",
-      "items": 102
-    },
-    {
-      "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/FuchiAz/20110331",
       "status": "error",
       "items": 0,
@@ -614,47 +594,68 @@
     },
     {
       "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/FuchiAz/20110601",
+      "url": "https://d.hatena.ne.jp/FuchiAz/20110723/1311357607",
+      "status": "ok",
+      "items": 66
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/FuchiAz/20110727/1311776289",
+      "status": "ok",
+      "items": 24
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/buster_poke/20130905",
       "status": "error",
       "items": 0,
       "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://e52301147.hatenablog.com/entry/2022/12/13/110843",
-      "status": "ok",
-      "items": 62
+      "url": "https://d.hatena.ne.jp/buster_poke/20140219",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://fuchiaz.hatenadiary.org/entry/20110527/1306552986",
-      "status": "ok",
-      "items": 64
+      "url": "https://d.hatena.ne.jp/buster_poke/20140518",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://fuchiaz.hatenadiary.org/entry/20110601/1306938464",
-      "status": "ok",
-      "items": 29
+      "url": "https://d.hatena.ne.jp/buster_poke/20140611",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://fuchiaz.hatenadiary.org/entry/20110605/1307283345",
+      "url": "https://fuchiaz.hatenadiary.org/entry/20110308/1299522696",
       "status": "ok",
-      "items": 11
+      "items": 87
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://fuchiaz.hatenadiary.org/entry/20120105/1325688187",
+      "status": "ok",
+      "items": 54
     }
   ],
   "unresolved_errors": [
     {
       "channel": "blog-feed",
       "url": "https://bzl.hatenablog.com/",
-      "at": "2026-10-18T04:36:02+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "blog-feed",
       "url": "https://sina-poke.hatenablog.com/",
-      "at": "2026-10-17T04:28:36+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "HTTP Error 404: Not Found"
     },
     {
@@ -671,6 +672,30 @@
     },
     {
       "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/buster_poke/20140611",
+      "at": "2026-10-19T04:42:37+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/buster_poke/20140518",
+      "at": "2026-10-19T04:42:37+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/buster_poke/20140219",
+      "at": "2026-10-19T04:42:37+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/buster_poke/20130905",
+      "at": "2026-10-19T04:42:37+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/FuchiAz/20110601",
       "at": "2026-10-18T04:36:02+00:00",
       "message": "ValueError: redirected to a non-article page"
@@ -678,13 +703,13 @@
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/FuchiAz/20110428",
-      "at": "2026-10-18T04:36:02+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/FuchiAz/20110331",
-      "at": "2026-10-18T04:36:02+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
@@ -702,13 +727,13 @@
     {
       "channel": "candidate-verify",
       "url": "https://bzl.hatenablog.com/entry/2020/12/13/204230",
-      "at": "2026-10-18T04:36:02+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "candidate-verify",
       "url": "https://bzl.hatenablog.com/entry/2020/01/05/212130",
-      "at": "2026-10-18T04:36:02+00:00",
+      "at": "2026-10-19T04:42:37+00:00",
       "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     }
   ],
