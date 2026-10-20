@@ -6,6 +6,13 @@
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
   },
+  "https://bo-man.hatenablog.com/": {
+    "name": "bo-man.hatenablog.com",
+    "homepage": "https://bo-man.hatenablog.com/",
+    "feed": "https://bo-man.hatenablog.com/feed",
+    "discovered_at": "2026-10-20T04:52:58+00:00",
+    "discovered_via": "https://hope3gen.hatenablog.com/entry/2023/11/15/014749"
+  },
   "https://buster-poke.hatenablog.com/": {
     "name": "buster-poke.hatenablog.com",
     "homepage": "https://buster-poke.hatenablog.com/",
