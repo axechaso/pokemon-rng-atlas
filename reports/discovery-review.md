@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-10-21T04:50:08+00:00
+抓取时间（UTC）：2026-10-22T04:48:55+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：336；待审原文变化：0。
+- 待审新来源：338；待审原文变化：0。
 - 已收录 Hatena 原文：44；已有正文基线：44。首次基线不算修订。
 - 其他 304 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：131/180；获取或解析失败：7。
+- 本次请求：119/180；获取或解析失败：19。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -16,37 +16,74 @@
 
 | 通道 | 成功请求 | 失败请求 |
 | --- | ---: | ---: |
-| blog-archive | 8 | 0 |
+| blog-archive | 7 | 1 |
 | blog-feed | 22 | 2 |
 | bookmark-search | 16 | 0 |
 | candidate-verify | 7 | 5 |
-| revision | 44 | 0 |
+| revision | 33 | 11 |
 
-- [blog-feed](<https://sina-poke.hatenablog.com/feed>)：HTTPError: HTTP Error 404: Not Found
+- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>)：ValueError: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 - [blog-feed](<https://bzl.hatenablog.com/feed>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://milk4724.hatenablog.com/feed>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>)：ValueError: redirected to a non-article page
+- [blog-archive](<https://sina-poke.hatenablog.com/archive?page=1>)：HTTPError: HTTP Error 404: Not Found
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>)：ValueError: no unambiguous article body (roots=1, characters=74)
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>)：ValueError: redirected to a non-article page
+
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20160503>)：ValueError: redirected to a non-article page
 
 ### 尚未恢复的获取问题（含之前轮次）
 
-- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-21T04:50:08+00:00：redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://milk4724.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：redirect outside allowed public Hatena hosts
 - [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-21T04:50:08+00:00：HTTP Error 404: Not Found
 - [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-20T04:52:58+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-18T04:36:02+00:00：HTTP Error 404: Not Found
+- [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：HTTP Error 404: Not Found
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20160503>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-21T04:50:08+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>) · 2026-10-19T04:42:37+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-19T04:42:37+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-19T04:42:37+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
@@ -54,13 +91,31 @@
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-21T04:50:08+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-20T04:52:58+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 ## 原文变化（需核实，不等于技术结论已修正）
 
 暂无待审变化。首次抓取仅建立基线；失败页面保留已有基线。
 
 ## 新来源候选
+
+### taiyaki3gen.hatenablog.com
+
+[原文](<https://taiyaki3gen.hatenablog.com/entry/2018/10/04/232008>)
+
+- 首次发现：2026-10-22；来源博客：taiyaki3gen.hatenablog.com。
+- 发现依据：article-reference · https://hope3gen.hatenablog.com/entry/2024/09/09/235900。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 孵化乱数列固定法について
+
+[原文](<https://rusted-coil-test.hatenablog.com/entry/20131108/1383909939>)
+
+- 首次发现：2026-10-22；来源博客：rusted-coil-test.hatenablog.com。
+- 发现依据：blog-archive · https://rusted-coil-test.hatenablog.com/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
 
 ### ものひろい乱数調整のやり方
 
@@ -733,7 +788,7 @@
 [原文](<https://taiyaki3gen.hatenablog.com/entry/2500/12/31/000000>)
 
 - 首次发现：2026-10-16；来源博客：taiyaki3gen.hatenablog.com。
-- 发现依据：blog-feed · https://taiyaki3gen.hatenablog.com/feed; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=1; bookmark-search · https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=2; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=3。
+- 发现依据：blog-feed · https://taiyaki3gen.hatenablog.com/feed; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=1; bookmark-search · https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=2; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=3; blog-archive · https://taiyaki3gen.hatenablog.com/archive?page=4。
 - 原文发表元数据：2500-12-31T00:00:00+09:00；原站更新时间：2019-04-26T05:36:59+09:00。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -2217,34 +2272,34 @@
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
 - 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1。
 - 原文发表元数据：2024-09-09T23:59:00+09:00；原站更新时间：2024-09-09T23:59:01+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【エメラルド新規勢向け乱数調整講座 #1】令和から始める！対戦環境を整えるための乱数調整 メタモン編
 
 [原文](<https://hope3gen.hatenablog.com/entry/2024/08/26/200000>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1。
+- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/09/09/235900。
 - 原文发表元数据：2024-08-26T20:00:00+09:00；原站更新时间：2024-08-27T10:13:25+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【ポケモン3世代】大量発生によって出現するタネボーの乱数調整について
 
 [原文](<https://hope3gen.hatenablog.com/entry/2024/06/04/195802>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1。
+- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/06/04/195802。
 - 原文发表元数据：2024-06-04T19:58:02+09:00；原站更新时间：2024-06-04T19:58:03+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【ポケモンXD】ポケモンのステータスを表示した際の乱数消費速度について
 
 [原文](<https://hope3gen.hatenablog.com/entry/2024/02/16/230839>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-archive · https://hope3gen.hatenablog.com/archive?page=2。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：blog-archive · https://hope3gen.hatenablog.com/archive?page=2; article-reference · https://hope3gen.hatenablog.com/entry/2024/02/16/230839。
+- 原文发表元数据：2024-02-16T23:08:39+09:00；原站更新时间：2024-02-16T23:08:41+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【ポケモンXD】トゲピーの乱数調整に成功した話。
 
@@ -2252,26 +2307,26 @@
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
 - 发现依据：blog-archive · https://hope3gen.hatenablog.com/archive?page=2。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2024-01-10T23:57:41+09:00；原站更新时间：2024-01-11T09:49:56+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### この記事
+### 【ポケモン】絵画Seed 解説
 
 [原文](<https://hope3gen.hatenablog.com/entry/2023/12/28/125319?_gl=1%2Ae842fn%2A_gcl_au%2ANzI0OTYzMjUuMTc1Njk1MDAwMw..>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
 - 发现依据：article-reference · https://hope3gen.hatenablog.com/entry/2025/09/08/200414。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2023-12-28T12:53:19+09:00；原站更新时间：2023-12-28T12:57:45+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### hope3gen.hatenablog.com
+### 【ポケモン】絵画Seed 解説
 
 [原文](<https://hope3gen.hatenablog.com/entry/2023/12/28/125319>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
 - 发现依据：article-reference · https://hope3gen.hatenablog.com/entry/2024/09/02/203000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2023-12-28T12:53:19+09:00；原站更新时间：2023-12-28T12:57:45+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【ポケモン】XDバトル山ジョウト御三家の乱数調整について解説など
 
@@ -2575,7 +2630,7 @@
 [原文](<https://dokudenpa.hatenablog.jp/entry/SwellowSearchTool>)
 
 - 首次发现：2026-10-16；来源博客：dokudenpa.hatenablog.jp。
-- 发现依据：blog-feed · https://dokudenpa.hatenablog.jp/feed; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=1; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=2; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=3; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=4。
+- 发现依据：blog-feed · https://dokudenpa.hatenablog.jp/feed; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=1; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=2; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=3; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=4; blog-archive · https://dokudenpa.hatenablog.jp/archive?page=5。
 - 原文发表元数据：2025-12-05T23:52:15+09:00；原站更新时间：2026-09-12T00:58:26+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
