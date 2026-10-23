@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-10-22T04:48:55+00:00
+抓取时间（UTC）：2026-10-23T04:51:23+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：338；待审原文变化：0。
+- 待审新来源：342；待审原文变化：0。
 - 已收录 Hatena 原文：44；已有正文基线：44。首次基线不算修订。
 - 其他 304 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：119/180；获取或解析失败：19。
+- 本次请求：131/180；获取或解析失败：7。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -19,77 +19,41 @@
 | blog-archive | 7 | 1 |
 | blog-feed | 22 | 2 |
 | bookmark-search | 16 | 0 |
-| candidate-verify | 7 | 5 |
-| revision | 33 | 11 |
+| candidate-verify | 8 | 4 |
+| revision | 44 | 0 |
 
-- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>)：ValueError: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://sina-poke.hatenablog.com/feed>)：HTTPError: HTTP Error 404: Not Found
 
 - [blog-feed](<https://bzl.hatenablog.com/feed>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [blog-feed](<https://milk4724.hatenablog.com/feed>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-archive](<https://bzl.hatenablog.com/archive?page=1>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [blog-archive](<https://sina-poke.hatenablog.com/archive?page=1>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>)：ValueError: redirected to a non-article page
-
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20160503>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>)：ValueError: redirected to a non-article page
 
 ### 尚未恢复的获取问题（含之前轮次）
 
-- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [blog-feed](<https://milk4724.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：redirect outside allowed public Hatena hosts
-- [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-21T04:50:08+00:00：HTTP Error 404: Not Found
-- [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-20T04:52:58+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：redirect outside allowed public Hatena hosts
+- [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：HTTP Error 404: Not Found
+- [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：HTTP Error 404: Not Found
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20160503>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-21T04:50:08+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>) · 2026-10-20T04:52:58+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-21T04:50:08+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
@@ -98,6 +62,42 @@
 暂无待审变化。首次抓取仅建立基线；失败页面保留已有基线。
 
 ## 新来源候选
+
+### BW 孵化乱数 遺伝箇所
+
+[原文](<https://honasho5.hatenadiary.org/entry/20101003>)
+
+- 首次发现：2026-10-23；来源博客：honasho5.hatenadiary.org。
+- 发现依据：blog-archive · https://honasho5.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### BW 孵化 卵 乱数調整 2
+
+[原文](<https://honasho5.hatenadiary.org/entry/20101002>)
+
+- 首次发现：2026-10-23；来源博客：honasho5.hatenadiary.org。
+- 发现依据：blog-archive · https://honasho5.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 色違い乱数調整【孵化・表裏ID既知→検索の場合】
+
+[原文](<https://fuchiaz.hatenadiary.org/entry/20110202/1296665650>)
+
+- 首次发现：2026-10-23；来源博客：fuchiaz.hatenadiary.org。
+- 发现依据：blog-archive · https://fuchiaz.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 色違い乱数調整（固定伝説）
+
+[原文](<https://fuchiaz.hatenadiary.org/entry/20110119/1295404494>)
+
+- 首次发现：2026-10-23；来源博客：fuchiaz.hatenadiary.org。
+- 发现依据：blog-archive · https://fuchiaz.hatenadiary.org/archive?page=4。
+- 原文发表元数据：2011-01-19T11:34:54+09:00；原站更新时间：2011-01-19T02:34:54+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### taiyaki3gen.hatenablog.com
 
@@ -716,7 +716,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110601>)
 
 - 首次发现：2026-10-17；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294665049。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -725,7 +725,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110428>)
 
 - 首次发现：2026-10-17；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294655019。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -734,7 +734,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110331>)
 
 - 首次发现：2026-10-17；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20110527/1306552986。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20110527/1306552986; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294665049。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -2387,7 +2387,7 @@
 [原文](<https://honasho5.hatenadiary.org/entry/20101001>)
 
 - 首次发现：2026-10-16；来源博客：honasho5.hatenadiary.org。
-- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on。
+- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; blog-archive · https://honasho5.hatenadiary.org/archive?page=4。
 - 原文发表元数据：2010-10-01T00:00:00+09:00；原站更新时间：2010-09-30T15:00:00+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2504,7 +2504,7 @@
 [原文](<https://fuchiaz.hatenadiary.org/entry/20110109/1294611196>)
 
 - 首次发现：2026-10-16；来源博客：fuchiaz.hatenadiary.org。
-- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on。
+- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; blog-archive · https://fuchiaz.hatenadiary.org/archive?page=4。
 - 原文发表元数据：2011-01-09T07:13:16+09:00；原站更新时间：2011-01-08T22:13:16+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2837,7 +2837,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110314/1300101840>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20120105/1325688187; article-reference · https://d.hatena.ne.jp/FuchiAz/20120106/1325756744; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20120105/1325688187; article-reference · https://fuchiaz.hatenadiary.org/entry/20120106/1325756744。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20120105/1325688187; article-reference · https://d.hatena.ne.jp/FuchiAz/20120106/1325756744; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20120105/1325688187; article-reference · https://fuchiaz.hatenadiary.org/entry/20120106/1325756744; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294665049。
 - 原文发表元数据：2011-03-14T20:24:00+09:00；原站更新时间：2011-03-14T11:24:00+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2846,7 +2846,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110308/1299522696>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20120104/1325682850; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019。
+- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20120104/1325682850; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294655019。
 - 原文发表元数据：2011-03-08T03:31:36+09:00；原站更新时间：2011-03-07T18:31:36+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2855,7 +2855,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110202/1296665650>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110206/1297088032。
+- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110206/1297088032; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294667514。
 - 原文发表元数据：2011-02-02T01:54:10+09:00；原站更新时间：2011-02-01T16:54:10+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2882,7 +2882,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110109/1294665049>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110601/1306938464。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110601/1306938464; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294667514。
 - 原文发表元数据：2011-01-09T22:10:49+09:00；原站更新时间：2011-01-09T13:10:49+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2891,7 +2891,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110109/1294655019>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://d.hatena.ne.jp/FuchiAz/20110206/1297088032。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://d.hatena.ne.jp/FuchiAz/20110206/1297088032; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294667514。
 - 原文发表元数据：2011-01-09T19:23:39+09:00；原站更新时间：2011-01-09T10:23:39+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2900,7 +2900,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110109/1294650900>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20120104/1325682850; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://d.hatena.ne.jp/FuchiAz/20110314/1300101840。
+- 发现依据：article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294667514; article-reference · https://d.hatena.ne.jp/FuchiAz/20120104/1325682850; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294655019; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294665049; article-reference · https://d.hatena.ne.jp/FuchiAz/20110314/1300101840; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294655019; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294665049; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294667514。
 - 原文发表元数据：2011-01-09T18:15:00+09:00；原站更新时间：2011-01-09T09:15:00+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2918,7 +2918,7 @@
 [原文](<https://d.hatena.ne.jp/FuchiAz/20110109/1294612661>)
 
 - 首次发现：2026-10-16；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294612206; article-reference · https://d.hatena.ne.jp/FuchiAz/20120105/1325688187; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://fuchiaz.hatenadiary.org/entry/20120105/1325688187。
+- 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294611196; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294612206; article-reference · https://d.hatena.ne.jp/FuchiAz/20120105/1325688187; article-reference · https://d.hatena.ne.jp/FuchiAz/20110109/1294650900; article-reference · https://fuchiaz.hatenadiary.org/entry/20120105/1325688187; article-reference · https://fuchiaz.hatenadiary.org/entry/20110109/1294612206。
 - 原文发表元数据：2011-01-09T07:37:41+09:00；原站更新时间：2011-01-08T22:37:41+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 

@@ -2,7 +2,7 @@
   "version": 1,
   "pages": {
     "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -91,7 +91,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "HGSS捕獲乱数",
         "published_raw": "2014-08-08T20:12:53+09:00",
@@ -177,13 +177,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/2017/01/29/143804": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -346,7 +346,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【USM対応】第7世代固定シンボル乱数調整のすすめ",
         "published_raw": "2017-01-29T14:38:04+09:00",
@@ -506,13 +506,13 @@
           "9df073f82783143e62a24207cd35144fd5ca1e25454f8df431fbdaf6e059438a"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/2017/01/29/143804",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/method": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -623,7 +623,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "第三世代メソッドズレ",
         "published_raw": "2015-02-18T16:23:54+09:00",
@@ -731,13 +731,13 @@
           "cfb86e8423b5c824dc5f379b76429b8f68722f78d28e84d1750c0928969925d8"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/method",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/shiny-egg": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -797,7 +797,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "固定孵化ちょっと応用編",
         "published_raw": "2017-09-26T22:00:00+09:00",
@@ -854,13 +854,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/shiny-egg",
       "etag": "",
       "last_modified": ""
     },
     "https://dokudenpa.hatenablog.jp/entry/CoSeedSorter": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1114,7 +1114,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンコロシアム】汎用乱数自動化プログラム『CoSeedSorter』",
         "published_raw": "2025-12-17T22:28:06+09:00",
@@ -1365,13 +1365,13 @@
           "2e7a4547722b152b984c94577cbd14385e5288338eb9abcd03d1f0e59c7ec508"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://dokudenpa.hatenablog.jp/entry/CoSeedSorter",
       "etag": "",
       "last_modified": ""
     },
     "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1586,7 +1586,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンFRLG】孵化乱数 徹底解説 ＆ 自動化",
         "published_raw": "2024-10-14T23:58:25+09:00",
@@ -1798,13 +1798,13 @@
           "f2e7116a9a63626388c7697fac469e56efdb2c54695365154f87de3915c6e158"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/03/09/183606": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1877,7 +1877,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "日本版VCクリスタルでTID00000を狙う",
         "published_raw": "2023-03-09T18:36:06+09:00",
@@ -1947,13 +1947,13 @@
           "a4a5687419e01c325997cb61fb35b5791ffaa414cc5e0c9b52fdb57f5a2db415"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/03/09/183606",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/06/29/163847": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2014,7 +2014,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "フレンドサファリ乱数(完全版)",
         "published_raw": "2023-06-29T16:38:47+09:00",
@@ -2072,13 +2072,13 @@
           "455f675364c1ef16e2af30a09a334567ccfbc6045f45d7bffe65911a1a0195f5"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/06/29/163847",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/12/05/000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2244,7 +2244,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "VC青でファイヤーの状況再現をする（色違い・理想個体）",
         "published_raw": "2023-12-05T00:00:00+09:00",
@@ -2407,13 +2407,13 @@
           "5fa22c4a2cb5ca10dcd3760f4c2acf03f6efa8b6ffec5cd9e1f380c74cd0fb6e"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/12/05/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/12/08/000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2510,7 +2510,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "実機でのSOS乱数",
         "published_raw": "2023-12-08T00:00:00+09:00",
@@ -2604,13 +2604,13 @@
           "36e9f07763889987a893b1bee695eca121409a52b7964d489b5aa44294b8d813"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/12/08/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/01/22/130240": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2647,7 +2647,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "SV戦闘乱数 + 初期の不具合",
         "published_raw": "2024-01-22T13:02:40+09:00",
@@ -2681,13 +2681,13 @@
           "160da1a9e36f61454e10e480c20507adf71d8f11e8f3487082be08ce019b7ccd"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/01/22/130240",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/02/09/223006": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2791,7 +2791,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "六世代乱数の基本的なやり方",
         "published_raw": "2024-02-09T22:30:06+09:00",
@@ -2892,13 +2892,13 @@
           "dc118f1c8e8679b41ca17b56af4fc2341d15d5afd5fa4f0bb1396f4adcf772d5"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/02/09/223006",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/03/18/160641": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2991,7 +2991,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "BDSPCaptureRNGToolの使い方",
         "published_raw": "2024-03-18T16:06:41+09:00",
@@ -3081,13 +3081,13 @@
           "62d6ba011f8e91036310cbfeed9137c8da730bb8ddcbdd473a532e70a90b5357"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/03/18/160641",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/05/26/141530": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3153,7 +3153,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "進化時瞬きを利用した野生乱数",
         "published_raw": "2024-05-26T14:15:30+09:00",
@@ -3216,13 +3216,13 @@
           "19a5453c64774b7052ead5c0667dbf151b19389f31cb19a5422a471017c10534"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/05/26/141530",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/07/31/072528": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3262,7 +3262,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "すごいにじいろポロック乱数",
         "published_raw": "2024-07-31T07:25:28+09:00",
@@ -3299,13 +3299,13 @@
           "0e73e91467925052379bb0b90b6d18fde7d39a081a8d35d81bc06381650cf348"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/07/31/072528",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/10/03/190716": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3410,7 +3410,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ピカブイ】マスボ乱数",
         "published_raw": "2024-10-03T19:07:16+09:00",
@@ -3512,13 +3512,13 @@
           "96d7e22daa0df146154a293ea35075debd24c94e734c1aa7f9880e912fea4527"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/10/03/190716",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/12/04/000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3632,7 +3632,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ポケモンスタジアム２の乱数",
         "published_raw": "2024-12-04T00:00:00+09:00",
@@ -3743,13 +3743,13 @@
           "3cdb354aa76113416536850017e8e98a7f19bdba276a70552653e62574d05417"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/12/04/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2025/02/25/193532": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3820,7 +3820,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "BDSP孵化のサイズ調整(CFW無)",
         "published_raw": "2025-02-25T19:35:32+09:00",
@@ -3888,13 +3888,13 @@
           "dbc4974a232e069f5afa462f8caa1c8a7241538118296463af2c73f58f6b5bfd"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2025/02/25/193532",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2026/02/12/193155": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3976,7 +3976,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "LGPEでのマスボ乱数(ツール使用)",
         "published_raw": "2026-02-12T19:31:55+09:00",
@@ -4055,13 +4055,13 @@
           "865e2422eae5580776be6caa1489ee58d3d7d22540ba83e13f0ee2b0fbb4a149"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2026/02/12/193155",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2026/05/10/230342": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4155,7 +4155,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "Yメニューを利用した図鑑ナビ乱数",
         "published_raw": "2026-05-10T23:03:42+09:00",
@@ -4246,13 +4246,13 @@
           "98b0b9e580c537e1fb3ef2d2ec14db95fecfbb48cd120e4f25bd9d429c69fd26"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2026/05/10/230342",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2023/12/07/234846": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4388,7 +4388,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモン】3世代環境における対戦個体調達用の乱数調整の解説 ポケモンXD サンダー編",
         "published_raw": "2023-12-07T23:48:46+09:00",
@@ -4521,13 +4521,13 @@
           "0a88706fd7b1e0e237254384bc6be1a62c734c19e357c6caebdd81159d8f9618"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2023/12/07/234846",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2024/09/02/203000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4688,7 +4688,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【エメラルド新規勢向け乱数調整講座 #2】令和から始める！対戦環境を整えるための乱数調整 ダイゴのダンバル編",
         "published_raw": "2024-09-02T20:30:00+09:00",
@@ -4846,13 +4846,13 @@
           "23e4c61bfb121d4db488df427cccf22034c95d221f6ec4adc2ce926dcfa9a1ed"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2024/09/02/203000",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2024/10/29/210000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4919,7 +4919,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモン3世代】ポケモンボックスRSで受け取れるタマゴを色違いにしたい人のための乱数調整",
         "published_raw": "2024-10-29T21:00:00+09:00",
@@ -4983,13 +4983,13 @@
           "c8ebbed514245d30cbc78f0fb304ef025f37e49cdb97ce8a06df407a68058ce4"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2024/10/29/210000",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2025/09/08/200414": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -5062,7 +5062,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンRS】シナリオ攻略を出来るだけサボりながら絵画seedを利用した乱数調整をする方法",
         "published_raw": "2025-09-08T20:04:14+09:00",
@@ -5132,13 +5132,13 @@
           "5ad623ccae625453a461a7fce09a35f010e2ba67a6e31400899754d83a9e005e"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2025/09/08/200414",
       "etag": "",
       "last_modified": ""
     },
     "https://larvesta10.hatenablog.com/entry/2020/04/01/021029": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -5336,7 +5336,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【剣盾乱数調整】最新ツールとPCでやる剣盾レイド乱数調整",
         "published_raw": "2020-04-01T02:10:29+09:00",
@@ -5531,13 +5531,13 @@
           "87aba7082373eb41c551f5bc551781d69311254915663cf3cdb6fdd290781869"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029",
       "etag": "",
       "last_modified": ""
     },
     "https://larvesta10.hatenablog.com/entry/2021/12/13/204342": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -5805,7 +5805,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【剣盾乱数調整】野生シンボル乱数調整のやり方【色証乱数】",
         "published_raw": "2021-12-13T20:43:42+09:00",
@@ -6070,13 +6070,13 @@
           "e7fcbf4c87e82925809abd5b5d925ad5fc54a3ee573c95fe1d05cb308457131b"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://larvesta10.hatenablog.com/entry/2021/12/13/204342",
       "etag": "",
       "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20220501/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -6309,7 +6309,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【第7世代乱数】PID孵化乱数検証",
         "published_raw": "2022-05-01T00:00:00+09:00",
@@ -6539,17 +6539,13 @@
           "05015e080677af6285e5598e71e06843f13c8bee5accc3fac0d736fc2984d0f6"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260326/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -6848,7 +6844,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW1/BW2】 IDの乱数調整 (5genSearch-web・スマホ対応版)",
         "published_raw": "2026-03-26T00:00:00+09:00",
@@ -7144,17 +7140,13 @@
           "0f1178941c5e1f2916b5659123c2ec2a8456d4ebcef1c4b8ac175c8f32be6a39"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260326/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260525/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -7543,7 +7535,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW1】固定乱数(スマホ対応・5genSearch-web使用版)",
         "published_raw": "2026-05-25T00:00:00+09:00",
@@ -7929,17 +7921,13 @@
           "0f1178941c5e1f2916b5659123c2ec2a8456d4ebcef1c4b8ac175c8f32be6a39"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260525/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260620/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -8236,7 +8224,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版)",
         "published_raw": "2026-06-20T00:00:00+09:00",
@@ -8530,17 +8518,13 @@
           "e237b0c5adacc0f60a356e16c444cf9bdb84328855d6c28e9bf7aa7052d203c5"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260703/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -8834,7 +8818,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW2】 Timer0安定法の導入方法について",
         "published_raw": "2026-07-03T00:00:00+09:00",
@@ -9125,17 +9109,13 @@
           "e5056e6c0ae9df97a1d603168482c4fce3ccb73f95eb84cc1142728a79aad0ae"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260703/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260713/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -9515,7 +9495,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW1】野生乱数 6Vメタモン(初心者向け・スマホ対応・5genSearch-web使用版)",
         "published_raw": "2026-07-13T00:00:00+09:00",
@@ -9892,17 +9872,13 @@
           "0f1178941c5e1f2916b5659123c2ec2a8456d4ebcef1c4b8ac175c8f32be6a39"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260713/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260730/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -10259,7 +10235,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW2】 隠し穴に任意のポケモンを出現させる乱数調整",
         "published_raw": "2026-07-30T00:00:00+09:00",
@@ -10613,17 +10589,13 @@
           "42f5766c0d914679c64cc5b63ee10b300d0686cb71fce6242f2af4117109524c"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260730/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260816/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -10938,7 +10910,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【BW1】初心者向けの孵化乱数(5genSearch-web使用版・スマホ対応)",
         "published_raw": "2026-08-16T00:00:00+09:00",
@@ -11250,17 +11222,13 @@
           "52d951d89b4a202ee09f4e7665db9deb73e4a815a88d3b4ffbbc2827d6a144eb"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260816/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260920/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -11483,7 +11451,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンDPt】ポケトレ乱数の手引書",
         "published_raw": "2026-09-20T00:00:00+09:00",
@@ -11703,17 +11671,13 @@
           "156361a4e60bed8abe116d26c1f7836ff888d8d0cf64ac722a74c224f266d685"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260920/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20260922/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -11943,7 +11907,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンHGSS】赤いギャラドスの乱数調整",
         "published_raw": "2026-09-22T00:00:00+09:00",
@@ -12170,17 +12134,13 @@
           "7bf3aa052964d5b1cf12e134d806d4def8481562675e00cba71147491fe7100e"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260922/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20261012/00000000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -12584,7 +12544,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-21T04:50:08+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW2】初心者向けの固定乱数(5genSearch-web使用版)",
         "published_raw": "2026-10-12T00:00:00+09:00",
@@ -12985,17 +12945,13 @@
           "64089fc86dbda04a16f929333e5f041934f7a710f0e0e479bbeeaa2a0ddffa0d"
         ]
       },
-      "checked_at": "2026-10-21T04:50:08+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20261012/00000000",
       "etag": "",
-      "last_modified": "",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_modified": ""
     },
     "https://namofure.hatenablog.com/entry/2024/12/23/175741": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13184,7 +13140,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンDPt】 トバリゲームコーナーの当たり台を探してみた話",
         "published_raw": "2024-12-23T17:57:41+09:00",
@@ -13370,13 +13326,13 @@
           "3c788b728bfb5fe43596db13eaa33f16f4db2fd7384126b55620db47ea2ae3ac"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://namofure.hatenablog.com/entry/2024/12/23/175741",
       "etag": "",
       "last_modified": ""
     },
     "https://namofure.hatenablog.com/entry/2026/06/26/224206": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13442,7 +13398,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW2】エンカウント乱数まとめ",
         "published_raw": "2026-06-26T22:42:06+09:00",
@@ -13505,13 +13461,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://namofure.hatenablog.com/entry/2026/06/26/224206",
       "etag": "",
       "last_modified": ""
     },
     "https://oupo.hatenadiary.com/entry/20100415/1271287693": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13551,7 +13507,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ゆびをふるで出た技でseedを特定してみようという試み",
         "published_raw": "2010-04-15T08:28:13+09:00",
@@ -13588,13 +13544,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://oupo.hatenadiary.com/entry/20100415/1271287693",
       "etag": "",
       "last_modified": ""
     },
     "https://oupo.hatenadiary.com/entry/2019/05/03/185819": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13632,7 +13588,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ゲームボーイのポケモンの疑似乱数",
         "published_raw": "2019-05-03T18:58:19+09:00",
@@ -13667,13 +13623,13 @@
           "4765e18a3fb6c5a033e393efc0aab8a60da4acfb59f559c121018fda8eb83789"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://oupo.hatenadiary.com/entry/2019/05/03/185819",
       "etag": "",
       "last_modified": ""
     },
     "https://purely11.hatenablog.com/entry/2026/03/22/190000": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13782,7 +13738,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【FRLG】実機GBA版 菱形色A0サンダー 固定乱数＋ブロマイドリボン取得【3世代乱数】",
         "published_raw": "2026-03-22T19:00:00+09:00",
@@ -13888,13 +13844,13 @@
           "6ba6993a2345667388bac491a4dbf0c54a6e5f6448f9e0e234586364ec34b454"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://purely11.hatenablog.com/entry/2026/03/22/190000",
       "etag": "",
       "last_modified": ""
     },
     "https://taiyaki3gen.hatenablog.com/entry/2022/12/12/173741": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13940,7 +13896,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "6世代乱数にふしぎなアメが必須ではなくなった",
         "published_raw": "2022-12-12T17:37:41+09:00",
@@ -13983,13 +13939,13 @@
           "cbce6222e2da75b58a3adfc4dd8d7a31d4006b8fb06379617f07448de13b4939"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://taiyaki3gen.hatenablog.com/entry/2022/12/12/173741",
       "etag": "",
       "last_modified": ""
     },
     "https://wasou3721.hatenablog.com/entry/2026/05/17/235553": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -14048,7 +14004,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-22T04:48:55+00:00",
+        "observed_at": "2026-10-23T04:51:23+00:00",
         "extractor": "hatena-entry-v1",
         "title": "Switch版FRLG乱数 ワンチャン手動でもできるかもしれない臆病めざ草理想サンダー＆ファイヤー",
         "published_raw": "2026-05-17T23:55:53+09:00",
@@ -14104,7 +14060,7 @@
           "ad62bb180635e6d9db0099b4fac948879250e27fcd36cd530e0d29116caccdd7"
         ]
       },
-      "checked_at": "2026-10-22T04:48:55+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
       "final_url": "https://wasou3721.hatenablog.com/entry/2026/05/17/235553",
       "etag": "",
       "last_modified": ""
@@ -14112,44 +14068,40 @@
   },
   "feeds": {
     "https://blastoise-x.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://dokudenpa.hatenablog.jp/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://e52301147.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://hope3gen.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://larvesta10.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://metagross-armor.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://milk4724.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00",
-      "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
-        "message": "robots.txt unavailable: redirect outside allowed public Hatena hosts"
-      }
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://namofure.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://oupo.hatenadiary.com/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://purely11.hatenablog.com/": {
       "last_attempt_at": "2026-10-22T04:48:55+00:00",
@@ -14168,51 +14120,51 @@
       "checked_at": "2026-10-22T04:48:55+00:00"
     },
     "https://you396.hatenadiary.jp/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://bzl.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
+        "at": "2026-10-23T04:51:23+00:00",
         "message": "redirect outside allowed public Hatena hosts"
       }
     },
     "https://eruakudiary.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://fuchiaz.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://hijikichi.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://honasho5.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://kuzuhiko.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://miga0547.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://milk4724.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://notwogetstwo.hatenablog.com/": {
       "last_attempt_at": "2026-10-22T04:48:55+00:00",
       "checked_at": "2026-10-22T04:48:55+00:00"
     },
     "https://prie0908.hatenadiary.com/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://takedpok.hatenablog.com/": {
       "last_attempt_at": "2026-10-22T04:48:55+00:00",
@@ -14231,27 +14183,27 @@
       "checked_at": "2026-10-16T06:40:49+00:00"
     },
     "https://nitrone7.hatenablog.com/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://sina-poke.hatenablog.com/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "last_error": {
-        "at": "2026-10-21T04:50:08+00:00",
+        "at": "2026-10-23T04:51:23+00:00",
         "message": "HTTP Error 404: Not Found"
       }
     },
     "https://buster-poke.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://nyokki2319.hatenablog.com/": {
-      "last_attempt_at": "2026-10-21T04:50:08+00:00",
-      "checked_at": "2026-10-21T04:50:08+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     },
     "https://bo-man.hatenablog.com/": {
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00"
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00"
     }
   },
   "archives": {
@@ -14274,22 +14226,22 @@
       "last_page_hash": "03cfd0929a8483b3110232898fb00217f8112ca21ba08df7b2aedf79b02ade4c"
     },
     "https://hope3gen.hatenablog.com/": {
-      "next_page": 1,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "ee5deb717734b182709308645fe736ac4662dc2b6303fb2e013c59f9b13ddf1c"
+      "next_page": 2,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "6ffda4bd1ad9aeaa4d2a71335f63b6966f38fd818777e5c109e4cf3d104a23a9"
     },
     "https://larvesta10.hatenablog.com/": {
-      "next_page": 2,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "e5221ce7b653806aa5b67ae7622d03721eebbdb298b573a15c4603da966452c4"
+      "next_page": 3,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "896f7b9ff7e1dc0012651238035bc4c4760fdfe62512bc477c6fe293d55c9c2d"
     },
     "https://metagross-armor.hatenablog.com/": {
-      "next_page": 5,
-      "last_attempt_at": "2026-10-20T04:52:58+00:00",
-      "checked_at": "2026-10-20T04:52:58+00:00",
-      "last_page_hash": "d78dfc2754ddd66a7d6902a703744f4d296bc911e2d40e7731ab5b60d1360e31"
+      "next_page": 6,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "caf1dbc5059ec0a0db0407fe7b75ed0cc572a638257273b7b6acbb5543427221"
     },
     "https://milk4724.hatenablog.com/": {
       "next_page": 5,
@@ -14341,9 +14293,9 @@
     },
     "https://bzl.hatenablog.com/": {
       "next_page": 1,
-      "last_attempt_at": "2026-10-20T04:52:58+00:00",
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
       "last_error": {
-        "at": "2026-10-20T04:52:58+00:00",
+        "at": "2026-10-23T04:51:23+00:00",
         "message": "robots.txt unavailable: redirect outside allowed public Hatena hosts"
       }
     },
@@ -14354,28 +14306,28 @@
       "last_page_hash": "f8b4d0cd2d665a40a399d4e481ea4f2c4f04b01be655db3687f641c95af86965"
     },
     "https://fuchiaz.hatenadiary.org/": {
-      "next_page": 4,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "c04a394d09f3efc1e272f65bb534bfa5bc7b82d289fe2b12a1f00bc2e81302c2"
+      "next_page": 5,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "a643980f2220924acbc14777490bad61b6e7998a91cde1dab3c669c65a7ded4c"
     },
     "https://hijikichi.hatenablog.com/": {
-      "next_page": 4,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "a24dc67892eaf98c62a00a17520653aaa914410c0b6f0d805041c18ccc98c8c4"
+      "next_page": 5,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "180ff06d924e6c48ea42628b073ca87d428f649a5c07553b045731c46b621fa5"
     },
     "https://honasho5.hatenadiary.org/": {
-      "next_page": 4,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "b831311907360bc58e9f6a0a1d9b9fb90673a5af3fa58b510c164335ee881ddb"
+      "next_page": 5,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "66da16f15559510958a46d0e5441ccbb0c976ecd7d05097f93f8970f0ba99285"
     },
     "https://kuzuhiko.hatenadiary.org/": {
-      "next_page": 1,
-      "last_attempt_at": "2026-10-19T04:42:37+00:00",
-      "checked_at": "2026-10-19T04:42:37+00:00",
-      "last_page_hash": "c9098cd0ae0df194ed3d90e00c05fb07f126f2b0ccf23d02fa3a25435e8e43ea"
+      "next_page": 2,
+      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "checked_at": "2026-10-23T04:51:23+00:00",
+      "last_page_hash": "08ade8b3522ef87500bee98db74b4cd0d8ecb533b394e610eb85321f00eb9677"
     },
     "https://miga0547.hatenablog.com/": {
       "next_page": 1,
@@ -14453,9 +14405,9 @@
     }
   },
   "run": {
-    "started_at": "2026-10-22T04:48:55+00:00",
+    "started_at": "2026-10-23T04:51:23+00:00",
     "limits_reached": [],
-    "finished_at": "2026-10-22T04:52:01+00:00",
-    "new_candidates": 2
+    "finished_at": "2026-10-23T04:54:33+00:00",
+    "new_candidates": 11
   }
 }
