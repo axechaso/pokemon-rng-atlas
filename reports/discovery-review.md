@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-10-23T04:51:23+00:00
+抓取时间（UTC）：2026-10-24T04:38:29+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：342；待审原文变化：0。
+- 待审新来源：368；待审原文变化：0。
 - 已收录 Hatena 原文：44；已有正文基线：44。首次基线不算修订。
 - 其他 304 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：131/180；获取或解析失败：7。
+- 本次请求：130/180；获取或解析失败：5。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -16,45 +16,41 @@
 
 | 通道 | 成功请求 | 失败请求 |
 | --- | ---: | ---: |
-| blog-archive | 7 | 1 |
-| blog-feed | 22 | 2 |
+| blog-archive | 8 | 0 |
+| blog-feed | 23 | 1 |
 | bookmark-search | 16 | 0 |
 | candidate-verify | 8 | 4 |
 | revision | 44 | 0 |
 
-- [blog-feed](<https://sina-poke.hatenablog.com/feed>)：HTTPError: HTTP Error 404: Not Found
-
 - [blog-feed](<https://bzl.hatenablog.com/feed>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [blog-archive](<https://bzl.hatenablog.com/archive?page=1>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>)：ValueError: no unambiguous article body (roots=1, characters=74)
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>)：ValueError: redirected to a non-article page
-
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>)：ValueError: redirected to a non-article page
 
 ### 尚未恢复的获取问题（含之前轮次）
 
-- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：redirect outside allowed public Hatena hosts
+- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-24T04:38:29+00:00：redirect outside allowed public Hatena hosts
 - [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：HTTP Error 404: Not Found
 - [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-23T04:51:23+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-22T04:48:55+00:00：HTTP Error 404: Not Found
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20160503>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-21T04:50:08+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
+- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-24T04:38:29+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140611>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-22T04:48:55+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>) · 2026-10-21T04:50:08+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-24T04:38:29+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>) · 2026-10-24T04:38:29+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>) · 2026-10-23T04:51:23+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-21T04:50:08+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-24T04:38:29+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-22T04:48:55+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 ## 原文变化（需核实，不等于技术结论已修正）
@@ -63,14 +59,257 @@
 
 ## 新来源候选
 
+### ポケモン BW2 ライブキャスターを使用した固定乱数(5genSearch使用版)
+
+[原文](<https://milk4724.hatenadiary.org/entry/20240108/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第5世代乱数】BW2 固定乱数【3DS用】
+
+[原文](<https://milk4724.hatenadiary.org/entry/20240107/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS 野生乱数 個体値オール0メタモン
+
+[原文](<https://milk4724.hatenadiary.org/entry/20240101/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第5世代乱数】BW1 6Vメタモン 乱数調整(5genSearch使用①)
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231230/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【乱数調整】色違いマナフィに中国語名をつける
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231229/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】DP 野生乱数 ひかえめめざパ炎 ポリゴン
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231228/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### ポケモン 日ズレ(日付ズレ)の説明と乱数調整で対策する話
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231227/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】 DPT 固定シンボル乱数 ひかえめ炎ロトム
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231226/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】PT テーブル固定ポケトレ併用メロボ連鎖乱数 陽気ドーブル
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231225/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】みつふし色違いノココッチの乱数調整
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231218/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS 固定乱数 いじっぱり ホウオウ 0xc0e02c2
+
+[原文](<https://milk4724.hatenadiary.org/entry/20231216/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenadiary.org。
+- 发现依据：blog-archive · https://milk4724.hatenadiary.org/archive?page=4。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンHGSS】穏やか めざパ電 スイクンの乱数調整※スマホ対応 (ID00000-00153用)
+
+[原文](<https://milk4724.hatenablog.com/entry/20240407/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS ID0-153用 固定乱数 図太い めざパ電 スイクン
+
+[原文](<https://milk4724.hatenablog.com/entry/20240406/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS ID0-153用 固定乱数 臆病めざパ電 スイクン
+
+[原文](<https://milk4724.hatenablog.com/entry/20240405/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンBW1/BW2】 初心者向け 乱数調整についての解説(準備編)
+
+[原文](<https://milk4724.hatenablog.com/entry/20240301/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンBW】徘徊済み徘徊ポケモンの乱数調整(5genSearch使用版)
+
+[原文](<https://milk4724.hatenablog.com/entry/20240216/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンBW】徘徊乱数の手引書
+
+[原文](<https://milk4724.hatenablog.com/entry/20240215/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】初心者向け🔰 乱数調整環境整備まとめ
+
+[原文](<https://milk4724.hatenablog.com/entry/20240201/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンDPt】ダイパ・プラチナ 徘徊乱数 ずぶとい めざパ炎 クレセリア
+
+[原文](<https://milk4724.hatenablog.com/entry/20240127/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンDPt】徘徊乱数 ずぶとい5V クレセリア
+
+[原文](<https://milk4724.hatenablog.com/entry/20240126/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS シントいせき(シント遺跡) 乱数調整 いじっぱり5V ギラティナ
+
+[原文](<https://milk4724.hatenablog.com/entry/20240124/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS シントいせき(シント遺跡) 乱数調整 おくびょう6V 0xd2140289
+
+[原文](<https://milk4724.hatenablog.com/entry/20240123/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【第4世代乱数】HGSS シントいせき(シント遺跡) 乱数調整 ひかえめ6V 0x52140289
+
+[原文](<https://milk4724.hatenablog.com/entry/20240122/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 【ポケモンPt】プラチナ カントー3鳥 徘徊乱数 ひかえめ めざパ氷 ファイヤー・サンダー
+
+[原文](<https://milk4724.hatenablog.com/entry/20240121/00000000>)
+
+- 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 出力関数が線形な場合のTinyMTにおいて連続する4つの乱数値からstateを得る
+
+[原文](<https://d.hatena.ne.jp/oupo/20161210/1481361175>)
+
+- 首次发现：2026-10-24；来源博客：d.hatena.ne.jp。
+- 发现依据：article-reference · https://kuzuhiko.hatenadiary.org/entry/20161211/1481472854; article-reference · https://kuzuhiko.hatenadiary.org/entry/20161221/1482319416。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### SM孵化乱数
+
+[原文](<https://d.hatena.ne.jp/kuzuhiko/20161221/1482319416>)
+
+- 首次发现：2026-10-24；来源博客：d.hatena.ne.jp。
+- 发现依据：article-reference · https://kuzuhiko.hatenadiary.org/entry/20161211/1481472854。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### SM孵化乱数に関するあれこれ
+
+[原文](<https://d.hatena.ne.jp/kuzuhiko/20161211/1481472854>)
+
+- 首次发现：2026-10-24；来源博客：d.hatena.ne.jp。
+- 发现依据：article-reference · https://kuzuhiko.hatenadiary.org/entry/20161221/1482319416。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
 ### BW 孵化乱数 遺伝箇所
 
 [原文](<https://honasho5.hatenadiary.org/entry/20101003>)
 
 - 首次发现：2026-10-23；来源博客：honasho5.hatenadiary.org。
 - 发现依据：blog-archive · https://honasho5.hatenadiary.org/archive?page=4。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2010-10-03T00:00:00+09:00；原站更新时间：2010-10-02T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### BW 孵化 卵 乱数調整 2
 
@@ -78,17 +317,8 @@
 
 - 首次发现：2026-10-23；来源博客：honasho5.hatenadiary.org。
 - 发现依据：blog-archive · https://honasho5.hatenadiary.org/archive?page=4。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
-### 色違い乱数調整【孵化・表裏ID既知→検索の場合】
-
-[原文](<https://fuchiaz.hatenadiary.org/entry/20110202/1296665650>)
-
-- 首次发现：2026-10-23；来源博客：fuchiaz.hatenadiary.org。
-- 发现依据：blog-archive · https://fuchiaz.hatenadiary.org/archive?page=4。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2010-10-02T00:00:00+09:00；原站更新时间：2010-10-01T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 色違い乱数調整（固定伝説）
 
@@ -1991,7 +2221,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20240125/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260703/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260703/00000000; blog-archive · https://milk4724.hatenablog.com/archive?page=5。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -2227,16 +2457,16 @@
 - 首次发现：2026-10-16；来源博客：kuzuhiko.hatenadiary.org。
 - 发现依据：blog-feed · https://kuzuhiko.hatenadiary.org/feed; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=1; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=2; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=3。
 - 原文发表元数据：2017-01-18T21:07:35+09:00；原站更新时间：2017-01-18T12:07:35+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### SM孵化乱数 - おしゃれボールはステータス
+### SM孵化乱数
 
 [原文](<https://kuzuhiko.hatenadiary.org/entry/20161221/1482319416>)
 
 - 首次发现：2026-10-16；来源博客：kuzuhiko.hatenadiary.org。
 - 发现依据：bookmark-search · https://b.hatena.ne.jp/q/%E5%AD%B5%E5%8C%96%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; blog-feed · https://kuzuhiko.hatenadiary.org/feed; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=1。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2016-12-21T20:23:36+09:00；原站更新时间：2016-12-21T11:23:36+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### SM孵化乱数に関するあれこれ【12/17追記あり】
 
@@ -2245,7 +2475,7 @@
 - 首次发现：2026-10-16；来源博客：kuzuhiko.hatenadiary.org。
 - 发现依据：blog-feed · https://kuzuhiko.hatenadiary.org/feed; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=1。
 - 原文发表元数据：2016-12-11T01:14:14+09:00；原站更新时间：2016-12-10T16:14:14+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### RS孵化乱数の自分なりのメモ
 
@@ -2254,23 +2484,23 @@
 - 首次发现：2026-10-16；来源博客：kuzuhiko.hatenadiary.org。
 - 发现依据：blog-feed · https://kuzuhiko.hatenadiary.org/feed; blog-archive · https://kuzuhiko.hatenadiary.org/archive?page=1。
 - 原文发表元数据：2014-04-01T21:33:50+09:00；原站更新时间：2014-04-01T12:33:50+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【エメラルド新規勢向け乱数調整講座 #3】令和から始める！対戦環境を整えるための乱数調整 マボロシじま編
 
 [原文](<https://hope3gen.hatenablog.com/entry/2024/11/04/120000>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1。
+- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/11/04/120000。
 - 原文发表元数据：2024-11-04T12:00:00+09:00；原站更新时间：2024-11-04T13:32:37+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【エメラルド新規勢向け乱数調整講座 #2.5】令和から始める！対戦環境を整えるための乱数調整 ルネシティのコイキング編
 
 [原文](<https://hope3gen.hatenablog.com/entry/2024/09/09/235900>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1。
+- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/11/04/120000。
 - 原文发表元数据：2024-09-09T23:59:00+09:00；原站更新时间：2024-09-09T23:59:01+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2279,7 +2509,7 @@
 [原文](<https://hope3gen.hatenablog.com/entry/2024/08/26/200000>)
 
 - 首次发现：2026-10-16；来源博客：hope3gen.hatenablog.com。
-- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/09/09/235900。
+- 发现依据：blog-feed · https://hope3gen.hatenablog.com/feed; blog-archive · https://hope3gen.hatenablog.com/archive?page=1; article-reference · https://hope3gen.hatenablog.com/entry/2024/09/09/235900; article-reference · https://hope3gen.hatenablog.com/entry/2024/11/04/120000。
 - 原文发表元数据：2024-08-26T20:00:00+09:00；原站更新时间：2024-08-27T10:13:25+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -2999,7 +3229,7 @@
 [原文](<https://blastoise-x.hatenablog.com/entry/SM-breed>)
 
 - 首次发现：2026-10-16；来源博客：blastoise-x.hatenablog.com。
-- 发现依据：article-reference · https://blastoise-x.hatenablog.com/entry/shiny-egg; article-reference · https://blastoise-x.hatenablog.com/entry/SM-shiny-egg。
+- 发现依据：article-reference · https://blastoise-x.hatenablog.com/entry/shiny-egg; article-reference · https://blastoise-x.hatenablog.com/entry/SM-shiny-egg; article-reference · https://kuzuhiko.hatenadiary.org/entry/20161211/1481472854; article-reference · https://kuzuhiko.hatenadiary.org/entry/20161221/1482319416。
 - 原文发表元数据：2016-12-05T22:00:00+09:00；原站更新时间：2016-12-05T13:00:04+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -3008,7 +3238,7 @@
 [原文](<https://blastoise-x.hatenablog.com/entry/SM-RNG-abuse>)
 
 - 首次发现：2026-10-16；来源博客：blastoise-x.hatenablog.com。
-- 发现依据：blog-feed · https://blastoise-x.hatenablog.com/feed; blog-archive · https://blastoise-x.hatenablog.com/archive?page=1; article-reference · https://blastoise-x.hatenablog.com/entry/2017/01/29/143804; bookmark-search · https://b.hatena.ne.jp/q/%E5%88%9D%E6%9C%9Fseed?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on。
+- 发现依据：blog-feed · https://blastoise-x.hatenablog.com/feed; blog-archive · https://blastoise-x.hatenablog.com/archive?page=1; article-reference · https://blastoise-x.hatenablog.com/entry/2017/01/29/143804; bookmark-search · https://b.hatena.ne.jp/q/%E5%88%9D%E6%9C%9Fseed?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; article-reference · https://kuzuhiko.hatenadiary.org/entry/20170118/1484741255。
 - 原文发表元数据：2017-01-18T12:12:48+09:00；原站更新时间：2017-01-18T03:12:48+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -3053,7 +3283,7 @@
 [原文](<https://blastoise-x.hatenablog.com/entry/2016/12/18/233100>)
 
 - 首次发现：2026-10-16；来源博客：blastoise-x.hatenablog.com。
-- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on; bookmark-search · https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; blog-feed · https://blastoise-x.hatenablog.com/feed; blog-archive · https://blastoise-x.hatenablog.com/archive?page=1; article-reference · https://blastoise-x.hatenablog.com/entry/SM-breed。
+- 发现依据：bookmark-search · https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on; bookmark-search · https://b.hatena.ne.jp/q/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%20%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on; blog-feed · https://blastoise-x.hatenablog.com/feed; blog-archive · https://blastoise-x.hatenablog.com/archive?page=1; article-reference · https://blastoise-x.hatenablog.com/entry/SM-breed; article-reference · https://kuzuhiko.hatenadiary.org/entry/20161221/1482319416。
 - 原文发表元数据：2016-12-18T23:31:00+09:00；原站更新时间：2016-12-18T14:31:00+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
