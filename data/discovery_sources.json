@@ -50,7 +50,9 @@
     "homepage": "https://d.hatena.ne.jp/kuzuhiko/",
     "feed": "https://d.hatena.ne.jp/kuzuhiko/rss",
     "discovered_at": "2026-10-24T04:38:29+00:00",
-    "discovered_via": "https://kuzuhiko.hatenadiary.org/entry/20161211/1481472854"
+    "discovered_via": "https://kuzuhiko.hatenadiary.org/entry/20161211/1481472854",
+    "enabled": false,
+    "migrated_to": "https://kuzuhiko.hatenadiary.org/"
   },
   "https://d.hatena.ne.jp/oupo/": {
     "name": "d.hatena.ne.jp",
