@@ -12810,5 +12810,1634 @@
       "video-colosseum-tid-sid"
     ],
     "review_notes": "核对公开原文步骤和示例；未将例子的 Seed、帧数与偏差当作通用常量。Scrapbox 的后台编辑日期不作为发表日期。"
+  },
+  {
+    "id": "ja-oupo-chatot-seed-2020",
+    "title": "第五世代：用连续 13 次聒噪鸟音高恢复 64 位 Seed",
+    "original_title": "第5世代でペラップの鳴き声だけから64bit LCGのseedを見つける",
+    "author": "oupo",
+    "date": "2020-09-04",
+    "url": "https://oupo.hatenadiary.com/entry/2020/09/04/145245",
+    "summary": "将连续聒噪鸟音高换算为 0～31，作为 64 位 LCG 输出高 5 位的约束，使用 Mathematica／Wolfram Cloud 求解初始状态。附程序与恢复序列的核对实例，并在 2020 年 9 月追加通用输入版本。",
+    "evidence": "数学建模与程序实例",
+    "status": "中文摘要",
+    "tags": [
+      "聒噪鸟",
+      "64位LCG",
+      "Seed逆算",
+      "Mathematica",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。约 14 秒是作者在当时 Wolfram Cloud 上的实例耗时，不代表任意输入都唯一可解或具有相同速度；本站未独立复现。属于离线状态恢复研究。",
+    "related_sources": [
+      "ja-oupo-chatot-music-2017",
+      "en-smogon-bw-pid",
+      "ja-yatsuna-chatot"
+    ]
+  },
+  {
+    "id": "ja-oupo-lottery-sid-2017",
+    "title": "第四世代：用彩票号码在浏览器本地搜索 SID",
+    "original_title": "くじ番号から裏ID ローカル検索バージョン",
+    "author": "oupo",
+    "date": "2017-12-22",
+    "url": "https://oupo.hatenadiary.com/entry/20171222/1513931635",
+    "summary": "介绍 sid-search3，将第四世代彩票号码与表 ID 转换为 SID 搜索条件。使用 WebAssembly 和 Worker 在本地计算，摆脱旧版数据库服务，并说明并行数量及当时的性能比较。",
+    "evidence": "工具发布与性能记录",
+    "status": "中文摘要",
+    "tags": [
+      "SID",
+      "彩票",
+      "WebAssembly",
+      "Worker",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。已核对文章和配套仓库。约比原生 C++ 慢 14 倍是 2017 年的作者测试；未在当前浏览器执行完整搜索。",
+    "related_sources": [
+      "ja-oupo-sid-search3",
+      "en-smogon-gen4-id"
+    ]
+  },
+  {
+    "id": "ja-oupo-sid-search3",
+    "title": "sid-search3：第四世代彩票反推 SID 的公开实现",
+    "original_title": "sid-search3",
+    "author": "oupo",
+    "date": null,
+    "url": "https://github.com/oupo/sid-search3",
+    "summary": "保存彩票反推 SID 的 Rust 搜索实现、C++ 版本、JavaScript Worker 和 WebAssembly 文件。日文界面提供表 ID、彩票结果、搜索范围及 Worker 数量输入，可结合作者发布文章研究本地搜索。",
+    "evidence": "公开源码",
+    "status": "中文摘要",
+    "tags": [
+      "SID",
+      "彩票",
+      "Rust",
+      "WebAssembly",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。核对 index.html、search.rs、文件目录及 MIT 许可证。仓库没有注明独立发表日期，日期留空；未编译、运行或验证搜索结果。",
+    "related_sources": [
+      "ja-oupo-lottery-sid-2017"
+    ]
+  },
+  {
+    "id": "ja-oupo-chatot-music-2017",
+    "title": "白金／黑白：搜索连续聒噪鸟音高来演奏旋律",
+    "original_title": "クリスマスイブなのでペラップにWe Wish a Merry Christmasを歌ってもらった",
+    "author": "oupo",
+    "date": "2017-12-24",
+    "url": "https://oupo.hatenadiary.com/entry/20171224/1514041216",
+    "summary": "通过约束连续 RNG 输出搜索聒噪鸟的目标音高序列，提供白金、黑、白的 Seed、消费位置和 C++ 程序。第五世代初始 Seed 计算使用 PokeRNG，是多输出约束搜索的实用案例。",
+    "evidence": "源码与演奏参数",
+    "status": "中文摘要",
+    "tags": [
+      "聒噪鸟",
+      "音高",
+      "Seed搜索",
+      "LCG",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。第五世代参数与原作者主机 MAC 等条件相关，不能直接复用；只核对正文、代码和参数，未逐段观看演奏视频。日期按原站日本时间。",
+    "related_sources": [
+      "ja-odanado-pokerng",
+      "ja-oupo-chatot-seed-2020"
+    ]
+  },
+  {
+    "id": "ja-odanado-pokerng",
+    "title": "PokeRNG：第五世代 Seed 与 Offset 计算库",
+    "original_title": "PokeRNG",
+    "author": "おだんぽよ / odanado",
+    "date": null,
+    "url": "https://github.com/odanado/PokeRNG",
+    "summary": "提供宝可梦 RNG 研究用 C++ 库，目录包含第五世代初始 Seed、参数与 Offset 计算，以及 LCG、MT 和搜索示例。oupo 的聒噪鸟旋律搜索文章引用了该库。",
+    "evidence": "公开源码与简短说明",
+    "status": "中文摘要",
+    "tags": [
+      "PokeRNG",
+      "C++",
+      "初期Seed",
+      "Offset",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。核对日文 README、Calc5GenSeed／CalcOffset 等文件目录及 MIT 许可证。README 很简短，仅作为离线开发参考，不补写完整实机教程；未编译运行。未注明发表日期。",
+    "related_sources": [
+      "ja-oupo-chatot-music-2017"
+    ]
+  },
+  {
+    "id": "ja-gonz-gen7-egg-qa",
+    "title": "SM／USUM 孵化问答：领取消费、亲本替换与他人 TSV",
+    "original_title": "ポケモン(ウルトラ)サンムーン　孵化乱数調整QA",
+    "author": "ゴンz（ごんぜっと）",
+    "date": null,
+    "url": "https://co291424.com/sm/usum/usum_eggrngQA.php",
+    "summary": "用具体 Seed 和 Excel 计算解释孵化时的跳过与重抽：性别、球种遗传、重复遗传位置和提前结束的闪光判定都会改变消费。还说明替换鲤鱼王推进时需要重算条件，以及生成方 TSV 与交换孵化目标的区别。",
+    "evidence": "机制解释与计算对照",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "消费偏移",
+      "TSV",
+      "亲本替换",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "究极之日／究极之月",
+        "孵化乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。正文自称 2017 Advent Calendar 第 17 日文章，但页面未明确标注独立发表日期，日期留空；活动日期不代替发表日期。未实机复现。",
+    "related_sources": [
+      "sm-egg-2017",
+      "usum-egg-pid-2022",
+      "en-smogon-gen7-egg-introduction"
+    ]
+  },
+  {
+    "id": "ja-saki-swsh-raid-search-2020",
+    "title": "剑盾巢穴 Seed 逆算：利用更多比特缩小枚举范围",
+    "original_title": "レイド乱数探索アルゴリズムの改良",
+    "author": "さき",
+    "date": "2020-12-19",
+    "url": "https://xxsakixx.com/archives/55824814.html",
+    "summary": "研究加法进位对线性逆算的限制，利用观测值最低位连续为 1 的部分和最高位增加约束。在信息充分的条件下，可将原来至少 32 位的枚举范围进一步缩小。",
+    "evidence": "算法推导与作者测试",
+    "status": "中文摘要",
+    "tags": [
+      "巢穴Seed",
+      "线性代数",
+      "进位",
+      "搜索优化",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第八世代",
+        "剑／盾",
+        "极巨团体战乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者明确表示其旧配布工具未实现该改进，文中性能只适用于给定观测条件；本站未独立实现或复现。",
+    "related_sources": [
+      "swsh-raid-2020",
+      "en-swsh-raid-generation"
+    ]
+  },
+  {
+    "id": "ja-buster-rs-method4-2014",
+    "title": "RS／Pokémon BOX：Method 4 闪光天真 6V 烈空坐记录",
+    "original_title": "ＲＳ乱数　メソッド４乱数 色ゴジャボレックウザ（無邪気６Ｖ）",
+    "author": "buster_poke",
+    "date": "2014-06-11",
+    "url": "https://buster-poke.hatenablog.com/entry/20140611/1402506714",
+    "summary": "作者使用 Pokémon BOX 的 GBA 游玩功能，在 Seed 0x09FE、581614 帧命中 PID 995ABC94 的天真 6V 烈空坐。记录同一帧可能出现 Method 1 或 Method 4，展示运行环境与个体生成偏移的实机案例。",
+    "evidence": "实机成功记录",
+    "status": "中文摘要",
+    "tags": [
+      "Method 4",
+      "Pokémon BOX",
+      "烈空坐",
+      "生成偏移",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "机制研究"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "Pokémon BOX 红宝石／蓝宝石",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。五至六成的 Method 4 出现率是作者体感估计，不能当作统计概率；正文参数及成功报告已核对，录像未逐段复核。",
+    "related_sources": [
+      "gen3-method-shift-2015",
+      "ja-buster-rng-use-cases-2016"
+    ]
+  },
+  {
+    "id": "ja-saki-subway-doubles-2016",
+    "title": "第五世代对战地铁双打：围绕大爆炸搜索连续对手",
+    "original_title": "バトルサブウェイ乱数～ダブル編～",
+    "author": "さき",
+    "date": "2016-12-04",
+    "url": "https://xxsakixx.com/archives/55568704.html",
+    "summary": "比较多种全体攻击后，围绕大爆炸设计队伍并搜索连续七名对手。列出 Seed 146D92BDCCBC2AD9、消费 48（另计存档指针），以及对手的队伍、招式、道具和能力值。",
+    "evidence": "Seed 搜索与队伍设计",
+    "status": "中文摘要",
+    "tags": [
+      "对战地铁",
+      "双打",
+      "大爆炸",
+      "Seed搜索",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "对战地铁乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "对战地铁乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。正文提供计算结果与策略，作者表示没有计划制作实际通关视频；不能将搜索列表当作本站已验证的七连胜。",
+    "related_sources": [
+      "ja-saki-subway-generation-2013",
+      "ja-saki-subway-tool-2013"
+    ]
+  },
+  {
+    "id": "ja-buster-rng-use-cases-2016",
+    "title": "第三、四世代实机 RNG 应用：特殊捕获与速通案例索引",
+    "original_title": "ポケモンにおける乱数調整の実用例",
+    "author": "buster_poke",
+    "date": "2016-12-17",
+    "url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116",
+    "summary": "从实战目标介绍 FRLG 狩猎地带、RS 漫游个体、XD 赠送波克比、Method 4 以及 HGSS 速通中的多目标调整。保存早期案例与研究入口，也讨论用 NPC 行为辅助确认 Seed 和固定路线。",
+    "evidence": "历史实机案例索引",
+    "status": "中文摘要",
+    "tags": [
+      "RTA",
+      "实机",
+      "历史索引",
+      "NPC",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "狩猎地带乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "漫游乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "赠送乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "战斗乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。只核对本文可读内容，不代表其所有外链、旧工具及录像均已恢复；这是一篇案例索引，不能代替各场景的完整流程。",
+    "related_sources": [
+      "ja-buster-rs-method4-2014",
+      "ja-buster-hgss-raikou-rta-2014",
+      "ja-buster-hgss-rta-video-2017"
+    ]
+  },
+  {
+    "id": "ja-saki-bw2-egg-mechanics-2012",
+    "title": "BW2 孵化：上一颗蛋决定下一颗蛋的专用 RNG Seed",
+    "original_title": "BW2孵化乱数の仕組みと方法",
+    "author": "さき",
+    "date": "2012-07-15",
+    "url": "https://xxsakixx.com/archives/54021240.html",
+    "summary": "解释领取或拒绝上一颗蛋后，如何由两个 IV RNG 输出拼接下一颗蛋的 64 位孵化 Seed。整理领取额外 13 次消费、性格、特性与遗传位置的处理，并报告 6V 特性一致的成功实例。",
+    "evidence": "机制分析与实机测试",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "64位LCG",
+      "IVRNG",
+      "遗传",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。正文保留特性遗传的历史修正；初次领取前状态、部分力量道具组合及 PID 细节仍有未验证项，不能称为全部机制已证实。",
+    "related_sources": [
+      "ja-saki-bw2-egg-tool-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-bw2-egg-tool-2012",
+    "title": "BW2 孵化搜索工具：参数、亲本与两阶段生成条件",
+    "original_title": "BW2孵化乱数用ツール",
+    "author": "さき",
+    "date": "2012-07-21",
+    "url": "https://xxsakixx.com/archives/54034134.html",
+    "summary": "说明 BW2 孵化工具的主机参数、搜索范围、亲本个体值、特性、性格和消费数输入。正文说明更新至 Ver1.3 的操作界面，并链接到 Ver1.4，配合专用孵化 RNG 机制文章使用。",
+    "evidence": "历史工具发布",
+    "status": "中文摘要",
+    "tags": [
+      "孵化",
+      "历史工具",
+      ".NET Framework 4",
+      "亲本",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。需要 .NET Framework 4。旧链接包含被划除的版本；未取得或运行程序，也未确认 Ver1.4 文件当前可下载，不标记为现行可用工具。",
+    "related_sources": [
+      "ja-saki-bw2-egg-mechanics-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-dpt-cointoss-tool-2014",
+    "title": "DPt 投硬币逆算：预计算数据与 MT 最低位优化",
+    "original_title": "DPtコイントス初期シード検索ツール",
+    "author": "さき",
+    "date": "2014-03-30",
+    "url": "https://xxsakixx.com/archives/54782413.html",
+    "summary": "以投硬币序列搜索初始 Seed，预计算至 65535 帧并按结果排序，可选约 1.5 GB 的 CoinTossData.bin 加速。还介绍针对 MT 输出最低位的六比特异或优化。",
+    "evidence": "算法说明与工具发布",
+    "status": "中文摘要",
+    "tags": [
+      "投硬币",
+      "MT19937",
+      "Seed逆算",
+      "预计算",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "初期Seed与校准"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。前提是从启动到投硬币完成前，未通过其他方式消费 MT。需要 .NET Framework 4；程序和追加数据未下载运行，下载页面不等于文件可用。",
+    "related_sources": [
+      "ja-saki-gen4-id-desktop-2012",
+      "en-smogon-gen4-basics"
+    ]
+  },
+  {
+    "id": "ja-saki-gen4-id-web-2015",
+    "title": "第四世代 ID 搜索网页工具：历史发布与停用说明",
+    "original_title": "第4世代ID調整用初期シード検索ツール（WEB版）",
+    "author": "さき",
+    "date": "2015-04-26",
+    "url": "https://xxsakixx.com/archives/55231607.html",
+    "summary": "发布使用 JavaScript 的 TID／SID 初始 Seed 查询页面，仅部分 TID 完成全范围支持，并关联桌面版本。工具页面现明确说明原文件服务器不可用，保留为历史工具线索。",
+    "evidence": "历史工具发布与停用公告",
+    "status": "中文摘要",
+    "tags": [
+      "TID",
+      "SID",
+      "初期Seed",
+      "服务失效",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。同时读取 xxsakixx.com/RNG/4GenID.html 的停用说明；不能描述为当前可执行搜索的网页服务。",
+    "related_sources": [
+      "ja-saki-gen4-id-desktop-2012",
+      "en-smogon-gen4-id"
+    ]
+  },
+  {
+    "id": "ja-saki-gen4-id-desktop-2012",
+    "title": "第四世代 ID 桌面搜索：按 TID 划分的预计算数据",
+    "original_title": "第4世代ID調整用初期シード検索ツール",
+    "author": "さき",
+    "date": "2012-04-17",
+    "url": "https://xxsakixx.com/archives/53827093.html",
+    "summary": "说明通过表 ID、SID 候选或目标 PID 搜索初始 Seed 的工具。数据按 TID 分文件保存，文中称全部 65536 份数据约 3.7 GB，并提供历史追加包和网页版本入口。",
+    "evidence": "历史工具与数据组织说明",
+    "status": "中文摘要",
+    "tags": [
+      "TID",
+      "SID",
+      "预计算",
+      "历史工具",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。需要 .NET Framework 4。已读取发布说明，未验证旧下载文件、全部数据包或程序结果；算法细节还需结合其引用的独立文章。",
+    "related_sources": [
+      "ja-saki-gen4-id-web-2015",
+      "ja-saki-dpt-cointoss-tool-2014"
+    ]
+  },
+  {
+    "id": "ja-saki-bw-water-swarm-2011",
+    "title": "BW 野生生成：冲浪、钓鱼与大量出现的额外判定",
+    "original_title": "BWなみのり、つり、大量発生野生乱数",
+    "author": "さき",
+    "date": "2011-12-07",
+    "url": "https://xxsakixx.com/archives/53402929.html",
+    "summary": "比较普通草丛、冲浪、钓鱼和大量出现的 RNG 调用顺序，说明等级判定、钓鱼成功判定与特殊物种分支如何改变后续 PID 和性格的位置。保留作者对取值映射的历史更正。",
+    "evidence": "历史机制整理与验证",
+    "status": "中文摘要",
+    "tags": [
+      "冲浪",
+      "钓鱼",
+      "大量出现",
+      "遭遇槽",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "钓鱼乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者参考 Smogon 并保留未确定部分；甜甜香气后进入遭遇前的 NPC 消费，需与动作自身的处理区分。未据此推断 BW2 全部规则。",
+    "related_sources": [
+      "ja-saki-bw-double-grass-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-hgss-lati-npc-2014",
+    "title": "HGSS 枯叶市拉帝事件：用 NPC 行为估算不定消费",
+    "original_title": "クチバシティにおけるラティ乱数の不定消費について",
+    "author": "さき",
+    "date": "2014-10-07",
+    "url": "https://xxsakixx.com/archives/54970851.html",
+    "summary": "根据 30fps 实机录像建立两名 NPC 的等待与移动模型，分析进入大吾对话前的额外消费，以及随后 PID、个体值和漫游位置决定的顺序。",
+    "evidence": "录像观察与部分验证",
+    "status": "中文摘要",
+    "tags": [
+      "拉帝欧斯",
+      "拉帝亚斯",
+      "NPC",
+      "不定消费",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "漫游乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。16／32／48／64 是 30fps 视频帧的等待观测，不是可直接套用的游戏帧计数；作者不保证时间精度，另有四次用途不明消费尚未完全确认。",
+    "related_sources": [
+      "ja-buster-hgss-raikou-rta-2014"
+    ]
+  },
+  {
+    "id": "ja-saki-ruby-id-zero-2011",
+    "title": "干电池红宝石：TID 00000、SID 26999 的实机验证",
+    "original_title": "ルビーID調整",
+    "author": "さき",
+    "date": "2011-12-31",
+    "url": "https://xxsakixx.com/archives/53516205.html",
+    "summary": "记录连续 RNG 输出高 16 位先决定 SID、再决定 TID，命中 19396／19397 帧的 SID 26999、TID 00000。作者再以 PID EF5D862F 的闪光雷吉洛克核对 SID。",
+    "evidence": "实机成功与闪光验证",
+    "status": "中文摘要",
+    "tags": [
+      "TID 00000",
+      "SID",
+      "干电池",
+      "雷吉洛克",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。实测对象是干电池红宝石。FRLG、绿宝石及 Switch 版 FRLG 的 ID 流程不能直接套用本例帧数或时机；原文的历史可行性判断不代表当前工具能力。",
+    "related_sources": [
+      "en-smogon-rs-method1",
+      "devon-dead-battery-pandoras-box"
+    ]
+  },
+  {
+    "id": "ja-saki-emerald-everstone-2012",
+    "title": "绿宝石不变之石孵化：性格遗传与 PID 重抽",
+    "original_title": "かわらずのいしを使用したエメループ色孵化",
+    "author": "さき",
+    "date": "2012-09-27",
+    "url": "https://xxsakixx.com/archives/54181083.html",
+    "summary": "比较不携带与携带不变之石的蛋生成判定，说明遗传成功后如何反复构造符合性格的 PID。作者固定三组 PID，并报告利用对战录像保存 Seed 完成个体值调整。",
+    "evidence": "算法整理与实机测试",
+    "status": "中文摘要",
+    "tags": [
+      "不变之石",
+      "PID",
+      "孵化",
+      "对战录像",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "孵化乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者的 PID 目标按转入特定 TID／SID 的红宝石孵化准备，不等于在任意绿宝石存档都闪光。2012 年评论指出高低 16 位描述错误并获作者确认，是历史修正。原始 Smogon 引用未独立复核。",
+    "related_sources": [
+      "video-emerald-egg-ivs",
+      "video-emerald-pokenav-eggs"
+    ]
+  },
+  {
+    "id": "ja-saki-dpt-pokeradar-mechanics-2011",
+    "title": "DPt 宝可追踪：草丛判定、消费范围与闪光 PID 重写",
+    "original_title": "ポケトレ色乱数仕組み",
+    "author": "さき",
+    "date": "2011-10-17",
+    "url": "https://xxsakixx.com/archives/53073858.html",
+    "summary": "整理晃动位置、晃动种类和连锁判定的顺序。四处均能晃动时，初次使用可能消费 8～12 次；闪光草丛另以连续随机数构造 MaskID，并结合 TID／SID 重写 PID。",
+    "evidence": "历史研究整理与部分验证",
+    "status": "中文摘要",
+    "tags": [
+      "宝可追踪",
+      "闪光草丛",
+      "MaskID",
+      "PID",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。不能把消费恒定为 9；无法晃动的位置会跳过相应处理。作者说明材料来自 PokemonStyle／论坛研究的整理，不能全部归为作者独立逆向。",
+    "related_sources": [
+      "ja-saki-pokeradar-tool-2011",
+      "dpt-pokeradar-2026",
+      "en-smogon-cute-charm-radar"
+    ]
+  },
+  {
+    "id": "ja-saki-pokeradar-tool-2011",
+    "title": "DPt 宝可追踪历史工具：闪光草丛预测与初始 Seed 逆算",
+    "original_title": "ポケトレ色乱数用ツール更新",
+    "author": "さき",
+    "date": "2011-11-29",
+    "url": "https://xxsakixx.com/archives/53355668.html",
+    "summary": "发布宝可追踪工具的修复与搜索增强版本，其中逆算工具支持初始 Seed 搜索。说明 .NET Framework 4 依赖，并保留正向工具在阈值边缘可能漏标闪光草丛的已知问题。",
+    "evidence": "历史工具更新说明",
+    "status": "中文摘要",
+    "tags": [
+      "宝可追踪",
+      "Seed逆算",
+      "历史工具",
+      "已知问题",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。正文可读，但未验证 Axfc／Yahoo! 历史文件能否下载运行。文章自身是 2011 年的更新记录，不表示工具近期修订。",
+    "related_sources": [
+      "ja-saki-dpt-pokeradar-mechanics-2011"
+    ]
+  },
+  {
+    "id": "ja-saki-subway-generation-2013",
+    "title": "BW／BW2 对战地铁：对手生成与漫游宝可梦消费调查",
+    "original_title": "バトルサブウェイ対戦相手決定方法",
+    "author": "さき",
+    "date": "2013-01-28",
+    "url": "https://xxsakixx.com/archives/54350426.html",
+    "summary": "研究训练家和队伍生成、PID／特性、存档指针、对战录像及中断恢复。通过放出或击倒漫游的龙卷云／雷电云进行交叉测试，将部分存档中额外 1～3 次消费与漫游状态联系起来。",
+    "evidence": "实机实验与机制推导",
+    "status": "中文摘要",
+    "tags": [
+      "对战地铁",
+      "对手生成",
+      "漫游宝可梦",
+      "不定消费",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "对战地铁乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "对战地铁乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。正文有多次历史追加和更正；最初的不定消费描述应结合后文阅读。实测发现条件关联，但漫游位置等处理仍有未解释部分，不把全部历史猜测写成定论。",
+    "related_sources": [
+      "ja-saki-subway-tool-2013",
+      "ja-saki-subway-doubles-2016"
+    ]
+  },
+  {
+    "id": "ja-saki-subway-tool-2013",
+    "title": "BW／BW2 对战地铁辅助工具：从已知 Seed 预测对手",
+    "original_title": "バトルサブウェイ乱数補助ツール",
+    "author": "さき",
+    "date": "2013-03-02",
+    "url": "https://xxsakixx.com/archives/54407511.html",
+    "summary": "根据输入 Seed、轮次、消费数和中断状态显示训练家及队伍结果，支持单打和双打。文中说明存档指针与对战盒消费的输入，以及 BW／BW2 Offset 的差异。",
+    "evidence": "历史工具发布",
+    "status": "中文摘要",
+    "tags": [
+      "对战地铁",
+      "对手预测",
+      "Offset",
+      ".NET Framework 4",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "对战地铁乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "对战地铁乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。这是给定 Seed 的结果查看器，没有 Seed 搜索功能；多人模式未验证，存在特定选项组合冻结的说明。需要 .NET Framework 4，历史文件未下载执行。",
+    "related_sources": [
+      "ja-saki-subway-generation-2013",
+      "ja-saki-subway-doubles-2016"
+    ]
+  },
+  {
+    "id": "ja-saki-sm-stationary-research-2017",
+    "title": "SM 固定遭遇早期研究：SFMT、QR 指针与眨眼消费",
+    "original_title": "サンムーン固定乱数仕組み",
+    "author": "さき",
+    "date": "2017-01-15",
+    "url": "https://xxsakixx.com/archives/55579090.html",
+    "summary": "记录通过 QR 界面指针的模 17 结果识别 SFMT 状态，并研究卡璞系列保底 3V 的重复抽取、剩余个体值与性格决定，以及主人公眨眼造成的消费。",
+    "evidence": "早期实机实验与机制研究",
+    "status": "中文摘要",
+    "tags": [
+      "SFMT",
+      "QR指针",
+      "眨眼",
+      "保底3V",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "初期Seed与校准"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。属于 2017 年早期调查，正文保留后续更正及未确认项，不据此扩展为完整 USUM 流程。所引 Smogon SFMT 讨论本次读取返回 403，未独立核对其中源码。",
+    "related_sources": [
+      "sm-stationary-2017",
+      "en-3dsrngtool-overview"
+    ]
+  },
+  {
+    "id": "ja-buster-hgss-rta-video-2017",
+    "title": "HGSS 赤红击破 RTA：雷公路线的历史视频介绍",
+    "original_title": "HGSS レッド撃破RTA ライコウチャート解説動画",
+    "author": "buster_poke",
+    "date": "2017-12-03",
+    "url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107",
+    "summary": "介绍借助 RNG 优化赤红击破速通的 NicoNico 视频系列，同时涉及大师球彩票、火球鼠、野生遭遇、步数和雷公的个体与遇敌调整。正文说明前两部分含 RNG 基础解释。",
+    "evidence": "历史视频系列介绍",
+    "status": "中文摘要",
+    "tags": [
+      "RTA",
+      "雷公",
+      "ID彩票",
+      "NicoNico",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "战斗乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "漫游乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。迁移后的介绍文章可读；按图文资料收录，不作为 YouTube 视频计数。未逐段观看视频，不能声称已恢复完整操作路线或确认系列现已完结。",
+    "related_sources": [
+      "ja-buster-hgss-raikou-rta-2014",
+      "ja-buster-rng-use-cases-2016"
+    ]
+  },
+  {
+    "id": "ja-buster-frlg-rta-tool-2016",
+    "title": "Assist for FRLGRTARNG：用 TID 预测初始伙伴个体",
+    "original_title": "Assist for FRLGRTARNG",
+    "author": "buster_poke",
+    "date": "2016-05-03",
+    "url": "https://buster-poke.hatenablog.com/entry/20160503/1462285380",
+    "summary": "原版 FRLG 新游戏在训练家名称确定后，以 TID 为初始状态推进 RNG。Excel 辅助工具输入伙伴种类和 TID 后输出个体列表，并说明确认选择后的消息中按 A 决定个体的触发位置。",
+    "evidence": "历史工具发布与机制说明",
+    "status": "中文摘要",
+    "tags": [
+      "FRLGRTARNG",
+      "TID",
+      "初始伙伴",
+      "Excel",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "火红／叶绿",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。处理的是 TID 确定后的序列，不是 TID 自身生成机制。工具与嵌入视频未运行验证，Axfc 历史下载地址不代表当前可用；未验证 Switch 版的时序。",
+    "related_sources": [
+      "ja-buster-emerald-rta-tool-2016",
+      "en-billo-frlg-switch-id"
+    ]
+  },
+  {
+    "id": "ja-buster-emerald-rta-tool-2016",
+    "title": "Assist for EmRTARNG：绿宝石速通的初始伙伴辅助工具",
+    "original_title": "Assist for EmRTARNG",
+    "author": "buster_poke",
+    "date": "2016-05-15",
+    "url": "https://buster-poke.hatenablog.com/entry/20160515/1463316154",
+    "summary": "发布辅助绿宝石速通中初始伙伴 RNG 的工具，并将详细操作说明指向 Assist for FRLGRTARNG。页面保留原下载地址、密钥与嵌入演示入口。",
+    "evidence": "历史工具发布",
+    "status": "中文摘要",
+    "tags": [
+      "EmRTARNG",
+      "RTA",
+      "初始伙伴",
+      "历史工具",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "绿宝石",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。正文是简短发布说明；未下载运行程序或逐段核对视频。不能因为两款工具界面与用途接近，就推定绿宝石与 FRLG 的 Seed 初始化相同。",
+    "related_sources": [
+      "ja-buster-frlg-rta-tool-2016",
+      "video-emerald-starter-sid"
+    ]
+  },
+  {
+    "id": "ja-saki-cute-charm-captures-2012",
+    "title": "白金迷人之躯：TID 00000／SID 00010 的闪光捕获记录",
+    "original_title": "メロメロボディを利用した野生乱数",
+    "author": "さき",
+    "date": "2012-01-05",
+    "url": "https://xxsakixx.com/archives/53534407.html",
+    "summary": "作者在白金调整 TID 00000、SID 00010，以雄性迷人之躯皮可西为队首，记录胆小 6V 雌性席多蓝恩、爽朗蘑蘑菇及圆陆鲨的 Seed 和消费数，展示特殊 PID 生成的实际用途。",
+    "evidence": "实机成功与参数记录",
+    "status": "中文摘要",
+    "tags": [
+      "迷人之躯",
+      "特殊PID",
+      "TID 00000",
+      "闪光",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "定点乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。实测仅注明白金，不把这些帧数直接推广到 HGSS。正文提供 Smogon 原始研究引用，本次未复核该指定楼层的完整内容。",
+    "related_sources": [
+      "ja-saki-cute-charm-tool-2012",
+      "en-smogon-cute-charm-radar",
+      "ja-saki-gen4-id-desktop-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-cute-charm-tool-2012",
+    "title": "DPt／HGSS 迷人之躯工具：按性别比例搜索个体",
+    "original_title": "メロメロボディ乱数用ツール",
+    "author": "さき",
+    "date": "2012-02-14",
+    "url": "https://xxsakixx.com/archives/53673183.html",
+    "summary": "历史工具根据个体值、性格、特性、队首性别、目标性别比例、遭遇槽与等级判定搜索初始 Seed 和消费范围。支持选择 DPt 或 HGSS，并与实机捕获案例关联。",
+    "evidence": "历史工具发布",
+    "status": "中文摘要",
+    "tags": [
+      "迷人之躯",
+      "性别比例",
+      "PID",
+      "历史工具",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "迷人之躯乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "tool",
+    "review_notes": "2026-10-26 核对原始来源。需要 .NET Framework 4，正文说明不提供列表显示。历史下载文件与程序均未验证，不能标记为当前可下载运行。",
+    "related_sources": [
+      "ja-saki-cute-charm-captures-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-bw2-shiny-haxorus-2012",
+    "title": "BW2 自然保护区闪光双斧战龙：三次消费与特殊 PID",
+    "original_title": "自然保護区の色オノノクス乱数",
+    "author": "さき",
+    "date": "2012-06-30",
+    "url": "https://xxsakixx.com/archives/53987961.html",
+    "summary": "以聒噪鸟音高测量生成前后的消费，在固定 Seed 下比较十组位置，发现同步与性格符合普通列表，特性却可能不同。作者据此调查固定闪光个体的特殊 PID 处理。",
+    "evidence": "实机测量与候选机制",
+    "status": "中文摘要",
+    "tags": [
+      "双斧战龙",
+      "固定闪光",
+      "PID",
+      "聒噪鸟",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "定点乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。三次消费的用途及 HID = TID xor SID xor LID xor 1 关系属于本文提出的解释；本文不足以独立证明完整生成流程。",
+    "related_sources": [
+      "retail-bw-sid",
+      "en-smogon-bw-pid"
+    ]
+  },
+  {
+    "id": "ja-saki-dream-radar-advances-2012",
+    "title": "梦境雷达：不同类别与传送顺序的性格决定位置",
+    "original_title": "ARサーチャー乱数の消費数",
+    "author": "さき",
+    "date": "2012-07-07",
+    "url": "https://xxsakixx.com/archives/54005950.html",
+    "summary": "通过存档指针确认 RNG 位置，记录传说类、灵兽三云神及普通个体的性格消费差异。第一只普通个体有无性别对应基准后第 6／5 次，之后分别比上一只再推进 5／4 次。",
+    "evidence": "实机消费测量",
+    "status": "中文摘要",
+    "tags": [
+      "梦境雷达",
+      "性格",
+      "传送顺序",
+      "性别",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "宝可梦梦境雷达",
+        "梦境雷达乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "梦境雷达乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者未测试帕路奇亚，且没有完整验证 PID 算法；本文是消费位置研究，不能补写为全部个体生成机制。",
+    "related_sources": [
+      "en-dream-radar-generation",
+      "devon-dream-radar"
+    ]
+  },
+  {
+    "id": "ja-saki-hgss-safari-slots-2011",
+    "title": "HGSS 狩猎地带：方块配置改变追加物种槽位的假说",
+    "original_title": "サファリゾーン追加ポケモン出現決定方法予想",
+    "author": "さき",
+    "date": "2011-09-30",
+    "url": "https://xxsakixx.com/archives/52949056.html",
+    "summary": "改变花田区域方块配置，比较利欧路等追加物种的出现位置，推测满足条件的物种会从原遭遇表前方依次填入。保留两组遭遇表与等级，供狩猎地带目标槽位研究参考。",
+    "evidence": "实机观察与作者推测",
+    "status": "中文摘要",
+    "tags": [
+      "狩猎地带",
+      "方块",
+      "遭遇槽",
+      "假说",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "狩猎地带乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。标题和正文均明确是预测，不能写成完整已证实算法；所引更早期遭遇表的完整引用链尚未复核。",
+    "related_sources": [
+      "ja-saki-gen4-replacement-slots-2012"
+    ]
+  },
+  {
+    "id": "ja-saki-bw-double-grass-2012",
+    "title": "BW 浓草丛双重遭遇：左右个体与道具的处理顺序",
+    "original_title": "BW濃い草むらにおけるダブルバトルについて",
+    "author": "さき",
+    "date": "2012-03-29",
+    "url": "https://xxsakixx.com/archives/53749966.html",
+    "summary": "整理同步、双打判定、左右遭遇槽，以及两只个体的 PID、性格与道具生成顺序；没有可持道具时会跳过相应调用，用于理解普通野生列表为何发生消费偏移。",
+    "evidence": "历史研究整理",
+    "status": "中文摘要",
+    "tags": [
+      "浓草丛",
+      "双重遭遇",
+      "同步",
+      "携带道具",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者说明主要整理自 Smogon，部分语义及同步是否同时作用两只仍保留不确定性；本站未独立验证原始讨论或实机流程。",
+    "related_sources": [
+      "ja-saki-bw-water-swarm-2011"
+    ]
+  },
+  {
+    "id": "ja-buster-xd-zangoose-2014",
+    "title": "XD 暗影猫鼬斩：首次决定个体与百万级不定消费",
+    "original_title": "ＸＤ乱数　ザングース検証",
+    "author": "buster_poke",
+    "date": "2014-05-28",
+    "url": "https://buster-poke.hatenablog.com/entry/20140528/1401357016",
+    "summary": "猫鼬斩在首次战斗决定个体，却要到后续战斗才能捕获。作者先定位 Seed、推进剧情后捕获反查，五组结果约为 106.7～109.7 万次消费，差异使当时的调整难以稳定。",
+    "evidence": "五组实机观测",
+    "status": "中文摘要",
+    "tags": [
+      "猫鼬斩",
+      "生成时机",
+      "不定消费",
+      "Seed反查",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "暗黑宝可梦乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "XD 暗之旋风",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。保留实验失败及样本量限制；作者没有建立解释差异的完整模型，不能据此宣称数学上不可预测。"
+  },
+  {
+    "id": "ja-buster-wishmkr-checksum-tips-2014",
+    "title": "WISHMKR 基拉祈：固定游戏状态以稳定存档校验和",
+    "original_title": "ＲＳ乱数　チェックサム乱数のコツ",
+    "author": "buster_poke",
+    "date": "2014-04-30",
+    "url": "https://buster-poke.hatenablog.com/entry/20140430/1398849182",
+    "summary": "讨论菜单边框、按钮模式、野生遭遇物种与次数、战斗耗时及最终存档时机对校验和调整的影响。通过固定操作流程减少偏移，补充原校验和工具之外的实机经验。",
+    "evidence": "实机操作经验",
+    "status": "中文摘要",
+    "tags": [
+      "WISHMKR",
+      "校验和",
+      "存档",
+      "时序稳定",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。约 ±3 帧是作者经验描述，不是大样本成功率。原 GeoCities 工具未恢复，本文不作为当前可运行工具说明。",
+    "related_sources": [
+      "ja-error-wishmkr-checksum-2026",
+      "devon-wishmaker-jirachi",
+      "video-wishmkr-checksum-demo"
+    ]
+  },
+  {
+    "id": "ja-buster-colosseum-german-entei-2015",
+    "title": "德版圆形竞技场：闪光固执 5V 炎帝与地区消费差异",
+    "original_title": "コロシアム乱数　ドイツ色意地５Ｖエンテイ",
+    "author": "buster_poke",
+    "date": "2015-02-05",
+    "url": "https://buster-poke.hatenablog.com/entry/20150205/1423149240",
+    "summary": "报告 ID 调整和固执 31-31-31-10-31-31 炎帝的成功记录。作者按双打每秒约 2450 次、更改震动设置每次 20 次计算推进，并提醒欧洲版本与日版参数不同。",
+    "evidence": "实机成功与版本差异观察",
+    "status": "中文摘要",
+    "tags": [
+      "德版",
+      "炎帝",
+      "高速消费",
+      "地区差异",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "暗黑宝可梦乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场",
+        "初期Seed与校准"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。2450 次／秒是作者采用的经验计算参数；强制消费亦报告过差异，不能当作所有欧洲版本与操作下恒定的推进速率。日期保留原站日本时间 2015-02-05。",
+    "related_sources": [
+      "devon-colosseum-pandoras-box"
+    ]
+  },
+  {
+    "id": "ja-buster-hgss-raikou-rta-2014",
+    "title": "HGSS 雷公速通：同时规划彩票、初始伙伴和漫游位置",
+    "original_title": "ＨＧＳＳＲＴＡ　ライコウチャートにおける乱数調整の概要",
+    "author": "buster_poke",
+    "date": "2014-10-20",
+    "url": "https://buster-poke.hatenablog.com/entry/20141020/1413809768",
+    "summary": "通过两次 RNG 调整整合大师球彩票 ID、初始伙伴个体、雷公个体和 38 号道路漫游位置，并选择白天时间避开路线中的警察。记录逐一实测候选 Seed 以应对若叶镇 NPC 消费。",
+    "evidence": "Seed 搜索与路线准备记录",
+    "status": "中文摘要",
+    "tags": [
+      "RTA",
+      "雷公",
+      "ID彩票",
+      "多目标搜索",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "初始伙伴乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "漫游乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "战斗乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。本文是路线设计与准备说明，不独立证明完整通关成绩。引用的「焼けた塔くん」旧入口未验证为目前可运行工具。",
+    "related_sources": [
+      "ja-buster-hgss-rta-video-2017",
+      "ja-saki-hgss-lati-npc-2014"
+    ]
+  },
+  {
+    "id": "ja-saki-bw-roamer-regeneration-2011",
+    "title": "BW 漫游雷电云：击倒后在殿堂登入时重新决定个体",
+    "original_title": "徘徊済みボルトロス乱数調整",
+    "author": "さき",
+    "date": "2011-11-09",
+    "url": "https://xxsakixx.com/archives/53233509.html",
+    "summary": "以日版白测试击倒雷电云后的重新生成，通过聒噪鸟与固定阿戴克战斗时序控制 RNG。保留 Seed BBE15F54D5A4ECED、约 192 秒战斗计时及偏差观测。",
+    "evidence": "实机尝试与消费测量",
+    "status": "中文摘要",
+    "tags": [
+      "雷电云",
+      "殿堂登入",
+      "战斗消费",
+      "重新生成",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "漫游乱数"
+      ],
+      [
+        "实机",
+        "第五世代",
+        "黑／白",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。作者正文明确尚未命中目标；评论中的成功为读者反馈，未独立复核。龙卷云适用性只是作者推测，不将失败记录写成成功案例。",
+    "related_sources": [
+      "video-bw-roamer-weather"
+    ]
+  },
+  {
+    "id": "ja-error-wishmkr-checksum-2026",
+    "title": "WISHMKR 基拉祈：16 位校验和、闪光候选与实机调整",
+    "original_title": "WISHMKRジラーチの厳選は何故困難なのか？",
+    "author": "error_astray",
+    "date": "2026-08-19",
+    "url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319",
+    "summary": "说明 WISHMKR 的生成 Seed 取自 RS 存档校验和，只有 65536 个候选，其中九个产生闪光。整理 ID、游戏时间、已遇物种和菜单设置的影响，并给出实机校准流程及旧工具存档线索。",
+    "evidence": "机制整理、工具计算与实机经验",
+    "status": "中文摘要",
+    "tags": [
+      "WISHMKR",
+      "校验和",
+      "16位Seed",
+      "历史工具",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "红宝石／蓝宝石",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。2026-08-19 是原文发表日期，不是本次收录日期；部分校验和关系来自工具观察和作者推测。未验证 rschecksum 存档 ZIP 可下载，也未运行 RubySapphireChecksumCalculator；不采用与本主题无关的服务状态陈述。",
+    "related_sources": [
+      "ja-buster-wishmkr-checksum-tips-2014",
+      "devon-wishmaker-jirachi",
+      "video-wishmkr-checksum-demo"
+    ]
+  },
+  {
+    "id": "ja-saki-gen4-replacement-slots-2012",
+    "title": "第四世代野生遭遇槽：大量出现、时间段与双卡槽替换",
+    "original_title": "入れ替えデータのスロットについて",
+    "author": "さき",
+    "date": "2012-01-17",
+    "url": "https://xxsakixx.com/archives/53574037.html",
+    "summary": "整理 DPt 基础槽位 0～11 与大量出现、昼夜、宝可追踪器及 GBA 双卡槽数据的对应关系，也说明大湿地与自豪的后院的替换位置，为指定目标遭遇槽提供索引。",
+    "evidence": "遭遇表整理与部分验证",
+    "status": "中文摘要",
+    "tags": [
+      "遭遇槽",
+      "大量出现",
+      "昼夜",
+      "双卡槽",
+      "Blastoise-X资料挖掘"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "野生乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "宝可追踪乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "野生乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-26 核对原始来源。正文以引用的遭遇表为准，HGSS 大量出现的部分槽位仍属作者推测，仅注明已确认的冲浪观察；不把 DPt 的完整映射直接推广至 HGSS。",
+    "related_sources": [
+      "ja-saki-dpt-pokeradar-mechanics-2011",
+      "ja-saki-hgss-safari-slots-2011"
+    ]
   }
 ]

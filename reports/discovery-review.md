@@ -2,9 +2,11 @@
 
 抓取时间（UTC）：2026-10-25T04:43:09+00:00
 
+> 2026-10-26 人工同步：本次新增 40 条正式资料，已从下方候选清单移除 8 条已收录记录（含旧链接别名）。[查看同步核对说明](blastoise-sync-2026-10-26.md)。请求量、正文基线与失败信息仍为上次自动抓取的快照；本次未进行一次完整自动巡检。
+
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：368；待审原文变化：1。
+- 待审新来源：360；待审原文变化：1。
 - 已收录 Hatena 原文：44；已有正文基线：44。首次基线不算修订。
 - 其他 304 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
 - 本次请求：131/180；获取或解析失败：6。
@@ -80,15 +82,6 @@
 - 首次发现：2026-10-25；来源博客：buster-poke.hatenablog.com。
 - 发现依据：blog-archive · https://buster-poke.hatenablog.com/archive?page=4。
 - 原文发表元数据：2014-10-22T23:21:43+09:00；原站更新时间：2014-10-22T14:21:43+09:00。
-- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
-
-### ＨＧＳＳＲＴＡ ライコウチャートにおける乱数調整の概要
-
-[原文](<https://buster-poke.hatenablog.com/entry/20141020/1413809768>)
-
-- 首次发现：2026-10-25；来源博客：buster-poke.hatenablog.com。
-- 发现依据：blog-archive · https://buster-poke.hatenablog.com/archive?page=4。
-- 原文发表元数据：2014-10-20T21:56:08+09:00；原站更新时间：2014-10-20T12:56:08+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### ポケモン BW2 ライブキャスターを使用した固定乱数(5genSearch使用版)
@@ -396,33 +389,6 @@
 - 发现依据：blog-archive · https://oupo.hatenadiary.com/archive?page=4。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
-
-### http://d.hatena.ne.jp/buster_poke/20160503
-
-[原文](<https://d.hatena.ne.jp/buster_poke/20160503>)
-
-- 首次发现：2026-10-21；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://buster-poke.hatenablog.com/entry/20160515/1463316154。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
-### Assist for EmRTARNG
-
-[原文](<https://buster-poke.hatenablog.com/entry/20160515/1463316154>)
-
-- 首次发现：2026-10-21；来源博客：buster-poke.hatenablog.com。
-- 发现依据：blog-archive · https://buster-poke.hatenablog.com/archive?page=3。
-- 原文发表元数据：2016-05-15T21:42:34+09:00；原站更新时间：2016-05-15T12:42:34+09:00。
-- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
-
-### Assist for FRLGRTARNG
-
-[原文](<https://buster-poke.hatenablog.com/entry/20160503/1462285380>)
-
-- 首次发现：2026-10-21；来源博客：buster-poke.hatenablog.com。
-- 发现依据：blog-archive · https://buster-poke.hatenablog.com/archive?page=3。
-- 原文发表元数据：2016-05-03T23:23:00+09:00；原站更新时间：2016-05-03T14:23:00+09:00。
-- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### Sapphire Speedrun の乱数調整に関して
 
@@ -820,15 +786,6 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### http://d.hatena.ne.jp/buster_poke/20140611
-
-[原文](<https://d.hatena.ne.jp/buster_poke/20140611>)
-
-- 首次发现：2026-10-18；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://buster-poke.hatenablog.com/entry/20161217/1481635116。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
 ### http://d.hatena.ne.jp/buster_poke/20140518
 
 [原文](<https://d.hatena.ne.jp/buster_poke/20140518>)
@@ -872,15 +829,6 @@
 - 首次发现：2026-10-18；来源博客：d.hatena.ne.jp。
 - 发现依据：article-reference · https://fuchiaz.hatenadiary.org/entry/20110527/1306552986。
 - 原文发表元数据：2011-07-23T03:00:07+09:00；原站更新时间：2011-07-22T18:00:07+09:00。
-- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
-
-### ポケモンにおける乱数調整の実用例
-
-[原文](<https://buster-poke.hatenablog.com/entry/20161217/1481635116>)
-
-- 首次发现：2026-10-18；来源博客：buster-poke.hatenablog.com。
-- 发现依据：blog-archive · https://buster-poke.hatenablog.com/archive?page=2。
-- 原文发表元数据：2016-12-17T22:18:36+09:00；原站更新时间：2016-12-17T13:18:36+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### MacでSM孵化乱数ツールを動かす（１２月４日追記）
@@ -1369,24 +1317,6 @@
 - 首次发现：2026-10-16；来源博客：prie0908.hatenadiary.com。
 - 发现依据：bookmark-search · https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on; blog-feed · https://prie0908.hatenadiary.com/feed; blog-archive · https://prie0908.hatenadiary.com/archive?page=1。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
-### 第5世代でペラップの鳴き声だけから64bit LCGのseedを見つける
-
-[原文](<https://oupo.hatenadiary.com/entry/2020/09/04/145245>)
-
-- 首次发现：2026-10-16；来源博客：oupo.hatenadiary.com。
-- 发现依据：blog-feed · https://oupo.hatenadiary.com/feed; blog-archive · https://oupo.hatenadiary.com/archive?page=1; blog-archive · https://oupo.hatenadiary.com/archive?page=2; blog-feed · https://d.hatena.ne.jp/oupo/rss; blog-archive · https://oupo.hatenadiary.com/archive?page=3; blog-archive · https://oupo.hatenadiary.com/archive?page=4; blog-archive · https://oupo.hatenadiary.com/archive?page=5。
-- 原文发表元数据：2020-09-04T14:52:45+09:00；原站更新时间：2020-09-04T05:52:45+09:00。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
-### くじ番号から裏ID ローカル検索バージョン
-
-[原文](<https://oupo.hatenadiary.com/entry/20171222/1513931635>)
-
-- 首次发现：2026-10-16；来源博客：oupo.hatenadiary.com。
-- 发现依据：blog-feed · https://oupo.hatenadiary.com/feed; blog-archive · https://oupo.hatenadiary.com/archive?page=1; blog-feed · https://d.hatena.ne.jp/oupo/rss。
-- 原文发表元数据：2017-12-22T17:33:55+09:00；原站更新时间：2017-12-22T08:33:55+09:00。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
 ### 64bit LCGの検索

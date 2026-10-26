@@ -33,11 +33,13 @@
         "url": "https://buster-poke.hatenablog.com/archive?page=4"
       }
     ],
-    "review_status": "pending",
-    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-25T04:43:09+00:00",
     "verified_at": "2026-10-25T04:43:09+00:00",
-    "final_url": "https://buster-poke.hatenablog.com/entry/20141020/1413809768"
+    "final_url": "https://buster-poke.hatenablog.com/entry/20141020/1413809768",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20141020/1413809768"
   },
   {
     "title": "ポケモン BW2 ライブキャスターを使用した固定乱数(5genSearch使用版)",
@@ -873,13 +875,16 @@
         "url": "https://buster-poke.hatenablog.com/entry/20160515/1463316154"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-22T04:48:55+00:00",
     "last_error": {
       "at": "2026-10-22T04:48:55+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20160503/1462285380",
+    "duplicate_of": "https://buster-poke.hatenablog.com/entry/20160503/1462285380"
   },
   {
     "title": "Assist for EmRTARNG",
@@ -895,11 +900,13 @@
         "url": "https://buster-poke.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-21T04:50:08+00:00",
     "verified_at": "2026-10-21T04:50:08+00:00",
-    "final_url": "https://buster-poke.hatenablog.com/entry/20160515/1463316154"
+    "final_url": "https://buster-poke.hatenablog.com/entry/20160515/1463316154",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20160515/1463316154"
   },
   {
     "title": "Assist for FRLGRTARNG",
@@ -915,11 +922,13 @@
         "url": "https://buster-poke.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-21T04:50:08+00:00",
     "verified_at": "2026-10-21T04:50:08+00:00",
-    "final_url": "https://buster-poke.hatenablog.com/entry/20160503/1462285380"
+    "final_url": "https://buster-poke.hatenablog.com/entry/20160503/1462285380",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20160503/1462285380"
   },
   {
     "title": "Sapphire Speedrun の乱数調整に関して",
@@ -1742,13 +1751,16 @@
         "url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-22T04:48:55+00:00",
     "last_error": {
       "at": "2026-10-22T04:48:55+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20140611/1402506714",
+    "duplicate_of": "https://buster-poke.hatenablog.com/entry/20140611/1402506714"
   },
   {
     "title": "http://d.hatena.ne.jp/buster_poke/20140518",
@@ -1874,11 +1886,13 @@
         "url": "https://buster-poke.hatenablog.com/archive?page=2"
       }
     ],
-    "review_status": "pending",
-    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
     "last_attempt_at": "2026-10-18T04:36:02+00:00",
     "verified_at": "2026-10-18T04:36:02+00:00",
-    "final_url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116"
+    "final_url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://buster-poke.hatenablog.com/entry/20161217/1481635116"
   },
   {
     "title": "MacでSM孵化乱数ツールを動かす（１２月４日追記）",
@@ -3086,8 +3100,10 @@
         "url": "https://oupo.hatenadiary.com/archive?page=5"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://oupo.hatenadiary.com/entry/2020/09/04/145245"
   },
   {
     "title": "くじ番号から裏ID ローカル検索バージョン",
@@ -3111,8 +3127,10 @@
         "url": "https://d.hatena.ne.jp/oupo/rss"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-26 人工核对并正式收录；历史工具与未验证项见资料卡。",
+    "reviewed_on": "2026-10-26",
+    "review_note": "已核对原文、作者、日期和适用条件，加入本次资料库同步。规范来源：https://oupo.hatenadiary.com/entry/20171222/1513931635"
   },
   {
     "title": "64bit LCGの検索",

@@ -130,7 +130,9 @@ Devon Studios 的作者与发表日期按官网文章元数据核对；其部分
 
 ## 当前范围
 
-当前 **348 条来源资料：日文 64 条、英文 205 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖红蓝黄、日版 N64 竞技场2、金银／水晶、红蓝宝石、绿宝石、GBA 与 Switch 版 FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+当前 **388 条来源资料：日文 104 条、英文 205 条、意大利语 79 条**，已包含第一至第九世代的代表性资料。覆盖红蓝黄、日版 N64 竞技场2、金银／水晶、红蓝宝石、绿宝石、GBA 与 Switch 版 FRLG、Pokémon BOX RS、Pokémon Channel、圆形竞技场及 Bonus Disc、XD、DPt、HGSS、BW／BW2、白森林、梦境雷达、XY／ORAS、SM／USUM、虚拟控制台传送、Let's Go、剑盾、BDSP、传说 阿尔宙斯及朱紫等游戏与场景。
+
+2026-10-26：同步「Blastoise-X RNG 资料挖掘」对话 10 月 21–26 日的研究成果，核对原始来源后新增 **40 条日文资料**（29 份图文研究／指南、11 份工具或源码说明），全站共 **388 条**。补充聒噪鸟 64 位 Seed 恢复、第四世代彩票 SID、BW2 孵化、对战地铁、迷人之躯、FRLG／绿宝石速通工具、GameCube 和 WISHMKR 校验和研究，并建立配套互链。活动日期不代替未注明的发表日期，历史停用、推测、失败实验与未运行工具分别说明；通用谜题及受限原始讨论留作补充线索。[同步核对说明](reports/blastoise-sync-2026-10-26.md)列出全部收录与保留项；网站搜索“Blastoise-X资料挖掘”可筛选本次 40 条。新增两处 Hatena Feed 入口，新收录 Hatena 正文将在后续巡检首次成功读取时建立基线；さき等非 Hatena 原文仍为人工核对。
 
 2026-10-16：新增 **96 条来源**（英文 84 条、日文 12 条），包括 **75 支 YouTube 视频、14 份图文指南、7 份工具说明**，全站共 348 条、其中视频 93 条。补充早期世代 DV／状况复现、GBA 与 Switch 版 FRLG、GameCube Poké Spot／基拉祈、梦境雷达、第六／七世代钓鱼与特殊遭遇、BDSP 和道具打印机。新增 Retail Pokémon RNG 的实机指南、夜綱原作者工具页和 Scrapbox 操作说明，以及 EonTimer、FlowTimer、GC RNG Assistant、Offset Calculator 与 Auto Controller 2；视频、工具与图文互链。核对日期、硬件／破解／模拟器／ACE 条件及历史工具限制；未新增 PokemonRNG.com 来源。
 
