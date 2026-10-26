@@ -1,5 +1,327 @@
 [
   {
+    "title": "ペラップの鳴き声からseedを特定するツールを作った - oupoの日記",
+    "url": "https://oupo.hatenadiary.com/entry/20171208/1512658868",
+    "source": "oupo.hatenadiary.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/2020/09/04/145245"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "DDJC",
+    "url": "https://mahodoriproject.hatenablog.com/entry/___________________________________",
+    "source": "mahodoriproject.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "https://eunopia.hatenadiary.org/entry/20090912",
+    "url": "https://eunopia.hatenadiary.org/entry/20090912",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "https://eunopia.hatenadiary.org/entry/20090430",
+    "url": "https://eunopia.hatenadiary.org/entry/20090430",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "https://eunopia.hatenadiary.org/entry/20081127",
+    "url": "https://eunopia.hatenadiary.org/entry/20081127",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "https://eunopia.hatenadiary.org/entry/20081125",
+    "url": "https://eunopia.hatenadiary.org/entry/20081125",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ポケモンの乱数調整の歴史",
+    "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2026-05-04T12:00:00+09:00",
+    "source_updated_raw": "2026-05-06T01:10:26+09:00",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://error-astray.hatenablog.com/feed"
+      },
+      {
+        "channel": "blog-archive",
+        "url": "https://error-astray.hatenablog.com/archive?page=1"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+  },
+  {
+    "title": "https://error-astray.hatenablog.com/entry/20090305",
+    "url": "https://error-astray.hatenablog.com/entry/20090305",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "https://error-astray.hatenablog.com/entry/20081217/p1",
+    "url": "https://error-astray.hatenablog.com/entry/20081217/p1",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ジラーチディスク",
+    "url": "https://error-astray.hatenablog.com/entry/20081116",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2008-11-16T00:00:00+09:00",
+    "source_updated_raw": "2008-11-15T15:00:00+09:00",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/20081116"
+  },
+  {
+    "title": "WISHMKR ＆ CHANNELジラーチ乱数完全自動化",
+    "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
+    "source": "dokudenpa.hatenablog.jp",
+    "published_raw": "2025-12-11T23:46:21+09:00",
+    "source_updated_raw": "2026-09-12T00:58:55+09:00",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://dokudenpa.hatenablog.jp/entry/Jirachi"
+  },
+  {
+    "title": "レンタルサーバー代わりに使える",
+    "url": "https://d.hatena.ne.jp/spring_mao/20111218/1324173403",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "くじ番号から裏ID ローカル検索バージョン - oupoの日記",
+    "url": "https://d.hatena.ne.jp/oupo/20171222/1513931635",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "sid-searchを作り直してみた",
+    "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "2012-11-18T21:25:21+09:00",
+    "source_updated_raw": "2012-11-18T12:25:21+09:00",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171222/1513931635"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20121118/1353241521"
+  },
+  {
+    "title": "くじ番号から裏IDを検索するツールを作りました",
+    "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "2010-03-07T09:21:28+09:00",
+    "source_updated_raw": "2010-03-07T00:21:28+09:00",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171222/1513931635"
+      }
+    ],
+    "review_status": "duplicate",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20100307/1267921288",
+    "duplicate_of": "https://oupo.hatenadiary.com/entry/20100307/1267921288"
+  },
+  {
+    "title": "http://d.hatena.ne.jp/buster_poke/20161217",
+    "url": "https://d.hatena.ne.jp/buster_poke/20161217",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "last_error": {
+      "at": "2026-10-26T04:49:00+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    }
+  },
+  {
+    "title": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041",
+    "url": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041",
+    "source": "ayuzak.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-26",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
     "title": "パールＲＴＡにおける乱数調整の検証",
     "url": "https://buster-poke.hatenablog.com/entry/20141022/1413987703",
     "source": "buster-poke.hatenablog.com",
@@ -868,7 +1190,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-21",
-    "last_seen_at": "2026-10-21T04:50:08+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -957,7 +1279,7 @@
     "published_raw": "2022-09-21T21:53:35+09:00",
     "source_updated_raw": "2022-09-21T12:53:35+09:00",
     "discovered_on": "2026-10-21",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -1652,7 +1974,7 @@
     "published_raw": "2023-09-09T09:47:44+09:00",
     "source_updated_raw": "2023-12-21T19:13:03+09:00",
     "discovered_on": "2026-10-20",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1714,9 +2036,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-26T04:49:00+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -1744,7 +2066,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1769,7 +2091,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1791,7 +2113,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1813,7 +2135,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2054,9 +2376,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-26T04:49:00+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -2127,7 +2449,7 @@
     "published_raw": "2021-09-19T18:03:40+09:00",
     "source_updated_raw": "2021-09-19T09:03:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2148,7 +2470,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2182,7 +2504,7 @@
     "published_raw": "2020-07-05T17:14:25+09:00",
     "source_updated_raw": "2020-07-05T08:14:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2203,7 +2525,7 @@
     "published_raw": "2017-11-22T01:08:27+09:00",
     "source_updated_raw": "2017-11-21T16:08:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2228,7 +2550,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2258,7 +2580,7 @@
     "published_raw": "2500-12-31T00:00:00+09:00",
     "source_updated_raw": "2019-04-26T05:36:59+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2295,7 +2617,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2312,7 +2634,7 @@
     "published_raw": "2019-10-15T16:50:13+09:00",
     "source_updated_raw": "2019-10-15T07:50:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2333,7 +2655,7 @@
     "published_raw": "2019-04-23T23:31:37+09:00",
     "source_updated_raw": "2019-04-23T14:31:37+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2354,7 +2676,7 @@
     "published_raw": "2018-10-03T09:58:25+09:00",
     "source_updated_raw": "2018-10-03T00:58:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2375,7 +2697,7 @@
     "published_raw": "2018-10-03T00:32:15+09:00",
     "source_updated_raw": "2018-10-02T15:32:15+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2396,7 +2718,7 @@
     "published_raw": "2018-07-11T01:00:26+09:00",
     "source_updated_raw": "2018-07-10T16:00:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2434,7 +2756,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2455,7 +2777,7 @@
     "published_raw": "2017-01-06T00:57:14+09:00",
     "source_updated_raw": "2017-01-05T15:57:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2476,7 +2798,7 @@
     "published_raw": "2016-12-21T22:59:53+09:00",
     "source_updated_raw": "2016-12-21T13:59:53+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2497,7 +2819,7 @@
     "published_raw": "2016-12-19T23:43:17+09:00",
     "source_updated_raw": "2016-12-19T14:43:17+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2518,7 +2840,7 @@
     "published_raw": "2016-12-18T13:08:27+09:00",
     "source_updated_raw": "2016-12-18T04:08:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2556,7 +2878,7 @@
     "published_raw": "2016-12-17T23:22:01+09:00",
     "source_updated_raw": "2016-12-17T14:22:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2611,7 +2933,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2633,7 +2955,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2651,7 +2973,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2669,7 +2991,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2687,7 +3009,7 @@
     "published_raw": "2026-02-14T00:00:00+09:00",
     "source_updated_raw": "2026-03-26T11:31:06+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2716,7 +3038,7 @@
     "published_raw": "2026-02-05T00:00:00+09:00",
     "source_updated_raw": "2026-08-17T05:16:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2745,7 +3067,7 @@
     "published_raw": "2026-01-25T01:00:00+09:00",
     "source_updated_raw": "2026-05-22T17:14:47+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2774,7 +3096,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2791,7 +3113,7 @@
     "published_raw": "2026-01-04T06:00:00+09:00",
     "source_updated_raw": "2026-02-09T12:22:12+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2812,7 +3134,7 @@
     "published_raw": "2025-12-07T01:00:00+09:00",
     "source_updated_raw": "2026-03-15T14:25:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2833,7 +3155,7 @@
     "published_raw": "2025-11-04T23:00:00+09:00",
     "source_updated_raw": "2026-03-15T14:23:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2854,7 +3176,7 @@
     "published_raw": "2025-10-09T01:00:00+09:00",
     "source_updated_raw": "2026-05-22T17:19:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2875,7 +3197,7 @@
     "published_raw": "2025-09-08T00:00:00+09:00",
     "source_updated_raw": "2026-06-08T13:03:24+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2896,7 +3218,7 @@
     "published_raw": "2022-01-19T23:00:00+09:00",
     "source_updated_raw": "2022-01-19T14:08:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2917,7 +3239,7 @@
     "published_raw": "2022-01-19T21:00:00+09:00",
     "source_updated_raw": "2022-01-19T13:16:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2938,7 +3260,7 @@
     "published_raw": "2021-07-22T15:00:00+09:00",
     "source_updated_raw": "2025-11-28T13:23:17+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2959,7 +3281,7 @@
     "published_raw": "2021-03-07T15:00:00+09:00",
     "source_updated_raw": "2025-12-07T14:42:59+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2980,7 +3302,7 @@
     "published_raw": "2021-02-28T02:00:00+09:00",
     "source_updated_raw": "2026-05-21T01:25:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3001,7 +3323,7 @@
     "published_raw": "2021-02-27T20:00:00+09:00",
     "source_updated_raw": "2021-02-27T11:32:19+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3022,7 +3344,7 @@
     "published_raw": "2021-02-26T19:00:00+09:00",
     "source_updated_raw": "2025-11-28T13:18:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3043,7 +3365,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -3298,7 +3620,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -3333,7 +3655,7 @@
     "published_raw": "2026-03-31T03:42:27+09:00",
     "source_updated_raw": "2026-03-31T03:54:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3370,7 +3692,7 @@
     "published_raw": "2026-01-06T03:20:16+09:00",
     "source_updated_raw": "2026-03-31T03:52:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3399,7 +3721,7 @@
     "published_raw": "2025-12-25T06:42:16+09:00",
     "source_updated_raw": "2026-01-05T03:08:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3420,7 +3742,7 @@
     "published_raw": "2025-12-23T03:53:50+09:00",
     "source_updated_raw": "2026-01-11T23:52:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3441,7 +3763,7 @@
     "published_raw": "2025-12-16T03:45:26+09:00",
     "source_updated_raw": "2025-12-16T03:45:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3462,7 +3784,7 @@
     "published_raw": "2025-11-17T14:24:12+09:00",
     "source_updated_raw": "2026-01-10T01:30:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3483,7 +3805,7 @@
     "published_raw": "2025-05-29T08:16:07+09:00",
     "source_updated_raw": "2025-05-29T18:15:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3504,7 +3826,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4239,7 +4561,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -4261,7 +4583,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5207,7 +5529,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5225,7 +5547,7 @@
     "published_raw": "2024-11-17T00:00:00+09:00",
     "source_updated_raw": "2024-11-18T01:07:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5254,7 +5576,7 @@
     "published_raw": "2024-02-24T00:00:00+09:00",
     "source_updated_raw": "2024-12-26T17:20:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5275,7 +5597,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5301,7 +5623,7 @@
     "published_raw": "2023-12-14T06:08:43+09:00",
     "source_updated_raw": "2024-01-02T01:37:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5322,7 +5644,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5340,7 +5662,7 @@
     "published_raw": "2020-04-01T14:22:23+09:00",
     "source_updated_raw": "2020-04-01T05:22:23+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5353,6 +5675,10 @@
       {
         "channel": "article-reference",
         "url": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://larvesta10.hatenablog.com/entry/2020/02/01/184355"
       }
     ],
     "review_status": "pending",
@@ -5365,7 +5691,7 @@
     "published_raw": "2020-03-03T00:53:18+09:00",
     "source_updated_raw": "2020-03-02T15:53:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5374,10 +5700,17 @@
       {
         "channel": "blog-archive",
         "url": "https://larvesta10.hatenablog.com/archive?page=1"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://larvesta10.hatenablog.com/entry/2020/03/03/005318"
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://larvesta10.hatenablog.com/entry/2020/03/03/005318"
   },
   {
     "title": "【剣盾乱数調整】スマホ1つでやる剣盾レイド乱数調整",
@@ -5386,7 +5719,7 @@
     "published_raw": "2020-02-01T18:43:55+09:00",
     "source_updated_raw": "2020-02-01T09:43:55+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5402,7 +5735,10 @@
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
+    "verified_at": "2026-10-26T04:49:00+00:00",
+    "final_url": "https://larvesta10.hatenablog.com/entry/2020/02/01/184355"
   },
   {
     "title": "八世代乱数調整やりたい",
@@ -5411,7 +5747,7 @@
     "published_raw": "2019-12-07T19:02:36+09:00",
     "source_updated_raw": "2019-12-07T10:02:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5435,7 +5771,7 @@
     "published_raw": "2019-10-10T17:33:39+09:00",
     "source_updated_raw": "2019-10-10T08:33:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5467,7 +5803,7 @@
     "published_raw": "2019-10-04T14:06:01+09:00",
     "source_updated_raw": "2019-10-04T05:06:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5491,7 +5827,7 @@
     "published_raw": "2017-01-18T21:07:35+09:00",
     "source_updated_raw": "2017-01-18T12:07:35+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5527,7 +5863,7 @@
     "published_raw": "2016-12-21T20:23:36+09:00",
     "source_updated_raw": "2016-12-21T11:23:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5560,7 +5896,7 @@
     "published_raw": "2016-12-11T01:14:14+09:00",
     "source_updated_raw": "2016-12-10T16:14:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5588,7 +5924,7 @@
     "published_raw": "2014-04-01T21:33:50+09:00",
     "source_updated_raw": "2014-04-01T12:33:50+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5616,7 +5952,7 @@
     "published_raw": "2024-11-04T12:00:00+09:00",
     "source_updated_raw": "2024-11-04T13:32:37+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5644,7 +5980,7 @@
     "published_raw": "2024-09-09T23:59:00+09:00",
     "source_updated_raw": "2024-09-09T23:59:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5672,7 +6008,7 @@
     "published_raw": "2024-08-26T20:00:00+09:00",
     "source_updated_raw": "2024-08-27T10:13:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5704,7 +6040,7 @@
     "published_raw": "2024-06-04T19:58:02+09:00",
     "source_updated_raw": "2024-06-04T19:58:03+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5776,7 +6112,7 @@
     "published_raw": "2023-12-28T12:53:19+09:00",
     "source_updated_raw": "2023-12-28T12:57:45+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5796,7 +6132,7 @@
     "published_raw": "2023-12-28T12:53:19+09:00",
     "source_updated_raw": "2023-12-28T12:57:45+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5864,7 +6200,7 @@
     "published_raw": "2023-12-07T23:48:21+09:00",
     "source_updated_raw": "2023-12-19T08:29:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5887,7 +6223,7 @@
     "published_raw": "2023-12-04T09:38:43+09:00",
     "source_updated_raw": "2023-12-19T08:29:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5955,7 +6291,7 @@
     "published_raw": "2010-10-01T00:00:00+09:00",
     "source_updated_raw": "2010-09-30T15:00:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5980,7 +6316,7 @@
     "published_raw": "2021-01-02T20:00:00+09:00",
     "source_updated_raw": "2024-03-18T01:49:03+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6009,7 +6345,7 @@
     "published_raw": "2012-01-06T18:45:44+09:00",
     "source_updated_raw": "2012-01-06T09:45:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6037,7 +6373,7 @@
     "published_raw": "2012-01-05T23:43:07+09:00",
     "source_updated_raw": "2012-01-05T14:43:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6065,7 +6401,7 @@
     "published_raw": "2012-01-04T22:14:10+09:00",
     "source_updated_raw": "2012-01-04T13:14:10+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6092,7 +6428,7 @@
     "published_raw": "2011-12-20T03:19:42+09:00",
     "source_updated_raw": "2011-12-19T18:19:42+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6179,7 +6515,7 @@
     "published_raw": "2011-02-11T14:38:20+09:00",
     "source_updated_raw": "2011-02-11T05:38:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6203,7 +6539,7 @@
     "published_raw": "2011-02-07T23:46:20+09:00",
     "source_updated_raw": "2011-02-07T14:46:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6227,7 +6563,7 @@
     "published_raw": "2011-02-06T23:13:52+09:00",
     "source_updated_raw": "2011-02-06T14:13:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6251,7 +6587,7 @@
     "published_raw": "2011-02-04T22:38:34+09:00",
     "source_updated_raw": "2011-02-04T13:38:34+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6279,7 +6615,7 @@
     "published_raw": "2011-01-09T07:13:16+09:00",
     "source_updated_raw": "2011-01-08T22:13:16+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6303,7 +6639,7 @@
     "published_raw": "2021-12-05T21:09:40+09:00",
     "source_updated_raw": "2021-12-05T12:09:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6323,7 +6659,7 @@
     "published_raw": "2024-03-02T17:11:04+09:00",
     "source_updated_raw": "2024-06-13T18:26:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6346,7 +6682,7 @@
     "published_raw": "2024-02-12T18:19:17+09:00",
     "source_updated_raw": "2026-03-24T18:15:35+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6369,7 +6705,7 @@
     "published_raw": "2024-01-11T15:34:47+09:00",
     "source_updated_raw": "2024-03-02T10:54:06+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6392,7 +6728,7 @@
     "published_raw": "2023-12-28T14:00:15+09:00",
     "source_updated_raw": "2024-02-12T15:38:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6415,7 +6751,7 @@
     "published_raw": "2023-12-18T00:00:00+09:00",
     "source_updated_raw": "2024-09-06T09:53:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6438,7 +6774,7 @@
     "published_raw": "2022-12-02T11:08:43+09:00",
     "source_updated_raw": "2024-02-12T15:56:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6557,7 +6893,7 @@
     "published_raw": "2024-11-20T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:55:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6580,7 +6916,7 @@
     "published_raw": "2025-12-05T23:52:15+09:00",
     "source_updated_raw": "2026-09-12T00:58:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6657,7 +6993,7 @@
     "published_raw": "2024-08-05T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6680,7 +7016,7 @@
     "published_raw": "2024-06-28T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:47:23+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6727,7 +7063,7 @@
     "published_raw": "2024-08-13T20:39:24+09:00",
     "source_updated_raw": "2026-09-12T00:52:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6750,7 +7086,7 @@
     "published_raw": "2024-10-17T18:10:07+09:00",
     "source_updated_raw": "2026-09-12T00:54:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6773,7 +7109,7 @@
     "published_raw": "2024-08-06T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:52:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6796,7 +7132,7 @@
     "published_raw": "2024-08-11T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:52:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6820,7 +7156,7 @@
     "published_raw": "2024-08-01T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:38+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6843,7 +7179,7 @@
     "published_raw": "2024-07-30T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:29+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6885,7 +7221,7 @@
     "published_raw": "2024-11-11T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:55:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6967,7 +7303,7 @@
     "published_raw": "2010-05-04T14:05:56+09:00",
     "source_updated_raw": "2010-05-04T05:05:56+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6991,7 +7327,7 @@
     "published_raw": "2010-04-15T08:28:13+09:00",
     "source_updated_raw": "2010-04-14T23:28:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7016,7 +7352,7 @@
     "published_raw": "2010-04-12T23:48:48+09:00",
     "source_updated_raw": "2010-04-12T14:48:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7036,7 +7372,7 @@
     "published_raw": "2013-12-17T23:50:58+09:00",
     "source_updated_raw": "2013-12-17T14:50:58+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7056,7 +7392,7 @@
     "published_raw": "2013-07-25T18:17:14+09:00",
     "source_updated_raw": "2013-07-25T09:17:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7172,9 +7508,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-26T04:49:00+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -7194,9 +7530,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "last_attempt_at": "2026-10-26T04:49:00+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-26T04:49:00+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -7663,7 +7999,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7685,7 +8021,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7727,7 +8063,7 @@
     "published_raw": "2017-12-02T00:00:00+09:00",
     "source_updated_raw": "2017-12-01T15:01:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7736,6 +8072,10 @@
       {
         "channel": "blog-archive",
         "url": "https://blastoise-x.hatenablog.com/archive?page=1"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107"
       }
     ],
     "review_status": "pending",
@@ -7751,7 +8091,7 @@
     "published_raw": "2017-02-10T22:59:31+09:00",
     "source_updated_raw": "2017-02-10T13:59:31+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7799,7 +8139,7 @@
     "published_raw": "2016-12-07T19:09:22+09:00",
     "source_updated_raw": "2016-12-07T10:09:22+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7823,7 +8163,7 @@
     "published_raw": "2016-12-05T22:00:00+09:00",
     "source_updated_raw": "2016-12-05T13:00:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7863,7 +8203,7 @@
     "published_raw": "2017-01-18T12:12:48+09:00",
     "source_updated_raw": "2017-01-18T03:12:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7899,7 +8239,7 @@
     "published_raw": "2017-01-26T20:00:00+09:00",
     "source_updated_raw": "2017-01-26T11:00:41+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7923,7 +8263,7 @@
     "published_raw": "2017-01-30T14:54:05+09:00",
     "source_updated_raw": "2017-01-30T05:54:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7951,7 +8291,7 @@
     "published_raw": "2017-02-05T18:01:07+09:00",
     "source_updated_raw": "2017-02-05T09:01:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7975,7 +8315,7 @@
     "published_raw": "2017-09-02T23:49:02+09:00",
     "source_updated_raw": "2017-09-02T14:49:02+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7999,7 +8339,7 @@
     "published_raw": "2016-12-18T23:31:00+09:00",
     "source_updated_raw": "2016-12-18T14:31:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -8143,11 +8483,15 @@
     "published_raw": "2013-04-03T01:49:51+09:00",
     "source_updated_raw": "2013-04-02T16:49:51+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:33:44+00:00",
+    "last_seen_at": "2026-10-26T04:49:00+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
         "url": "https://blastoise-x.hatenablog.com/entry/enjoy-RNG"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171224/1514041216"
       }
     ],
     "review_status": "pending",

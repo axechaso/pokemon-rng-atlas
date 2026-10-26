@@ -1,4 +1,11 @@
 {
+  "https://ayuzak.hatenadiary.org/": {
+    "name": "ayuzak.hatenadiary.org",
+    "homepage": "https://ayuzak.hatenadiary.org/",
+    "feed": "https://ayuzak.hatenadiary.org/feed",
+    "discovered_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+  },
   "https://blastoise-x.hatenablog.com/": {
     "name": "ろいしんぶろぐ",
     "homepage": "https://blastoise-x.hatenablog.com/",
@@ -63,6 +70,13 @@
     "enabled": false,
     "migrated_to": "https://oupo.hatenadiary.com/"
   },
+  "https://d.hatena.ne.jp/spring_mao/": {
+    "name": "d.hatena.ne.jp",
+    "homepage": "https://d.hatena.ne.jp/spring_mao/",
+    "feed": "https://d.hatena.ne.jp/spring_mao/rss",
+    "discovered_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": "https://d.hatena.ne.jp/oupo/20121118/1353241521"
+  },
   "https://dokudenpa.hatenablog.jp/": {
     "name": "毒電波にご注意を",
     "homepage": "https://dokudenpa.hatenablog.jp/",
@@ -77,12 +91,26 @@
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
   },
+  "https://error-astray.hatenablog.com/": {
+    "name": "えらにっき",
+    "homepage": "https://error-astray.hatenablog.com/",
+    "feed": "https://error-astray.hatenablog.com/feed",
+    "discovered_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": "data/sources.json"
+  },
   "https://eruakudiary.hatenablog.com/": {
     "name": "eruakudiary.hatenablog.com",
     "homepage": "https://eruakudiary.hatenablog.com/",
     "feed": "https://eruakudiary.hatenablog.com/feed",
     "discovered_at": "2026-10-16T06:21:46+00:00",
     "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://eunopia.hatenadiary.org/": {
+    "name": "eunopia.hatenadiary.org",
+    "homepage": "https://eunopia.hatenadiary.org/",
+    "feed": "https://eunopia.hatenadiary.org/feed",
+    "discovered_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
   },
   "https://fuchiaz.hatenadiary.org/": {
     "name": "fuchiaz.hatenadiary.org",
@@ -125,6 +153,13 @@
     "feed": "https://larvesta10.hatenablog.com/feed",
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
+  },
+  "https://mahodoriproject.hatenablog.com/": {
+    "name": "mahodoriproject.hatenablog.com",
+    "homepage": "https://mahodoriproject.hatenablog.com/",
+    "feed": "https://mahodoriproject.hatenablog.com/feed",
+    "discovered_at": "2026-10-26T04:49:00+00:00",
+    "discovered_via": "https://dokudenpa.hatenablog.jp/entry/Jirachi"
   },
   "https://metagross-armor.hatenablog.com/": {
     "name": "metagross-armor.hatenablog.com",

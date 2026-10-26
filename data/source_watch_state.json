@@ -2,7 +2,7 @@
   "version": 1,
   "pages": {
     "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -91,7 +91,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "HGSS捕獲乱数",
         "published_raw": "2014-08-08T20:12:53+09:00",
@@ -177,13 +177,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/2017/01/29/143804": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -346,7 +346,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【USM対応】第7世代固定シンボル乱数調整のすすめ",
         "published_raw": "2017-01-29T14:38:04+09:00",
@@ -506,13 +506,13 @@
           "9df073f82783143e62a24207cd35144fd5ca1e25454f8df431fbdaf6e059438a"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/2017/01/29/143804",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/method": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -623,7 +623,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "第三世代メソッドズレ",
         "published_raw": "2015-02-18T16:23:54+09:00",
@@ -731,13 +731,13 @@
           "cfb86e8423b5c824dc5f379b76429b8f68722f78d28e84d1750c0928969925d8"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/method",
       "etag": "",
       "last_modified": ""
     },
     "https://blastoise-x.hatenablog.com/entry/shiny-egg": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -797,7 +797,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "固定孵化ちょっと応用編",
         "published_raw": "2017-09-26T22:00:00+09:00",
@@ -854,13 +854,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://blastoise-x.hatenablog.com/entry/shiny-egg",
       "etag": "",
       "last_modified": ""
     },
     "https://dokudenpa.hatenablog.jp/entry/CoSeedSorter": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1114,7 +1114,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンコロシアム】汎用乱数自動化プログラム『CoSeedSorter』",
         "published_raw": "2025-12-17T22:28:06+09:00",
@@ -1365,13 +1365,13 @@
           "2e7a4547722b152b984c94577cbd14385e5288338eb9abcd03d1f0e59c7ec508"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://dokudenpa.hatenablog.jp/entry/CoSeedSorter",
       "etag": "",
       "last_modified": ""
     },
     "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1586,7 +1586,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンFRLG】孵化乱数 徹底解説 ＆ 自動化",
         "published_raw": "2024-10-14T23:58:25+09:00",
@@ -1798,13 +1798,13 @@
           "f2e7116a9a63626388c7697fac469e56efdb2c54695365154f87de3915c6e158"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/03/09/183606": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -1877,7 +1877,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "日本版VCクリスタルでTID00000を狙う",
         "published_raw": "2023-03-09T18:36:06+09:00",
@@ -1947,13 +1947,13 @@
           "a4a5687419e01c325997cb61fb35b5791ffaa414cc5e0c9b52fdb57f5a2db415"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/03/09/183606",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/06/29/163847": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2014,7 +2014,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "フレンドサファリ乱数(完全版)",
         "published_raw": "2023-06-29T16:38:47+09:00",
@@ -2072,13 +2072,13 @@
           "455f675364c1ef16e2af30a09a334567ccfbc6045f45d7bffe65911a1a0195f5"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/06/29/163847",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/12/05/000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2244,7 +2244,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "VC青でファイヤーの状況再現をする（色違い・理想個体）",
         "published_raw": "2023-12-05T00:00:00+09:00",
@@ -2407,13 +2407,13 @@
           "5fa22c4a2cb5ca10dcd3760f4c2acf03f6efa8b6ffec5cd9e1f380c74cd0fb6e"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/12/05/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2023/12/08/000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2510,7 +2510,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "実機でのSOS乱数",
         "published_raw": "2023-12-08T00:00:00+09:00",
@@ -2604,13 +2604,13 @@
           "36e9f07763889987a893b1bee695eca121409a52b7964d489b5aa44294b8d813"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2023/12/08/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/01/22/130240": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2647,7 +2647,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "SV戦闘乱数 + 初期の不具合",
         "published_raw": "2024-01-22T13:02:40+09:00",
@@ -2681,13 +2681,13 @@
           "160da1a9e36f61454e10e480c20507adf71d8f11e8f3487082be08ce019b7ccd"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/01/22/130240",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/02/09/223006": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2791,7 +2791,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "六世代乱数の基本的なやり方",
         "published_raw": "2024-02-09T22:30:06+09:00",
@@ -2892,13 +2892,13 @@
           "dc118f1c8e8679b41ca17b56af4fc2341d15d5afd5fa4f0bb1396f4adcf772d5"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/02/09/223006",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/03/18/160641": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -2991,7 +2991,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "BDSPCaptureRNGToolの使い方",
         "published_raw": "2024-03-18T16:06:41+09:00",
@@ -3081,13 +3081,13 @@
           "62d6ba011f8e91036310cbfeed9137c8da730bb8ddcbdd473a532e70a90b5357"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/03/18/160641",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/05/26/141530": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3153,7 +3153,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "進化時瞬きを利用した野生乱数",
         "published_raw": "2024-05-26T14:15:30+09:00",
@@ -3216,13 +3216,13 @@
           "19a5453c64774b7052ead5c0667dbf151b19389f31cb19a5422a471017c10534"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/05/26/141530",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/07/31/072528": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3262,7 +3262,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "すごいにじいろポロック乱数",
         "published_raw": "2024-07-31T07:25:28+09:00",
@@ -3299,13 +3299,13 @@
           "0e73e91467925052379bb0b90b6d18fde7d39a081a8d35d81bc06381650cf348"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/07/31/072528",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/10/03/190716": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3410,7 +3410,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ピカブイ】マスボ乱数",
         "published_raw": "2024-10-03T19:07:16+09:00",
@@ -3512,13 +3512,13 @@
           "96d7e22daa0df146154a293ea35075debd24c94e734c1aa7f9880e912fea4527"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/10/03/190716",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2024/12/04/000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3632,7 +3632,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ポケモンスタジアム２の乱数",
         "published_raw": "2024-12-04T00:00:00+09:00",
@@ -3743,13 +3743,13 @@
           "3cdb354aa76113416536850017e8e98a7f19bdba276a70552653e62574d05417"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2024/12/04/000000",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2025/02/25/193532": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3820,7 +3820,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "BDSP孵化のサイズ調整(CFW無)",
         "published_raw": "2025-02-25T19:35:32+09:00",
@@ -3888,13 +3888,13 @@
           "dbc4974a232e069f5afa462f8caa1c8a7241538118296463af2c73f58f6b5bfd"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2025/02/25/193532",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2026/02/12/193155": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -3976,7 +3976,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "LGPEでのマスボ乱数(ツール使用)",
         "published_raw": "2026-02-12T19:31:55+09:00",
@@ -4055,13 +4055,13 @@
           "865e2422eae5580776be6caa1489ee58d3d7d22540ba83e13f0ee2b0fbb4a149"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2026/02/12/193155",
       "etag": "",
       "last_modified": ""
     },
     "https://e52301147.hatenablog.com/entry/2026/05/10/230342": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4155,7 +4155,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "Yメニューを利用した図鑑ナビ乱数",
         "published_raw": "2026-05-10T23:03:42+09:00",
@@ -4246,13 +4246,13 @@
           "98b0b9e580c537e1fb3ef2d2ec14db95fecfbb48cd120e4f25bd9d429c69fd26"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://e52301147.hatenablog.com/entry/2026/05/10/230342",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2023/12/07/234846": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4388,7 +4388,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモン】3世代環境における対戦個体調達用の乱数調整の解説 ポケモンXD サンダー編",
         "published_raw": "2023-12-07T23:48:46+09:00",
@@ -4521,13 +4521,13 @@
           "0a88706fd7b1e0e237254384bc6be1a62c734c19e357c6caebdd81159d8f9618"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2023/12/07/234846",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2024/09/02/203000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4688,7 +4688,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【エメラルド新規勢向け乱数調整講座 #2】令和から始める！対戦環境を整えるための乱数調整 ダイゴのダンバル編",
         "published_raw": "2024-09-02T20:30:00+09:00",
@@ -4846,13 +4846,13 @@
           "23e4c61bfb121d4db488df427cccf22034c95d221f6ec4adc2ce926dcfa9a1ed"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2024/09/02/203000",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2024/10/29/210000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -4919,7 +4919,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモン3世代】ポケモンボックスRSで受け取れるタマゴを色違いにしたい人のための乱数調整",
         "published_raw": "2024-10-29T21:00:00+09:00",
@@ -4983,13 +4983,13 @@
           "c8ebbed514245d30cbc78f0fb304ef025f37e49cdb97ce8a06df407a68058ce4"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2024/10/29/210000",
       "etag": "",
       "last_modified": ""
     },
     "https://hope3gen.hatenablog.com/entry/2025/09/08/200414": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -5062,7 +5062,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンRS】シナリオ攻略を出来るだけサボりながら絵画seedを利用した乱数調整をする方法",
         "published_raw": "2025-09-08T20:04:14+09:00",
@@ -5132,13 +5132,13 @@
           "5ad623ccae625453a461a7fce09a35f010e2ba67a6e31400899754d83a9e005e"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://hope3gen.hatenablog.com/entry/2025/09/08/200414",
       "etag": "",
       "last_modified": ""
     },
     "https://larvesta10.hatenablog.com/entry/2020/04/01/021029": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -5336,7 +5336,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【剣盾乱数調整】最新ツールとPCでやる剣盾レイド乱数調整",
         "published_raw": "2020-04-01T02:10:29+09:00",
@@ -5531,13 +5531,13 @@
           "87aba7082373eb41c551f5bc551781d69311254915663cf3cdb6fdd290781869"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029",
       "etag": "",
       "last_modified": ""
     },
     "https://larvesta10.hatenablog.com/entry/2021/12/13/204342": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -5805,7 +5805,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【剣盾乱数調整】野生シンボル乱数調整のやり方【色証乱数】",
         "published_raw": "2021-12-13T20:43:42+09:00",
@@ -6070,13 +6070,13 @@
           "e7fcbf4c87e82925809abd5b5d925ad5fc54a3ee573c95fe1d05cb308457131b"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://larvesta10.hatenablog.com/entry/2021/12/13/204342",
       "etag": "",
       "last_modified": ""
     },
     "https://milk4724.hatenablog.com/entry/20220501/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -6542,10 +6542,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260326/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -7143,10 +7147,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260326/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260525/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -7924,10 +7932,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260525/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260620/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -8521,10 +8533,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260703/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -9112,10 +9128,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260703/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260713/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -9875,10 +9895,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260713/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260730/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -10592,10 +10616,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260730/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260816/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -11225,10 +11253,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260816/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260920/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -11674,10 +11706,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260920/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20260922/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -12137,10 +12173,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20260922/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://milk4724.hatenablog.com/entry/20261012/00000000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -12948,10 +12988,14 @@
       "checked_at": "2026-10-25T04:43:09+00:00",
       "final_url": "https://milk4724.hatenablog.com/entry/20261012/00000000",
       "etag": "",
-      "last_modified": ""
+      "last_modified": "",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://namofure.hatenablog.com/entry/2024/12/23/175741": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13140,7 +13184,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンDPt】 トバリゲームコーナーの当たり台を探してみた話",
         "published_raw": "2024-12-23T17:57:41+09:00",
@@ -13326,13 +13370,13 @@
           "3c788b728bfb5fe43596db13eaa33f16f4db2fd7384126b55620db47ea2ae3ac"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://namofure.hatenablog.com/entry/2024/12/23/175741",
       "etag": "",
       "last_modified": ""
     },
     "https://namofure.hatenablog.com/entry/2026/06/26/224206": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13398,7 +13442,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【ポケモンBW2】エンカウント乱数まとめ",
         "published_raw": "2026-06-26T22:42:06+09:00",
@@ -13461,13 +13505,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://namofure.hatenablog.com/entry/2026/06/26/224206",
       "etag": "",
       "last_modified": ""
     },
     "https://oupo.hatenadiary.com/entry/20100415/1271287693": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13507,7 +13551,7 @@
         "media_hashes": []
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ゆびをふるで出た技でseedを特定してみようという試み",
         "published_raw": "2010-04-15T08:28:13+09:00",
@@ -13544,13 +13588,13 @@
         "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "media_hashes": []
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://oupo.hatenadiary.com/entry/20100415/1271287693",
       "etag": "",
       "last_modified": ""
     },
     "https://oupo.hatenadiary.com/entry/2019/05/03/185819": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13588,7 +13632,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "ゲームボーイのポケモンの疑似乱数",
         "published_raw": "2019-05-03T18:58:19+09:00",
@@ -13623,13 +13667,13 @@
           "4765e18a3fb6c5a033e393efc0aab8a60da4acfb59f559c121018fda8eb83789"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://oupo.hatenadiary.com/entry/2019/05/03/185819",
       "etag": "",
       "last_modified": ""
     },
     "https://purely11.hatenablog.com/entry/2026/03/22/190000": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -13738,7 +13782,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "【FRLG】実機GBA版 菱形色A0サンダー 固定乱数＋ブロマイドリボン取得【3世代乱数】",
         "published_raw": "2026-03-22T19:00:00+09:00",
@@ -13844,13 +13888,13 @@
           "6ba6993a2345667388bac491a4dbf0c54a6e5f6448f9e0e234586364ec34b454"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://purely11.hatenablog.com/entry/2026/03/22/190000",
       "etag": "",
       "last_modified": ""
     },
     "https://taiyaki3gen.hatenablog.com/entry/2022/12/12/173741": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:21:46+00:00",
         "extractor": "hatena-entry-v1",
@@ -13896,7 +13940,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "6世代乱数にふしぎなアメが必須ではなくなった",
         "published_raw": "2022-12-12T17:37:41+09:00",
@@ -13939,13 +13983,13 @@
           "cbce6222e2da75b58a3adfc4dd8d7a31d4006b8fb06379617f07448de13b4939"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://taiyaki3gen.hatenablog.com/entry/2022/12/12/173741",
       "etag": "",
       "last_modified": ""
     },
     "https://wasou3721.hatenablog.com/entry/2026/05/17/235553": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "baseline": {
         "observed_at": "2026-10-16T06:16:56+00:00",
         "extractor": "hatena-entry-v1",
@@ -14004,7 +14048,7 @@
         ]
       },
       "latest": {
-        "observed_at": "2026-10-25T04:43:09+00:00",
+        "observed_at": "2026-10-26T04:49:00+00:00",
         "extractor": "hatena-entry-v1",
         "title": "Switch版FRLG乱数 ワンチャン手動でもできるかもしれない臆病めざ草理想サンダー＆ファイヤー",
         "published_raw": "2026-05-17T23:55:53+09:00",
@@ -14060,115 +14104,1778 @@
           "ad62bb180635e6d9db0099b4fac948879250e27fcd36cd530e0d29116caccdd7"
         ]
       },
-      "checked_at": "2026-10-25T04:43:09+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
       "final_url": "https://wasou3721.hatenablog.com/entry/2026/05/17/235553",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20140430/1398849182": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＲＳ乱数 チェックサム乱数のコツ",
+        "published_raw": "2014-04-30T18:13:02+09:00",
+        "source_updated_raw": "2014-04-30T09:13:02+09:00",
+        "text_length": 1489,
+        "body_sha256": "64df84530762d3dbfe82a404252cecc58c62269fb8a0ec7a65dd8631ab991b81",
+        "block_hashes": [
+          "783801f9fa8f0249b13878e1be5212f3a515cbee862acd3033bf03217c75b9a5",
+          "1571368a64b7a8507f39533f7054beebbd79fbb59cc0c7de9e212832eb9834f5",
+          "7f4f6a8a6f1087987012f4dedf59afe9d91ec4bc6aabc8847c801b6bfe8894de",
+          "d0449eaa2582993e97fc7bf04715931bd38d5066cfcfc1648a0da6ce98839173",
+          "0b3832acdd57f333e77e1e9da56a2b96b07ee3c4307fb8733f1a697920ef859c",
+          "d502ba512e36d49f85ddf625a070d7ca579ee1c77a94c09c8aaf7e26e209e25d",
+          "9f646127a9cf2eb6b41c8bf26640bd8d7179c729b0ca5525443dd93457dff657",
+          "ace559d5abc24a82287dca29fe926b3903053d10735e517825350f4917d5f002",
+          "89213a3acd1d93e68fd7163f26b0fef1cecdceec46405f44fdf81a2d83bf9ed2",
+          "28e65cd440de3728a84fc66894ce45988d7c6d246310a222f9bef3db3e297352",
+          "e4efa002c1ed3b3212097c4e80bb9f9d581aec89af5bb6791f1888ad89e0fec8",
+          "39d40bbada1135546f786b3591cc1992aef468e0312470a71bfffb9e117ef291",
+          "6709401f0c1e42ee230f81ab2e5ae7d8c5f0e61f607f8967d21c9d692206afb7",
+          "bd9f575e190436c8855e39ce6d77ca82a020990da4d6d802a53d872e07072130",
+          "c03c458449cbbf7691d82f14846bc90856540c4702f9943fbffc4e8b82956281",
+          "3cda237aaad6d60566d7feb8c7af0cc10b585b6c7e697b71b10b4af3cc372ca4",
+          "a4f871f56a02e6653fb30bc122509b09a0717ecdd73634395cc5bfa49dc0c6c6",
+          "747b4bef4ba1a5483c2571c495b4ff5f0c1c5b80cb2b5687aa5b9c216ce5c9bc",
+          "c4859bf10f9a64e670da73547a7ecd834c8972b9660c7409b799447aa32d4afa",
+          "7be511c0f9ec5d47e4943a3785942a76698a7315b01c28da701d7ae9ab9268d7",
+          "721a3583811387242918cf880f49fe8c3d011c5f7d140305d9a38bbf77056ca0",
+          "5b58fe107efb6f5a59f8d92003a8272ab4ece2f22c62013434674a846f4e9b45",
+          "b374e3230171de2054bb9927fd59e8a972aa160b617bbbeb493d3f44dfa0140e",
+          "b27f0253e356ef4000bfdf442df55523c50a4a0201c08260576474c7e6702314",
+          "d79f2877230f12e23772894ce58b9ea8422c0fe3b1ab9ed1ffb850421013cde6",
+          "ef5228598f28b5d479a7b7866949781a7a97a50215c2564986a11e276952c12b",
+          "7c0211a6d81f297981a31631ad3c8bbdad5f9cc798336c189b4540434c63d146",
+          "d642bc53b5bc822756961d668ec979cf88b04f9197966fa8eaf57ec97d3e4661",
+          "9bd9b0e3d65e8b989011911be706f7eee6975693deb361f8d71010cf04860b45",
+          "5df39ba84e968b77a78a55116b4b66567f132c9f460b3d48239c3e4b1a9666ef",
+          "14de832405f07485c90eac1cefca279f59a9b909371faa192dd4bca650c90f1f",
+          "f89b28d0f8f855118d15719f74b29c3f03f545a5388505d87bacc16cd58bd6f9",
+          "2338490aefaccbb9ea4a94d153ee0f7e51758b9a06c4bc95ec8263c6c2ff40c3",
+          "5d6e3582d8e10f3e610a7d8a2a8680d50363a25a850e480a5d3dc274b9dcfa6e",
+          "ad4ef8a2350c91ebb455cddcf1896343b62482a58168c6e27f885d7b61eed7ba",
+          "de0132ea0c8da3c56502bf3f936aaef213ee16cf84d1bef4816d7bd545b4a7e8",
+          "4e3d33557bcfedc00d11a5092e92adbc51bead79e84bb03c0c913be0bda9acca",
+          "5db2ddbf94b335b065da68dc862acfdd6d8114ab7ed6afa8207745a718442b8a",
+          "a7d73aa284d7e484dd22c0398b29a57aa7ce1a77cbbeb62f69108e98fb217574",
+          "7216b3bbf26a4e0c348694d3338b8287aba96d2e76f0aaf5ce85bc3bf3a762f0",
+          "5639a0ed2678e346e27933244aa54b99a2150a5b3e639e81fccc7b5527de126b"
+        ],
+        "links_sha256": "4da10905c410e7bf55b7e476b4cb5677e19c624839316075cf6f43ac29e84254",
+        "link_hashes": [
+          "50d4aafe0c7c52db976a2ec49bfb4815682506256cd5d4465066c06f3071951f",
+          "d699ac5ca92bb81c43d57081e06b7289debd82b4e58dbb252a66a9cdd0e88a8f",
+          "79705e3d1dd8fd23ea6f5405602e11cc42777fe1ebe83ef1761387cc60e89652",
+          "260e80ea0b4b062b1566e4d4c1b6ae9dda0b8a76962be5794a0e06d75b142e71",
+          "09073841f9f36bf6795ff1045d1918a011383166a27ad65f0df3370b112770df",
+          "17d83f74b1c78de3f9727a118fb864f8d6c1a50b99c00214cada7c4ae4fc5a8b",
+          "06a78e3d95c2e7341bd5833c9cc231695a24342d411a5455131598a6a39ab34e",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "9ece561748bace2bf812ed80b0b1794c75a854b063783e1d4383ff180a8def46",
+          "e6ea587e1cb21b80d782d41a1bae7a738e5cf05a0d6eca7d5fe5ea44c2e7c495",
+          "dc1c4ce8aff9a5b9a673175ed9dc91dad2ac1c895d132f43b10e3119065e5fbc",
+          "ae94ae897b0fdc8e827890f47056df55d7193165a9a513518d5b646eb8f84f4e",
+          "8208a765cf1d09a215f2b679d0cc7e88a923cb79a323ff50160c30b34fa38584"
+        ],
+        "media_sha256": "5bd5fa902e44e6e289978b0cb226cf299cfce9c9da4121aab1e862f197726c3e",
+        "media_hashes": [
+          "5bd5fa902e44e6e289978b0cb226cf299cfce9c9da4121aab1e862f197726c3e"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＲＳ乱数 チェックサム乱数のコツ",
+        "published_raw": "2014-04-30T18:13:02+09:00",
+        "source_updated_raw": "2014-04-30T09:13:02+09:00",
+        "text_length": 1489,
+        "body_sha256": "64df84530762d3dbfe82a404252cecc58c62269fb8a0ec7a65dd8631ab991b81",
+        "block_hashes": [
+          "783801f9fa8f0249b13878e1be5212f3a515cbee862acd3033bf03217c75b9a5",
+          "1571368a64b7a8507f39533f7054beebbd79fbb59cc0c7de9e212832eb9834f5",
+          "7f4f6a8a6f1087987012f4dedf59afe9d91ec4bc6aabc8847c801b6bfe8894de",
+          "d0449eaa2582993e97fc7bf04715931bd38d5066cfcfc1648a0da6ce98839173",
+          "0b3832acdd57f333e77e1e9da56a2b96b07ee3c4307fb8733f1a697920ef859c",
+          "d502ba512e36d49f85ddf625a070d7ca579ee1c77a94c09c8aaf7e26e209e25d",
+          "9f646127a9cf2eb6b41c8bf26640bd8d7179c729b0ca5525443dd93457dff657",
+          "ace559d5abc24a82287dca29fe926b3903053d10735e517825350f4917d5f002",
+          "89213a3acd1d93e68fd7163f26b0fef1cecdceec46405f44fdf81a2d83bf9ed2",
+          "28e65cd440de3728a84fc66894ce45988d7c6d246310a222f9bef3db3e297352",
+          "e4efa002c1ed3b3212097c4e80bb9f9d581aec89af5bb6791f1888ad89e0fec8",
+          "39d40bbada1135546f786b3591cc1992aef468e0312470a71bfffb9e117ef291",
+          "6709401f0c1e42ee230f81ab2e5ae7d8c5f0e61f607f8967d21c9d692206afb7",
+          "bd9f575e190436c8855e39ce6d77ca82a020990da4d6d802a53d872e07072130",
+          "c03c458449cbbf7691d82f14846bc90856540c4702f9943fbffc4e8b82956281",
+          "3cda237aaad6d60566d7feb8c7af0cc10b585b6c7e697b71b10b4af3cc372ca4",
+          "a4f871f56a02e6653fb30bc122509b09a0717ecdd73634395cc5bfa49dc0c6c6",
+          "747b4bef4ba1a5483c2571c495b4ff5f0c1c5b80cb2b5687aa5b9c216ce5c9bc",
+          "c4859bf10f9a64e670da73547a7ecd834c8972b9660c7409b799447aa32d4afa",
+          "7be511c0f9ec5d47e4943a3785942a76698a7315b01c28da701d7ae9ab9268d7",
+          "721a3583811387242918cf880f49fe8c3d011c5f7d140305d9a38bbf77056ca0",
+          "5b58fe107efb6f5a59f8d92003a8272ab4ece2f22c62013434674a846f4e9b45",
+          "b374e3230171de2054bb9927fd59e8a972aa160b617bbbeb493d3f44dfa0140e",
+          "b27f0253e356ef4000bfdf442df55523c50a4a0201c08260576474c7e6702314",
+          "d79f2877230f12e23772894ce58b9ea8422c0fe3b1ab9ed1ffb850421013cde6",
+          "ef5228598f28b5d479a7b7866949781a7a97a50215c2564986a11e276952c12b",
+          "7c0211a6d81f297981a31631ad3c8bbdad5f9cc798336c189b4540434c63d146",
+          "d642bc53b5bc822756961d668ec979cf88b04f9197966fa8eaf57ec97d3e4661",
+          "9bd9b0e3d65e8b989011911be706f7eee6975693deb361f8d71010cf04860b45",
+          "5df39ba84e968b77a78a55116b4b66567f132c9f460b3d48239c3e4b1a9666ef",
+          "14de832405f07485c90eac1cefca279f59a9b909371faa192dd4bca650c90f1f",
+          "f89b28d0f8f855118d15719f74b29c3f03f545a5388505d87bacc16cd58bd6f9",
+          "2338490aefaccbb9ea4a94d153ee0f7e51758b9a06c4bc95ec8263c6c2ff40c3",
+          "5d6e3582d8e10f3e610a7d8a2a8680d50363a25a850e480a5d3dc274b9dcfa6e",
+          "ad4ef8a2350c91ebb455cddcf1896343b62482a58168c6e27f885d7b61eed7ba",
+          "de0132ea0c8da3c56502bf3f936aaef213ee16cf84d1bef4816d7bd545b4a7e8",
+          "4e3d33557bcfedc00d11a5092e92adbc51bead79e84bb03c0c913be0bda9acca",
+          "5db2ddbf94b335b065da68dc862acfdd6d8114ab7ed6afa8207745a718442b8a",
+          "a7d73aa284d7e484dd22c0398b29a57aa7ce1a77cbbeb62f69108e98fb217574",
+          "7216b3bbf26a4e0c348694d3338b8287aba96d2e76f0aaf5ce85bc3bf3a762f0",
+          "5639a0ed2678e346e27933244aa54b99a2150a5b3e639e81fccc7b5527de126b"
+        ],
+        "links_sha256": "4da10905c410e7bf55b7e476b4cb5677e19c624839316075cf6f43ac29e84254",
+        "link_hashes": [
+          "50d4aafe0c7c52db976a2ec49bfb4815682506256cd5d4465066c06f3071951f",
+          "d699ac5ca92bb81c43d57081e06b7289debd82b4e58dbb252a66a9cdd0e88a8f",
+          "79705e3d1dd8fd23ea6f5405602e11cc42777fe1ebe83ef1761387cc60e89652",
+          "260e80ea0b4b062b1566e4d4c1b6ae9dda0b8a76962be5794a0e06d75b142e71",
+          "09073841f9f36bf6795ff1045d1918a011383166a27ad65f0df3370b112770df",
+          "17d83f74b1c78de3f9727a118fb864f8d6c1a50b99c00214cada7c4ae4fc5a8b",
+          "06a78e3d95c2e7341bd5833c9cc231695a24342d411a5455131598a6a39ab34e",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "9ece561748bace2bf812ed80b0b1794c75a854b063783e1d4383ff180a8def46",
+          "e6ea587e1cb21b80d782d41a1bae7a738e5cf05a0d6eca7d5fe5ea44c2e7c495",
+          "dc1c4ce8aff9a5b9a673175ed9dc91dad2ac1c895d132f43b10e3119065e5fbc",
+          "ae94ae897b0fdc8e827890f47056df55d7193165a9a513518d5b646eb8f84f4e",
+          "8208a765cf1d09a215f2b679d0cc7e88a923cb79a323ff50160c30b34fa38584"
+        ],
+        "media_sha256": "5bd5fa902e44e6e289978b0cb226cf299cfce9c9da4121aab1e862f197726c3e",
+        "media_hashes": [
+          "5bd5fa902e44e6e289978b0cb226cf299cfce9c9da4121aab1e862f197726c3e"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20140430/1398849182",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20140528/1401357016": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＸＤ乱数 ザングース検証",
+        "published_raw": "2014-05-28T18:50:16+09:00",
+        "source_updated_raw": "2014-05-28T09:50:16+09:00",
+        "text_length": 636,
+        "body_sha256": "3cc6321f29ba0aed2ce060a1d187ec61d3adb7edaffb9a699d7abf9e00ebbccb",
+        "block_hashes": [
+          "a963ed803d5b3eeb6838e259ad9a5552ade66dd951a98265049effa8e79fc98f",
+          "7143c2c3882bc21ac38f1e74c82510ca6ad73b8748b6a20579dd5b1d625582e7",
+          "2c8ca93bef86bbdc9734aa8ded92e7b25e0ca3b6769902d9befd7d3201810a5b",
+          "8215b7b1d639cf4e6ec792996e53609205b6b35123c43d693cb0c3b178a36b51",
+          "ca66dfd95c627987593db07b1802982515570ebf3131044ca7e322b0e74f5559",
+          "c527b1d5b44580f5e0f24e7e442ced86093f14e8c765c9e956dcc4d86efc025e",
+          "8c68b72e9bc2345eeba6ce2b928e5ad9d1072e10b208f6257aae475a7f25341e",
+          "948552a582de2eb465dbb10e583e628f34b5799f83733d87ab41b7ef36521750",
+          "00b8cdccbf14aefa95dbdf29165c861ed6224c3e2b33fe2d629a4da342c9eb44",
+          "12bb321b666836f55b44a93859d9f8fab7bfd06836a051a4c0e1b0d54b865c8e",
+          "5f588828657bd2387e8ef00d21c02d1c6b880cdfd85912c1d9ea6424a759641b",
+          "0e3b031e840d5d902c4fe8f93c5f0a7911abffe5c34ddc55b5121c257776f11b",
+          "827f527b24d89bfa66cdfce97fa541744660e87ded18016460ad17eae8d10064",
+          "dacba4da49be0a56697e3ba4c7516069373d14bfb98e3d02ef217e14149be60f",
+          "6a5b8053028b0e01ef7a5a24c7c264aca941c66a15c2deb78edeb943758da52e",
+          "573d47b810d5f0abc87be7cc1e212c5aeaf2ff56cf9d87dec961b15e88e2bb15",
+          "c0dccb25e57a8f87eb0af5b0a89fadf9dc7edb348b77657dd9cd0a1f46b88244",
+          "ce87d3bcaa13ff9aa04fe36d06260a2da761fb1f6faba02d638ec87a17b09559",
+          "0cb4c58278362e88e77b7fe3d13421ce6cb91882216946e5d883bc00eb3c5dea"
+        ],
+        "links_sha256": "2c4a180a989cb230bf7fc24264a62b41cdb9ad86c677d055aeca9dd0c6b72db3",
+        "link_hashes": [
+          "9f4d31e59ad6cc8a9cc93d6256e909643b23bd9d3e8836ecb24403eb0d865b5d",
+          "3b2d3b2920f451adc0c1479b2642b06080f772c66623b64d4ccc9f4db79bd6a7",
+          "8975d32bd3d4e2671220aa8c2d1791e79e308e7cd9ba0710a3259aaf22b30570",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＸＤ乱数 ザングース検証",
+        "published_raw": "2014-05-28T18:50:16+09:00",
+        "source_updated_raw": "2014-05-28T09:50:16+09:00",
+        "text_length": 636,
+        "body_sha256": "3cc6321f29ba0aed2ce060a1d187ec61d3adb7edaffb9a699d7abf9e00ebbccb",
+        "block_hashes": [
+          "a963ed803d5b3eeb6838e259ad9a5552ade66dd951a98265049effa8e79fc98f",
+          "7143c2c3882bc21ac38f1e74c82510ca6ad73b8748b6a20579dd5b1d625582e7",
+          "2c8ca93bef86bbdc9734aa8ded92e7b25e0ca3b6769902d9befd7d3201810a5b",
+          "8215b7b1d639cf4e6ec792996e53609205b6b35123c43d693cb0c3b178a36b51",
+          "ca66dfd95c627987593db07b1802982515570ebf3131044ca7e322b0e74f5559",
+          "c527b1d5b44580f5e0f24e7e442ced86093f14e8c765c9e956dcc4d86efc025e",
+          "8c68b72e9bc2345eeba6ce2b928e5ad9d1072e10b208f6257aae475a7f25341e",
+          "948552a582de2eb465dbb10e583e628f34b5799f83733d87ab41b7ef36521750",
+          "00b8cdccbf14aefa95dbdf29165c861ed6224c3e2b33fe2d629a4da342c9eb44",
+          "12bb321b666836f55b44a93859d9f8fab7bfd06836a051a4c0e1b0d54b865c8e",
+          "5f588828657bd2387e8ef00d21c02d1c6b880cdfd85912c1d9ea6424a759641b",
+          "0e3b031e840d5d902c4fe8f93c5f0a7911abffe5c34ddc55b5121c257776f11b",
+          "827f527b24d89bfa66cdfce97fa541744660e87ded18016460ad17eae8d10064",
+          "dacba4da49be0a56697e3ba4c7516069373d14bfb98e3d02ef217e14149be60f",
+          "6a5b8053028b0e01ef7a5a24c7c264aca941c66a15c2deb78edeb943758da52e",
+          "573d47b810d5f0abc87be7cc1e212c5aeaf2ff56cf9d87dec961b15e88e2bb15",
+          "c0dccb25e57a8f87eb0af5b0a89fadf9dc7edb348b77657dd9cd0a1f46b88244",
+          "ce87d3bcaa13ff9aa04fe36d06260a2da761fb1f6faba02d638ec87a17b09559",
+          "0cb4c58278362e88e77b7fe3d13421ce6cb91882216946e5d883bc00eb3c5dea"
+        ],
+        "links_sha256": "2c4a180a989cb230bf7fc24264a62b41cdb9ad86c677d055aeca9dd0c6b72db3",
+        "link_hashes": [
+          "9f4d31e59ad6cc8a9cc93d6256e909643b23bd9d3e8836ecb24403eb0d865b5d",
+          "3b2d3b2920f451adc0c1479b2642b06080f772c66623b64d4ccc9f4db79bd6a7",
+          "8975d32bd3d4e2671220aa8c2d1791e79e308e7cd9ba0710a3259aaf22b30570",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20140528/1401357016",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20140611/1402506714": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＲＳ乱数 メソッド４乱数 色ゴジャボレックウザ（無邪気６Ｖ）",
+        "published_raw": "2014-06-11T02:11:54+09:00",
+        "source_updated_raw": "2014-06-10T17:11:54+09:00",
+        "text_length": 1023,
+        "body_sha256": "3844b5953572155fe7687bde6d350cc405bc2ef5cc736836be0f14ecb6594ec0",
+        "block_hashes": [
+          "1de160af0c2491e33a69342d9e553278bfd9b864f31d87206a8cd2315c303317",
+          "4f9d0abd5371ca3ab2df39e69ffcf86e4f1c0c3b696baf9eb1901517651fbe69",
+          "7cfbd57a73478daa38d578a2098e8eecf9552063ec9608db765879ed6e97d6ae",
+          "58173273cb109ae4ea45e22997e5c8e8c69fc5c03d52c177be2c9918020147b7",
+          "71ef98bbb44af888f62551a47ee57a0fd6f750918ffd03d95b20145b8a453cd1",
+          "0f936af356237955064e65a54870a665e708ddc6ff587fd5b30bcd24c1d7b346",
+          "6b995f494d6048d145f7edb1a791ea5b5f0a512b512a4a975f268da407d286ef",
+          "b79f20496f059d01097619d6278b070f70e6707432568685e1d9493aaee295bf",
+          "4710c405a1e5ca7d476f968f1c02e5dc6adf6f17b468b97386b2d59e8fcb02aa",
+          "ddab5b095a31644c0dd4ee6759847bd31be800ecd96d9e63803d1ae8349a68b2",
+          "e4640bcfe42651f3ac3dd65657d4703bd1f160f1ee3ceb04c2274847a67109a6",
+          "c7092189e553c764144a897f484035806a23ff1297c44a5952600eca979d2889",
+          "f968d334eeb2425304792601f5244a6109d544c6f03e6b7c4654b67c053c93dc",
+          "8cbb685c52907944618a2d387c3ef809928d111c1112d621fe708895ee35b726",
+          "792061304a6daa0d568dbd5ce7f739273691efc01af557e3822299ef14c0a119",
+          "5ea7097b09328f842faa57864c76306cbbb900042d6af0c576de952147a669d5",
+          "802287742d1d725e1324f64442a6a7cae51f115dc5467db142f3e8324d219ee0",
+          "1c7f30123052fae64d0c1aaa0facec1aef7368b5ed74e3243d9d5c86fcf889eb",
+          "4c4ed72945ead60725782274b0d632ba5b426122e7bf7aeade227298c2bd2825",
+          "6308760adea7c60ad1f2b5347eddea24ca16f0e8cbe0840daed9a0b3a6532528",
+          "d850ff7d4ebaa9ff5a231cc862d4b70e9365f4cb70b4ff2da224e9d30642f76a",
+          "7353174d85f84cafaa097da471245674173736b0427d9d9ca7bd8e2724090d65",
+          "fe0a0563241a6b93c4bdca1b4b82728fb245f8f2e8bbd70e6705bd394b0f8715",
+          "294c229fb953aabf4da8e338b9ea0c3047a4255a73e6065b943761d925700ac5"
+        ],
+        "links_sha256": "29cf3041517fbd144b0a980e836dc945ea1350854bc39b94c930d46bb014182f",
+        "link_hashes": [
+          "b9985bfafd83be3dc6b29c0760db8172530758fb072eeeb923899e7591dbcb4b",
+          "8d23a61e0d61b3ae8c7749730436ba1ebf64c93ac17c66852d735d7f02e56125",
+          "d7492232962d1828653e60b6e158a94211036eae5e9d575030d7d2e0feaf96c9",
+          "8751866c521d25c20622fef4f3db530094855f431e902499cac070e6e820d1c1",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969",
+          "b74073a5c1a5a986c06544e1a2692fda78ef4b4b1408fd083b373dcbaff45ccb",
+          "9b81494c73c8f20689a91bdb00c2121e4b9332110213aee73a38b1bc7b25e700",
+          "e88b3dc7efa6130e49a5776208b725e2b6e63ac90d38a8e86b65c45454b9e537",
+          "1415881a03ec7ef931271a72565e5a4c6806ff0fecde131c3232cb94600f547b",
+          "9bfbec4d008aef10e81be91bb83ea84c4c857a50a1d4869a1e5ea744c6b81438",
+          "7e1acd14f70a9f17a2339e73b98661d7cbee2bd389854d6dbce354fcf40d02c7",
+          "2c0f15f1fe98fc3d5c2da09556d861305d53a8ed655a578c87d15d934eb3928b"
+        ],
+        "media_sha256": "5f476cc6af6be370a9fd20c40e317f15ba3938ce685b6f188586a81024278f3c",
+        "media_hashes": [
+          "2c3129023f58f2a92ba0694a298e7e128c3f9aaca9615100632a7a1456e21952",
+          "503474dcb3e210f4cf25b4790cd57bfd3973b81851636528dc5aae215e9a0dfd",
+          "bdd3a9207a3029750cdfbe49dead399b9d483c96643ef93fb1062d721ec7cd6f",
+          "53492f3d2ffa9396c2960f966650bd91400ecd9aff343248e0000dad8ab414b6",
+          "50b6e450f2d03fe0c8b962a029c573b48cecf1645175e895c4f189df076ed600",
+          "e831a045135a24485d1e2eafa6bf8f2330e46e22b7cfe2c9c7ad144d1fd05258"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＲＳ乱数 メソッド４乱数 色ゴジャボレックウザ（無邪気６Ｖ）",
+        "published_raw": "2014-06-11T02:11:54+09:00",
+        "source_updated_raw": "2014-06-10T17:11:54+09:00",
+        "text_length": 1023,
+        "body_sha256": "3844b5953572155fe7687bde6d350cc405bc2ef5cc736836be0f14ecb6594ec0",
+        "block_hashes": [
+          "1de160af0c2491e33a69342d9e553278bfd9b864f31d87206a8cd2315c303317",
+          "4f9d0abd5371ca3ab2df39e69ffcf86e4f1c0c3b696baf9eb1901517651fbe69",
+          "7cfbd57a73478daa38d578a2098e8eecf9552063ec9608db765879ed6e97d6ae",
+          "58173273cb109ae4ea45e22997e5c8e8c69fc5c03d52c177be2c9918020147b7",
+          "71ef98bbb44af888f62551a47ee57a0fd6f750918ffd03d95b20145b8a453cd1",
+          "0f936af356237955064e65a54870a665e708ddc6ff587fd5b30bcd24c1d7b346",
+          "6b995f494d6048d145f7edb1a791ea5b5f0a512b512a4a975f268da407d286ef",
+          "b79f20496f059d01097619d6278b070f70e6707432568685e1d9493aaee295bf",
+          "4710c405a1e5ca7d476f968f1c02e5dc6adf6f17b468b97386b2d59e8fcb02aa",
+          "ddab5b095a31644c0dd4ee6759847bd31be800ecd96d9e63803d1ae8349a68b2",
+          "e4640bcfe42651f3ac3dd65657d4703bd1f160f1ee3ceb04c2274847a67109a6",
+          "c7092189e553c764144a897f484035806a23ff1297c44a5952600eca979d2889",
+          "f968d334eeb2425304792601f5244a6109d544c6f03e6b7c4654b67c053c93dc",
+          "8cbb685c52907944618a2d387c3ef809928d111c1112d621fe708895ee35b726",
+          "792061304a6daa0d568dbd5ce7f739273691efc01af557e3822299ef14c0a119",
+          "5ea7097b09328f842faa57864c76306cbbb900042d6af0c576de952147a669d5",
+          "802287742d1d725e1324f64442a6a7cae51f115dc5467db142f3e8324d219ee0",
+          "1c7f30123052fae64d0c1aaa0facec1aef7368b5ed74e3243d9d5c86fcf889eb",
+          "4c4ed72945ead60725782274b0d632ba5b426122e7bf7aeade227298c2bd2825",
+          "6308760adea7c60ad1f2b5347eddea24ca16f0e8cbe0840daed9a0b3a6532528",
+          "d850ff7d4ebaa9ff5a231cc862d4b70e9365f4cb70b4ff2da224e9d30642f76a",
+          "7353174d85f84cafaa097da471245674173736b0427d9d9ca7bd8e2724090d65",
+          "fe0a0563241a6b93c4bdca1b4b82728fb245f8f2e8bbd70e6705bd394b0f8715",
+          "294c229fb953aabf4da8e338b9ea0c3047a4255a73e6065b943761d925700ac5"
+        ],
+        "links_sha256": "29cf3041517fbd144b0a980e836dc945ea1350854bc39b94c930d46bb014182f",
+        "link_hashes": [
+          "b9985bfafd83be3dc6b29c0760db8172530758fb072eeeb923899e7591dbcb4b",
+          "8d23a61e0d61b3ae8c7749730436ba1ebf64c93ac17c66852d735d7f02e56125",
+          "d7492232962d1828653e60b6e158a94211036eae5e9d575030d7d2e0feaf96c9",
+          "8751866c521d25c20622fef4f3db530094855f431e902499cac070e6e820d1c1",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969",
+          "b74073a5c1a5a986c06544e1a2692fda78ef4b4b1408fd083b373dcbaff45ccb",
+          "9b81494c73c8f20689a91bdb00c2121e4b9332110213aee73a38b1bc7b25e700",
+          "e88b3dc7efa6130e49a5776208b725e2b6e63ac90d38a8e86b65c45454b9e537",
+          "1415881a03ec7ef931271a72565e5a4c6806ff0fecde131c3232cb94600f547b",
+          "9bfbec4d008aef10e81be91bb83ea84c4c857a50a1d4869a1e5ea744c6b81438",
+          "7e1acd14f70a9f17a2339e73b98661d7cbee2bd389854d6dbce354fcf40d02c7",
+          "2c0f15f1fe98fc3d5c2da09556d861305d53a8ed655a578c87d15d934eb3928b"
+        ],
+        "media_sha256": "5f476cc6af6be370a9fd20c40e317f15ba3938ce685b6f188586a81024278f3c",
+        "media_hashes": [
+          "2c3129023f58f2a92ba0694a298e7e128c3f9aaca9615100632a7a1456e21952",
+          "503474dcb3e210f4cf25b4790cd57bfd3973b81851636528dc5aae215e9a0dfd",
+          "bdd3a9207a3029750cdfbe49dead399b9d483c96643ef93fb1062d721ec7cd6f",
+          "53492f3d2ffa9396c2960f966650bd91400ecd9aff343248e0000dad8ab414b6",
+          "50b6e450f2d03fe0c8b962a029c573b48cecf1645175e895c4f189df076ed600",
+          "e831a045135a24485d1e2eafa6bf8f2330e46e22b7cfe2c9c7ad144d1fd05258"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20140611/1402506714",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20141020/1413809768": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＨＧＳＳＲＴＡ ライコウチャートにおける乱数調整の概要",
+        "published_raw": "2014-10-20T21:56:08+09:00",
+        "source_updated_raw": "2014-10-20T12:56:08+09:00",
+        "text_length": 1132,
+        "body_sha256": "a1415c8c17234ada4e6310c1d2b5fa1bb9128017ed0b59eb6fc384ab827caf8d",
+        "block_hashes": [
+          "440c62705f80e5729c51fa4b5ee5b071c789edc70d7ac6db68ccee06ca00ff59",
+          "99cab8e02ad765c4ac823099fc0ea2b2fb54a4ccc452b842c3c0c652b01826a8",
+          "3d8b3af8e98d30349e02e6df7ca985f4f7343a35ac0d5069f602c8c43490939e",
+          "929fd2a23d3fe14a4923533cb7dc7aad3c90686e483948223808b600437bc8f0",
+          "f1b2312d891a3cba4f0315a99352601028d0fe5a22ffc2d569087be690e749c6",
+          "c3ae3c12b721121d367107002dd51f6921856a62acac0243be8437046dc3ba13",
+          "a816d0a1ce4a670c20646aa11d17cc4019a0892a20dea44989d85804ea26e7a0",
+          "e8c8708ed0128f043b56e386dad3c73188dd44e4d54a4afd1d786401ede44373",
+          "5e62efd6f2a7bf890f9c4af0a173f3fe8da017eda85442751bea7af297c741ac",
+          "e136081baf3d1b5a1b685ffb5ce4e58240073675381cb61021bc835f12506960",
+          "9d3ca9e74f2ae4e10a8b2f1a98bac7659318ecf759f0974f548ac4bbbd2323f9",
+          "42052e230857d91af4df49a56d4e117efc22daa927ed1be2dfafc705243c1564",
+          "47700826cc271080fa1da7f29f6c23cee573613a39d1c96742bfb72355a29ac9",
+          "36b61147d364ff7599e39bfbecb8e6cb898df5e194614074b3382fde8ecc49cc",
+          "4a37ffa4b8c8c7862040648c742cce83133bbe58caa1ace8db243ac5e5602158",
+          "bcfbd2e2402d0eb3e8b9b7a30bfadafc177a9f179b8bfd8b2f564790397ede1e",
+          "ea3956f198147941a4970052fe8d8c0f83950ce457bb77ca1d057fc7193cc087",
+          "3f4492d8103048568d3e7e07026a12089d9ea50979e558048679eab41104d63b",
+          "f12505ac480f2952841f16c3852d6e34a0640895f6b2c4adffe7454caebd1dec",
+          "e59b2ded76812dcac72b78f2f455e97df52aa0b1bbcb595c1a76fbd370d6683a",
+          "eda1946468fe1cfeb8d05fb3a7eb0c7f65689bbb47047e6b0569a16209ef3069",
+          "1567bb53df85a7fb06a7e9c94a8d4ebd3fcd03ce1a903683749357ad87f834a5",
+          "c6be4cbfbfc768797527e34ca4b5e77891b9e1f4ef9aa730d5809662e710fc2d",
+          "ecc51034cdb07a8f7f671c62c20b467d9051a1c1b300f22205b2fcf860c4bb98",
+          "8c256528ab109990a0de767c44ed25ecc5f162c18a86df0a3afa1d1947b7140d",
+          "e46c0f473ac26398155a32c009aa48731f0cf4e58c00e74d5c798b92e95b0538",
+          "81d69a9d8df54cccca081c8e240659321c941f0907343589683ac56f79abd54c",
+          "a764aa7b0044bd98eaa86fe4ccffb5950882aae38dd74660dfa21fc985aa18fd",
+          "645980199617486a8a028ed4f15ffa7c17d823fdad3e366533197250d9e0d670",
+          "3104576d75ea79c53b0cd04dc03ac670fad3f46a69bac1d59c43e65c9c74a707",
+          "2b2744b89dce2eca78b372f7e2b1193fa4c14359cf6b8000d3b8c89e9468ec08",
+          "5dbe4ec3f8da75cf1ba28115134af24b304dbd8c4ad751dfd08437da53d2d383",
+          "55f0cee4a4085c7abc1295a6d0d5803937b20a460324d488f066f8a25e6fa188"
+        ],
+        "links_sha256": "8202478901c088a262169166150b086cd76160daae309b3ea9f10d9515351efd",
+        "link_hashes": [
+          "645980199617486a8a028ed4f15ffa7c17d823fdad3e366533197250d9e0d670",
+          "8233ba5f583a4f7853a41c21159ab746ce8199165e6baa1e942d75673afbb8a2",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ＨＧＳＳＲＴＡ ライコウチャートにおける乱数調整の概要",
+        "published_raw": "2014-10-20T21:56:08+09:00",
+        "source_updated_raw": "2014-10-20T12:56:08+09:00",
+        "text_length": 1132,
+        "body_sha256": "a1415c8c17234ada4e6310c1d2b5fa1bb9128017ed0b59eb6fc384ab827caf8d",
+        "block_hashes": [
+          "440c62705f80e5729c51fa4b5ee5b071c789edc70d7ac6db68ccee06ca00ff59",
+          "99cab8e02ad765c4ac823099fc0ea2b2fb54a4ccc452b842c3c0c652b01826a8",
+          "3d8b3af8e98d30349e02e6df7ca985f4f7343a35ac0d5069f602c8c43490939e",
+          "929fd2a23d3fe14a4923533cb7dc7aad3c90686e483948223808b600437bc8f0",
+          "f1b2312d891a3cba4f0315a99352601028d0fe5a22ffc2d569087be690e749c6",
+          "c3ae3c12b721121d367107002dd51f6921856a62acac0243be8437046dc3ba13",
+          "a816d0a1ce4a670c20646aa11d17cc4019a0892a20dea44989d85804ea26e7a0",
+          "e8c8708ed0128f043b56e386dad3c73188dd44e4d54a4afd1d786401ede44373",
+          "5e62efd6f2a7bf890f9c4af0a173f3fe8da017eda85442751bea7af297c741ac",
+          "e136081baf3d1b5a1b685ffb5ce4e58240073675381cb61021bc835f12506960",
+          "9d3ca9e74f2ae4e10a8b2f1a98bac7659318ecf759f0974f548ac4bbbd2323f9",
+          "42052e230857d91af4df49a56d4e117efc22daa927ed1be2dfafc705243c1564",
+          "47700826cc271080fa1da7f29f6c23cee573613a39d1c96742bfb72355a29ac9",
+          "36b61147d364ff7599e39bfbecb8e6cb898df5e194614074b3382fde8ecc49cc",
+          "4a37ffa4b8c8c7862040648c742cce83133bbe58caa1ace8db243ac5e5602158",
+          "bcfbd2e2402d0eb3e8b9b7a30bfadafc177a9f179b8bfd8b2f564790397ede1e",
+          "ea3956f198147941a4970052fe8d8c0f83950ce457bb77ca1d057fc7193cc087",
+          "3f4492d8103048568d3e7e07026a12089d9ea50979e558048679eab41104d63b",
+          "f12505ac480f2952841f16c3852d6e34a0640895f6b2c4adffe7454caebd1dec",
+          "e59b2ded76812dcac72b78f2f455e97df52aa0b1bbcb595c1a76fbd370d6683a",
+          "eda1946468fe1cfeb8d05fb3a7eb0c7f65689bbb47047e6b0569a16209ef3069",
+          "1567bb53df85a7fb06a7e9c94a8d4ebd3fcd03ce1a903683749357ad87f834a5",
+          "c6be4cbfbfc768797527e34ca4b5e77891b9e1f4ef9aa730d5809662e710fc2d",
+          "ecc51034cdb07a8f7f671c62c20b467d9051a1c1b300f22205b2fcf860c4bb98",
+          "8c256528ab109990a0de767c44ed25ecc5f162c18a86df0a3afa1d1947b7140d",
+          "e46c0f473ac26398155a32c009aa48731f0cf4e58c00e74d5c798b92e95b0538",
+          "81d69a9d8df54cccca081c8e240659321c941f0907343589683ac56f79abd54c",
+          "a764aa7b0044bd98eaa86fe4ccffb5950882aae38dd74660dfa21fc985aa18fd",
+          "645980199617486a8a028ed4f15ffa7c17d823fdad3e366533197250d9e0d670",
+          "3104576d75ea79c53b0cd04dc03ac670fad3f46a69bac1d59c43e65c9c74a707",
+          "2b2744b89dce2eca78b372f7e2b1193fa4c14359cf6b8000d3b8c89e9468ec08",
+          "5dbe4ec3f8da75cf1ba28115134af24b304dbd8c4ad751dfd08437da53d2d383",
+          "55f0cee4a4085c7abc1295a6d0d5803937b20a460324d488f066f8a25e6fa188"
+        ],
+        "links_sha256": "8202478901c088a262169166150b086cd76160daae309b3ea9f10d9515351efd",
+        "link_hashes": [
+          "645980199617486a8a028ed4f15ffa7c17d823fdad3e366533197250d9e0d670",
+          "8233ba5f583a4f7853a41c21159ab746ce8199165e6baa1e942d75673afbb8a2",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20141020/1413809768",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20150205/1423149240": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "コロシアム乱数 ドイツ色意地５Ｖエンテイ",
+        "published_raw": "2015-02-05T00:14:00+09:00",
+        "source_updated_raw": "2015-02-04T15:14:00+09:00",
+        "text_length": 355,
+        "body_sha256": "6e335a3cf8bf80292aaeb7ff982c8e7f01b68155a4fbdd39535b753677872a41",
+        "block_hashes": [
+          "7e7208149feff519c4a2fe965b19614fd147f0fc0f430b625fabe234bcc8bd54",
+          "c02dc36df8520544c218f6086978c83f3c8fa633bc0b0dc998efe26627931ea2",
+          "839614d9b5fa2a9abfae1727c016318b8ba65a3f6d7056a53f6d0e598bc327d0",
+          "7545ac21975cf6197706e318493b74dc8bbc4297053cc749ca5194a971c36b18",
+          "6b6502ba5bce97bbe35e50c265075eb4254534638da47cf28d4802e96ce23747",
+          "6d350f4bdacb82ac2ce3883b0b126f57b1b818e5a8e4a001b4525421dcc521eb",
+          "17b79c629ecbe87d74bdc9c4ead37e8686f8ecec80d4ba4403b6576fd07c0ff7",
+          "e0bbd77389883a3856b31c4ca03b2c5c41a7fa56288af1f3c9f652c970fa5de0",
+          "173afaf974a054a6255d4e37de0fc170cfb2ad952fe0fa0408e56509a6b344b8",
+          "0b7f342ceb4523799d8bce379c9a547fae1c45639762690968783b57b24e07b4",
+          "929c711b0053d3238aeeff01ea8e5b04eb1534648231a2412693b1c0e2da9ae5",
+          "77e47a6b87e4c8340892b34665edc32067daf7733a9e5148969080058fc79220"
+        ],
+        "links_sha256": "eb15a450b2e48874b1b32e60c0c18f4003885d3960406d557d79f794f72ceb9e",
+        "link_hashes": [
+          "f740acdfa9e16dcc6e9739d5613661638facea0eca0cd45000c025f1ecdf4a07",
+          "3f941b618814674988bfd9bb42faff074cf3bf452e716ed537333786fcc73340",
+          "011d1aaf42a695411453824b5a9742204c9a5b62281fae946f55b4aa0b66e510",
+          "f4fdd8f1912e6351352a3631ff7e2bcf58fa30c7b254093c45c4b629e77ba32b"
+        ],
+        "media_sha256": "fa57472d031409b222f0b5761defcfcd761648b48d78aa28021e57eefc0c97dd",
+        "media_hashes": [
+          "951775b4e351659e336968484de6189313458e86de3273971e8c85e37de220b0",
+          "5e86683a3ef5c547e284c7752b6b8a4a03f733f11b76b533dec4e796143c074e"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "コロシアム乱数 ドイツ色意地５Ｖエンテイ",
+        "published_raw": "2015-02-05T00:14:00+09:00",
+        "source_updated_raw": "2015-02-04T15:14:00+09:00",
+        "text_length": 355,
+        "body_sha256": "6e335a3cf8bf80292aaeb7ff982c8e7f01b68155a4fbdd39535b753677872a41",
+        "block_hashes": [
+          "7e7208149feff519c4a2fe965b19614fd147f0fc0f430b625fabe234bcc8bd54",
+          "c02dc36df8520544c218f6086978c83f3c8fa633bc0b0dc998efe26627931ea2",
+          "839614d9b5fa2a9abfae1727c016318b8ba65a3f6d7056a53f6d0e598bc327d0",
+          "7545ac21975cf6197706e318493b74dc8bbc4297053cc749ca5194a971c36b18",
+          "6b6502ba5bce97bbe35e50c265075eb4254534638da47cf28d4802e96ce23747",
+          "6d350f4bdacb82ac2ce3883b0b126f57b1b818e5a8e4a001b4525421dcc521eb",
+          "17b79c629ecbe87d74bdc9c4ead37e8686f8ecec80d4ba4403b6576fd07c0ff7",
+          "e0bbd77389883a3856b31c4ca03b2c5c41a7fa56288af1f3c9f652c970fa5de0",
+          "173afaf974a054a6255d4e37de0fc170cfb2ad952fe0fa0408e56509a6b344b8",
+          "0b7f342ceb4523799d8bce379c9a547fae1c45639762690968783b57b24e07b4",
+          "929c711b0053d3238aeeff01ea8e5b04eb1534648231a2412693b1c0e2da9ae5",
+          "77e47a6b87e4c8340892b34665edc32067daf7733a9e5148969080058fc79220"
+        ],
+        "links_sha256": "eb15a450b2e48874b1b32e60c0c18f4003885d3960406d557d79f794f72ceb9e",
+        "link_hashes": [
+          "f740acdfa9e16dcc6e9739d5613661638facea0eca0cd45000c025f1ecdf4a07",
+          "3f941b618814674988bfd9bb42faff074cf3bf452e716ed537333786fcc73340",
+          "011d1aaf42a695411453824b5a9742204c9a5b62281fae946f55b4aa0b66e510",
+          "f4fdd8f1912e6351352a3631ff7e2bcf58fa30c7b254093c45c4b629e77ba32b"
+        ],
+        "media_sha256": "fa57472d031409b222f0b5761defcfcd761648b48d78aa28021e57eefc0c97dd",
+        "media_hashes": [
+          "951775b4e351659e336968484de6189313458e86de3273971e8c85e37de220b0",
+          "5e86683a3ef5c547e284c7752b6b8a4a03f733f11b76b533dec4e796143c074e"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20150205/1423149240",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20160503/1462285380": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "Assist for FRLGRTARNG",
+        "published_raw": "2016-05-03T23:23:00+09:00",
+        "source_updated_raw": "2016-05-03T14:23:00+09:00",
+        "text_length": 313,
+        "body_sha256": "4f8ab099309e6fc2d68e96a7322d934328f5ddf478a11b2126c73ad0537f91f9",
+        "block_hashes": [
+          "3fe66803e21f044c2a8918200234b80431ae015d2d4cc675fc43d9e98b35ea35",
+          "63578f2fbc3b061952445f3b36cb6827e7eabd06235b7ce2078ac928b7e40601",
+          "a0665f7f05d711dd9fb1f6ebddc03c1a2913424c5dfec36280353d3c46c49ace",
+          "66acf9f9a16ba596eb0c315dd56d2cce61aa4587a054d28486c1b9717ce496f5",
+          "b2d01a5495a4b66d7f91841aaf0b08f7c3eaa1083242ba110c17135735dc6a46",
+          "d2e1ac5a65a4812eed938c57084c2b80624de439c13a3416eb8f30b022d0bf2e",
+          "7c26b82caa329ea0beebce24d394b44211b385f4b3abd596038b6ce5df169fef",
+          "e219373399d83e4cb4293e29c6c5b1de2f8d0bf431724fcc2bf503569a88fa5b",
+          "e7f3c2ab6d672105d374c9b9062a812126984efc93c9b796e8840811de89a22d"
+        ],
+        "links_sha256": "d6f8f9aab3c90e00d7d29033ebcfabea6ae733c8e1c80281d91510ddd20713b2",
+        "link_hashes": [
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "c519b6605b18de6fb7032975dcb4dfcd9fb7ec94e7180007248604b70227339f"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "Assist for FRLGRTARNG",
+        "published_raw": "2016-05-03T23:23:00+09:00",
+        "source_updated_raw": "2016-05-03T14:23:00+09:00",
+        "text_length": 313,
+        "body_sha256": "4f8ab099309e6fc2d68e96a7322d934328f5ddf478a11b2126c73ad0537f91f9",
+        "block_hashes": [
+          "3fe66803e21f044c2a8918200234b80431ae015d2d4cc675fc43d9e98b35ea35",
+          "63578f2fbc3b061952445f3b36cb6827e7eabd06235b7ce2078ac928b7e40601",
+          "a0665f7f05d711dd9fb1f6ebddc03c1a2913424c5dfec36280353d3c46c49ace",
+          "66acf9f9a16ba596eb0c315dd56d2cce61aa4587a054d28486c1b9717ce496f5",
+          "b2d01a5495a4b66d7f91841aaf0b08f7c3eaa1083242ba110c17135735dc6a46",
+          "d2e1ac5a65a4812eed938c57084c2b80624de439c13a3416eb8f30b022d0bf2e",
+          "7c26b82caa329ea0beebce24d394b44211b385f4b3abd596038b6ce5df169fef",
+          "e219373399d83e4cb4293e29c6c5b1de2f8d0bf431724fcc2bf503569a88fa5b",
+          "e7f3c2ab6d672105d374c9b9062a812126984efc93c9b796e8840811de89a22d"
+        ],
+        "links_sha256": "d6f8f9aab3c90e00d7d29033ebcfabea6ae733c8e1c80281d91510ddd20713b2",
+        "link_hashes": [
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "c519b6605b18de6fb7032975dcb4dfcd9fb7ec94e7180007248604b70227339f"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20160503/1462285380",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20160515/1463316154": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "Assist for EmRTARNG",
+        "published_raw": "2016-05-15T21:42:34+09:00",
+        "source_updated_raw": "2016-05-15T12:42:34+09:00",
+        "text_length": 187,
+        "body_sha256": "648b13f60c2285ba4ca7e164d4f86b15cc1661dd72577c01c6540657285aa652",
+        "block_hashes": [
+          "3b45ab4e2f2c07c5b1c5b0550a34b50a0aaf70fddf8ffb6f985ae1f4f39ae5de",
+          "1e41ca728eb01c7f4d42d199e94d4c43ae7c384d298770207e1ece600c0fc591",
+          "983ff630497c47d92201c4745fe41737cf7ca9f8725db02fcdb475247b0faf1a",
+          "8e6752dd0ceaaf365307efa6c850b3d6e601c3b931cc77e1480d7e1684ee36c8",
+          "1f9130e669a81bf51a1993ed1297ea3955e52fe87b5bb53f44309357827323aa",
+          "e7f3c2ab6d672105d374c9b9062a812126984efc93c9b796e8840811de89a22d"
+        ],
+        "links_sha256": "6989b6af94b68782c5954902fde803862c1f414b28ef173385b2ba1f09030760",
+        "link_hashes": [
+          "8e6752dd0ceaaf365307efa6c850b3d6e601c3b931cc77e1480d7e1684ee36c8",
+          "8f8a5e25d7322be9e586a3d7d2f750f42b25eb968e8663545a6a4a1c90dfd952",
+          "e980cf0b1d916ed2055cc7e5ef5c0a322ebf75f8ff87975aac41dcf53218faef"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "Assist for EmRTARNG",
+        "published_raw": "2016-05-15T21:42:34+09:00",
+        "source_updated_raw": "2016-05-15T12:42:34+09:00",
+        "text_length": 187,
+        "body_sha256": "648b13f60c2285ba4ca7e164d4f86b15cc1661dd72577c01c6540657285aa652",
+        "block_hashes": [
+          "3b45ab4e2f2c07c5b1c5b0550a34b50a0aaf70fddf8ffb6f985ae1f4f39ae5de",
+          "1e41ca728eb01c7f4d42d199e94d4c43ae7c384d298770207e1ece600c0fc591",
+          "983ff630497c47d92201c4745fe41737cf7ca9f8725db02fcdb475247b0faf1a",
+          "8e6752dd0ceaaf365307efa6c850b3d6e601c3b931cc77e1480d7e1684ee36c8",
+          "1f9130e669a81bf51a1993ed1297ea3955e52fe87b5bb53f44309357827323aa",
+          "e7f3c2ab6d672105d374c9b9062a812126984efc93c9b796e8840811de89a22d"
+        ],
+        "links_sha256": "6989b6af94b68782c5954902fde803862c1f414b28ef173385b2ba1f09030760",
+        "link_hashes": [
+          "8e6752dd0ceaaf365307efa6c850b3d6e601c3b931cc77e1480d7e1684ee36c8",
+          "8f8a5e25d7322be9e586a3d7d2f750f42b25eb968e8663545a6a4a1c90dfd952",
+          "e980cf0b1d916ed2055cc7e5ef5c0a322ebf75f8ff87975aac41dcf53218faef"
+        ],
+        "media_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "media_hashes": []
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20160515/1463316154",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20161217/1481635116": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ポケモンにおける乱数調整の実用例",
+        "published_raw": "2016-12-17T22:18:36+09:00",
+        "source_updated_raw": "2016-12-17T13:18:36+09:00",
+        "text_length": 4365,
+        "body_sha256": "f195b8cb68c4b308d1b18372ac319775a2198d21c415c294fdab3191b25afed2",
+        "block_hashes": [
+          "4f62766fbbacd906e4813b69f0184c285dcd66c516e1c7306ec85f6382cfd681",
+          "bbf3d6df80d8575bd177f35441bd4ffa57c433c29f5e0fec34568cfb16dfc55e",
+          "6cd016ec9337cec3b96fee169961d8e80d54eaae673650a153991a930a51b162",
+          "f2d6f5e519ca3becdbd0c757af2cab3a47aecaea34c0b3bc85547f83d4dd7006",
+          "efb374ed49e410f73c22aa63f889a057d551e8646d2b5cd99b1537ece6968751",
+          "17efbd44f5670788668e0db23ecdf346eae4dc40eb908ade9116f0ca275776f9",
+          "57e9718ba09a85b525cbeed0244ddccd417e6ad90f5e0821cea5c2c7574a8b92",
+          "2990e5f454e74144c22dbc500ff946ef982becf2566d28bb623a0edf578a91ab",
+          "901ebf89b62ae9ae8b03330f92c0c68a4676b483656dae60c3e01cb2bee139ae",
+          "281d42e6bcfc8a761a1dc54618ecfc06575f1dd6f9ae23f31a64b91854cecc49",
+          "83342e519a5367a99efdd50c7d6ca367f18130cbe2b43762c4a9a8028a9e229b",
+          "43bb0c9888dc4f75d6a92444e373c18e996a72db736d80b366cbb508ff2ea441",
+          "cd09360cff1666e55a5d0b501478277a166f57769f6cd8f99e7b87b504680dae",
+          "1b10e0c86b8d849fdc4e0661298678341e8ec0de137e3e0c253f776be067afb7",
+          "d00ab7f55479a01dbf8ecb42fb22cbd9b3b56be8bd62ee70ded9594f4d6c9a9e",
+          "b20bd176c4b6daa9ef20a8cb344f8a938a0a6745c6a7d8d7778dbb4824437fd0",
+          "98c41fb2b9430db286422acffc754f840ec7b249af9689d7976b600c76c8b6ad",
+          "b8d20898f3e8f507c7ed7828b5f55d86c16dcafae214df92c5e377a1c7fc18ad",
+          "188ea58391dd65d850c528dff8c469a48591ca410ea1629ea88e71250ca09921",
+          "b76a9cc1ae2a16a0e7aebcaee36ce334fe107ad6bda9c8a35e7253cf955c4958",
+          "1e6191ad485e295676a07b016447e99ef75b3f0c84c64c861ee4184d62df1c69",
+          "6279ec0330743861fe5901cab18dd67c876c2ca179e3e10b9d60290e9c1c840d",
+          "d5973e682c00ecbd660efcf36f8ea0e76de0705255f4d642caa54ffbf696a79e",
+          "b232103de993b701c8fad798aea7a9129459f89b74f779d823158464c9e32392",
+          "1e308e9ac28277201a1e122fe3e0fcadcb4cbf5796ad52b3642fc63e33376180",
+          "7d9daf9757fc667aba670fe465310e2a85444d1b658f7d8cc1b54e27a32a6e50",
+          "611622be8c55143157ca3cba6d8629945396c673d0cfc350fa1a8b4fb4e66bde",
+          "e51d16db3d2fe66397b3a3242d16bbc7a87c7fac6dc7be9a47f81823e80f50a6",
+          "6b01d1ef003e034045f2fda0bfe4d25e83bce26e823a197a6b3b1d4708e5eb50",
+          "74c542e26986204149afa9fc7f320513491259b758c18fb756e7b2a0d99dfdb0",
+          "b3fd40f9eb97fa512c12d16f066591db5b7d0aa842145637163464aff1476898",
+          "e5c0012f497ce9919873c13c0dfe3fe387c6125644878c9b05350dd469967996",
+          "106d81f4145395bd5bd11840ffbada7a5b4e86ff81e5882e4efa307a6a64d363",
+          "8423fbd218e4db6ece3ae45c9816edc87e47a9ae64f2c2de3276dfbcf17cfb54",
+          "99a212080ba6ceb8b38b77694e60c578f2c302fcbac1e85e4bd701fd3539cede",
+          "afba8f14e73b941b0c773cc7a28df43b01e0c2e982d46d2a85e93f21edd936a4",
+          "373e09d6f37df5fdc0cbd3ce92c733a4f0a4f7310d87f0e99f3b0f68bd1edb2f",
+          "73a39249094a0b71915b9a3d6561c07ded9b36dab29401c870e5707a289f30fe",
+          "09c480133a205da2c2dc8838f76bb843ca74f19d6265ed7d02101c7b23a9e4dc",
+          "64ffdf1df0517fae9079e3e6f1d839b4b9657402c81f1d6ba283d4de5a8cc591",
+          "259cebe15ca521269f55f4f03d2a491081be90731f45268f5d3a8a94f33c39ce",
+          "d95470f945d2964c37725e1ef463e900d83b60fa6e4b6482a56c104e8395a6a0",
+          "deaa0f03833cd6e706fe599496250232dbbdff5061e90074ced46961178ad2e5",
+          "3e3f9fc098cdf6b9a458b4b2e18ddb2d3145ead4f5b2b17c0e0b9d033f220238",
+          "6e6375d5680dc909a708a87ef7bd6d3c3bca93e9677d93745ed4d528374b41a2",
+          "9a8f0fc392d5de92bfed1e202666aaf557a5e075bc180c04a7371a7e93580027",
+          "9f951d8172e27ccc49886f73806bc467e12ca9076826a93a628262dd77966de0",
+          "276250927a61731c6c96689d1e7b288dfb86f79a2581bac65f9a341eb5e01749",
+          "851d18adf49841a0971ab154c2a508beadfe7b2cf639f3bdb792994b78133465",
+          "3b00453f3e520f4b5e9698374b6ff5be3064e1e99780b4d3433238e8f71d7016",
+          "8363715d57bf00a765aebce1d4847966017e2dacab54e3962c690d2a20459cd0",
+          "55f4a16b7fe4d2cdbf3f41aaaec276d86ee7810f1a54c461214deeed90e90835",
+          "ab1e9bd21708739b53b441505db8a2ce0815447abbc8be4516b3db24d18571cc",
+          "47616aabb65c20ffccb6afa8bc9017ec90757311d040f8858d18d6cb5c63cccd",
+          "b25234e8105f5645ac582f9663c275123d921226171d3fa5af33c0deef7b7bc4",
+          "6cab7f661c7e8d20e3a489e1ba1773d30d8652d74d0eb5fae4748bc06ed6f34a",
+          "7177bab88ce815bf2fa8bb482f36676b709cbe77e9d7311d9f6f73f724f4ce52",
+          "cf22445a5890fd6e2c7b695fe53b0a3139b090dea45a2fa21d5633804443c431",
+          "b06d3ac8c4864b631839ee5a312fef56b290b61ad20105d789f9d11a699fb11d",
+          "c9da336373c2c2fbe1da70e3641764e59448a93004a1ce2e7cc6311edf95a6c8",
+          "4964d25a8db7cbd25e71d2052dd19b8e0c576fdef41021c6fe5dfc712f9d4108",
+          "475d0ec8002ef855ce2075ee4ce01716937690d236c12e109de2a645015ee778",
+          "60283f583b294597bdd29aa000acd7863103fb21978bee1cc5ab4c9c9ed288e9",
+          "214ea8090ea9a9b64e77ec29f484adacf64f5c0c0aa388c612ffc042da6de54e",
+          "5b0f9ebc09987cbac71d71bd9c48ed67e8621e799a594b11dd690c0b10b06c7e",
+          "cb7121c78bdfd16c0233314ca6910147cc87b2ea95a5b396cf6825ea0dbe0912",
+          "c22af3f1cd5185e88942cc49c4cbbe9e568f01ac24dd0c6e0a77f5496724a41d",
+          "bc9ed0a0f6813425ad28e8fd7965159d61598c7cf9f6050f275e99de6a664849",
+          "bf582c42448d6b837fae096f5586fc22fba6a14830ec4a5c7f72f25bffdb1426",
+          "1b46420b06063075df1b3b5b5fdccfc29e8af48a95b743c135485571505c1948",
+          "52ef10ab57dfef159eed2d7016a0339eaf6909c53e4962e0bbd4211e9d74bb72",
+          "8c73e602b82e72010002cee4bf71711d9b5d70dd570ab43b0149ab23a21b1219",
+          "2e5f5cb9a565b594520c46e4cfcbecb47a839ed942b1b1ed4eef057e5fc19fc9",
+          "1bf7e53c168489e56cd03762faf8848038b135dd95aee26960a3af5899c49d6c",
+          "f47b36d7000d9c9a2a7a076dd78bf6c484427266785b53eaa08d44acbf40de6a",
+          "23ab3b80d4a9f31fea0303e794673213ee1738130bddec56d97ba84d5adb6043",
+          "bc7953b9e363afb51e5c2aaebfc9b568d7ccdc6c98df31c45d0f4440f1ccdeda",
+          "60701c34cee7c62fce4ae351999b52be4ae24cb01fd651f0feab36f0a3e47fef",
+          "8147ed9e22c181003fcd2243db9c6de7807a8946d9e522cbf73100f95a9f98d6",
+          "449dd75b2790104d6eba7e3dbe1844e0a6e9e939ffd1f61db082fcaaa283c2f1",
+          "054e9ce7863843160806d9aaaddfd35f8817d74457937d0891054ed87e039303",
+          "d58b010000b3de407c6220de1b11ad36b5b0decf2dae09cdf27f02c97bbe0ed4",
+          "5ec3c7e5f9e868bcda0a564fd4dc0dae22d6998b8e72fc7fa2dae67f8b1fff49",
+          "72387e0d8ffe287ebd262ce0295bcadf22fe37641a155b4b4941183f00528319",
+          "1e728b2ba22c7eb346b8453d6c3b5d2a885e373480f3aecca7f35117f843cc42",
+          "6421a52488f6ed2b07ad97e762e5d2f7d4122da557d8adc9910e50a82904cbee",
+          "dd6c2b88b6fdb34fe9576312f71dfdc8a801cdd22b5082775a81a57617349079",
+          "3f9ecf91c9906206d56cb48f01bbe47b1695e89bd2b0a434e3783201305ed5bb",
+          "c1795f35c8e8899785dfd92b2cc0eb11862471d838037b9db64b60952a8ed285",
+          "6478629ec78d3b9d3154689dd3f58a3ee780036b7c6f91b2994510767d21d62c",
+          "ab2a88d61374a1c54b5415fe4e4f3c89c5e6537e6b6f7c30b43ebb9e6b430a1d",
+          "29003889c36edf1fef6a45a73c0f13b2ea16655beab08ccbb6b952b528ed3585",
+          "9850893d73bd55081cd690d48ed997ee1ec2351c003821e911b665222274061f",
+          "3ee8e7a0f7e1b7a1c3a43c6084308a12750e8815c4368df6c1418c7afec4fba7",
+          "70224dfc52c9a8a85375c516fb6c6c562a8531c8ecaa1928fc17773d08b4e347",
+          "0dbdcc86c65ae77e1576a217cfb31c23bcb9b0d99eb2e25a4baa42e23a9a67ee",
+          "73b067b5ea35c590fe932070a8354ea74df5842052be2ea274ae5dcdf8129c83",
+          "abed37b1290ee7711e10515e700a8c18352551ed5eb6fd8f58c5392212725a77",
+          "2420e7e5528a42f28578ba3b9f3cce1deaa83383082092cfbfbca52b5db89d1d",
+          "4329f3aa1003864b6112a1e1bf9b23c5afcd2cd8ff61701c0f9d37006b182480",
+          "09688257a46909417133b8ab10b065a7c66fe40b5ace62205d5397a01d879073",
+          "ae1c285e11d222ee3c469d63a73d6ee2348a42ea506fbb3e8e3f3c9e2365b9b8"
+        ],
+        "links_sha256": "255944d55f7df52cbfc224e9ec3ca3c43c7d7cba4463e9b9f7963b7fae2838a6",
+        "link_hashes": [
+          "c774a0b504d4acc600ecee42ba68c38f2b2d403d6358410aa56d62ca070807b7",
+          "d697f1314a8ee679514f638daa6cd6453e332a6048194531e7bc7f69d2bb4387",
+          "d30fb959b65815a513c859d542f73a6e5e657be8c37ba358d7510c1f4bf9e456",
+          "5c0ede9f35b8abe899c78ecc796faa2242e9248010035292fbec13ecafc200c0",
+          "63601d9f00bb694168ee9b807258787f16e7d16363a8f18feacf08456c0fd836",
+          "c30b2be5335ef3154e00fe9b48269cd5436f8df80038804fcde1290127b81c37",
+          "ef4558210ecf81d1845a890572da2583c027b6bc606511a9bece2f1beb67fc21",
+          "06b5e1a69ff02a8a6b7aec6eef29cc0f98b325e07c0811823f6830b92c3c2d1a",
+          "050a966769d2070106a0550ea82a030d05ddb82fe908f07ca413060f006b884f",
+          "978114ad17a69da7e53a7a134945583d9f0789624b7161b0fb492edb5dc8fed5",
+          "8fc88f522173fb5589a7e56b14e263e0ff4eb4b4ddd067e29d7df77d8a9b209c",
+          "5c980fde6a6d23b730a9cda80c678c055b3739db39114e8ea1130b914015b012",
+          "9fe2e4e3c5ed6ba7531c4e2b1456644f7b19c23c06b035e9e0659a3292002155",
+          "fc24060a2ba998d3cbf494ff640048284a44757a2948471f62a5f2c4b32b4199",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "d0a3588f18246451a980d5a4d0687c2b7befa264bcbdae536eaf78b3593ea5b1",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "8751866c521d25c20622fef4f3db530094855f431e902499cac070e6e820d1c1",
+          "70e358d939d62ab79c089bf04ca7e19a33492cbe51da092f70e9d295c4936152",
+          "54795cecb8d09f04346a49a10ebfab3285341e21230a30cccb7485ddafec8939",
+          "e6ea587e1cb21b80d782d41a1bae7a738e5cf05a0d6eca7d5fe5ea44c2e7c495",
+          "1837723dc8d26fda124cfa5b5a4d20ee6c66375e55225d45a6f0d6d45eb1b087",
+          "a367f805d235fdfd62da1ff3d91f6aab0dd77c6754dadbcf0087712995481788",
+          "1e08651c1ed55851ccbee2730340b4551dfef9b573dee47151ee048796d4671b",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad",
+          "85b40d3a5791ab9e6f1c019325cbd253aaa8171587fd0c40975450175c804af9",
+          "40a49c851d2f95a5059014dd619307dc3a4db920a48d4aa19ae2637638c584fc",
+          "b8133afd148b3f9b68a31d41c094027ee5a6cfb9a59ad3156691b13338c248c1",
+          "6f0b32f1b50b217f32f4615f02ac33c932cee7f8568bb265b3c12ba34827599f",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969",
+          "5aea5a36aafb5713840913f50816fa899e56b2a2b1a743ecb0800a141abf1e2f",
+          "33fe8ccdead3cd4d7c1999951dcca59d20c8998d46dcd66f94ca06958d655d71",
+          "f3e6863c9f2d199b1bc938ee4d33a50bc95ab8ba9b7a6e056f5831043d591532",
+          "8416213853172bc081b9560dea4e88a88c98e0baa038e8c018339e9b58756eb3",
+          "1009d03796a9b95289e549638118f2818604bea578af528e72ae705a59fa6773",
+          "f56ceff50a4b52e09e70922d603566608beb4272b390a4edb90c371012d640b5",
+          "58472889a10440d50365cdc7e499044784bcf6be8daf88c699f54dd4552486a6",
+          "9b81494c73c8f20689a91bdb00c2121e4b9332110213aee73a38b1bc7b25e700",
+          "fec8ced45cbb2ac8be23dddbae9c1f5f03fe5071ba2ac68cdecf84d65cd557ed",
+          "1102d66f3bdacd2766a209707690b55619c8bc6e8fab61256dbf66ed33084a3f",
+          "ed6c3445cdd50239d40b5c789caf4da9520e35b3cce6b1f85383f5cf14a69609",
+          "c6abea0992047e4c2274d0a7b204fc96e7a41c96a15ae1cd1d5dab6157a39acf",
+          "b575a41945e7ee3f3dc8a5832fa42bcb686b25a518768561b81599ff0ddcd803",
+          "d8d6e35acca4a63606fa8a52107a88430b6a8890010f3171d61c73cbf391d5d0",
+          "8a7cf474e3c79b4427ce318e32d2c52fcdd784bd14c226cac56210305ef09c53"
+        ],
+        "media_sha256": "c82726a074f9cb062d4cb7d29103466da2c3fce1e56e5ec1c2fa1436d1a46139",
+        "media_hashes": [
+          "7a411d3e6a2773d4aa6dbc12485319052dbff33525ce3ca73882c16261810988",
+          "6929ec9452d262ebeec9135fd5a3e70648aab952606675b9b8fb90537b872b71",
+          "edec967382cb50d2a693ea0cade49ed63b036acaf62025240b9bd4a58893d96b",
+          "503474dcb3e210f4cf25b4790cd57bfd3973b81851636528dc5aae215e9a0dfd",
+          "0842aa06779c36502d9dfc582ddb60284a02538e7d7d31cd0862b309b75740ea",
+          "fb5083d34b078bc65ff85bbdf01bb14ad6a20591b04661d494012615947d5938",
+          "17d2da8a5a0869a18ed8d179cdde613bc1100fe5e5f47df54fe2c371284e0850",
+          "83ea95e709210f2b5548ddc4956c8fe315b47766f2123e900bdc1dff34b8520a",
+          "5efb8bb3a04bd0b78c1e22c29e0187eeee5a13d65547d7088be17c08347b584e",
+          "5048e7aecc2a5adaf9adfa4877afc9e91ac4cf9caada7dcbd9cd6d16a099b466"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "ポケモンにおける乱数調整の実用例",
+        "published_raw": "2016-12-17T22:18:36+09:00",
+        "source_updated_raw": "2016-12-17T13:18:36+09:00",
+        "text_length": 4365,
+        "body_sha256": "f195b8cb68c4b308d1b18372ac319775a2198d21c415c294fdab3191b25afed2",
+        "block_hashes": [
+          "4f62766fbbacd906e4813b69f0184c285dcd66c516e1c7306ec85f6382cfd681",
+          "bbf3d6df80d8575bd177f35441bd4ffa57c433c29f5e0fec34568cfb16dfc55e",
+          "6cd016ec9337cec3b96fee169961d8e80d54eaae673650a153991a930a51b162",
+          "f2d6f5e519ca3becdbd0c757af2cab3a47aecaea34c0b3bc85547f83d4dd7006",
+          "efb374ed49e410f73c22aa63f889a057d551e8646d2b5cd99b1537ece6968751",
+          "17efbd44f5670788668e0db23ecdf346eae4dc40eb908ade9116f0ca275776f9",
+          "57e9718ba09a85b525cbeed0244ddccd417e6ad90f5e0821cea5c2c7574a8b92",
+          "2990e5f454e74144c22dbc500ff946ef982becf2566d28bb623a0edf578a91ab",
+          "901ebf89b62ae9ae8b03330f92c0c68a4676b483656dae60c3e01cb2bee139ae",
+          "281d42e6bcfc8a761a1dc54618ecfc06575f1dd6f9ae23f31a64b91854cecc49",
+          "83342e519a5367a99efdd50c7d6ca367f18130cbe2b43762c4a9a8028a9e229b",
+          "43bb0c9888dc4f75d6a92444e373c18e996a72db736d80b366cbb508ff2ea441",
+          "cd09360cff1666e55a5d0b501478277a166f57769f6cd8f99e7b87b504680dae",
+          "1b10e0c86b8d849fdc4e0661298678341e8ec0de137e3e0c253f776be067afb7",
+          "d00ab7f55479a01dbf8ecb42fb22cbd9b3b56be8bd62ee70ded9594f4d6c9a9e",
+          "b20bd176c4b6daa9ef20a8cb344f8a938a0a6745c6a7d8d7778dbb4824437fd0",
+          "98c41fb2b9430db286422acffc754f840ec7b249af9689d7976b600c76c8b6ad",
+          "b8d20898f3e8f507c7ed7828b5f55d86c16dcafae214df92c5e377a1c7fc18ad",
+          "188ea58391dd65d850c528dff8c469a48591ca410ea1629ea88e71250ca09921",
+          "b76a9cc1ae2a16a0e7aebcaee36ce334fe107ad6bda9c8a35e7253cf955c4958",
+          "1e6191ad485e295676a07b016447e99ef75b3f0c84c64c861ee4184d62df1c69",
+          "6279ec0330743861fe5901cab18dd67c876c2ca179e3e10b9d60290e9c1c840d",
+          "d5973e682c00ecbd660efcf36f8ea0e76de0705255f4d642caa54ffbf696a79e",
+          "b232103de993b701c8fad798aea7a9129459f89b74f779d823158464c9e32392",
+          "1e308e9ac28277201a1e122fe3e0fcadcb4cbf5796ad52b3642fc63e33376180",
+          "7d9daf9757fc667aba670fe465310e2a85444d1b658f7d8cc1b54e27a32a6e50",
+          "611622be8c55143157ca3cba6d8629945396c673d0cfc350fa1a8b4fb4e66bde",
+          "e51d16db3d2fe66397b3a3242d16bbc7a87c7fac6dc7be9a47f81823e80f50a6",
+          "6b01d1ef003e034045f2fda0bfe4d25e83bce26e823a197a6b3b1d4708e5eb50",
+          "74c542e26986204149afa9fc7f320513491259b758c18fb756e7b2a0d99dfdb0",
+          "b3fd40f9eb97fa512c12d16f066591db5b7d0aa842145637163464aff1476898",
+          "e5c0012f497ce9919873c13c0dfe3fe387c6125644878c9b05350dd469967996",
+          "106d81f4145395bd5bd11840ffbada7a5b4e86ff81e5882e4efa307a6a64d363",
+          "8423fbd218e4db6ece3ae45c9816edc87e47a9ae64f2c2de3276dfbcf17cfb54",
+          "99a212080ba6ceb8b38b77694e60c578f2c302fcbac1e85e4bd701fd3539cede",
+          "afba8f14e73b941b0c773cc7a28df43b01e0c2e982d46d2a85e93f21edd936a4",
+          "373e09d6f37df5fdc0cbd3ce92c733a4f0a4f7310d87f0e99f3b0f68bd1edb2f",
+          "73a39249094a0b71915b9a3d6561c07ded9b36dab29401c870e5707a289f30fe",
+          "09c480133a205da2c2dc8838f76bb843ca74f19d6265ed7d02101c7b23a9e4dc",
+          "64ffdf1df0517fae9079e3e6f1d839b4b9657402c81f1d6ba283d4de5a8cc591",
+          "259cebe15ca521269f55f4f03d2a491081be90731f45268f5d3a8a94f33c39ce",
+          "d95470f945d2964c37725e1ef463e900d83b60fa6e4b6482a56c104e8395a6a0",
+          "deaa0f03833cd6e706fe599496250232dbbdff5061e90074ced46961178ad2e5",
+          "3e3f9fc098cdf6b9a458b4b2e18ddb2d3145ead4f5b2b17c0e0b9d033f220238",
+          "6e6375d5680dc909a708a87ef7bd6d3c3bca93e9677d93745ed4d528374b41a2",
+          "9a8f0fc392d5de92bfed1e202666aaf557a5e075bc180c04a7371a7e93580027",
+          "9f951d8172e27ccc49886f73806bc467e12ca9076826a93a628262dd77966de0",
+          "276250927a61731c6c96689d1e7b288dfb86f79a2581bac65f9a341eb5e01749",
+          "851d18adf49841a0971ab154c2a508beadfe7b2cf639f3bdb792994b78133465",
+          "3b00453f3e520f4b5e9698374b6ff5be3064e1e99780b4d3433238e8f71d7016",
+          "8363715d57bf00a765aebce1d4847966017e2dacab54e3962c690d2a20459cd0",
+          "55f4a16b7fe4d2cdbf3f41aaaec276d86ee7810f1a54c461214deeed90e90835",
+          "ab1e9bd21708739b53b441505db8a2ce0815447abbc8be4516b3db24d18571cc",
+          "47616aabb65c20ffccb6afa8bc9017ec90757311d040f8858d18d6cb5c63cccd",
+          "b25234e8105f5645ac582f9663c275123d921226171d3fa5af33c0deef7b7bc4",
+          "6cab7f661c7e8d20e3a489e1ba1773d30d8652d74d0eb5fae4748bc06ed6f34a",
+          "7177bab88ce815bf2fa8bb482f36676b709cbe77e9d7311d9f6f73f724f4ce52",
+          "cf22445a5890fd6e2c7b695fe53b0a3139b090dea45a2fa21d5633804443c431",
+          "b06d3ac8c4864b631839ee5a312fef56b290b61ad20105d789f9d11a699fb11d",
+          "c9da336373c2c2fbe1da70e3641764e59448a93004a1ce2e7cc6311edf95a6c8",
+          "4964d25a8db7cbd25e71d2052dd19b8e0c576fdef41021c6fe5dfc712f9d4108",
+          "475d0ec8002ef855ce2075ee4ce01716937690d236c12e109de2a645015ee778",
+          "60283f583b294597bdd29aa000acd7863103fb21978bee1cc5ab4c9c9ed288e9",
+          "214ea8090ea9a9b64e77ec29f484adacf64f5c0c0aa388c612ffc042da6de54e",
+          "5b0f9ebc09987cbac71d71bd9c48ed67e8621e799a594b11dd690c0b10b06c7e",
+          "cb7121c78bdfd16c0233314ca6910147cc87b2ea95a5b396cf6825ea0dbe0912",
+          "c22af3f1cd5185e88942cc49c4cbbe9e568f01ac24dd0c6e0a77f5496724a41d",
+          "bc9ed0a0f6813425ad28e8fd7965159d61598c7cf9f6050f275e99de6a664849",
+          "bf582c42448d6b837fae096f5586fc22fba6a14830ec4a5c7f72f25bffdb1426",
+          "1b46420b06063075df1b3b5b5fdccfc29e8af48a95b743c135485571505c1948",
+          "52ef10ab57dfef159eed2d7016a0339eaf6909c53e4962e0bbd4211e9d74bb72",
+          "8c73e602b82e72010002cee4bf71711d9b5d70dd570ab43b0149ab23a21b1219",
+          "2e5f5cb9a565b594520c46e4cfcbecb47a839ed942b1b1ed4eef057e5fc19fc9",
+          "1bf7e53c168489e56cd03762faf8848038b135dd95aee26960a3af5899c49d6c",
+          "f47b36d7000d9c9a2a7a076dd78bf6c484427266785b53eaa08d44acbf40de6a",
+          "23ab3b80d4a9f31fea0303e794673213ee1738130bddec56d97ba84d5adb6043",
+          "bc7953b9e363afb51e5c2aaebfc9b568d7ccdc6c98df31c45d0f4440f1ccdeda",
+          "60701c34cee7c62fce4ae351999b52be4ae24cb01fd651f0feab36f0a3e47fef",
+          "8147ed9e22c181003fcd2243db9c6de7807a8946d9e522cbf73100f95a9f98d6",
+          "449dd75b2790104d6eba7e3dbe1844e0a6e9e939ffd1f61db082fcaaa283c2f1",
+          "054e9ce7863843160806d9aaaddfd35f8817d74457937d0891054ed87e039303",
+          "d58b010000b3de407c6220de1b11ad36b5b0decf2dae09cdf27f02c97bbe0ed4",
+          "5ec3c7e5f9e868bcda0a564fd4dc0dae22d6998b8e72fc7fa2dae67f8b1fff49",
+          "72387e0d8ffe287ebd262ce0295bcadf22fe37641a155b4b4941183f00528319",
+          "1e728b2ba22c7eb346b8453d6c3b5d2a885e373480f3aecca7f35117f843cc42",
+          "6421a52488f6ed2b07ad97e762e5d2f7d4122da557d8adc9910e50a82904cbee",
+          "dd6c2b88b6fdb34fe9576312f71dfdc8a801cdd22b5082775a81a57617349079",
+          "3f9ecf91c9906206d56cb48f01bbe47b1695e89bd2b0a434e3783201305ed5bb",
+          "c1795f35c8e8899785dfd92b2cc0eb11862471d838037b9db64b60952a8ed285",
+          "6478629ec78d3b9d3154689dd3f58a3ee780036b7c6f91b2994510767d21d62c",
+          "ab2a88d61374a1c54b5415fe4e4f3c89c5e6537e6b6f7c30b43ebb9e6b430a1d",
+          "29003889c36edf1fef6a45a73c0f13b2ea16655beab08ccbb6b952b528ed3585",
+          "9850893d73bd55081cd690d48ed997ee1ec2351c003821e911b665222274061f",
+          "3ee8e7a0f7e1b7a1c3a43c6084308a12750e8815c4368df6c1418c7afec4fba7",
+          "70224dfc52c9a8a85375c516fb6c6c562a8531c8ecaa1928fc17773d08b4e347",
+          "0dbdcc86c65ae77e1576a217cfb31c23bcb9b0d99eb2e25a4baa42e23a9a67ee",
+          "73b067b5ea35c590fe932070a8354ea74df5842052be2ea274ae5dcdf8129c83",
+          "abed37b1290ee7711e10515e700a8c18352551ed5eb6fd8f58c5392212725a77",
+          "2420e7e5528a42f28578ba3b9f3cce1deaa83383082092cfbfbca52b5db89d1d",
+          "4329f3aa1003864b6112a1e1bf9b23c5afcd2cd8ff61701c0f9d37006b182480",
+          "09688257a46909417133b8ab10b065a7c66fe40b5ace62205d5397a01d879073",
+          "ae1c285e11d222ee3c469d63a73d6ee2348a42ea506fbb3e8e3f3c9e2365b9b8"
+        ],
+        "links_sha256": "255944d55f7df52cbfc224e9ec3ca3c43c7d7cba4463e9b9f7963b7fae2838a6",
+        "link_hashes": [
+          "c774a0b504d4acc600ecee42ba68c38f2b2d403d6358410aa56d62ca070807b7",
+          "d697f1314a8ee679514f638daa6cd6453e332a6048194531e7bc7f69d2bb4387",
+          "d30fb959b65815a513c859d542f73a6e5e657be8c37ba358d7510c1f4bf9e456",
+          "5c0ede9f35b8abe899c78ecc796faa2242e9248010035292fbec13ecafc200c0",
+          "63601d9f00bb694168ee9b807258787f16e7d16363a8f18feacf08456c0fd836",
+          "c30b2be5335ef3154e00fe9b48269cd5436f8df80038804fcde1290127b81c37",
+          "ef4558210ecf81d1845a890572da2583c027b6bc606511a9bece2f1beb67fc21",
+          "06b5e1a69ff02a8a6b7aec6eef29cc0f98b325e07c0811823f6830b92c3c2d1a",
+          "050a966769d2070106a0550ea82a030d05ddb82fe908f07ca413060f006b884f",
+          "978114ad17a69da7e53a7a134945583d9f0789624b7161b0fb492edb5dc8fed5",
+          "8fc88f522173fb5589a7e56b14e263e0ff4eb4b4ddd067e29d7df77d8a9b209c",
+          "5c980fde6a6d23b730a9cda80c678c055b3739db39114e8ea1130b914015b012",
+          "9fe2e4e3c5ed6ba7531c4e2b1456644f7b19c23c06b035e9e0659a3292002155",
+          "fc24060a2ba998d3cbf494ff640048284a44757a2948471f62a5f2c4b32b4199",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "d0a3588f18246451a980d5a4d0687c2b7befa264bcbdae536eaf78b3593ea5b1",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "8751866c521d25c20622fef4f3db530094855f431e902499cac070e6e820d1c1",
+          "70e358d939d62ab79c089bf04ca7e19a33492cbe51da092f70e9d295c4936152",
+          "54795cecb8d09f04346a49a10ebfab3285341e21230a30cccb7485ddafec8939",
+          "e6ea587e1cb21b80d782d41a1bae7a738e5cf05a0d6eca7d5fe5ea44c2e7c495",
+          "1837723dc8d26fda124cfa5b5a4d20ee6c66375e55225d45a6f0d6d45eb1b087",
+          "a367f805d235fdfd62da1ff3d91f6aab0dd77c6754dadbcf0087712995481788",
+          "1e08651c1ed55851ccbee2730340b4551dfef9b573dee47151ee048796d4671b",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad",
+          "85b40d3a5791ab9e6f1c019325cbd253aaa8171587fd0c40975450175c804af9",
+          "40a49c851d2f95a5059014dd619307dc3a4db920a48d4aa19ae2637638c584fc",
+          "b8133afd148b3f9b68a31d41c094027ee5a6cfb9a59ad3156691b13338c248c1",
+          "6f0b32f1b50b217f32f4615f02ac33c932cee7f8568bb265b3c12ba34827599f",
+          "759a3e14cc4ec9bffb20da8165f3683961297dc158da34832803d903a801d969",
+          "5aea5a36aafb5713840913f50816fa899e56b2a2b1a743ecb0800a141abf1e2f",
+          "33fe8ccdead3cd4d7c1999951dcca59d20c8998d46dcd66f94ca06958d655d71",
+          "f3e6863c9f2d199b1bc938ee4d33a50bc95ab8ba9b7a6e056f5831043d591532",
+          "8416213853172bc081b9560dea4e88a88c98e0baa038e8c018339e9b58756eb3",
+          "1009d03796a9b95289e549638118f2818604bea578af528e72ae705a59fa6773",
+          "f56ceff50a4b52e09e70922d603566608beb4272b390a4edb90c371012d640b5",
+          "58472889a10440d50365cdc7e499044784bcf6be8daf88c699f54dd4552486a6",
+          "9b81494c73c8f20689a91bdb00c2121e4b9332110213aee73a38b1bc7b25e700",
+          "fec8ced45cbb2ac8be23dddbae9c1f5f03fe5071ba2ac68cdecf84d65cd557ed",
+          "1102d66f3bdacd2766a209707690b55619c8bc6e8fab61256dbf66ed33084a3f",
+          "ed6c3445cdd50239d40b5c789caf4da9520e35b3cce6b1f85383f5cf14a69609",
+          "c6abea0992047e4c2274d0a7b204fc96e7a41c96a15ae1cd1d5dab6157a39acf",
+          "b575a41945e7ee3f3dc8a5832fa42bcb686b25a518768561b81599ff0ddcd803",
+          "d8d6e35acca4a63606fa8a52107a88430b6a8890010f3171d61c73cbf391d5d0",
+          "8a7cf474e3c79b4427ce318e32d2c52fcdd784bd14c226cac56210305ef09c53"
+        ],
+        "media_sha256": "c82726a074f9cb062d4cb7d29103466da2c3fce1e56e5ec1c2fa1436d1a46139",
+        "media_hashes": [
+          "7a411d3e6a2773d4aa6dbc12485319052dbff33525ce3ca73882c16261810988",
+          "6929ec9452d262ebeec9135fd5a3e70648aab952606675b9b8fb90537b872b71",
+          "edec967382cb50d2a693ea0cade49ed63b036acaf62025240b9bd4a58893d96b",
+          "503474dcb3e210f4cf25b4790cd57bfd3973b81851636528dc5aae215e9a0dfd",
+          "0842aa06779c36502d9dfc582ddb60284a02538e7d7d31cd0862b309b75740ea",
+          "fb5083d34b078bc65ff85bbdf01bb14ad6a20591b04661d494012615947d5938",
+          "17d2da8a5a0869a18ed8d179cdde613bc1100fe5e5f47df54fe2c371284e0850",
+          "83ea95e709210f2b5548ddc4956c8fe315b47766f2123e900bdc1dff34b8520a",
+          "5efb8bb3a04bd0b78c1e22c29e0187eeee5a13d65547d7088be17c08347b584e",
+          "5048e7aecc2a5adaf9adfa4877afc9e91ac4cf9caada7dcbd9cd6d16a099b466"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20161217/1481635116",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://buster-poke.hatenablog.com/entry/20171203/1512226107": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "HGSS レッド撃破RTA ライコウチャート解説動画",
+        "published_raw": "2017-12-03T23:48:27+09:00",
+        "source_updated_raw": "2017-12-03T14:48:27+09:00",
+        "text_length": 767,
+        "body_sha256": "3539f1e16e0e67ce08def1fef8196c34181273f901c86d00146d8c47abccbac9",
+        "block_hashes": [
+          "43c72829185573df802e38b23ee3c6f570c1b5090d79fe57a14d172b87086275",
+          "d5b628686d9e8c3e5f6e67a5eec81e21f8029796e285822cad6e260956deb382",
+          "a139479d8103e5042325817262adceb15cbb977ea7f30511491083ed8d16cb06",
+          "82e1ceb1c1e2e84690dd394cf50845303c4271aab5f79622f452704ab387c7e7",
+          "1e764434cb5cffb54b2f2da7213bbe440c02fa0568e8069b4c6cde82839b90da",
+          "6e7e6ad46598540ba23f076b34db2cf1ae13546d4753a3bb10571e3291298d8d",
+          "b5c9802fda80783279b77bdad319f2e688674c94004cc8f5f4911bd933e4b24f",
+          "4c4d5b2f3520c139248842229eac57d0e8b277a854c4aad91dd282870d09da09",
+          "237a8887210d98c133304a3885b91046733d2a4acea02b2b261da4bdf1e67154",
+          "cd87c1f2d040c36f2049b94fdf93283c248bb0bea01928ddee61ea006ab1097c",
+          "237a8887210d98c133304a3885b91046733d2a4acea02b2b261da4bdf1e67154",
+          "06b455716536442e0e592ca22ff5230929396f75c888f059476f7a22f66d25c8",
+          "e2a7252d6debff3bfa469e0f4a1a51366b7a9b536a5cafef928b2f6e777b5faa",
+          "43cb521be34282c4d8eed5fa144896c19ac04adfa18d16d89248f961887a9ab0",
+          "21b1a17f7e17b41023bbe1e059626c140403c1e6cb8e8a53b4826f5a7966a586",
+          "1f554dd25644fb6b9f983a6b89d427f5de18e11cadb960c53740d96244c670d6",
+          "b36e981fae4150361fddbadf6498c872b18862649efa36ada2704f03e60db93a",
+          "838be9cc9f6cad135fd29cd18e304a659976c5cf2d3a8cd0a586888c83f31879",
+          "ca700cc7c3c59ad30b8d828294ee433b5b6a7dea8b96063f3d7ca344085f7200",
+          "39ab9ed8a04f64252d3b5a38c537838a55f7cb65a6a0249dff7782e5da2a610b",
+          "132ebe5428ab7d4fdb94071f2d394b1566ba61d18cc4bf2c766ca74810303e37",
+          "7baea272b424ce24d57cde39c47f5ff6459c09d9457d0945ef51c8fdd3052a9b",
+          "5fafcbd9a398b7d73f7e72a46208c9c626e3ebc1a87498d73bda8879854fabba",
+          "3e3c5cf14aa37baaea7dbf37299a319fc655e9f75d2d3c6fd82a23e9a2cbc1f3",
+          "453ab5ae64af366620d966ffe7a5cce8bc0f62927e7c4a228895297a3e4f31ab",
+          "eb0609fcd2dae737028f232dc5c329599489d2ea94d6952f27c1b3900d28b310"
+        ],
+        "links_sha256": "4e7c86fdb74c6cccc85c5ac4e1bbd282a5a8495bc46d72aa1d9d014d972bb1da",
+        "link_hashes": [
+          "885958a2ef8f2094ed3cda99c4646f8287f4b473282edba07757d089ba8a28ac",
+          "82e1ceb1c1e2e84690dd394cf50845303c4271aab5f79622f452704ab387c7e7",
+          "eb65e4b7cd1578c6f64555b9e03c1ce82354828571e3eefe5ec61d4e34a35779",
+          "87f8c5296be28017721057e37820d95814c4219fc22551b1a7f920704888b6ee",
+          "d0a3588f18246451a980d5a4d0687c2b7befa264bcbdae536eaf78b3593ea5b1",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad",
+          "6515c3dd54885b38b170d51693041b2a3a0530538142db61fd094ba3afcc82cd",
+          "b59b2224fbfd1dfcc7a57ffdcb2b8097006ccf969e26cd7d41e1630d2d242c5e",
+          "c5f1d27d3631e3fc7c046657d7f095f3e66da0918d8fa94692effb2e01cfa991",
+          "bf47480bb795ae9b7014aa165d55188dca249bf9bb2dbfe0983d0fc1d63dd9b2",
+          "7d3619ac9b4a765a21b9d68fb2d1cabf7eb2d9e6000fd58d55575ce58838eee3",
+          "e2052d57f9fd3389c2873687b8969bdf8aa19b8d656205fc9310a6667dcb3719",
+          "b0ce213f4cd1a4e7bcac597d4950e00457353603c8ab7915ffe7e546737e636e"
+        ],
+        "media_sha256": "0b7caf40169472d3c3ce659785f2b3203801bf3849e84e0bc9080936056ddc0a",
+        "media_hashes": [
+          "0b7caf40169472d3c3ce659785f2b3203801bf3849e84e0bc9080936056ddc0a"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "HGSS レッド撃破RTA ライコウチャート解説動画",
+        "published_raw": "2017-12-03T23:48:27+09:00",
+        "source_updated_raw": "2017-12-03T14:48:27+09:00",
+        "text_length": 767,
+        "body_sha256": "3539f1e16e0e67ce08def1fef8196c34181273f901c86d00146d8c47abccbac9",
+        "block_hashes": [
+          "43c72829185573df802e38b23ee3c6f570c1b5090d79fe57a14d172b87086275",
+          "d5b628686d9e8c3e5f6e67a5eec81e21f8029796e285822cad6e260956deb382",
+          "a139479d8103e5042325817262adceb15cbb977ea7f30511491083ed8d16cb06",
+          "82e1ceb1c1e2e84690dd394cf50845303c4271aab5f79622f452704ab387c7e7",
+          "1e764434cb5cffb54b2f2da7213bbe440c02fa0568e8069b4c6cde82839b90da",
+          "6e7e6ad46598540ba23f076b34db2cf1ae13546d4753a3bb10571e3291298d8d",
+          "b5c9802fda80783279b77bdad319f2e688674c94004cc8f5f4911bd933e4b24f",
+          "4c4d5b2f3520c139248842229eac57d0e8b277a854c4aad91dd282870d09da09",
+          "237a8887210d98c133304a3885b91046733d2a4acea02b2b261da4bdf1e67154",
+          "cd87c1f2d040c36f2049b94fdf93283c248bb0bea01928ddee61ea006ab1097c",
+          "237a8887210d98c133304a3885b91046733d2a4acea02b2b261da4bdf1e67154",
+          "06b455716536442e0e592ca22ff5230929396f75c888f059476f7a22f66d25c8",
+          "e2a7252d6debff3bfa469e0f4a1a51366b7a9b536a5cafef928b2f6e777b5faa",
+          "43cb521be34282c4d8eed5fa144896c19ac04adfa18d16d89248f961887a9ab0",
+          "21b1a17f7e17b41023bbe1e059626c140403c1e6cb8e8a53b4826f5a7966a586",
+          "1f554dd25644fb6b9f983a6b89d427f5de18e11cadb960c53740d96244c670d6",
+          "b36e981fae4150361fddbadf6498c872b18862649efa36ada2704f03e60db93a",
+          "838be9cc9f6cad135fd29cd18e304a659976c5cf2d3a8cd0a586888c83f31879",
+          "ca700cc7c3c59ad30b8d828294ee433b5b6a7dea8b96063f3d7ca344085f7200",
+          "39ab9ed8a04f64252d3b5a38c537838a55f7cb65a6a0249dff7782e5da2a610b",
+          "132ebe5428ab7d4fdb94071f2d394b1566ba61d18cc4bf2c766ca74810303e37",
+          "7baea272b424ce24d57cde39c47f5ff6459c09d9457d0945ef51c8fdd3052a9b",
+          "5fafcbd9a398b7d73f7e72a46208c9c626e3ebc1a87498d73bda8879854fabba",
+          "3e3c5cf14aa37baaea7dbf37299a319fc655e9f75d2d3c6fd82a23e9a2cbc1f3",
+          "453ab5ae64af366620d966ffe7a5cce8bc0f62927e7c4a228895297a3e4f31ab",
+          "eb0609fcd2dae737028f232dc5c329599489d2ea94d6952f27c1b3900d28b310"
+        ],
+        "links_sha256": "4e7c86fdb74c6cccc85c5ac4e1bbd282a5a8495bc46d72aa1d9d014d972bb1da",
+        "link_hashes": [
+          "885958a2ef8f2094ed3cda99c4646f8287f4b473282edba07757d089ba8a28ac",
+          "82e1ceb1c1e2e84690dd394cf50845303c4271aab5f79622f452704ab387c7e7",
+          "eb65e4b7cd1578c6f64555b9e03c1ce82354828571e3eefe5ec61d4e34a35779",
+          "87f8c5296be28017721057e37820d95814c4219fc22551b1a7f920704888b6ee",
+          "d0a3588f18246451a980d5a4d0687c2b7befa264bcbdae536eaf78b3593ea5b1",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "0c3c541246922a79efe5a17cfc6cc1e9ee2b4a91ed59e82c423f9ecaf54eafad",
+          "6515c3dd54885b38b170d51693041b2a3a0530538142db61fd094ba3afcc82cd",
+          "b59b2224fbfd1dfcc7a57ffdcb2b8097006ccf969e26cd7d41e1630d2d242c5e",
+          "c5f1d27d3631e3fc7c046657d7f095f3e66da0918d8fa94692effb2e01cfa991",
+          "bf47480bb795ae9b7014aa165d55188dca249bf9bb2dbfe0983d0fc1d63dd9b2",
+          "7d3619ac9b4a765a21b9d68fb2d1cabf7eb2d9e6000fd58d55575ce58838eee3",
+          "e2052d57f9fd3389c2873687b8969bdf8aa19b8d656205fc9310a6667dcb3719",
+          "b0ce213f4cd1a4e7bcac597d4950e00457353603c8ab7915ffe7e546737e636e"
+        ],
+        "media_sha256": "0b7caf40169472d3c3ce659785f2b3203801bf3849e84e0bc9080936056ddc0a",
+        "media_hashes": [
+          "0b7caf40169472d3c3ce659785f2b3203801bf3849e84e0bc9080936056ddc0a"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://error-astray.hatenablog.com/entry/2026/08/19/235319": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "WISHMKRジラーチの厳選は何故困難なのか？",
+        "published_raw": "2026-08-19T23:53:19+09:00",
+        "source_updated_raw": "2026-08-21T02:14:53+09:00",
+        "text_length": 4885,
+        "body_sha256": "0c337575ad875f0be15f5091752632cdcf95bba30ba43fced4c0179e7f024b4b",
+        "block_hashes": [
+          "3c1d977c0ee69e2032323ecc106178b230e5d30b8497cc8c5253465501593409",
+          "c91f8815527e669748c7a2d217688b9a469e32be200ba0e736bc15720f088d97",
+          "6df0af6870d72c54764630b9ccbd80c38b0ecb207e01daee05912a1f2930283e",
+          "2552025b496028ca5f4d65f543a204c131dc2dc79a3cf89ff3bc9f569e6e2a99",
+          "0fe950877389a34297d56ecb4001f02125a043640067288c32fbeb6cf00817cd",
+          "2ef081e4487fc4da9a6703ab84fe6f8feba3f01577ad1c9de544dc04ae2a63d8",
+          "a5acd9135cf3eb471d64ed46dcc43221923210551cdbd9c5b04eb3f4a9938b21",
+          "c111a4da2d8aeeefe5c9aa65cfa278930267a604ac2f4e970922b3fd529e46e5",
+          "9e44f9b3ba07760b02901e0bc4865f3fe0f2fcdc73c7a4f3231f877b1a71a3f1",
+          "65e8adcc424a9c0e07f9408ac8b7083255844b52c494bb6839074fce2d2483f9",
+          "873ac1736446233de554dc890ae9ddcd93a98992cfa6ea8ae3cdfda8eaa4103c",
+          "b7315381905ddf4d648d04f1f8aab7878861b01756e6fed947d4e5d71aa86bd3",
+          "b2b719f58a14118b3f1419c60b9e08948814bca3c81ac989cff353deb8e6652a",
+          "8582ffd522474d13a398ceb10a6d386eeb96af63e091b8dab985b26a8c2573a8",
+          "0386e8794a8c5170c263843738ecfadb8b6a51656b47d857014290d1d396e7ee",
+          "2a6e37d999746eda14f0eaa57fb5b9c9c73d66aa18fbdc25e217b22e385b789d",
+          "03734d3af6eabe2c78353fa5fb9712447310f05b200753f9aed65d92e2287d3f",
+          "85be8f5118f542687001fb63f8c9dcefdf4ae819f007276d36045d841d2ba16f",
+          "32b698b52f8ae54e654c6b3b49e4f01271021fe464e6eec9fb8fe3f2ea2dad03",
+          "00879941dc0a9721ec2afac076f0531945f2335d5d02feb04c6267068c8690dd",
+          "0a2f78ff70e0b9eacf23c4483b7997c6bbc5c8e39f1edb1635c346b894bd2251",
+          "afb17eee8a4d4e3084de18f640242c5e01f1f1332b05085b23d8fa72566ec79f",
+          "64ec2f1fe8b4aba0f6cc51a01496f64e7c1f1373e8741604feea513270a8c04d",
+          "8e4359abc6414203d0992bc517f7cfd953c4de5c24eec80558e39839359f7ba3",
+          "cb3921626967992d4dcdd6a47e582cbd24ecbcd8a6fcf864dd108b38cc901df7",
+          "82390d6385c47e3f1cedf2dd8f02b5d08f527d23eb0985b01fe91282f70b2c49",
+          "a67cc4d9f3c37313e2534492b531b5d702c3881b488c6d6120176c04eb61ebb6",
+          "dfcc9a0862b247ad804557f6254762262db9c507049156abe4e517f4f880f60d",
+          "af4eeb445da19d855532157485594c9126b115f455d1b9cf971e87f60d2aa235",
+          "f0abba0c92967a3fa14245c481b01e72d3fc40751d44494cb7fa8f5a1a94e32c",
+          "99fa5c96e07ec49d52fb7da88d13cbe24a791fbc26775be2549708d75c4a3fa1",
+          "d444982c537142f662ad758d50e748c5d548b92322b74b3fb129f8f71b7bfcb7",
+          "7cc97b756721a6a9f30a61ef1ff710574d7e2d0a1d1f86d77945f86d2893febc",
+          "91231c047fa6ac79ff1c6f6b5b35912a1bae92ff738a90a972da8e82e9ab16b6",
+          "552ffece1d56671d928eaf0fbab83e88261646f332c57164e61f281affd0957b",
+          "46c5fcb3222dae9f65dadb0f59c9c3ed0fe6160643bfd5b733968e2631f5b521",
+          "dd35a189a8057812f5d85fa7c768cbc931598b00c35730b7380d22bea08353b1",
+          "2c58ddb491d7bf492c3899c1dfb3e1034b757c4637ff9653401626135077a7a6",
+          "c270df931bfe91b28a4ad758baedd4f545843ec3220dcc1244bd4dfd20c4e5fb",
+          "539cd27eaecc147344f3942377e240ea3ac65090d6e07506719d4886856dd918",
+          "7137b3862124f0a1669440fe26955c52dfe3f7ef6613273bc0057605d7cdc4d2",
+          "6e85270e73d89755e07ff38725f35a727ba17e1e9f917ede61c5b574550b9465",
+          "a83f9e5c33ced0d88785e4901a60f5733af9336b2e110464066d7200b5d99c8c",
+          "05437e071045a3a5c10382055329aa9ad98f772027bd7e3f77e0ffd542a0b849",
+          "9fcbc8d550e4b4a66e0b46e65918156867980b9d5f4666e5aa1091f421507524",
+          "2e00dbec7813c5992b79c866c1ad3782e0d3c6f805e19f4150eb367184413a97",
+          "774da8fe92d97b74895a541a3f2264466f220b58fd06b9b1882c848cf0c30ff9",
+          "d71be484765a691014f5b6641b97fa0d9876cf024f7b3eee4e77a2d4272b994e",
+          "76ea8b974ca16127af185cc63703b172467a0410c8e06132f8af498dc840c64e",
+          "76f472d3152eccc44c2a815b2d05f05bfcfeb0641a46eef0d2bd3ef24a968a19",
+          "887d347efa01c9c50affb1e9125bd72eac4d9a23a02a81ef239d9b8b54c60914",
+          "6ee046583a2ffe3f24edc0ce9d1d71421f6a807b032cb749a79c3b85bad6fcfe",
+          "4097fbc9a33c39a35cd2e789121572bf988505f8ef9f3e8c1024ee9c024e9581",
+          "7c85c153bf263be6000e937f08666175af36a5cb675ab09327bf395b9836ce2a",
+          "eeb7a3b8b9926c86ddb2e16e80e32df7c85260d2488e11749f66e9fa5b49ea98",
+          "a6447d070e63b995828458c98e4e8bbaca5d2ad79ddd682bb81594f10e017f4a",
+          "29a9413863f3e566bb30c80f76af462112746b725db67b5ff5ae2e8b0db7f229",
+          "73ba39a62fe84f47acd33c30a525692bb9caaea5c3c1e46cc966bcf2b437febd",
+          "5a52e96a87305f33d949261901805ef300144feceabb1a751b72e3d3cc079546",
+          "ca50459d7b443bfa29b9b9cb8394386a5b8d21477ce0469437f95791b5626ca5",
+          "393014c38553c9314423e2801a83c2e064aa8107777934aa27cb55fc888165eb",
+          "f1495667655b9e9a689cea09cc4d3f197af979725ac122ed76f1e514d50b7f31",
+          "d76f5894173734ddebbe5dede9b86d1524323bc447ba6e4430f0ece62da63a41",
+          "2aa44ca291e9f72d6f94107d98be0dbad4751bb2c65ed243f480398546ebcb28",
+          "dd457a1e4a5fd62c4c3945e412c814b89d9bc75bd537f0459e9191767d280768",
+          "c20c2e8bb2e5b7d3a33b8a7d58c167bd42fe4307e1c5e1a7387860fbbc377b9e",
+          "2edb8414a56e3784b66f431c2f2b65c1c3225433f57707dd3fc6eb4ddf6e9190",
+          "05e77a28605209075a6b82d19ed0001c1e311cafe2d5cb7852cebd7763d89234",
+          "c0dc2bfb17875e7870a8d3e91904de5a469c0fce1f727a3dc79e5b69a91d2f15",
+          "05e1b14f1eca6d1bc91ba3078fde7d8be46d8a3aca6686886900b294ee63b40f",
+          "bfbab054353e3a546afe98c64c7c3de5bcf6c3d9b0a0be9a5caf17dc511b9b41",
+          "6fca82cdd4648c468a3fbb075581ec52b336b21f1f5a8ca90a77d867bd30344f",
+          "7c551335c47306b6a5ef8c109ac95d4c279d7c2456c9c4bf4863ab94dd91ec62",
+          "591065ed51a81f99060642d381ee5b88254db576ebca63cb4fc44cc4a9f68dfd",
+          "4ba9c291c6fc5d4da619596f6b506674215d220b9abeeb8c17d0c1f3d46a6daa",
+          "50460711c9c729cc43c6cef57889362e9939bbd0a276b9cd67444cb2ca401db2",
+          "22f69a5c3e7e346a7d704ba60a22ba1f97bff5e95d64bc87385b3eed3db9af21",
+          "5b6eef7e46045d19318a8ac55d1b64a896a5ac661970432815b0dd76a4fe63e4",
+          "3e97738e7c0b66aed92410151a0a643b55d689136faa5390aba467828ab0681c",
+          "9d9f9b31d94c4d874eec281b8947710433ea4207d988c3d8c3d80c3276f7eb21",
+          "f2e4a81498200f9581642a47fca3c591344ec271ecb3f5b15f313f53a9e29df7",
+          "334d9b01a4feac5f476d1397deba93e3595a32ed292ff37c43b0f5116a17eaf3",
+          "63480e40dbde7924c8935f57c3b1cab20dc091e2df22c030f25a63dd81ca21c4",
+          "7a9426db47ca800f543da310d7cbb96851395bcc15cd2c2297ccb81c035b5d61",
+          "c1cab98db2da9dd0c86162debc64a2341eb0bcd79ed05b92034039a61174b462",
+          "e3c3de9fcb2f7798bd24dd4a5e2593ccb497b4f7a8024b2baeee48d1403874a3"
+        ],
+        "links_sha256": "294c5064855b67f2e9bf29b7a4d433db871fcdd5cb524d2acf85e019ccbd9228",
+        "link_hashes": [
+          "8c2cd3299d653321d999e7cba81bd62871a9f6c615e85478ca0b08256830258b",
+          "6760f990283cfd4c52bc025b517998db39c430c9740070b89bfafd5c889ac830",
+          "b736158df321ced1d0cdd0ef9b09734f649e4d58db8dc995e41033dd1259638e",
+          "e1067af2b02213bb43af820c3b89f5d398cf3401fc4eb1cd30806a732cdc3be7",
+          "e68fb5db62a5b4b32cd89a6c5d985421efa24f6de9c1bb4cff168dad4dd59d60"
+        ],
+        "media_sha256": "c5ed3c297054cf4a88e3be909f0666cabff0a76ef5a42df099fb7d70d7e18860",
+        "media_hashes": [
+          "c5ed3c297054cf4a88e3be909f0666cabff0a76ef5a42df099fb7d70d7e18860"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "WISHMKRジラーチの厳選は何故困難なのか？",
+        "published_raw": "2026-08-19T23:53:19+09:00",
+        "source_updated_raw": "2026-08-21T02:14:53+09:00",
+        "text_length": 4885,
+        "body_sha256": "0c337575ad875f0be15f5091752632cdcf95bba30ba43fced4c0179e7f024b4b",
+        "block_hashes": [
+          "3c1d977c0ee69e2032323ecc106178b230e5d30b8497cc8c5253465501593409",
+          "c91f8815527e669748c7a2d217688b9a469e32be200ba0e736bc15720f088d97",
+          "6df0af6870d72c54764630b9ccbd80c38b0ecb207e01daee05912a1f2930283e",
+          "2552025b496028ca5f4d65f543a204c131dc2dc79a3cf89ff3bc9f569e6e2a99",
+          "0fe950877389a34297d56ecb4001f02125a043640067288c32fbeb6cf00817cd",
+          "2ef081e4487fc4da9a6703ab84fe6f8feba3f01577ad1c9de544dc04ae2a63d8",
+          "a5acd9135cf3eb471d64ed46dcc43221923210551cdbd9c5b04eb3f4a9938b21",
+          "c111a4da2d8aeeefe5c9aa65cfa278930267a604ac2f4e970922b3fd529e46e5",
+          "9e44f9b3ba07760b02901e0bc4865f3fe0f2fcdc73c7a4f3231f877b1a71a3f1",
+          "65e8adcc424a9c0e07f9408ac8b7083255844b52c494bb6839074fce2d2483f9",
+          "873ac1736446233de554dc890ae9ddcd93a98992cfa6ea8ae3cdfda8eaa4103c",
+          "b7315381905ddf4d648d04f1f8aab7878861b01756e6fed947d4e5d71aa86bd3",
+          "b2b719f58a14118b3f1419c60b9e08948814bca3c81ac989cff353deb8e6652a",
+          "8582ffd522474d13a398ceb10a6d386eeb96af63e091b8dab985b26a8c2573a8",
+          "0386e8794a8c5170c263843738ecfadb8b6a51656b47d857014290d1d396e7ee",
+          "2a6e37d999746eda14f0eaa57fb5b9c9c73d66aa18fbdc25e217b22e385b789d",
+          "03734d3af6eabe2c78353fa5fb9712447310f05b200753f9aed65d92e2287d3f",
+          "85be8f5118f542687001fb63f8c9dcefdf4ae819f007276d36045d841d2ba16f",
+          "32b698b52f8ae54e654c6b3b49e4f01271021fe464e6eec9fb8fe3f2ea2dad03",
+          "00879941dc0a9721ec2afac076f0531945f2335d5d02feb04c6267068c8690dd",
+          "0a2f78ff70e0b9eacf23c4483b7997c6bbc5c8e39f1edb1635c346b894bd2251",
+          "afb17eee8a4d4e3084de18f640242c5e01f1f1332b05085b23d8fa72566ec79f",
+          "64ec2f1fe8b4aba0f6cc51a01496f64e7c1f1373e8741604feea513270a8c04d",
+          "8e4359abc6414203d0992bc517f7cfd953c4de5c24eec80558e39839359f7ba3",
+          "cb3921626967992d4dcdd6a47e582cbd24ecbcd8a6fcf864dd108b38cc901df7",
+          "82390d6385c47e3f1cedf2dd8f02b5d08f527d23eb0985b01fe91282f70b2c49",
+          "a67cc4d9f3c37313e2534492b531b5d702c3881b488c6d6120176c04eb61ebb6",
+          "dfcc9a0862b247ad804557f6254762262db9c507049156abe4e517f4f880f60d",
+          "af4eeb445da19d855532157485594c9126b115f455d1b9cf971e87f60d2aa235",
+          "f0abba0c92967a3fa14245c481b01e72d3fc40751d44494cb7fa8f5a1a94e32c",
+          "99fa5c96e07ec49d52fb7da88d13cbe24a791fbc26775be2549708d75c4a3fa1",
+          "d444982c537142f662ad758d50e748c5d548b92322b74b3fb129f8f71b7bfcb7",
+          "7cc97b756721a6a9f30a61ef1ff710574d7e2d0a1d1f86d77945f86d2893febc",
+          "91231c047fa6ac79ff1c6f6b5b35912a1bae92ff738a90a972da8e82e9ab16b6",
+          "552ffece1d56671d928eaf0fbab83e88261646f332c57164e61f281affd0957b",
+          "46c5fcb3222dae9f65dadb0f59c9c3ed0fe6160643bfd5b733968e2631f5b521",
+          "dd35a189a8057812f5d85fa7c768cbc931598b00c35730b7380d22bea08353b1",
+          "2c58ddb491d7bf492c3899c1dfb3e1034b757c4637ff9653401626135077a7a6",
+          "c270df931bfe91b28a4ad758baedd4f545843ec3220dcc1244bd4dfd20c4e5fb",
+          "539cd27eaecc147344f3942377e240ea3ac65090d6e07506719d4886856dd918",
+          "7137b3862124f0a1669440fe26955c52dfe3f7ef6613273bc0057605d7cdc4d2",
+          "6e85270e73d89755e07ff38725f35a727ba17e1e9f917ede61c5b574550b9465",
+          "a83f9e5c33ced0d88785e4901a60f5733af9336b2e110464066d7200b5d99c8c",
+          "05437e071045a3a5c10382055329aa9ad98f772027bd7e3f77e0ffd542a0b849",
+          "9fcbc8d550e4b4a66e0b46e65918156867980b9d5f4666e5aa1091f421507524",
+          "2e00dbec7813c5992b79c866c1ad3782e0d3c6f805e19f4150eb367184413a97",
+          "774da8fe92d97b74895a541a3f2264466f220b58fd06b9b1882c848cf0c30ff9",
+          "d71be484765a691014f5b6641b97fa0d9876cf024f7b3eee4e77a2d4272b994e",
+          "76ea8b974ca16127af185cc63703b172467a0410c8e06132f8af498dc840c64e",
+          "76f472d3152eccc44c2a815b2d05f05bfcfeb0641a46eef0d2bd3ef24a968a19",
+          "887d347efa01c9c50affb1e9125bd72eac4d9a23a02a81ef239d9b8b54c60914",
+          "6ee046583a2ffe3f24edc0ce9d1d71421f6a807b032cb749a79c3b85bad6fcfe",
+          "4097fbc9a33c39a35cd2e789121572bf988505f8ef9f3e8c1024ee9c024e9581",
+          "7c85c153bf263be6000e937f08666175af36a5cb675ab09327bf395b9836ce2a",
+          "eeb7a3b8b9926c86ddb2e16e80e32df7c85260d2488e11749f66e9fa5b49ea98",
+          "a6447d070e63b995828458c98e4e8bbaca5d2ad79ddd682bb81594f10e017f4a",
+          "29a9413863f3e566bb30c80f76af462112746b725db67b5ff5ae2e8b0db7f229",
+          "73ba39a62fe84f47acd33c30a525692bb9caaea5c3c1e46cc966bcf2b437febd",
+          "5a52e96a87305f33d949261901805ef300144feceabb1a751b72e3d3cc079546",
+          "ca50459d7b443bfa29b9b9cb8394386a5b8d21477ce0469437f95791b5626ca5",
+          "393014c38553c9314423e2801a83c2e064aa8107777934aa27cb55fc888165eb",
+          "f1495667655b9e9a689cea09cc4d3f197af979725ac122ed76f1e514d50b7f31",
+          "d76f5894173734ddebbe5dede9b86d1524323bc447ba6e4430f0ece62da63a41",
+          "2aa44ca291e9f72d6f94107d98be0dbad4751bb2c65ed243f480398546ebcb28",
+          "dd457a1e4a5fd62c4c3945e412c814b89d9bc75bd537f0459e9191767d280768",
+          "c20c2e8bb2e5b7d3a33b8a7d58c167bd42fe4307e1c5e1a7387860fbbc377b9e",
+          "2edb8414a56e3784b66f431c2f2b65c1c3225433f57707dd3fc6eb4ddf6e9190",
+          "05e77a28605209075a6b82d19ed0001c1e311cafe2d5cb7852cebd7763d89234",
+          "c0dc2bfb17875e7870a8d3e91904de5a469c0fce1f727a3dc79e5b69a91d2f15",
+          "05e1b14f1eca6d1bc91ba3078fde7d8be46d8a3aca6686886900b294ee63b40f",
+          "bfbab054353e3a546afe98c64c7c3de5bcf6c3d9b0a0be9a5caf17dc511b9b41",
+          "6fca82cdd4648c468a3fbb075581ec52b336b21f1f5a8ca90a77d867bd30344f",
+          "7c551335c47306b6a5ef8c109ac95d4c279d7c2456c9c4bf4863ab94dd91ec62",
+          "591065ed51a81f99060642d381ee5b88254db576ebca63cb4fc44cc4a9f68dfd",
+          "4ba9c291c6fc5d4da619596f6b506674215d220b9abeeb8c17d0c1f3d46a6daa",
+          "50460711c9c729cc43c6cef57889362e9939bbd0a276b9cd67444cb2ca401db2",
+          "22f69a5c3e7e346a7d704ba60a22ba1f97bff5e95d64bc87385b3eed3db9af21",
+          "5b6eef7e46045d19318a8ac55d1b64a896a5ac661970432815b0dd76a4fe63e4",
+          "3e97738e7c0b66aed92410151a0a643b55d689136faa5390aba467828ab0681c",
+          "9d9f9b31d94c4d874eec281b8947710433ea4207d988c3d8c3d80c3276f7eb21",
+          "f2e4a81498200f9581642a47fca3c591344ec271ecb3f5b15f313f53a9e29df7",
+          "334d9b01a4feac5f476d1397deba93e3595a32ed292ff37c43b0f5116a17eaf3",
+          "63480e40dbde7924c8935f57c3b1cab20dc091e2df22c030f25a63dd81ca21c4",
+          "7a9426db47ca800f543da310d7cbb96851395bcc15cd2c2297ccb81c035b5d61",
+          "c1cab98db2da9dd0c86162debc64a2341eb0bcd79ed05b92034039a61174b462",
+          "e3c3de9fcb2f7798bd24dd4a5e2593ccb497b4f7a8024b2baeee48d1403874a3"
+        ],
+        "links_sha256": "294c5064855b67f2e9bf29b7a4d433db871fcdd5cb524d2acf85e019ccbd9228",
+        "link_hashes": [
+          "8c2cd3299d653321d999e7cba81bd62871a9f6c615e85478ca0b08256830258b",
+          "6760f990283cfd4c52bc025b517998db39c430c9740070b89bfafd5c889ac830",
+          "b736158df321ced1d0cdd0ef9b09734f649e4d58db8dc995e41033dd1259638e",
+          "e1067af2b02213bb43af820c3b89f5d398cf3401fc4eb1cd30806a732cdc3be7",
+          "e68fb5db62a5b4b32cd89a6c5d985421efa24f6de9c1bb4cff168dad4dd59d60"
+        ],
+        "media_sha256": "c5ed3c297054cf4a88e3be909f0666cabff0a76ef5a42df099fb7d70d7e18860",
+        "media_hashes": [
+          "c5ed3c297054cf4a88e3be909f0666cabff0a76ef5a42df099fb7d70d7e18860"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://oupo.hatenadiary.com/entry/20171222/1513931635": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "くじ番号から裏ID ローカル検索バージョン",
+        "published_raw": "2017-12-22T17:33:55+09:00",
+        "source_updated_raw": "2017-12-22T08:33:55+09:00",
+        "text_length": 382,
+        "body_sha256": "d5860466d1485703633582e04140318b9b54f716f93e401de56de93f5dff6479",
+        "block_hashes": [
+          "97fb10841bb42adf365d7e424bc699817fb12f21a0f33ecd74cfcc8c00a6c690",
+          "adcf51087aa011dc1beb100bdea6d5814bff9fcd2dfb1b3a4649ea8a93ee0e5e",
+          "cd32c15c90ce1b3f970aff43708a3887dac10438c0899ba2008d08d9ffc7e3b4",
+          "50afc5df8eb6e363bfe0139605058c56aee6fe002001f8bbf1610e1afe54dc3f",
+          "d4c5e7080c17f0c82fe0fd69d35809dfd926605a1e0d6506d2e864beac520784",
+          "88fd506f7aabd2678000a4dad99e30fbd0cacb34f54478650344fd0ce4ec5e1c",
+          "b699f71c7fdf5a3e083d1cc5e2f857968bc9e6c9cb1d828db14477dc546b067c",
+          "fa7f36082081516c4c2c63fb6f4366a0b6da96c527aa35bc8c932c2d8d78bfd4",
+          "e3b46f7472c24130a1c1e5b32b45359dfdd957090b537367090ca5361a7f7565",
+          "0bcc63e7f5a961e99458c066c75cd557bf6982c4cc188f961c2f0a3b0c544057",
+          "d16f94731b5d5daac17322b839d8ebdf1d1f1968e46ea48c1d4d22e2868c20f5",
+          "725bfd44fac57a820d7d6277595409e9cd74acc098e3023e729f0b9315c5d073"
+        ],
+        "links_sha256": "6ba3e4840b987a223349ebc3b02c368d0c02dfc7f03a01614c7bbd2e6a771c65",
+        "link_hashes": [
+          "1257ea81c4bad2933dd1af97df27878b505cdf50b6e9527c428d3e2341a505b2",
+          "e68d159b6ea0cab0bd91376bab4bfe5a836e642c16f9ac1ab33694564abb3428",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "4bc4721593875dbe9d6666479999b9dc7a4b8e53dadb180ea5c29506f19c9411",
+          "c3c0bac4f32d849617d2ca97622474313c8dc1ed58d7f847b01054653754b18b",
+          "815b73382cd8fd4b14237c05313ad2a9eb514b070031718bdcf26b08c9b8e896",
+          "53e1fe8dcfd98bccac8127b529eeb6f957839da4736d3d891387771f5ac64d21",
+          "fc90b47fac7a884003907e6562b623634cbd86ba85ff25b708ae4e02feef86af",
+          "0520d18fef3bb4e06aaff07e0773a9eb9651e50de8133b68bf36b4217f57f287"
+        ],
+        "media_sha256": "3a6d50587ea66d5fcfd02bbe9d5eb92144d58fde3551a168f885b3be415c3436",
+        "media_hashes": [
+          "3a6d50587ea66d5fcfd02bbe9d5eb92144d58fde3551a168f885b3be415c3436"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "くじ番号から裏ID ローカル検索バージョン",
+        "published_raw": "2017-12-22T17:33:55+09:00",
+        "source_updated_raw": "2017-12-22T08:33:55+09:00",
+        "text_length": 382,
+        "body_sha256": "d5860466d1485703633582e04140318b9b54f716f93e401de56de93f5dff6479",
+        "block_hashes": [
+          "97fb10841bb42adf365d7e424bc699817fb12f21a0f33ecd74cfcc8c00a6c690",
+          "adcf51087aa011dc1beb100bdea6d5814bff9fcd2dfb1b3a4649ea8a93ee0e5e",
+          "cd32c15c90ce1b3f970aff43708a3887dac10438c0899ba2008d08d9ffc7e3b4",
+          "50afc5df8eb6e363bfe0139605058c56aee6fe002001f8bbf1610e1afe54dc3f",
+          "d4c5e7080c17f0c82fe0fd69d35809dfd926605a1e0d6506d2e864beac520784",
+          "88fd506f7aabd2678000a4dad99e30fbd0cacb34f54478650344fd0ce4ec5e1c",
+          "b699f71c7fdf5a3e083d1cc5e2f857968bc9e6c9cb1d828db14477dc546b067c",
+          "fa7f36082081516c4c2c63fb6f4366a0b6da96c527aa35bc8c932c2d8d78bfd4",
+          "e3b46f7472c24130a1c1e5b32b45359dfdd957090b537367090ca5361a7f7565",
+          "0bcc63e7f5a961e99458c066c75cd557bf6982c4cc188f961c2f0a3b0c544057",
+          "d16f94731b5d5daac17322b839d8ebdf1d1f1968e46ea48c1d4d22e2868c20f5",
+          "725bfd44fac57a820d7d6277595409e9cd74acc098e3023e729f0b9315c5d073"
+        ],
+        "links_sha256": "6ba3e4840b987a223349ebc3b02c368d0c02dfc7f03a01614c7bbd2e6a771c65",
+        "link_hashes": [
+          "1257ea81c4bad2933dd1af97df27878b505cdf50b6e9527c428d3e2341a505b2",
+          "e68d159b6ea0cab0bd91376bab4bfe5a836e642c16f9ac1ab33694564abb3428",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "4bc4721593875dbe9d6666479999b9dc7a4b8e53dadb180ea5c29506f19c9411",
+          "c3c0bac4f32d849617d2ca97622474313c8dc1ed58d7f847b01054653754b18b",
+          "815b73382cd8fd4b14237c05313ad2a9eb514b070031718bdcf26b08c9b8e896",
+          "53e1fe8dcfd98bccac8127b529eeb6f957839da4736d3d891387771f5ac64d21",
+          "fc90b47fac7a884003907e6562b623634cbd86ba85ff25b708ae4e02feef86af",
+          "0520d18fef3bb4e06aaff07e0773a9eb9651e50de8133b68bf36b4217f57f287"
+        ],
+        "media_sha256": "3a6d50587ea66d5fcfd02bbe9d5eb92144d58fde3551a168f885b3be415c3436",
+        "media_hashes": [
+          "3a6d50587ea66d5fcfd02bbe9d5eb92144d58fde3551a168f885b3be415c3436"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://oupo.hatenadiary.com/entry/20171222/1513931635",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://oupo.hatenadiary.com/entry/20171224/1514041216": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "クリスマスイブなのでペラップにWe Wish a Merry Christmasを歌ってもらった",
+        "published_raw": "2017-12-24T00:00:16+09:00",
+        "source_updated_raw": "2017-12-23T15:00:16+09:00",
+        "text_length": 6231,
+        "body_sha256": "cbd2adfff8592fc16a3ecae30328459498cf821cce475f6930cb43bb83d262a1",
+        "block_hashes": [
+          "4ee6ff24cc5952441ef15636e291570be25a516290ce897350908da8a4c53214",
+          "5a5b810b52b0387eacf8d6163207e0c27a89bad679585894aba5e68dc3c6b305",
+          "79fad13195bbc828a174ed2608926298db4307b4a136ba446064eaad2c1cbc61",
+          "43bf71798b81031fd0e4fddfa16feb6d284de9a70d4ac30ab1ee6e78f6b2c6e1",
+          "2f0b52b89f9c8ee8bb69c9bcb8d532829cb152a29e4767f889cb151c59eaf963",
+          "dabf01e15dce89fb7e6c5f1ec36e2a7e6c6e93ece37b6ef75b21d326f12cb733",
+          "52852c3e17610730bdd94fec003a84b1782ca56772bc8cbca7e787f6d9639bf6",
+          "5b5fcc08ced6f3a4738dffd80179db319e915e67bc63906f455dd8ab16177f2b",
+          "745b3e4640975d41b559a0d6375cd8b666679e43e4471ed95983818a00e6718e",
+          "03bb95b28bfc69c5141b2ade9236c2010ccdd16b267be5baf518c458265fbddd",
+          "dc6cb59e438e6b82b765b4cf3bafd5276d10c980795b5525f2704faf75bd7ca9",
+          "63af268434ddf38844344bfc150a808b33a45a989fa3f509893afe2eb3f25bb6",
+          "7e2afec0b5cb2f70c50d3d3b27547b86ddf541fc758aed290585359ee7c89ddf",
+          "83a97b5175ba88ebdf465a4a3a651d3f5a5a438e7887379a96424d24ad786d49"
+        ],
+        "links_sha256": "eec0f80bd8cd9708885c7316375f66d1646a05ebd6a4f186a986e111b8ed99a4",
+        "link_hashes": [
+          "d2bdf0602dff174848dd1ea92936668196b9ee3ec68fec987cf394ba7d3de3bc",
+          "e68d159b6ea0cab0bd91376bab4bfe5a836e642c16f9ac1ab33694564abb3428",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "7aa519bf557a38729ebaf711319cde308a277e60122610205a62163da5e5ff0b",
+          "e19f9a77243d10ba699a87f1c1847b48811c29584ee3f47f59df51c50481b82a",
+          "2490b69b7866ba0445c804bf6be14f2d95e2aa8bbb6a0d2ab8b6eac967d40d5b",
+          "d6172526659b3c9a42bd74798bb490865250e813f7a4e236c73514a81e4d4746",
+          "df4942646a0d630515e06ba25c9207affbe5ab53ae6c60ef36539ca80edd8529",
+          "e2052d57f9fd3389c2873687b8969bdf8aa19b8d656205fc9310a6667dcb3719",
+          "ec0edba916bff7e17f3e10f9ff1aa8ba5e6818f6a0fa995d8364a04cfba38eaa"
+        ],
+        "media_sha256": "f64f20be99dc7467c1ed14f5d2acf7953cdd053814263459a86b02b37d543ec3",
+        "media_hashes": [
+          "f64f20be99dc7467c1ed14f5d2acf7953cdd053814263459a86b02b37d543ec3"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "クリスマスイブなのでペラップにWe Wish a Merry Christmasを歌ってもらった",
+        "published_raw": "2017-12-24T00:00:16+09:00",
+        "source_updated_raw": "2017-12-23T15:00:16+09:00",
+        "text_length": 6231,
+        "body_sha256": "cbd2adfff8592fc16a3ecae30328459498cf821cce475f6930cb43bb83d262a1",
+        "block_hashes": [
+          "4ee6ff24cc5952441ef15636e291570be25a516290ce897350908da8a4c53214",
+          "5a5b810b52b0387eacf8d6163207e0c27a89bad679585894aba5e68dc3c6b305",
+          "79fad13195bbc828a174ed2608926298db4307b4a136ba446064eaad2c1cbc61",
+          "43bf71798b81031fd0e4fddfa16feb6d284de9a70d4ac30ab1ee6e78f6b2c6e1",
+          "2f0b52b89f9c8ee8bb69c9bcb8d532829cb152a29e4767f889cb151c59eaf963",
+          "dabf01e15dce89fb7e6c5f1ec36e2a7e6c6e93ece37b6ef75b21d326f12cb733",
+          "52852c3e17610730bdd94fec003a84b1782ca56772bc8cbca7e787f6d9639bf6",
+          "5b5fcc08ced6f3a4738dffd80179db319e915e67bc63906f455dd8ab16177f2b",
+          "745b3e4640975d41b559a0d6375cd8b666679e43e4471ed95983818a00e6718e",
+          "03bb95b28bfc69c5141b2ade9236c2010ccdd16b267be5baf518c458265fbddd",
+          "dc6cb59e438e6b82b765b4cf3bafd5276d10c980795b5525f2704faf75bd7ca9",
+          "63af268434ddf38844344bfc150a808b33a45a989fa3f509893afe2eb3f25bb6",
+          "7e2afec0b5cb2f70c50d3d3b27547b86ddf541fc758aed290585359ee7c89ddf",
+          "83a97b5175ba88ebdf465a4a3a651d3f5a5a438e7887379a96424d24ad786d49"
+        ],
+        "links_sha256": "eec0f80bd8cd9708885c7316375f66d1646a05ebd6a4f186a986e111b8ed99a4",
+        "link_hashes": [
+          "d2bdf0602dff174848dd1ea92936668196b9ee3ec68fec987cf394ba7d3de3bc",
+          "e68d159b6ea0cab0bd91376bab4bfe5a836e642c16f9ac1ab33694564abb3428",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "7aa519bf557a38729ebaf711319cde308a277e60122610205a62163da5e5ff0b",
+          "e19f9a77243d10ba699a87f1c1847b48811c29584ee3f47f59df51c50481b82a",
+          "2490b69b7866ba0445c804bf6be14f2d95e2aa8bbb6a0d2ab8b6eac967d40d5b",
+          "d6172526659b3c9a42bd74798bb490865250e813f7a4e236c73514a81e4d4746",
+          "df4942646a0d630515e06ba25c9207affbe5ab53ae6c60ef36539ca80edd8529",
+          "e2052d57f9fd3389c2873687b8969bdf8aa19b8d656205fc9310a6667dcb3719",
+          "ec0edba916bff7e17f3e10f9ff1aa8ba5e6818f6a0fa995d8364a04cfba38eaa"
+        ],
+        "media_sha256": "f64f20be99dc7467c1ed14f5d2acf7953cdd053814263459a86b02b37d543ec3",
+        "media_hashes": [
+          "f64f20be99dc7467c1ed14f5d2acf7953cdd053814263459a86b02b37d543ec3"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://oupo.hatenadiary.com/entry/20171224/1514041216",
+      "etag": "",
+      "last_modified": ""
+    },
+    "https://oupo.hatenadiary.com/entry/2020/09/04/145245": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "baseline": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "第5世代でペラップの鳴き声だけから64bit LCGのseedを見つける",
+        "published_raw": "2020-09-04T14:52:45+09:00",
+        "source_updated_raw": "2020-09-04T05:52:45+09:00",
+        "text_length": 3211,
+        "body_sha256": "49dc523025fba8ea705331dbf334e4dc10590b4d0d3eb1e0da0df17ea182269a",
+        "block_hashes": [
+          "aaaf449bd4eac9c5629ab332244ab95c20fab59150ca0428592b44e1ffeba446",
+          "9d55568df599b0d94239e47d0b89507beb858dea263570d87539df72eb1430c7",
+          "7a688306423bec17ca6b53aca56e5c4f2b432380ce4b681ad9c1995445fb48a0",
+          "d62eb1cf575085d6738d3edf85d2cb140f1a876f45d3f1846111c774ca5fe7c6",
+          "256b0752d23e9de4dbdcff0930c6a8d44b2b41a8208c02502fd341980770265c",
+          "0bcfe04b098cffcd80a74aaf3e7da34c0be2e10cceaaecdf11c264430697b549",
+          "e4eb2e13476832bfcfca928426dd4a16cf641ee957c39a76339cb262055bf2fa",
+          "fbb9f8a5543e17cd902cacde7c3e3e7e31e963506cb9f0e252437a05f04ed7c2",
+          "c232fc63f9f0a59ebb1d80246176b0bcf29bc0bc4e470fc68d27137277890aec",
+          "94017b71df51947237c9e5771b2b3a4af5b514c6afdd1e7dd7438aa7ad84595f",
+          "cb8d17059d125cf88dc97da14cf4cc49f81b1d6e6cfd5b7627ba3096b404f8d8",
+          "1b0c818784cd7dcfc8437017c39926e0e4a57e1b67628d98eef03ba192a70788",
+          "320bc11942a3948b86b5e94328b4bacfef0f6fccb68b7bf65b5a1a91466f6e7f",
+          "a186c403478a4d3b5c5ded83b604e944b77e5e1685238e4127232b75017b084c",
+          "bcc776a26fc725d4c278e93101187f6836d78e671af5fd62d287f58430b2a831",
+          "5a5c21f46a19b7c962e319bea2bb3f6c4480d882efd4c6d29dc949f74441f56f",
+          "e7840b93248a696c05086c435d4e48d763e64ecad9956f1d07805bf38bbbfc2c",
+          "e2cc570f175970f09a2ed70bb12de0a20f5e2679529f84cc192ed74f2030aa0f",
+          "edc3efb149a25b9613ce36ac49d50fa08fbda9e7b7120a27b83d2c9a69b24a3f",
+          "f979bc1f0bd96437131953d4409f3ca562699fcf2b826ecaff906fbe7f4f4f1f",
+          "14078411224408b043497bf829735c1b232e046786df4c757f1cadc4d8baf12e",
+          "b32da59ea93a53779647609a3eedc6fdf7d8e99d610ddc64ec590eb9506dde7e",
+          "ee7081e03c2083a1913ed454807273726281d1da8acd3041bb616e75c778b8d9",
+          "574669ad333df2f6c393d97919f92e55cecc8448c2474729ac394ef48e84a5e6",
+          "3a97ce14e9cc39f56924923717fa8f6a4607ed928c31a4facb7d003ae4d5028d",
+          "49cf3e60ea20f8a978c0a6d6ae6906537e67df2a30e997edf7e912fb0265f8ca",
+          "2c4518617d9017defc2aad035cc6a5ee3690c2fc0ebc555d9659afe97f08d893"
+        ],
+        "links_sha256": "9b77c42eedc92bbad0247c0fc0d4d8b6f61ff1d8540517bee7c00565fc528a5a",
+        "link_hashes": [
+          "6c113f93463d919e83d212564231eb0a683dc0e514acb3e4833a33f3d1b9a8db",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "33fe8ccdead3cd4d7c1999951dcca59d20c8998d46dcd66f94ca06958d655d71",
+          "905181a508394180203673b65930e1efd0811d75ee2dde33641dabd804cad895",
+          "f7a5153947576170cc2fe21b541c12301b3b83dbc68ba31fc3b5d75ea621a707",
+          "0f703733dffc69037581fc8452fe48874f2ba439c09c12823a76bda3fddf555d",
+          "559e663d1466a47a6d1d691884132875aca10ba5544262dbd91d1b529ffd5512"
+        ],
+        "media_sha256": "f6accff452cbc40f7c988b6e56b6183cea20f21df4aa51d44809505da329fc4b",
+        "media_hashes": [
+          "f6accff452cbc40f7c988b6e56b6183cea20f21df4aa51d44809505da329fc4b"
+        ]
+      },
+      "latest": {
+        "observed_at": "2026-10-26T04:49:00+00:00",
+        "extractor": "hatena-entry-v1",
+        "title": "第5世代でペラップの鳴き声だけから64bit LCGのseedを見つける",
+        "published_raw": "2020-09-04T14:52:45+09:00",
+        "source_updated_raw": "2020-09-04T05:52:45+09:00",
+        "text_length": 3211,
+        "body_sha256": "49dc523025fba8ea705331dbf334e4dc10590b4d0d3eb1e0da0df17ea182269a",
+        "block_hashes": [
+          "aaaf449bd4eac9c5629ab332244ab95c20fab59150ca0428592b44e1ffeba446",
+          "9d55568df599b0d94239e47d0b89507beb858dea263570d87539df72eb1430c7",
+          "7a688306423bec17ca6b53aca56e5c4f2b432380ce4b681ad9c1995445fb48a0",
+          "d62eb1cf575085d6738d3edf85d2cb140f1a876f45d3f1846111c774ca5fe7c6",
+          "256b0752d23e9de4dbdcff0930c6a8d44b2b41a8208c02502fd341980770265c",
+          "0bcfe04b098cffcd80a74aaf3e7da34c0be2e10cceaaecdf11c264430697b549",
+          "e4eb2e13476832bfcfca928426dd4a16cf641ee957c39a76339cb262055bf2fa",
+          "fbb9f8a5543e17cd902cacde7c3e3e7e31e963506cb9f0e252437a05f04ed7c2",
+          "c232fc63f9f0a59ebb1d80246176b0bcf29bc0bc4e470fc68d27137277890aec",
+          "94017b71df51947237c9e5771b2b3a4af5b514c6afdd1e7dd7438aa7ad84595f",
+          "cb8d17059d125cf88dc97da14cf4cc49f81b1d6e6cfd5b7627ba3096b404f8d8",
+          "1b0c818784cd7dcfc8437017c39926e0e4a57e1b67628d98eef03ba192a70788",
+          "320bc11942a3948b86b5e94328b4bacfef0f6fccb68b7bf65b5a1a91466f6e7f",
+          "a186c403478a4d3b5c5ded83b604e944b77e5e1685238e4127232b75017b084c",
+          "bcc776a26fc725d4c278e93101187f6836d78e671af5fd62d287f58430b2a831",
+          "5a5c21f46a19b7c962e319bea2bb3f6c4480d882efd4c6d29dc949f74441f56f",
+          "e7840b93248a696c05086c435d4e48d763e64ecad9956f1d07805bf38bbbfc2c",
+          "e2cc570f175970f09a2ed70bb12de0a20f5e2679529f84cc192ed74f2030aa0f",
+          "edc3efb149a25b9613ce36ac49d50fa08fbda9e7b7120a27b83d2c9a69b24a3f",
+          "f979bc1f0bd96437131953d4409f3ca562699fcf2b826ecaff906fbe7f4f4f1f",
+          "14078411224408b043497bf829735c1b232e046786df4c757f1cadc4d8baf12e",
+          "b32da59ea93a53779647609a3eedc6fdf7d8e99d610ddc64ec590eb9506dde7e",
+          "ee7081e03c2083a1913ed454807273726281d1da8acd3041bb616e75c778b8d9",
+          "574669ad333df2f6c393d97919f92e55cecc8448c2474729ac394ef48e84a5e6",
+          "3a97ce14e9cc39f56924923717fa8f6a4607ed928c31a4facb7d003ae4d5028d",
+          "49cf3e60ea20f8a978c0a6d6ae6906537e67df2a30e997edf7e912fb0265f8ca",
+          "2c4518617d9017defc2aad035cc6a5ee3690c2fc0ebc555d9659afe97f08d893"
+        ],
+        "links_sha256": "9b77c42eedc92bbad0247c0fc0d4d8b6f61ff1d8540517bee7c00565fc528a5a",
+        "link_hashes": [
+          "6c113f93463d919e83d212564231eb0a683dc0e514acb3e4833a33f3d1b9a8db",
+          "f2b75c4bb6e506c616fe3fbafd0fb34035ee38c8f9e23bceeb6481841e368d76",
+          "4a4c1905a68edba0d0461863af58fed7d14b419f78d562043adcd4d7ed5c34bb",
+          "33fe8ccdead3cd4d7c1999951dcca59d20c8998d46dcd66f94ca06958d655d71",
+          "905181a508394180203673b65930e1efd0811d75ee2dde33641dabd804cad895",
+          "f7a5153947576170cc2fe21b541c12301b3b83dbc68ba31fc3b5d75ea621a707",
+          "0f703733dffc69037581fc8452fe48874f2ba439c09c12823a76bda3fddf555d",
+          "559e663d1466a47a6d1d691884132875aca10ba5544262dbd91d1b529ffd5512"
+        ],
+        "media_sha256": "f6accff452cbc40f7c988b6e56b6183cea20f21df4aa51d44809505da329fc4b",
+        "media_hashes": [
+          "f6accff452cbc40f7c988b6e56b6183cea20f21df4aa51d44809505da329fc4b"
+        ]
+      },
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "final_url": "https://oupo.hatenadiary.com/entry/2020/09/04/145245",
       "etag": "",
       "last_modified": ""
     }
   },
   "feeds": {
     "https://blastoise-x.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://dokudenpa.hatenablog.jp/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://e52301147.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://hope3gen.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://larvesta10.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://metagross-armor.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://milk4724.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-25T04:43:09+00:00",
+      "last_error": {
+        "at": "2026-10-26T04:49:00+00:00",
+        "message": "robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      }
     },
     "https://namofure.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://oupo.hatenadiary.com/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
     },
     "https://purely11.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://rusted-coil-test.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://taiyaki3gen.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://wasou3721.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://you396.hatenadiary.jp/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
     },
     "https://bzl.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "last_error": {
-        "at": "2026-10-25T04:43:09+00:00",
+        "at": "2026-10-26T04:49:00+00:00",
         "message": "redirect outside allowed public Hatena hosts"
       }
     },
     "https://eruakudiary.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://fuchiaz.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://hijikichi.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://honasho5.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://kuzuhiko.hatenadiary.org/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://miga0547.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://milk4724.hatenadiary.org/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
     },
     "https://notwogetstwo.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://prie0908.hatenadiary.com/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
     },
     "https://takedpok.hatenablog.com/": {
-      "last_attempt_at": "2026-10-24T04:38:29+00:00",
-      "checked_at": "2026-10-24T04:38:29+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://d.hatena.ne.jp/FuchiAz/": {
       "last_attempt_at": "2026-10-16T06:40:49+00:00",
@@ -14194,20 +15901,24 @@
       }
     },
     "https://buster-poke.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://nyokki2319.hatenablog.com/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
     },
     "https://bo-man.hatenablog.com/": {
-      "last_attempt_at": "2026-10-25T04:43:09+00:00",
-      "checked_at": "2026-10-25T04:43:09+00:00"
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     },
     "https://d.hatena.ne.jp/kuzuhiko/": {
       "last_attempt_at": "2026-10-25T04:43:09+00:00",
       "checked_at": "2026-10-25T04:43:09+00:00"
+    },
+    "https://error-astray.hatenablog.com/": {
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00"
     }
   },
   "archives": {
@@ -14272,42 +15983,42 @@
       "last_page_hash": "4e00f44bef56de57a1dbfb412c29bb3797294f9d1adfe1053f3637a20e759843"
     },
     "https://rusted-coil-test.hatenablog.com/": {
-      "next_page": 5,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00",
-      "last_page_hash": "8b50c33d793552b3245eb6c848823530bff0b7aef86a2f2022020e514558ada6"
+      "next_page": 6,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "9a03ca96df1855f9c12b2166951e38958215e66b32d3166c5a10bf0453e5a2d1"
     },
     "https://taiyaki3gen.hatenablog.com/": {
-      "next_page": 1,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00",
-      "last_page_hash": "31e76ae348f81bc631909f86a9c34f0b4461a286ca8cc4732cf030f75197e732"
+      "next_page": 2,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "42da45a477abdfa7a1dbb2bc06d8156d18bf0f3e28e89df2ee4004f9296e5570"
     },
     "https://wasou3721.hatenablog.com/": {
-      "next_page": 5,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00",
-      "last_page_hash": "acb33995b3ff48d821f3ed0487e492e3594eff3d0562e286eebfe1763b60193f"
+      "next_page": 6,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "63a88e48ccea38b0d8887b55a97d83f8cd9b8aeaba8717ef13990fbb532a7c95"
     },
     "https://you396.hatenadiary.jp/": {
-      "next_page": 1,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00",
-      "last_page_hash": "d1a0ae3f6db9944251df5067aee8b4eeb0aaa48d72db91090faaa8d48b10323e"
+      "next_page": 2,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "5ef139bdd81e3929ce7f222446d0aae8ad2931b955ae42b9ac3abcc69c93cf14"
     },
     "https://bzl.hatenablog.com/": {
       "next_page": 1,
-      "last_attempt_at": "2026-10-23T04:51:23+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "last_error": {
-        "at": "2026-10-23T04:51:23+00:00",
+        "at": "2026-10-26T04:49:00+00:00",
         "message": "robots.txt unavailable: redirect outside allowed public Hatena hosts"
       }
     },
     "https://eruakudiary.hatenablog.com/": {
-      "next_page": 5,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
-      "checked_at": "2026-10-22T04:48:55+00:00",
-      "last_page_hash": "f8b4d0cd2d665a40a399d4e481ea4f2c4f04b01be655db3687f641c95af86965"
+      "next_page": 6,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "949f69652362038677b96db92caa71f9570da0fa1ccf2b92b670aecd8a1a5d98"
     },
     "https://fuchiaz.hatenadiary.org/": {
       "next_page": 5,
@@ -14383,9 +16094,9 @@
     },
     "https://sina-poke.hatenablog.com/": {
       "next_page": 1,
-      "last_attempt_at": "2026-10-22T04:48:55+00:00",
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
       "last_error": {
-        "at": "2026-10-22T04:48:55+00:00",
+        "at": "2026-10-26T04:49:00+00:00",
         "message": "HTTP Error 404: Not Found"
       }
     },
@@ -14406,13 +16117,19 @@
       "last_attempt_at": "2026-10-24T04:38:29+00:00",
       "checked_at": "2026-10-24T04:38:29+00:00",
       "last_page_hash": "2f4ec4e5eac186d57969534f44d87e6ecb24a03388235ae12c227fa3dda80fd9"
+    },
+    "https://error-astray.hatenablog.com/": {
+      "next_page": 2,
+      "last_attempt_at": "2026-10-26T04:49:00+00:00",
+      "checked_at": "2026-10-26T04:49:00+00:00",
+      "last_page_hash": "6eb88f5c1e518c339ef5f22618b19f2d2b6c93e8dd093ddb1b877154ae9d990d"
     }
   },
   "run": {
-    "started_at": "2026-10-25T04:43:09+00:00",
+    "started_at": "2026-10-26T04:49:00+00:00",
     "limits_reached": [],
-    "finished_at": "2026-10-25T04:46:24+00:00",
-    "new_revisions": 1,
-    "new_candidates": 2
+    "finished_at": "2026-10-26T04:52:20+00:00",
+    "new_baselines": 13,
+    "new_candidates": 17
   }
 }
