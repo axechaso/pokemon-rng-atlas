@@ -1,5 +1,1311 @@
 [
   {
+    "title": "ペラップの鳴き声からseedを特定するツールを作った - oupoの日記",
+    "url": "https://oupo.hatenadiary.com/entry/20171208/1512658868",
+    "source": "oupo.hatenadiary.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/2020/09/04/145245"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモソ】ポケモンBWは色、5~6V乱獲に向いたソフトである(※要乱数調整)",
+    "url": "https://notwogetstwo.hatenablog.com/entry/2021/10/13/070000",
+    "source": "notwogetstwo.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://notwogetstwo.hatenablog.com/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "namofure.hatenablog.com",
+    "url": "https://namofure.hatenablog.com/entry/2025/05/29/214716",
+    "source": "namofure.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20250619/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS徘徊乱数 ようき エンテイ 0x9809068e",
+    "url": "https://milk4724.hatenadiary.org/entry/20231209/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS徘徊乱数 いじっぱり エンテイ 0xd30a0c5c",
+    "url": "https://milk4724.hatenadiary.org/entry/20231208/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】 HGSS 徘徊乱数 臆病 めざパ氷 ライコウ 0xa21504f7",
+    "url": "https://milk4724.hatenadiary.org/entry/20231207/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第7世代乱数調整】3DSRNGTool 導入方法(エラー対策)",
+    "url": "https://milk4724.hatenadiary.org/entry/20231204/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS徘徊乱数 臆病めざパ炎 ラティオス ラティアス 0x561501fa",
+    "url": "https://milk4724.hatenadiary.org/entry/20231202/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS徘徊乱数 臆病5vラティオス ラティアス 0x010b042f",
+    "url": "https://milk4724.hatenadiary.org/entry/20231201/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "某タレントが貰った改造個体っぽいサンダーを乱数調整で再現する方法",
+    "url": "https://milk4724.hatenadiary.org/entry/20231119/1700401400",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第5世代乱数】BW2 固定乱数調整の補助資料",
+    "url": "https://milk4724.hatenadiary.org/entry/20231008/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第5世代乱数】海外BW2 韓国W2 Timer0安定法調査",
+    "url": "https://milk4724.hatenadiary.org/entry/20220922/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第5世代乱数】BW2 Timer0安定法併用ライブキャスター乱数",
+    "url": "https://milk4724.hatenadiary.org/entry/20220909/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第7世代乱数】乱数調整環境整備まとめ",
+    "url": "https://milk4724.hatenadiary.org/entry/20220602/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "BW 徘徊済み徘徊ポケモンの乱数調整(SSS4使用版)",
+    "url": "https://milk4724.hatenadiary.org/entry/20220531/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】ID0-10 初期seedまとめ",
+    "url": "https://milk4724.hatenadiary.org/entry/20220521/00000000",
+    "source": "milk4724.hatenadiary.org",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenadiary.org/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数調整】ポケモンDPt/HGSS PHSの使い方・各項目の詳細説明",
+    "url": "https://milk4724.hatenablog.com/entry/202601025/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "2026-10-25T00:00:00+09:00",
+    "source_updated_raw": "2026-10-25T14:16:22+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://milk4724.hatenablog.com/feed"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20251130/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20250915/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20121013/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20250616/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/202501122/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】ポケモン HGSS 固定乱数 いじっぱり 5V グラードン 0xd30a0c5c",
+    "url": "https://milk4724.hatenablog.com/entry/20240118/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモンPt】徘徊乱数 おくびょう めざパ氷 ファイヤー・フリーザー・サンダー",
+    "url": "https://milk4724.hatenablog.com/entry/20240117/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモンDPt 】徘徊乱数 ひかえめ めざパ炎 クレセリア",
+    "url": "https://milk4724.hatenablog.com/entry/20240116/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS シントいせき(シント遺跡) 乱数調整 臆病5V 0x010B042F",
+    "url": "https://milk4724.hatenablog.com/entry/20240113/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ポケモン BW2 ライブキャスターを使用した固定乱数(5genSearch使用版)",
+    "url": "https://milk4724.hatenablog.com/entry/20240108/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第5世代乱数】ポケモン BW2 固定乱数(SSS4使用・3DS用)",
+    "url": "https://milk4724.hatenablog.com/entry/20240107/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモンDP(ダイパ)】ひかえめ 6Vメタモンの乱数調整 (3DS用)",
+    "url": "https://milk4724.hatenablog.com/entry/20240103/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20240102/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20121013/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】HGSS 野生乱数 個体値オール0メタモン",
+    "url": "https://milk4724.hatenablog.com/entry/20240101/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモンBW1】6Vメタモンの乱数調整(5genSearch使用①)",
+    "url": "https://milk4724.hatenablog.com/entry/20231230/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【乱数調整】色違いマナフィに中国語名をつける",
+    "url": "https://milk4724.hatenablog.com/entry/20231229/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【ポケモンDP】ダイパ 野生乱数 ひかえめめざパ炎 ポリゴン",
+    "url": "https://milk4724.hatenablog.com/entry/20231228/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ポケモン 日ズレ(日付ズレ)の説明と乱数調整で対策する話",
+    "url": "https://milk4724.hatenablog.com/entry/20231227/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】 DPT 固定シンボル乱数 ひかえめ炎ロトム",
+    "url": "https://milk4724.hatenablog.com/entry/20231226/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "【第4世代乱数】PT テーブル固定ポケトレ併用メロボ連鎖乱数 陽気ドーブル",
+    "url": "https://milk4724.hatenablog.com/entry/20231225/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://milk4724.hatenablog.com/archive?page=6"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20231203/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "milk4724.hatenablog.com",
+    "url": "https://milk4724.hatenablog.com/entry/20220326/00000000",
+    "source": "milk4724.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "乱数調整汎用ツール",
+    "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D",
+    "source": "miga0547.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ChatotTool",
+    "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D",
+    "source": "miga0547.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "HTTPError: HTTP Error 404: Not Found"
+    }
+  },
+  {
+    "title": "4genSearch",
+    "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/1rm0e3h2y191b6u/AACTUA1OKosHK_O1NeZ3VHsva?dl=0%E2%80%9D",
+    "source": "miga0547.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "HTTPError: HTTP Error 404: Not Found"
+    }
+  },
+  {
+    "title": "ハンター",
+    "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/hunter0245.hatenablog.com/archive%E2%80%9D",
+    "source": "miga0547.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "HTTPError: HTTP Error 404: Not Found"
+    }
+  },
+  {
+    "title": "DDJC",
+    "url": "https://mahodoriproject.hatenablog.com/entry/___________________________________",
+    "source": "mahodoriproject.hatenablog.com",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "ValueError: no unambiguous article body (roots=1, characters=28)"
+    }
+  },
+  {
+    "title": "RNG_Game攻略ツールを作ろう",
+    "url": "https://mahodoriproject.hatenablog.com/entry/15",
+    "source": "mahodoriproject.hatenablog.com",
+    "published_raw": "2020-12-07T00:04:01+09:00",
+    "source_updated_raw": "2020-12-06T15:04:01+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://mahodoriproject.hatenablog.com/feed"
+      },
+      {
+        "channel": "blog-archive",
+        "url": "https://mahodoriproject.hatenablog.com/archive?page=1"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://mahodoriproject.hatenablog.com/entry/15"
+  },
+  {
+    "title": "XDサイドン/ファイヤー乱数調整のメモ",
+    "url": "https://mahodoriproject.hatenablog.com/entry/-NobodyDoesItAnyway",
+    "source": "mahodoriproject.hatenablog.com",
+    "published_raw": "2020-10-15T11:10:10+09:00",
+    "source_updated_raw": "2020-10-15T02:10:10+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://mahodoriproject.hatenablog.com/feed"
+      },
+      {
+        "channel": "blog-archive",
+        "url": "https://mahodoriproject.hatenablog.com/archive?page=1"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://mahodoriproject.hatenablog.com/entry/-NobodyDoesItAnyway"
+  },
+  {
+    "title": "Cギア使わないタマゴの乱数調整",
+    "url": "https://eunopia.hatenadiary.org/entry/20101010",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "2010-10-10T00:00:00+09:00",
+    "source_updated_raw": "2010-10-09T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://eunopia.hatenadiary.org/feed"
+      },
+      {
+        "channel": "blog-archive",
+        "url": "https://eunopia.hatenadiary.org/archive?page=1"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://eunopia.hatenadiary.org/entry/20101010"
+  },
+  {
+    "title": "ＨＧＳＳ",
+    "url": "https://eunopia.hatenadiary.org/entry/20090912",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "2009-09-12T00:00:00+09:00",
+    "source_updated_raw": "2009-09-11T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://eunopia.hatenadiary.org/entry/20090912"
+  },
+  {
+    "title": "■",
+    "url": "https://eunopia.hatenadiary.org/entry/20090430",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "2009-04-30T00:00:00+09:00",
+    "source_updated_raw": "2009-04-29T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://eunopia.hatenadiary.org/entry/20090430"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://eunopia.hatenadiary.org/entry/20090430"
+  },
+  {
+    "title": "すげー",
+    "url": "https://eunopia.hatenadiary.org/entry/20081127",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "2008-11-27T00:00:00+09:00",
+    "source_updated_raw": "2008-11-26T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://eunopia.hatenadiary.org/entry/20081127"
+  },
+  {
+    "title": "ループの原因を調べたい",
+    "url": "https://eunopia.hatenadiary.org/entry/20081125",
+    "source": "eunopia.hatenadiary.org",
+    "published_raw": "2008-11-25T00:00:00+09:00",
+    "source_updated_raw": "2008-11-24T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://eunopia.hatenadiary.org/entry/20081125"
+  },
+  {
+    "title": "ポケモンの乱数調整の歴史",
+    "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2026-05-04T12:00:00+09:00",
+    "source_updated_raw": "2026-05-06T01:10:26+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-feed",
+        "url": "https://error-astray.hatenablog.com/feed"
+      },
+      {
+        "channel": "blog-archive",
+        "url": "https://error-astray.hatenablog.com/archive?page=1"
+      }
+    ],
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 人工审核，本批次暂不收录；保留候选记录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000",
+    "reviewed_on": "2026-10-27",
+    "review_note": "本批次排除：历史综述有资料价值，但没有足够的单一 RNG 操作或机制记录，先保留候选线索。"
+  },
+  {
+    "title": "プラチナの乱数調整",
+    "url": "https://error-astray.hatenablog.com/entry/20090305",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2009-03-05T00:00:00+09:00",
+    "source_updated_raw": "2009-03-04T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/20090305"
+  },
+  {
+    "title": "エメループの使用と仕様に関して",
+    "url": "https://error-astray.hatenablog.com/entry/20081217/p1",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2008-12-17T00:00:01+09:00",
+    "source_updated_raw": "2008-12-16T15:00:01+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/20081217/p1"
+  },
+  {
+    "title": "ジラーチディスク",
+    "url": "https://error-astray.hatenablog.com/entry/20081116",
+    "source": "error-astray.hatenablog.com",
+    "published_raw": "2008-11-16T00:00:00+09:00",
+    "source_updated_raw": "2008-11-15T15:00:00+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://error-astray.hatenablog.com/entry/20081116"
+  },
+  {
+    "title": "WISHMKR ＆ CHANNELジラーチ乱数完全自動化",
+    "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
+    "source": "dokudenpa.hatenablog.jp",
+    "published_raw": "2025-12-11T23:46:21+09:00",
+    "source_updated_raw": "2026-09-12T00:58:55+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/08/19/235319"
+      }
+    ],
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-dokudenpa-wishmkr-automation-2025。规范来源：https://dokudenpa.hatenablog.jp/entry/Jirachi"
+  },
+  {
+    "title": "レンタルサーバー代わりに使える",
+    "url": "https://d.hatena.ne.jp/spring_mao/20111218/1324173403",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20121118/1353241521"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "ValueError: redirect outside allowed public Hatena hosts"
+    }
+  },
+  {
+    "title": "くじ番号から裏ID ローカル検索バージョン",
+    "url": "https://d.hatena.ne.jp/oupo/20171222/1513931635",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "2017-12-22T17:33:55+09:00",
+    "source_updated_raw": "2017-12-22T08:33:55+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20121118/1353241521"
+      }
+    ],
+    "review_status": "published",
+    "verification": "已收录原文的跳转别名；保留发现记录，不重复收录",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20171222/1513931635",
+    "duplicate_of": "https://oupo.hatenadiary.com/entry/20171222/1513931635"
+  },
+  {
+    "title": "sid-searchを作り直してみた",
+    "url": "https://d.hatena.ne.jp/oupo/20121118/1353241521",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "2012-11-18T21:25:21+09:00",
+    "source_updated_raw": "2012-11-18T12:25:21+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171222/1513931635"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20171222/1513931635"
+      }
+    ],
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20121118/1353241521",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-oupo-sid-search-2012。规范来源：https://oupo.hatenadiary.com/entry/20121118/1353241521"
+  },
+  {
+    "title": "くじ番号から裏IDを検索するツールを作りました",
+    "url": "https://d.hatena.ne.jp/oupo/20100307/1267921288",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "2010-03-07T09:21:28+09:00",
+    "source_updated_raw": "2010-03-07T00:21:28+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171222/1513931635"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://d.hatena.ne.jp/oupo/20171222/1513931635"
+      }
+    ],
+    "review_status": "duplicate",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20100307/1267921288",
+    "duplicate_of": "https://oupo.hatenadiary.com/entry/20100307/1267921288"
+  },
+  {
+    "title": "以前書いたもの",
+    "url": "https://d.hatena.ne.jp/metagross-armor/20090506",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://metagross-armor.hatenablog.com/entry/20090916/p1"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "last_error": {
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    }
+  },
+  {
+    "title": "詳しくはアーマーさんの所を参照",
+    "url": "https://d.hatena.ne.jp/metagross-armor/20090102",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/20090305"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "http://d.hatena.ne.jp/buster_poke/20161217",
+    "url": "https://d.hatena.ne.jp/buster_poke/20161217",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107"
+      }
+    ],
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "last_error": {
+      "at": "2026-10-27T01:49:16+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；buster_poke 已迁移到 buster-poke.hatenablog.com，但未找到该日期对应的规范文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
+  },
+  {
+    "title": "鮎雑句07年7月13日の記事",
+    "url": "https://d.hatena.ne.jp/ayuzak/20070713",
+    "source": "d.hatena.ne.jp",
+    "published_raw": "",
+    "source_updated_raw": "",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+  },
+  {
+    "title": "ＲＳ乱数 メソッド４野生乱数検証",
+    "url": "https://buster-poke.hatenablog.com/entry/20140721/1405952530",
+    "source": "buster-poke.hatenablog.com",
+    "published_raw": "2014-07-21T23:22:10+09:00",
+    "source_updated_raw": "2014-07-21T14:22:10+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://buster-poke.hatenablog.com/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://buster-poke.hatenablog.com/entry/20140721/1405952530"
+  },
+  {
+    "title": "ＲＳ乱数 メソッド４乱数 ドイツ産 色ダイボレジアイス（生意気最遅５Ｖ）",
+    "url": "https://buster-poke.hatenablog.com/entry/20140711/1405093575",
+    "source": "buster-poke.hatenablog.com",
+    "published_raw": "2014-07-11T00:46:15+09:00",
+    "source_updated_raw": "2014-07-10T15:46:15+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://buster-poke.hatenablog.com/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://buster-poke.hatenablog.com/entry/20140711/1405093575"
+  },
+  {
+    "title": "Ｅｍ乱数 ドイツ産 徘徊ラティオス（臆病２Ｖ３Ｔ）",
+    "url": "https://buster-poke.hatenablog.com/entry/20140630/1404139139",
+    "source": "buster-poke.hatenablog.com",
+    "published_raw": "2014-06-30T23:38:59+09:00",
+    "source_updated_raw": "2014-06-30T14:38:59+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "discovered_via": [
+      {
+        "channel": "blog-archive",
+        "url": "https://buster-poke.hatenablog.com/archive?page=5"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://buster-poke.hatenablog.com/entry/20140630/1404139139"
+  },
+  {
+    "title": "タマゴの個体値の決まり方",
+    "url": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041",
+    "source": "ayuzak.hatenadiary.org",
+    "published_raw": "2009-01-10T17:44:01+09:00",
+    "source_updated_raw": "2009-01-10T08:44:01+09:00",
+    "discovered_on": "2026-10-27",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
+    "discovered_via": [
+      {
+        "channel": "article-reference",
+        "url": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
+      }
+    ],
+    "review_status": "pending",
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
+    "verified_at": "2026-10-27T08:07:53+00:00",
+    "final_url": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041"
+  },
+  {
     "title": "パールＲＴＡにおける乱数調整の検証",
     "url": "https://buster-poke.hatenablog.com/entry/20141022/1413987703",
     "source": "buster-poke.hatenablog.com",
@@ -475,11 +1781,13 @@
         "url": "https://d.hatena.ne.jp/kuzuhiko/20161221/1482319416"
       }
     ],
-    "review_status": "pending",
-    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
     "last_attempt_at": "2026-10-25T04:43:09+00:00",
-    "verified_at": "2026-10-25T04:43:09+00:00",
-    "final_url": "https://oupo.hatenadiary.com/entry/20161210/1481361175"
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://oupo.hatenadiary.com/entry/20161210/1481361175",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-oupo-tinymt-state-2016。规范来源：https://oupo.hatenadiary.com/entry/20161210/1481361175"
   },
   {
     "title": "SM孵化乱数",
@@ -868,7 +2176,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-21",
-    "last_seen_at": "2026-10-21T04:50:08+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -957,7 +2265,7 @@
     "published_raw": "2022-09-21T21:53:35+09:00",
     "source_updated_raw": "2022-09-21T12:53:35+09:00",
     "discovered_on": "2026-10-21",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -968,13 +2276,16 @@
         "url": "https://bo-man.hatenablog.com/archive?page=1"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-24T04:38:29+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-24T04:38:29+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: no unambiguous article body (roots=1, characters=74)"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "页面正文提取不满足唯一文章条件，当前无法可靠核对技术内容；保留候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "sina-poke.hatenablog.com",
@@ -1652,7 +2963,7 @@
     "published_raw": "2023-09-09T09:47:44+09:00",
     "source_updated_raw": "2023-12-21T19:13:03+09:00",
     "discovered_on": "2026-10-20",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1712,13 +3023,16 @@
         "url": "https://d.hatena.ne.jp/FuchiAz/20110727/1311776289"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "HGSS 色孵化乱数 れいせい 特性1",
@@ -1744,7 +3058,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1769,7 +3083,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1778,9 +3092,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-25T04:43:09+00:00",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
     "last_error": {
-      "at": "2026-10-25T04:43:09+00:00",
+      "at": "2026-10-27T08:07:53+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -1791,7 +3105,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1800,9 +3114,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-25T04:43:09+00:00",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
     "last_error": {
-      "at": "2026-10-25T04:43:09+00:00",
+      "at": "2026-10-27T08:07:53+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -1813,7 +3127,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-18",
-    "last_seen_at": "2026-10-18T04:36:02+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -1822,9 +3136,9 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-25T04:43:09+00:00",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
     "last_error": {
-      "at": "2026-10-25T04:43:09+00:00",
+      "at": "2026-10-27T08:07:53+00:00",
       "message": "ValueError: redirected to a non-article page"
     }
   },
@@ -1901,7 +3215,7 @@
     "published_raw": "2017-01-03T23:30:29+09:00",
     "source_updated_raw": "2017-01-03T14:30:29+09:00",
     "discovered_on": "2026-10-17",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -1919,7 +3233,7 @@
     "title": "【第4世代乱数】ポケモン HGSS 初心者向けのID乱数調整(3DS用)",
     "url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
     "source": "milk4724.hatenablog.com",
-    "published_raw": "",
+    "published_raw": "2025-12-26T00:00:00+09:00",
     "source_updated_raw": "",
     "discovered_on": "2026-10-17",
     "last_seen_at": "2026-10-17T04:28:36+00:00",
@@ -1929,14 +3243,18 @@
         "url": "https://milk4724.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-milk-hgss-id-3ds-2025。规范来源：https://milk4724.hatenablog.com/entry/20251226/00000000",
+    "final_url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "【第4世代乱数】ポケモン HGSS 初心者向けのID乱数調整(初代DS・DSlite用)",
     "url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
     "source": "milk4724.hatenablog.com",
-    "published_raw": "",
+    "published_raw": "2025-12-15T00:00:00+09:00",
     "source_updated_raw": "",
     "discovered_on": "2026-10-17",
     "last_seen_at": "2026-10-17T04:28:36+00:00",
@@ -1946,8 +3264,12 @@
         "url": "https://milk4724.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-milk-hgss-id-ds-2025。规范来源：https://milk4724.hatenablog.com/entry/20251215/00000000",
+    "final_url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "【ポケモン乱数調整】 LCG計算ツール",
@@ -1973,11 +3295,19 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-17",
-    "last_seen_at": "2026-10-17T04:28:36+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
         "url": "https://milk4724.hatenablog.com/archive?page=3"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
       }
     ],
     "review_status": "pending",
@@ -2004,7 +3334,7 @@
     "title": "【ポケモンBW2】 PWT乱数調整のツール導入及び実践方法",
     "url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
     "source": "milk4724.hatenablog.com",
-    "published_raw": "",
+    "published_raw": "2025-06-19T00:00:00+09:00",
     "source_updated_raw": "",
     "discovered_on": "2026-10-17",
     "last_seen_at": "2026-10-17T04:28:36+00:00",
@@ -2014,8 +3344,12 @@
         "url": "https://milk4724.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-milk-bw2-pwt-2025。规范来源：https://milk4724.hatenablog.com/entry/20250619/00000000",
+    "final_url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "【ポケモン DPt 】ポケモン DPt 霊界の布を乱数調整で回収する",
@@ -2052,13 +3386,16 @@
         "url": "https://fuchiaz.hatenadiary.org/entry/20110109/1294665049"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "こちら",
@@ -2082,13 +3419,16 @@
         "url": "https://fuchiaz.hatenadiary.org/entry/20110109/1294655019"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-24T04:38:29+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-24T04:38:29+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "こちら",
@@ -2112,13 +3452,16 @@
         "url": "https://fuchiaz.hatenadiary.org/entry/20110109/1294665049"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-24T04:38:29+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-24T04:38:29+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "【狂気】イカれた事を目論んだら、何故かプレシャス色違いヒドイデの乱数調整をしていた話【ポケモンUSUM】",
@@ -2127,7 +3470,7 @@
     "published_raw": "2021-09-19T18:03:40+09:00",
     "source_updated_raw": "2021-09-19T09:03:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2148,7 +3491,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2182,7 +3525,7 @@
     "published_raw": "2020-07-05T17:14:25+09:00",
     "source_updated_raw": "2020-07-05T08:14:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2203,7 +3546,7 @@
     "published_raw": "2017-11-22T01:08:27+09:00",
     "source_updated_raw": "2017-11-21T16:08:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2228,7 +3571,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2258,7 +3601,7 @@
     "published_raw": "2500-12-31T00:00:00+09:00",
     "source_updated_raw": "2019-04-26T05:36:59+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2295,7 +3638,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2312,7 +3655,7 @@
     "published_raw": "2019-10-15T16:50:13+09:00",
     "source_updated_raw": "2019-10-15T07:50:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2333,7 +3676,7 @@
     "published_raw": "2019-04-23T23:31:37+09:00",
     "source_updated_raw": "2019-04-23T14:31:37+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2354,7 +3697,7 @@
     "published_raw": "2018-10-03T09:58:25+09:00",
     "source_updated_raw": "2018-10-03T00:58:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2375,7 +3718,7 @@
     "published_raw": "2018-10-03T00:32:15+09:00",
     "source_updated_raw": "2018-10-02T15:32:15+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2396,7 +3739,7 @@
     "published_raw": "2018-07-11T01:00:26+09:00",
     "source_updated_raw": "2018-07-10T16:00:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2434,7 +3777,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2455,7 +3798,7 @@
     "published_raw": "2017-01-06T00:57:14+09:00",
     "source_updated_raw": "2017-01-05T15:57:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2476,7 +3819,7 @@
     "published_raw": "2016-12-21T22:59:53+09:00",
     "source_updated_raw": "2016-12-21T13:59:53+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2497,7 +3840,7 @@
     "published_raw": "2016-12-19T23:43:17+09:00",
     "source_updated_raw": "2016-12-19T14:43:17+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2518,7 +3861,7 @@
     "published_raw": "2016-12-18T13:08:27+09:00",
     "source_updated_raw": "2016-12-18T04:08:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2556,7 +3899,7 @@
     "published_raw": "2016-12-17T23:22:01+09:00",
     "source_updated_raw": "2016-12-17T14:22:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2611,7 +3954,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2633,7 +3976,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2651,7 +3994,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2669,7 +4012,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -2687,7 +4030,7 @@
     "published_raw": "2026-02-14T00:00:00+09:00",
     "source_updated_raw": "2026-03-26T11:31:06+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2716,7 +4059,7 @@
     "published_raw": "2026-02-05T00:00:00+09:00",
     "source_updated_raw": "2026-08-17T05:16:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2745,7 +4088,7 @@
     "published_raw": "2026-01-25T01:00:00+09:00",
     "source_updated_raw": "2026-05-22T17:14:47+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2774,7 +4117,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -2791,7 +4134,7 @@
     "published_raw": "2026-01-04T06:00:00+09:00",
     "source_updated_raw": "2026-02-09T12:22:12+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2812,7 +4155,7 @@
     "published_raw": "2025-12-07T01:00:00+09:00",
     "source_updated_raw": "2026-03-15T14:25:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2833,7 +4176,7 @@
     "published_raw": "2025-11-04T23:00:00+09:00",
     "source_updated_raw": "2026-03-15T14:23:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2854,7 +4197,7 @@
     "published_raw": "2025-10-09T01:00:00+09:00",
     "source_updated_raw": "2026-05-22T17:19:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2875,7 +4218,7 @@
     "published_raw": "2025-09-08T00:00:00+09:00",
     "source_updated_raw": "2026-06-08T13:03:24+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2896,7 +4239,7 @@
     "published_raw": "2022-01-19T23:00:00+09:00",
     "source_updated_raw": "2022-01-19T14:08:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2917,7 +4260,7 @@
     "published_raw": "2022-01-19T21:00:00+09:00",
     "source_updated_raw": "2022-01-19T13:16:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2938,7 +4281,7 @@
     "published_raw": "2021-07-22T15:00:00+09:00",
     "source_updated_raw": "2025-11-28T13:23:17+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2959,7 +4302,7 @@
     "published_raw": "2021-03-07T15:00:00+09:00",
     "source_updated_raw": "2025-12-07T14:42:59+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -2980,7 +4323,7 @@
     "published_raw": "2021-02-28T02:00:00+09:00",
     "source_updated_raw": "2026-05-21T01:25:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3001,7 +4344,7 @@
     "published_raw": "2021-02-27T20:00:00+09:00",
     "source_updated_raw": "2021-02-27T11:32:19+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3022,7 +4365,7 @@
     "published_raw": "2021-02-26T19:00:00+09:00",
     "source_updated_raw": "2025-11-28T13:18:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3043,7 +4386,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -3139,7 +4482,7 @@
     "published_raw": "2017-12-19T00:00:25+09:00",
     "source_updated_raw": "2017-12-18T15:00:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3164,7 +4507,7 @@
     "published_raw": "2017-12-11T00:00:46+09:00",
     "source_updated_raw": "2017-12-10T15:00:46+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3189,7 +4532,7 @@
     "published_raw": "2017-12-09T06:05:16+09:00",
     "source_updated_raw": "2017-12-08T21:05:16+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3202,6 +4545,10 @@
       {
         "channel": "blog-feed",
         "url": "https://d.hatena.ne.jp/oupo/rss"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://mahodoriproject.hatenablog.com/entry/15"
       }
     ],
     "review_status": "pending",
@@ -3214,7 +4561,7 @@
     "published_raw": "2016-12-07T11:54:10+09:00",
     "source_updated_raw": "2016-12-07T02:54:10+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3239,7 +4586,7 @@
     "published_raw": "2014-11-05T21:18:13+09:00",
     "source_updated_raw": "2014-11-05T12:18:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3298,7 +4645,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -3316,7 +4663,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -3333,7 +4680,7 @@
     "published_raw": "2026-03-31T03:42:27+09:00",
     "source_updated_raw": "2026-03-31T03:54:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3370,7 +4717,7 @@
     "published_raw": "2026-01-06T03:20:16+09:00",
     "source_updated_raw": "2026-03-31T03:52:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3399,7 +4746,7 @@
     "published_raw": "2025-12-25T06:42:16+09:00",
     "source_updated_raw": "2026-01-05T03:08:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3420,7 +4767,7 @@
     "published_raw": "2025-12-23T03:53:50+09:00",
     "source_updated_raw": "2026-01-11T23:52:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3441,7 +4788,7 @@
     "published_raw": "2025-12-16T03:45:26+09:00",
     "source_updated_raw": "2025-12-16T03:45:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3462,7 +4809,7 @@
     "published_raw": "2025-11-17T14:24:12+09:00",
     "source_updated_raw": "2026-01-10T01:30:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3483,7 +4830,7 @@
     "published_raw": "2025-05-29T08:16:07+09:00",
     "source_updated_raw": "2025-05-29T18:15:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-24T04:38:29+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3504,7 +4851,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -3529,7 +4876,7 @@
     "published_raw": "9999-12-31T23:59:00+09:00",
     "source_updated_raw": "2025-11-01T11:09:28+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3550,7 +4897,7 @@
     "published_raw": "9999-01-09T00:00:00+09:00",
     "source_updated_raw": "2025-06-26T07:29:35+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3571,7 +4918,7 @@
     "published_raw": "9999-01-07T00:00:00+09:00",
     "source_updated_raw": "2024-01-24T20:16:53+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3592,7 +4939,7 @@
     "published_raw": "9999-01-05T00:00:00+09:00",
     "source_updated_raw": "2024-08-16T20:40:03+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3613,7 +4960,7 @@
     "published_raw": "9999-01-04T00:00:00+09:00",
     "source_updated_raw": "2024-11-28T18:57:37+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3634,7 +4981,7 @@
     "published_raw": "2026-06-18T22:51:09+09:00",
     "source_updated_raw": "2026-06-19T09:42:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3655,7 +5002,7 @@
     "published_raw": "2026-05-09T18:17:09+09:00",
     "source_updated_raw": "2026-05-09T18:17:09+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3676,7 +5023,7 @@
     "published_raw": "2026-03-06T22:17:25+09:00",
     "source_updated_raw": "2026-03-12T19:08:19+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3697,7 +5044,7 @@
     "published_raw": "2026-02-19T00:00:00+09:00",
     "source_updated_raw": "2026-05-05T17:03:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3718,7 +5065,7 @@
     "published_raw": "2025-09-13T13:49:58+09:00",
     "source_updated_raw": "2025-09-13T13:49:58+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3739,7 +5086,7 @@
     "published_raw": "2024-11-28T00:00:00+09:00",
     "source_updated_raw": "2024-11-28T19:08:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3760,7 +5107,7 @@
     "published_raw": "2024-10-13T00:00:00+09:00",
     "source_updated_raw": "2025-06-29T11:54:08+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3781,7 +5128,7 @@
     "published_raw": "2024-10-12T00:00:00+09:00",
     "source_updated_raw": "2024-11-04T13:39:16+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3802,7 +5149,7 @@
     "published_raw": "2024-07-11T00:00:00+09:00",
     "source_updated_raw": "2026-01-03T16:48:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -3823,7 +5170,7 @@
     "published_raw": "2024-07-10T00:00:00+09:00",
     "source_updated_raw": "2026-01-03T16:44:46+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4239,7 +5586,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -4261,7 +5608,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -4279,7 +5626,7 @@
     "published_raw": "9999-12-31T23:59:00+09:00",
     "source_updated_raw": "2026-09-04T21:22:49+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4300,7 +5647,7 @@
     "published_raw": "9999-12-30T00:00:00+09:00",
     "source_updated_raw": "2026-09-20T17:16:51+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4321,7 +5668,7 @@
     "published_raw": "9999-01-09T00:00:00+09:00",
     "source_updated_raw": "2026-06-19T09:23:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4342,7 +5689,7 @@
     "published_raw": "9999-01-07T00:00:00+09:00",
     "source_updated_raw": "2026-08-30T15:19:53+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4363,7 +5710,7 @@
     "published_raw": "9999-01-05T00:00:00+09:00",
     "source_updated_raw": "2026-10-11T14:34:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4384,7 +5731,7 @@
     "published_raw": "9999-01-04T00:00:00+09:00",
     "source_updated_raw": "2026-09-26T14:31:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4405,7 +5752,7 @@
     "published_raw": "2026-09-30T00:00:00+09:00",
     "source_updated_raw": "2026-09-06T14:41:54+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4426,7 +5773,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4443,7 +5790,7 @@
     "published_raw": "2026-09-10T00:00:00+09:00",
     "source_updated_raw": "2026-09-07T22:31:29+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4464,7 +5811,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4481,7 +5828,7 @@
     "published_raw": "2026-06-23T00:00:00+09:00",
     "source_updated_raw": "2026-09-20T16:10:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4506,7 +5853,7 @@
     "published_raw": "2026-05-26T00:00:00+09:00",
     "source_updated_raw": "2026-05-24T13:39:11+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4527,7 +5874,7 @@
     "published_raw": "2026-05-20T00:00:00+09:00",
     "source_updated_raw": "2026-09-20T10:11:56+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4548,7 +5895,7 @@
     "published_raw": "2026-05-10T00:00:00+09:00",
     "source_updated_raw": "2026-07-13T08:34:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -4628,7 +5975,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4666,7 +6013,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4703,7 +6050,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4720,7 +6067,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4741,11 +6088,15 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:33:44+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
         "url": "https://milk4724.hatenablog.com/archive?page=2"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20121013/00000000"
       }
     ],
     "review_status": "pending",
@@ -4792,11 +6143,15 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:33:44+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
         "url": "https://milk4724.hatenablog.com/archive?page=2"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
       }
     ],
     "review_status": "pending",
@@ -4809,7 +6164,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4818,6 +6173,14 @@
       {
         "channel": "article-reference",
         "url": "https://milk4724.hatenablog.com/entry/20260922/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
       }
     ],
     "review_status": "pending",
@@ -4830,7 +6193,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4839,6 +6202,14 @@
       {
         "channel": "blog-archive",
         "url": "https://milk4724.hatenablog.com/archive?page=3"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251215/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20251226/00000000"
       }
     ],
     "review_status": "pending",
@@ -4851,7 +6222,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4872,7 +6243,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4893,7 +6264,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4914,7 +6285,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4931,7 +6302,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4948,7 +6319,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4965,7 +6336,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -4974,6 +6345,10 @@
       {
         "channel": "blog-archive",
         "url": "https://milk4724.hatenablog.com/archive?page=5"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20250619/00000000"
       }
     ],
     "review_status": "pending",
@@ -4986,7 +6361,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5003,7 +6378,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5020,7 +6395,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5037,7 +6412,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5054,7 +6429,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5071,11 +6446,15 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
         "url": "https://milk4724.hatenablog.com/entry/20260703/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20250619/00000000"
       }
     ],
     "review_status": "pending",
@@ -5088,7 +6467,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5105,7 +6484,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5122,7 +6501,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5139,7 +6518,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5156,7 +6535,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5173,7 +6552,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5184,30 +6563,37 @@
     "verification": "仅标题线索；语言、主题、作者和日期待核实"
   },
   {
-    "title": "milk4724.hatenablog.com",
+    "title": "【ポケモンDP】ポケトレ連鎖乱数 いじっぱり6Vメタモン",
     "url": "https://milk4724.hatenablog.com/entry/20121013/00000000",
     "source": "milk4724.hatenablog.com",
-    "published_raw": "",
-    "source_updated_raw": "",
+    "published_raw": "2012-10-13T00:00:00+09:00",
+    "source_updated_raw": "2026-05-25T21:51:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
         "url": "https://milk4724.hatenablog.com/entry/20260920/00000000"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://milk4724.hatenablog.com/entry/20121013/00000000"
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://milk4724.hatenablog.com/entry/20121013/00000000"
   },
   {
-    "title": "日本語版RS単体での任意コード実行 - みが@乱数調整",
+    "title": "日本語版RS単体での任意コード実行",
     "url": "https://miga0547.hatenablog.com/entry/2024/12/05/000000",
     "source": "miga0547.hatenablog.com",
-    "published_raw": "",
-    "source_updated_raw": "",
+    "published_raw": "2024-12-05T00:00:00+09:00",
+    "source_updated_raw": "2026-01-06T03:29:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5215,8 +6601,11 @@
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "bookmark_indexed_raw": "2026-03-23T02:05:19Z"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "bookmark_indexed_raw": "2026-03-23T02:05:19Z",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://miga0547.hatenablog.com/entry/2024/12/05/000000"
   },
   {
     "title": "XD乱数 つないでバトルn固定&不定消費の調査",
@@ -5225,7 +6614,7 @@
     "published_raw": "2024-11-17T00:00:00+09:00",
     "source_updated_raw": "2024-11-18T01:07:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5244,8 +6633,13 @@
         "url": "https://miga0547.hatenablog.com/archive?page=3"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 人工审核，本批次暂不收录；保留候选记录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://miga0547.hatenablog.com/entry/2024/11/17/000000",
+    "reviewed_on": "2026-10-27",
+    "review_note": "本批次排除：短篇 XD 场景消费表与已收录的 XD 不定消费研究重叠，暂不另建资料卡；原始候选保留。"
   },
   {
     "title": "マナフィ色孵化乱数（蒼玉） in DPt",
@@ -5254,7 +6648,7 @@
     "published_raw": "2024-02-24T00:00:00+09:00",
     "source_updated_raw": "2024-12-26T17:20:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5265,17 +6659,22 @@
         "url": "https://miga0547.hatenablog.com/archive?page=1"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://miga0547.hatenablog.com/entry/2024/02/24/000000",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-miga-manaphy-dpt-2024。规范来源：https://miga0547.hatenablog.com/entry/2024/02/24/000000"
   },
   {
-    "title": "SVの裏IDを特定する方法 & 過去作でニックネーム変更済みの個体をリネームしてみる - みが@乱数調整",
+    "title": "SVの裏IDを特定する方法 & 過去作でニックネーム変更済みの個体をリネームしてみる",
     "url": "https://miga0547.hatenablog.com/entry/2024/01/20/000000",
     "source": "miga0547.hatenablog.com",
-    "published_raw": "",
-    "source_updated_raw": "",
+    "published_raw": "2024-01-20T00:00:00+09:00",
+    "source_updated_raw": "2024-02-14T23:54:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5291,8 +6690,11 @@
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "bookmark_indexed_raw": "2024-01-20T02:44:25Z"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "bookmark_indexed_raw": "2024-01-20T02:44:25Z",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://miga0547.hatenablog.com/entry/2024/01/20/000000"
   },
   {
     "title": "【ポケモンHGSS】サファボメタングを一発で捕獲する乱数調整",
@@ -5301,7 +6703,7 @@
     "published_raw": "2023-12-14T06:08:43+09:00",
     "source_updated_raw": "2024-01-02T01:37:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5310,28 +6712,46 @@
       {
         "channel": "blog-archive",
         "url": "https://miga0547.hatenablog.com/archive?page=1"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "published",
+    "verification": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843",
+    "reviewed_on": "2026-10-27",
+    "review_note": "已于 2026-10-27 人工核对正文、作者、日期和适用条件并正式收录，文章 ID：ja-miga-hgss-safari-metang-2023。规范来源：https://miga0547.hatenablog.com/entry/2023/12/14/060843"
   },
   {
-    "title": "DS乱数調整野生(HGSS) 暫定版 - アーマーの雑記",
+    "title": "DS乱数調整野生(HGSS) 暫定版",
     "url": "https://metagross-armor.hatenablog.com/entry/20090916/p1",
     "source": "metagross-armor.hatenablog.com",
-    "published_raw": "",
-    "source_updated_raw": "",
+    "published_raw": "2009-09-16T00:00:01+09:00",
+    "source_updated_raw": "2009-09-15T15:00:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
         "url": "https://b.hatena.ne.jp/q/HGSS%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://metagross-armor.hatenablog.com/entry/20090916/p1"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "bookmark_indexed_raw": "2009-10-25T08:43:20Z"
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 人工审核，本批次暂不收录；保留候选记录。",
+    "bookmark_indexed_raw": "2009-10-25T08:43:20Z",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://metagross-armor.hatenablog.com/entry/20090916/p1",
+    "reviewed_on": "2026-10-27",
+    "review_note": "本批次排除：原文自称暂定版并沿用旧稿，流程和工具条件尚未完成核对；不把草稿当作正式教程。"
   },
   {
     "title": "【剣盾乱数調整】よくある質問 - FAQ",
@@ -5340,7 +6760,7 @@
     "published_raw": "2020-04-01T14:22:23+09:00",
     "source_updated_raw": "2020-04-01T05:22:23+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5353,10 +6773,19 @@
       {
         "channel": "article-reference",
         "url": "https://larvesta10.hatenablog.com/entry/2020/04/01/021029"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://larvesta10.hatenablog.com/entry/2020/02/01/184355"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 人工审核，本批次暂不收录；保留候选记录。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T07:01:13+00:00",
+    "final_url": "https://larvesta10.hatenablog.com/entry/2020/04/01/142223",
+    "reviewed_on": "2026-10-27",
+    "review_note": "本批次排除：内容是剑盾乱数 FAQ，和现有巢穴／野生资料有较多重复，暂不单独建立文章卡。"
   },
   {
     "title": "【剣盾乱数調整】過去作の菱形色違い判定について(おまけ：TRVの求め方)",
@@ -5365,7 +6794,7 @@
     "published_raw": "2020-03-03T00:53:18+09:00",
     "source_updated_raw": "2020-03-02T15:53:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5374,10 +6803,17 @@
       {
         "channel": "blog-archive",
         "url": "https://larvesta10.hatenablog.com/archive?page=1"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://larvesta10.hatenablog.com/entry/2020/03/03/005318"
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://larvesta10.hatenablog.com/entry/2020/03/03/005318"
   },
   {
     "title": "【剣盾乱数調整】スマホ1つでやる剣盾レイド乱数調整",
@@ -5386,7 +6822,7 @@
     "published_raw": "2020-02-01T18:43:55+09:00",
     "source_updated_raw": "2020-02-01T09:43:55+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5402,7 +6838,10 @@
       }
     ],
     "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实"
+    "verification": "已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
+    "verified_at": "2026-10-27T01:49:16+00:00",
+    "final_url": "https://larvesta10.hatenablog.com/entry/2020/02/01/184355"
   },
   {
     "title": "八世代乱数調整やりたい",
@@ -5411,7 +6850,7 @@
     "published_raw": "2019-12-07T19:02:36+09:00",
     "source_updated_raw": "2019-12-07T10:02:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5435,7 +6874,7 @@
     "published_raw": "2019-10-10T17:33:39+09:00",
     "source_updated_raw": "2019-10-10T08:33:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5467,7 +6906,7 @@
     "published_raw": "2019-10-04T14:06:01+09:00",
     "source_updated_raw": "2019-10-04T05:06:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5491,7 +6930,7 @@
     "published_raw": "2017-01-18T21:07:35+09:00",
     "source_updated_raw": "2017-01-18T12:07:35+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5527,7 +6966,7 @@
     "published_raw": "2016-12-21T20:23:36+09:00",
     "source_updated_raw": "2016-12-21T11:23:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5560,7 +6999,7 @@
     "published_raw": "2016-12-11T01:14:14+09:00",
     "source_updated_raw": "2016-12-10T16:14:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5588,7 +7027,7 @@
     "published_raw": "2014-04-01T21:33:50+09:00",
     "source_updated_raw": "2014-04-01T12:33:50+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5616,7 +7055,7 @@
     "published_raw": "2024-11-04T12:00:00+09:00",
     "source_updated_raw": "2024-11-04T13:32:37+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5644,7 +7083,7 @@
     "published_raw": "2024-09-09T23:59:00+09:00",
     "source_updated_raw": "2024-09-09T23:59:01+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5672,7 +7111,7 @@
     "published_raw": "2024-08-26T20:00:00+09:00",
     "source_updated_raw": "2024-08-27T10:13:25+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5704,7 +7143,7 @@
     "published_raw": "2024-06-04T19:58:02+09:00",
     "source_updated_raw": "2024-06-04T19:58:03+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -5732,7 +7171,7 @@
     "published_raw": "2024-02-16T23:08:39+09:00",
     "source_updated_raw": "2024-02-16T23:08:41+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-22T04:48:55+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5756,7 +7195,7 @@
     "published_raw": "2024-01-10T23:57:41+09:00",
     "source_updated_raw": "2024-01-11T09:49:56+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5776,7 +7215,7 @@
     "published_raw": "2023-12-28T12:53:19+09:00",
     "source_updated_raw": "2023-12-28T12:57:45+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5796,7 +7235,7 @@
     "published_raw": "2023-12-28T12:53:19+09:00",
     "source_updated_raw": "2023-12-28T12:57:45+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5816,7 +7255,7 @@
     "published_raw": "2023-12-13T00:00:00+09:00",
     "source_updated_raw": "2023-12-19T08:27:08+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-21T04:50:08+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5840,7 +7279,7 @@
     "published_raw": "2023-12-09T12:07:33+09:00",
     "source_updated_raw": "2023-12-19T08:27:53+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-21T04:50:08+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5864,7 +7303,7 @@
     "published_raw": "2023-12-07T23:48:21+09:00",
     "source_updated_raw": "2023-12-19T08:29:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -5887,7 +7326,7 @@
     "published_raw": "2023-12-04T09:38:43+09:00",
     "source_updated_raw": "2023-12-19T08:29:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5915,7 +7354,7 @@
     "published_raw": "2023-11-27T17:54:10+09:00",
     "source_updated_raw": "2023-12-19T08:29:55+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5935,7 +7374,7 @@
     "published_raw": "2023-11-15T01:47:49+09:00",
     "source_updated_raw": "2023-12-19T08:30:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -5955,7 +7394,7 @@
     "published_raw": "2010-10-01T00:00:00+09:00",
     "source_updated_raw": "2010-09-30T15:00:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -5980,7 +7419,7 @@
     "published_raw": "2021-01-02T20:00:00+09:00",
     "source_updated_raw": "2024-03-18T01:49:03+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6009,7 +7448,7 @@
     "published_raw": "2012-01-06T18:45:44+09:00",
     "source_updated_raw": "2012-01-06T09:45:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6037,7 +7476,7 @@
     "published_raw": "2012-01-05T23:43:07+09:00",
     "source_updated_raw": "2012-01-05T14:43:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6065,7 +7504,7 @@
     "published_raw": "2012-01-04T22:14:10+09:00",
     "source_updated_raw": "2012-01-04T13:14:10+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6092,7 +7531,7 @@
     "published_raw": "2011-12-20T03:19:42+09:00",
     "source_updated_raw": "2011-12-19T18:19:42+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6179,7 +7618,7 @@
     "published_raw": "2011-02-11T14:38:20+09:00",
     "source_updated_raw": "2011-02-11T05:38:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6203,7 +7642,7 @@
     "published_raw": "2011-02-07T23:46:20+09:00",
     "source_updated_raw": "2011-02-07T14:46:20+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6227,7 +7666,7 @@
     "published_raw": "2011-02-06T23:13:52+09:00",
     "source_updated_raw": "2011-02-06T14:13:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6251,7 +7690,7 @@
     "published_raw": "2011-02-04T22:38:34+09:00",
     "source_updated_raw": "2011-02-04T13:38:34+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6279,7 +7718,7 @@
     "published_raw": "2011-01-09T07:13:16+09:00",
     "source_updated_raw": "2011-01-08T22:13:16+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6303,7 +7742,7 @@
     "published_raw": "2021-12-05T21:09:40+09:00",
     "source_updated_raw": "2021-12-05T12:09:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6323,7 +7762,7 @@
     "published_raw": "2024-03-02T17:11:04+09:00",
     "source_updated_raw": "2024-06-13T18:26:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6346,7 +7785,7 @@
     "published_raw": "2024-02-12T18:19:17+09:00",
     "source_updated_raw": "2026-03-24T18:15:35+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6369,7 +7808,7 @@
     "published_raw": "2024-01-11T15:34:47+09:00",
     "source_updated_raw": "2024-03-02T10:54:06+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6392,7 +7831,7 @@
     "published_raw": "2023-12-28T14:00:15+09:00",
     "source_updated_raw": "2024-02-12T15:38:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6415,7 +7854,7 @@
     "published_raw": "2023-12-18T00:00:00+09:00",
     "source_updated_raw": "2024-09-06T09:53:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6438,7 +7877,7 @@
     "published_raw": "2022-12-02T11:08:43+09:00",
     "source_updated_raw": "2024-02-12T15:56:36+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6557,7 +7996,7 @@
     "published_raw": "2024-11-20T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:55:18+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6580,7 +8019,7 @@
     "published_raw": "2025-12-05T23:52:15+09:00",
     "source_updated_raw": "2026-09-12T00:58:26+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6619,7 +8058,7 @@
     "published_raw": "2024-05-05T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:45:08+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -6638,7 +8077,7 @@
     "published_raw": "2024-03-16T19:52:46+09:00",
     "source_updated_raw": "2026-09-12T00:43:15+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -6657,7 +8096,7 @@
     "published_raw": "2024-08-05T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:52+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6680,7 +8119,7 @@
     "published_raw": "2024-06-28T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:47:23+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -6704,7 +8143,7 @@
     "published_raw": "2024-06-29T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:47:39+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -6727,7 +8166,7 @@
     "published_raw": "2024-08-13T20:39:24+09:00",
     "source_updated_raw": "2026-09-12T00:52:44+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6750,7 +8189,7 @@
     "published_raw": "2024-10-17T18:10:07+09:00",
     "source_updated_raw": "2026-09-12T00:54:33+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6773,7 +8212,7 @@
     "published_raw": "2024-08-06T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:52:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6796,7 +8235,7 @@
     "published_raw": "2024-08-11T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:52:27+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6820,7 +8259,7 @@
     "published_raw": "2024-08-01T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:38+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6843,7 +8282,7 @@
     "published_raw": "2024-07-30T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:51:29+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6866,7 +8305,7 @@
     "published_raw": "2024-05-26T20:28:32+09:00",
     "source_updated_raw": "2026-09-12T00:46:06+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -6885,7 +8324,7 @@
     "published_raw": "2024-11-11T00:00:00+09:00",
     "source_updated_raw": "2026-09-12T00:55:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -6928,7 +8367,7 @@
     "published_raw": "2024-04-07T20:30:57+09:00",
     "source_updated_raw": "2026-09-12T00:43:43+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:21:46+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-archive",
@@ -6967,7 +8406,7 @@
     "published_raw": "2010-05-04T14:05:56+09:00",
     "source_updated_raw": "2010-05-04T05:05:56+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -6991,7 +8430,7 @@
     "published_raw": "2010-04-15T08:28:13+09:00",
     "source_updated_raw": "2010-04-14T23:28:13+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7016,7 +8455,7 @@
     "published_raw": "2010-04-12T23:48:48+09:00",
     "source_updated_raw": "2010-04-12T14:48:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7036,7 +8475,7 @@
     "published_raw": "2013-12-17T23:50:58+09:00",
     "source_updated_raw": "2013-12-17T14:50:58+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7056,7 +8495,7 @@
     "published_raw": "2013-07-25T18:17:14+09:00",
     "source_updated_raw": "2013-07-25T09:17:14+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7170,13 +8609,16 @@
         "url": "https://fuchiaz.hatenadiary.org/entry/20110109/1294611196"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "★ライモンドーム乱数調整 他",
@@ -7192,13 +8634,16 @@
         "url": "https://fuchiaz.hatenadiary.org/entry/20110109/1294611196"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-23T04:51:23+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-23T04:51:23+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: redirected to a non-article page"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "旧 d.hatena 地址跳转到非文章页面；已登记迁移到 fuchiaz.hatenadiary.org，无法从当前跳转恢复具体文章。保留原始候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "初期シードズレ（Timerズレ）に関して",
@@ -7663,20 +9108,23 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
         "url": "https://larvesta10.hatenablog.com/entry/2021/12/13/204342"
       }
     ],
-    "review_status": "pending",
-    "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-24T04:38:29+00:00",
+    "review_status": "dismissed",
+    "verification": "已于 2026-10-27 分类处理获取失败；未将不可访问等同于文章不存在。",
+    "last_attempt_at": "2026-10-27T01:49:16+00:00",
     "last_error": {
-      "at": "2026-10-24T04:38:29+00:00",
+      "at": "2026-10-27T01:49:16+00:00",
       "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
-    }
+    },
+    "reviewed_on": "2026-10-27",
+    "review_note": "bzl 旧域名首页已跳转到站外 blog.bzl-web.com，监测器按安全规则不抓取站外域名；保留候选和失败记录。",
+    "verified_at": "2026-10-27T07:01:13+00:00"
   },
   {
     "title": "【SwSh】ポケモン剣盾 レイド乱数調整用ツール SW Seed Calculatorの使い方",
@@ -7685,7 +9133,7 @@
     "published_raw": "",
     "source_updated_raw": "",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7694,10 +9142,10 @@
     ],
     "review_status": "pending",
     "verification": "仅标题线索；语言、主题、作者和日期待核实",
-    "last_attempt_at": "2026-10-25T04:43:09+00:00",
+    "last_attempt_at": "2026-10-27T08:07:53+00:00",
     "last_error": {
-      "at": "2026-10-25T04:43:09+00:00",
-      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+      "at": "2026-10-27T08:07:53+00:00",
+      "message": "ValueError: redirect outside allowed public Hatena hosts"
     }
   },
   {
@@ -7727,7 +9175,7 @@
     "published_raw": "2017-12-02T00:00:00+09:00",
     "source_updated_raw": "2017-12-01T15:01:40+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7736,6 +9184,14 @@
       {
         "channel": "blog-archive",
         "url": "https://blastoise-x.hatenablog.com/archive?page=1"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://buster-poke.hatenablog.com/entry/20171203/1512226107"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://mahodoriproject.hatenablog.com/entry/15"
       }
     ],
     "review_status": "pending",
@@ -7751,7 +9207,7 @@
     "published_raw": "2017-02-10T22:59:31+09:00",
     "source_updated_raw": "2017-02-10T13:59:31+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7799,7 +9255,7 @@
     "published_raw": "2016-12-07T19:09:22+09:00",
     "source_updated_raw": "2016-12-07T10:09:22+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7823,7 +9279,7 @@
     "published_raw": "2016-12-05T22:00:00+09:00",
     "source_updated_raw": "2016-12-05T13:00:04+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
@@ -7863,7 +9319,7 @@
     "published_raw": "2017-01-18T12:12:48+09:00",
     "source_updated_raw": "2017-01-18T03:12:48+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7899,7 +9355,7 @@
     "published_raw": "2017-01-26T20:00:00+09:00",
     "source_updated_raw": "2017-01-26T11:00:41+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7923,7 +9379,7 @@
     "published_raw": "2017-01-30T14:54:05+09:00",
     "source_updated_raw": "2017-01-30T05:54:05+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7951,7 +9407,7 @@
     "published_raw": "2017-02-05T18:01:07+09:00",
     "source_updated_raw": "2017-02-05T09:01:07+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7975,7 +9431,7 @@
     "published_raw": "2017-09-02T23:49:02+09:00",
     "source_updated_raw": "2017-09-02T14:49:02+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "blog-feed",
@@ -7999,7 +9455,7 @@
     "published_raw": "2016-12-18T23:31:00+09:00",
     "source_updated_raw": "2016-12-18T14:31:00+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "bookmark-search",
@@ -8143,11 +9599,15 @@
     "published_raw": "2013-04-03T01:49:51+09:00",
     "source_updated_raw": "2013-04-02T16:49:51+09:00",
     "discovered_on": "2026-10-16",
-    "last_seen_at": "2026-10-16T06:33:44+00:00",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
     "discovered_via": [
       {
         "channel": "article-reference",
         "url": "https://blastoise-x.hatenablog.com/entry/enjoy-RNG"
+      },
+      {
+        "channel": "article-reference",
+        "url": "https://oupo.hatenadiary.com/entry/20171224/1514041216"
       }
     ],
     "review_status": "pending",

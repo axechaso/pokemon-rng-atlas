@@ -4,8 +4,8 @@
     "url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
     "article_id": "sv-item-printer-2026",
     "first_detected_at": "2026-10-25T04:43:09+00:00",
-    "last_seen_at": "2026-10-25T04:43:09+00:00",
-    "review_status": "pending",
+    "last_seen_at": "2026-10-27T08:07:53+00:00",
+    "review_status": "reviewed",
     "changed_fields": [
       "body_sha256",
       "source_updated_raw"
@@ -607,6 +607,8 @@
         "fa7d1fe4ab1d711ee72eb65ae22f7ff671c6d5cb492bfa9aee1eea1dae5fdd50",
         "e237b0c5adacc0f60a356e16c444cf9bdb84328855d6c28e9bf7aa7052d203c5"
       ]
-    }
+    },
+    "reviewed_at": "2026-10-27T02:02:44+00:00",
+    "review_note": "2026-10-27 人工核对当前原文。页面仍明确介绍系统时间、等待时长、Seed／道具表和搜索工具，并分别说明 Switch 与 Switch 2 的时间补正；本次监测未保存旧正文，无法定位 4 个段落的具体改动，也没有证据证明 RNG 算法、Seed 表或前置条件发生变化。保留现有中文摘要，未作技术结论扩展；未独立实机运行。"
   }
 ]

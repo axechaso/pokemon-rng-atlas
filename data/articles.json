@@ -721,7 +721,8 @@
         "朱／紫",
         "道具打印机乱数"
       ]
-    ]
+    ],
+    "review_notes": "2026-10-27 人工核对当前原文。页面仍介绍系统时间、等待时长、Seed／道具表和周边搜索工具，并分别说明 Switch 与 Switch 2 的时间补正；监测状态显示正文和更新时间变化，但仓库未保存旧正文，无法定位 4 个段落的具体改动，也没有证据证明 RNG 算法、Seed 表或前置条件发生变化。保留现有中文摘要；未独立实机运行。"
   },
   {
     "id": "lgpe-master-ball-2026",
@@ -14438,6 +14439,295 @@
     "related_sources": [
       "ja-saki-dpt-pokeradar-mechanics-2011",
       "ja-saki-hgss-safari-slots-2011"
+    ]
+  },
+  {
+    "id": "ja-oupo-tinymt-state-2016",
+    "title": "TinyMT 线性输出：连续四个输出求状态",
+    "original_title": "出力関数が線形な場合のTinyMTにおいて連続する4つの乱数値からstateを得る",
+    "author": "oupo",
+    "date": "2016-12-10",
+    "url": "https://oupo.hatenadiary.com/entry/20161210/1481361175",
+    "summary": "讨论 TinyMT 内部状态的逆算：开启 LINEARITY_CHECK 后，连续四个 32 位输出可以转成 F₂ 上的线性方程组来求 state，并附有 SageMath Cloud 程序。关闭线性输出时不能直接套用四个输出的结论，但可以利用最低位的线性约束建立更长的矩阵求解思路。",
+    "evidence": "算法推导与程序",
+    "status": "中文摘要",
+    "tags": [
+      "TinyMT",
+      "状态逆算",
+      "LINEARITY_CHECK",
+      "线性方程组"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第七世代",
+        "太阳／月亮",
+        "机制研究"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对规范 Hatena 来源与正文。文章明确区分 LINEARITY_CHECK 开启和关闭时的输出函数；关闭时提到利用连续最低位输出构造更长的线性约束。SageMath 程序未运行；原文是通用机制研究，路线按其在 SM 孵化研究中的引用归档，不将其写成特定游戏的实机教程。",
+    "related_sources": [
+      "ja-gonz-gen7-egg-qa",
+      "xy-friend-safari-2023",
+      "en-gen6-tinymt-timeline-spec"
+    ]
+  },
+  {
+    "id": "ja-milk-hgss-id-3ds-2025",
+    "title": "HGSS：3DS 环境下的 ID 乱数调整",
+    "original_title": "【第4世代乱数】ポケモン HGSS 初心者向けのID乱数調整(3DS用)",
+    "author": "ミルクの日記",
+    "date": "2025-12-26",
+    "url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
+    "summary": "介绍 3DS 上 HGSS 的 ID 乱数流程：选择目标初期 Seed 与 ID，使用 4genSearch 或网页时刻工具计算起动时间，以计时器配合没有秒针的 3DS 界面，在取得实际 ID 后按秒差、帧差和奇数偏移修正。原文还提醒 3DS 起动时间要留出足够空白，并把 3DS 与初代 DS／DSlite 分成不同流程。",
+    "evidence": "实机操作教程",
+    "status": "中文摘要",
+    "tags": [
+      "HGSS",
+      "ID乱数",
+      "3DS",
+      "4genSearch",
+      "起动时间"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、3DS 条件、4genSearch／网页时刻工具、计时和偏差修正章节。原文明确写给 3DS（并列出 2DS／DSi 的检查项），未独立复现；不能把本卡的时序直接套到初代 DS、DSlite 或 DPt。",
+    "related_sources": [
+      "ja-milk-hgss-id-ds-2025",
+      "en-smogon-gen4-id",
+      "ja-saki-gen4-id-web-2015"
+    ]
+  },
+  {
+    "id": "ja-milk-hgss-id-ds-2025",
+    "title": "HGSS：初代 DS／DS Lite 环境下的 ID 乱数调整",
+    "original_title": "【第4世代乱数】ポケモン HGSS 初心者向けのID乱数調整(初代DS・DSlite用)",
+    "author": "ミルクの日記",
+    "date": "2025-12-15",
+    "url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
+    "summary": "面向初代 DS 与 DSlite 介绍 HGSS ID 乱数：准备目标 ID、初期 Seed 和空白时间后，用 4genSearch 计算起动时刻，按计时器执行并检查实际 ID，再用秒数、帧数和奇数偏移定位偏差。文章与作者的 3DS 版本分开说明，不能混用两种硬件的时刻参数。",
+    "evidence": "实机操作教程",
+    "status": "中文摘要",
+    "tags": [
+      "HGSS",
+      "ID乱数",
+      "初代DS",
+      "DSlite",
+      "4genSearch"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "ID乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、初代 DS／DSlite 限定、4genSearch 起动时刻计算和偏差修正章节。未独立复现；原文明确与 3DS 文章互链，不能将本卡步骤直接套用到 3DS 或 DPt。",
+    "related_sources": [
+      "ja-milk-hgss-id-3ds-2025",
+      "en-smogon-gen4-id",
+      "ja-saki-gen4-id-desktop-2012"
+    ]
+  },
+  {
+    "id": "ja-milk-bw2-pwt-2025",
+    "title": "BW2 PWT：Tournament Searcher 与 5genSearch 的连战乱数流程",
+    "original_title": "【ポケモンBW2】 PWT乱数調整のツール導入及び実践方法",
+    "author": "ミルクの日記",
+    "date": "2025-06-19",
+    "url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
+    "summary": "面向黑2／白2 的 PWT 连战，先用 5genSearch 批量生成候选初期 Seed，再把个体值 Seed 交给 PWT Tournament Searcher 检查对手序列、Offset 和受付／战斗盒消费，并通过禁用名单筛选适合周回的低 Offset 方案。作者还说明 Timer0 稳定法是可选的加速条件，并给出一组实战 Seed 与对手序列。",
+    "evidence": "实机操作教程与工具说明",
+    "status": "中文摘要",
+    "tags": [
+      "BW2",
+      "PWT",
+      "5genSearch",
+      "PWT Tournament Searcher",
+      "Offset"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第五世代",
+        "黑2／白2",
+        "PWT乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、BW2 软件条件、PWT Tournament Searcher 与 5genSearch 的分工、禁用名单和 Offset 选择。文中以 2025-06-20 为工具 v1.01 说明时点；未下载或运行工具，版本更新不由本站推断。",
+    "related_sources": [
+      "ja-saki-subway-generation-2013",
+      "ja-saki-subway-tool-2013",
+      "en-gen5-initial-seeding"
+    ]
+  },
+  {
+    "id": "ja-dokudenpa-wishmkr-automation-2025",
+    "title": "WISHMKR／CHANNEL 基拉祈：第三世代配信乱数全自动化",
+    "original_title": "WISHMKR ＆ CHANNELジラーチ乱数完全自動化",
+    "author": "毒電波にご注意を",
+    "date": "2025-12-11",
+    "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
+    "summary": "介绍北美版 WISHMKR 圆形竞技场 Bonus Disc 与 PAL 版 Pokémon Channel 的基拉祈乱数自动化。WISHMKR 流程从 ID 调整、图鉴领取到写入存档，Channel 流程则覆盖初期 Seed 筛选、消费与领取前准备；作者以 NX Macro Controller 编写宏，并说明 WISHMKR 的电池耗尽英文版 RS、GBP 画面设置和校验条件。",
+    "evidence": "硬件自动化程序说明",
+    "status": "中文摘要",
+    "tags": [
+      "WISHMKR",
+      "Pokémon Channel",
+      "NX Macro Controller",
+      "校验和",
+      "自动化"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第三世代",
+        "宝可梦圆形竞技场 Bonus Disc",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第三世代",
+        "Pokémon Channel",
+        "配信乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、WISHMKR／PAL Channel 的版本条件、宏程序范围和电池耗尽英文版 RS 要求。原文是程序说明与作者流程记录；未下载、运行或独立实机复现，NX Macro Controller 当前版本不由本站保证。",
+    "related_sources": [
+      "ja-buster-wishmkr-checksum-tips-2014",
+      "ja-error-wishmkr-checksum-2026",
+      "devon-channel-jirachi",
+      "video-wishmkr-checksum-demo"
+    ]
+  },
+  {
+    "id": "ja-oupo-sid-search-2012",
+    "title": "sid-search：用彩票号码反推第四世代表／裏ID的本地搜索工具",
+    "original_title": "sid-searchを作り直してみた",
+    "author": "oupo",
+    "date": "2012-11-18",
+    "url": "https://oupo.hatenadiary.com/entry/20121118/1353241521",
+    "summary": "记录作者重写 sid-search 的思路：把按表 ID 分组的数据库放在本地，通过彩票号码搜索表／裏 ID；不再逐个回溯每日 Seed，而是计算 Seed 距离索引来加速，两个彩票号码能唯一确定时也可直接采用，并可搜索完整 0x100000000 范围。原文同时给出旧版 CGI 与新本地搜索版的迁移背景。",
+    "evidence": "历史工具设计与源码说明",
+    "status": "中文摘要",
+    "tags": [
+      "SID",
+      "ID彩票",
+      "LCG",
+      "本地搜索",
+      "JavaScript"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "脚本与工具"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "脚本与工具"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、彩票号码输入、按表 ID 分组的数据设计和 Seed 距离索引。原文中的旧服务与下载入口未作为当前可用工具验证；未编译或运行程序。",
+    "related_sources": [
+      "ja-oupo-lottery-sid-2017",
+      "ja-oupo-sid-search3",
+      "ja-buster-hgss-raikou-rta-2014"
+    ]
+  },
+  {
+    "id": "ja-miga-manaphy-dpt-2024",
+    "title": "DPt 蒼玉玛纳霏：色孵化与配达人乱数",
+    "original_title": "マナフィ色孵化乱数（蒼玉） in DPt",
+    "author": "みが@乱数調整",
+    "date": "2024-02-24",
+    "url": "https://miga0547.hatenablog.com/entry/2024/02/24/000000",
+    "summary": "说明宝可梦 Ranger 特别任务赠送的玛纳霏蛋（蒼玉）在领取时受色违例程影响，因此可以在另一份 ROM 中孵化来获得色违。文章比较 HGSS 与 DPt 的出身地方差异，并为必须在 DPt 领取的情况提出用聒噪鸟确认领取后的消费偏差；流程使用 4genSearch、Gen4 ID Seed Search 与 DDDDLoop。",
+    "evidence": "配信孵化实践记录",
+    "status": "中文摘要",
+    "tags": [
+      "玛纳霏",
+      "蒼玉",
+      "配达人",
+      "色孵化",
+      "聒噪鸟"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "配信乱数"
+      ],
+      [
+        "实机",
+        "第四世代",
+        "钻石／珍珠／白金",
+        "孵化乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、蒼玉蛋的领取／孵化分离、DPt NPC 风险和工具名称。作者明确提醒错误领取或交换可能不可逆；本站未独立复现，不把文章的妥协方案写成保证成功的流程。",
+    "related_sources": [
+      "ja-oupo-chatot-music-2017",
+      "en-smogon-gen4-id",
+      "devon-4th-gen-wondercards"
+    ]
+  },
+  {
+    "id": "ja-miga-hgss-safari-metang-2023",
+    "title": "HGSS 狩猎地带：一球捕获 5V 闪光金属怪",
+    "original_title": "【ポケモンHGSS】サファボメタングを一発で捕獲する乱数調整",
+    "author": "みが@乱数調整",
+    "date": "2023-12-14",
+    "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843",
+    "summary": "以 HGSS 狩猎地带的金属怪为例，先用 4genSearch 和乱数調整汎用ツール搜索勇敢 C0 五项满个体的闪光目标，再按狩猎地带的遭遇类型、同步／迷人之躯和槽位条件调整方块配置，最后挑战第一枚狩猎球捕获。文章同时说明逃跑判定、球数和方块侵蚀物种槽位带来的额外风险。",
+    "evidence": "实机捕获实践记录",
+    "status": "中文摘要",
+    "tags": [
+      "HGSS",
+      "狩猎地带",
+      "金属怪",
+      "色违",
+      "槽位"
+    ],
+    "routes": [
+      [
+        "实机",
+        "第四世代",
+        "心金／魂银",
+        "狩猎地带乱数"
+      ]
+    ],
+    "language": "ja",
+    "source_type": "article",
+    "review_notes": "2026-10-27 核对原文日期、目标个体、4genSearch／通用工具、狩猎球与方块槽位条件。文章是单个实战目标的记录，未独立复现，不能把示例的块配置推广到全部狩猎地带物种。",
+    "related_sources": [
+      "ja-saki-hgss-safari-slots-2011",
+      "ja-saki-hgss-lati-npc-2014"
     ]
   }
 ]
