@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-10-26T04:49:00+00:00
+抓取时间（UTC）：2026-10-27T05:07:24+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：376；待审原文变化：1。
+- 待审新来源：380；待审原文变化：1。
 - 已收录 Hatena 原文：57；已有正文基线：57。首次基线不算修订。
 - 其他 331 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：132/180；获取或解析失败：20。
+- 本次请求：146/180；获取或解析失败：9。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -16,82 +16,52 @@
 
 | 通道 | 成功请求 | 失败请求 |
 | --- | ---: | ---: |
-| blog-archive | 6 | 2 |
-| blog-feed | 22 | 2 |
+| blog-archive | 7 | 1 |
+| blog-feed | 21 | 3 |
 | bookmark-search | 16 | 0 |
 | candidate-verify | 7 | 5 |
-| revision | 46 | 11 |
+| revision | 57 | 0 |
 
-- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>)：ValueError: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://d.hatena.ne.jp/spring_mao/rss>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-
-- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://sina-poke.hatenablog.com/feed>)：HTTPError: HTTP Error 404: Not Found
 
 - [blog-feed](<https://bzl.hatenablog.com/feed>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [blog-feed](<https://milk4724.hatenablog.com/feed>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-archive](<https://d.hatena.ne.jp/spring_mao/archive?page=1>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [blog-archive](<https://sina-poke.hatenablog.com/archive?page=1>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>)：ValueError: no unambiguous article body (roots=1, characters=74)
 
-- [blog-archive](<https://bzl.hatenablog.com/archive?page=1>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>)：ValueError: redirected to a non-article page
-
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>)：ValueError: redirected to a non-article page
-
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20161217>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>)：ValueError: redirect outside allowed public Hatena hosts
 
 ### 尚未恢复的获取问题（含之前轮次）
 
-- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>) · 2026-10-26T04:49:00+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-feed](<https://milk4724.hatenablog.com/>) · 2026-10-26T04:49:00+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
-- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-26T04:49:00+00:00：redirect outside allowed public Hatena hosts
-- [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-25T04:43:09+00:00：HTTP Error 404: Not Found
+- [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-27T05:07:24+00:00：redirect outside allowed public Hatena hosts
+- [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-27T05:07:24+00:00：HTTP Error 404: Not Found
+- [blog-feed](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-27T05:07:24+00:00：redirect outside allowed public Hatena hosts
 - [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-26T04:49:00+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-26T04:49:00+00:00：HTTP Error 404: Not Found
+- [blog-archive](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-27T05:07:24+00:00：redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>) · 2026-10-27T05:07:24+00:00：ValueError: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20161217>) · 2026-10-26T04:49:00+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-24T04:38:29+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
+- [candidate-verify](<https://bo-man.hatenablog.com/entry/2022/09/21/215335>) · 2026-10-27T05:07:24+00:00：ValueError: no unambiguous article body (roots=1, characters=74)
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110723>) · 2026-10-26T04:49:00+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-25T04:43:09+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-25T04:43:09+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-25T04:43:09+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110601>) · 2026-10-26T04:49:00+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-24T04:38:29+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>) · 2026-10-24T04:38:29+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110428>) · 2026-10-27T05:07:24+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110331>) · 2026-10-27T05:07:24+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20111220>) · 2026-10-26T04:49:00+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/FuchiAz/20110527>) · 2026-10-26T04:49:00+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-24T04:38:29+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/12/13/204230>) · 2026-10-27T05:07:24+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-25T04:43:09+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 ## 原文变化（需核实，不等于技术结论已修正）
@@ -100,7 +70,7 @@
 
 [原文](<https://milk4724.hatenablog.com/entry/20260620/00000000>)
 
-- 首次检测：2026-10-25T04:43:09+00:00；最近确认：2026-10-25T04:43:09+00:00。
+- 首次检测：2026-10-25T04:43:09+00:00；最近确认：2026-10-27T05:07:24+00:00。
 - 变化字段：body_sha256, source_updated_raw；段落增／删 4/4。
 - 正文链接增／删 0/0；图片等媒体地址增／删 0/0。
 - 标题：【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版) → 【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版)。
@@ -111,6 +81,51 @@
 
 
 ## 新来源候选
+
+### RNG_Game攻略ツールを作ろう
+
+[原文](<https://mahodoriproject.hatenablog.com/entry/15>)
+
+- 首次发现：2026-10-27；来源博客：mahodoriproject.hatenablog.com。
+- 发现依据：blog-feed · https://mahodoriproject.hatenablog.com/feed; blog-archive · https://mahodoriproject.hatenablog.com/archive?page=1。
+- 原文发表元数据：2020-12-07T00:04:01+09:00；原站更新时间：2020-12-06T15:04:01+09:00。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### XDサイドン/ファイヤー乱数調整のメモ
+
+[原文](<https://mahodoriproject.hatenablog.com/entry/-NobodyDoesItAnyway>)
+
+- 首次发现：2026-10-27；来源博客：mahodoriproject.hatenablog.com。
+- 发现依据：blog-feed · https://mahodoriproject.hatenablog.com/feed; blog-archive · https://mahodoriproject.hatenablog.com/archive?page=1。
+- 原文发表元数据：2020-10-15T11:10:10+09:00；原站更新时间：2020-10-15T02:10:10+09:00。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### Cギア使わないタマゴの乱数調整
+
+[原文](<https://eunopia.hatenadiary.org/entry/20101010>)
+
+- 首次发现：2026-10-27；来源博客：eunopia.hatenadiary.org。
+- 发现依据：blog-feed · https://eunopia.hatenadiary.org/feed; blog-archive · https://eunopia.hatenadiary.org/archive?page=1。
+- 原文发表元数据：2010-10-10T00:00:00+09:00；原站更新时间：2010-10-09T15:00:00+09:00。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 詳しくはアーマーさんの所を参照
+
+[原文](<https://d.hatena.ne.jp/metagross-armor/20090102>)
+
+- 首次发现：2026-10-27；来源博客：d.hatena.ne.jp。
+- 发现依据：article-reference · https://error-astray.hatenablog.com/entry/20090305。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### 鮎雑句07年7月13日の記事
+
+[原文](<https://d.hatena.ne.jp/ayuzak/20070713>)
+
+- 首次发现：2026-10-27；来源博客：d.hatena.ne.jp。
+- 发现依据：article-reference · https://ayuzak.hatenadiary.org/entry/20090110/1231577041。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
 
 ### ペラップの鳴き声からseedを特定するツールを作った - oupoの日記
 
@@ -139,32 +154,32 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### https://eunopia.hatenadiary.org/entry/20090430
+### ■
 
 [原文](<https://eunopia.hatenadiary.org/entry/20090430>)
 
 - 首次发现：2026-10-26；来源博客：eunopia.hatenadiary.org。
-- 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000; article-reference · https://eunopia.hatenadiary.org/entry/20090430。
+- 原文发表元数据：2009-04-30T00:00:00+09:00；原站更新时间：2009-04-29T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### https://eunopia.hatenadiary.org/entry/20081127
+### すげー
 
 [原文](<https://eunopia.hatenadiary.org/entry/20081127>)
 
 - 首次发现：2026-10-26；来源博客：eunopia.hatenadiary.org。
 - 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2008-11-27T00:00:00+09:00；原站更新时间：2008-11-26T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### https://eunopia.hatenadiary.org/entry/20081125
+### ループの原因を調べたい
 
 [原文](<https://eunopia.hatenadiary.org/entry/20081125>)
 
 - 首次发现：2026-10-26；来源博客：eunopia.hatenadiary.org。
 - 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2008-11-25T00:00:00+09:00；原站更新时间：2008-11-24T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### ポケモンの乱数調整の歴史
 
@@ -175,23 +190,23 @@
 - 原文发表元数据：2026-05-04T12:00:00+09:00；原站更新时间：2026-05-06T01:10:26+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### https://error-astray.hatenablog.com/entry/20090305
+### プラチナの乱数調整
 
 [原文](<https://error-astray.hatenablog.com/entry/20090305>)
 
 - 首次发现：2026-10-26；来源博客：error-astray.hatenablog.com。
 - 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2009-03-05T00:00:00+09:00；原站更新时间：2009-03-04T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### https://error-astray.hatenablog.com/entry/20081217/p1
+### エメループの使用と仕様に関して
 
 [原文](<https://error-astray.hatenablog.com/entry/20081217/p1>)
 
 - 首次发现：2026-10-26；来源博客：error-astray.hatenablog.com。
 - 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2008-12-17T00:00:01+09:00；原站更新时间：2008-12-16T15:00:01+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### ジラーチディスク
 
@@ -220,21 +235,12 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### くじ番号から裏ID ローカル検索バージョン - oupoの日記
-
-[原文](<https://d.hatena.ne.jp/oupo/20171222/1513931635>)
-
-- 首次发现：2026-10-26；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://d.hatena.ne.jp/oupo/20100307/1267921288; article-reference · https://d.hatena.ne.jp/oupo/20121118/1353241521。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
-
 ### sid-searchを作り直してみた
 
 [原文](<https://d.hatena.ne.jp/oupo/20121118/1353241521>)
 
 - 首次发现：2026-10-26；来源博客：d.hatena.ne.jp。
-- 发现依据：article-reference · https://oupo.hatenadiary.com/entry/20171222/1513931635; article-reference · https://d.hatena.ne.jp/oupo/20100307/1267921288。
+- 发现依据：article-reference · https://oupo.hatenadiary.com/entry/20171222/1513931635; article-reference · https://d.hatena.ne.jp/oupo/20100307/1267921288; article-reference · https://d.hatena.ne.jp/oupo/20171222/1513931635。
 - 原文发表元数据：2012-11-18T21:25:21+09:00；原站更新时间：2012-11-18T12:25:21+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -247,14 +253,14 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### https://ayuzak.hatenadiary.org/entry/20090110/1231577041
+### タマゴの個体値の決まり方
 
 [原文](<https://ayuzak.hatenadiary.org/entry/20090110/1231577041>)
 
 - 首次发现：2026-10-26；来源博客：ayuzak.hatenadiary.org。
 - 发现依据：article-reference · https://error-astray.hatenablog.com/entry/2026/05/04/120000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2009-01-10T17:44:01+09:00；原站更新时间：2009-01-10T08:44:01+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### パールＲＴＡにおける乱数調整の検証
 
