@@ -1,63 +1,15 @@
 {
-  "generated_at": "2026-10-27T08:07:53+00:00",
+  "generated_at": "2026-10-28T05:44:12+00:00",
   "scope": "Hatena only; cross-blog queries and bounded crawling, not an exhaustive index",
-  "requests": 177,
+  "requests": 133,
   "request_limit": 180,
   "pending_articles": 404,
   "pending_revisions": 0,
   "hatena_articles": 65,
   "baselines": 65,
   "outside_revision_scope": 331,
-  "errors": 12,
+  "errors": 28,
   "channels": [
-    {
-      "channel": "revision",
-      "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
-      "status": "ok",
-      "items": 64
-    },
-    {
-      "channel": "revision",
-      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843",
-      "status": "ok",
-      "items": 120
-    },
-    {
-      "channel": "revision",
-      "url": "https://miga0547.hatenablog.com/entry/2024/02/24/000000",
-      "status": "ok",
-      "items": 33
-    },
-    {
-      "channel": "revision",
-      "url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
-      "status": "ok",
-      "items": 224
-    },
-    {
-      "channel": "revision",
-      "url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
-      "status": "ok",
-      "items": 466
-    },
-    {
-      "channel": "revision",
-      "url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
-      "status": "ok",
-      "items": 496
-    },
-    {
-      "channel": "revision",
-      "url": "https://oupo.hatenadiary.com/entry/20121118/1353241521",
-      "status": "ok",
-      "items": 39
-    },
-    {
-      "channel": "revision",
-      "url": "https://oupo.hatenadiary.com/entry/20161210/1481361175",
-      "status": "ok",
-      "items": 20
-    },
     {
       "channel": "revision",
       "url": "https://blastoise-x.hatenablog.com/entry/2014/08/08/HGSS%E6%8D%95%E7%8D%B2%E4%B9%B1%E6%95%B0",
@@ -147,6 +99,12 @@
       "url": "https://dokudenpa.hatenablog.jp/entry/FRLG_EGG_RNG",
       "status": "ok",
       "items": 170
+    },
+    {
+      "channel": "revision",
+      "url": "https://dokudenpa.hatenablog.jp/entry/Jirachi",
+      "status": "ok",
+      "items": 64
     },
     {
       "channel": "revision",
@@ -276,69 +234,113 @@
     },
     {
       "channel": "revision",
-      "url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
+      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/060843",
       "status": "ok",
-      "items": 157
+      "items": 120
+    },
+    {
+      "channel": "revision",
+      "url": "https://miga0547.hatenablog.com/entry/2024/02/24/000000",
+      "status": "ok",
+      "items": 33
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260326/00000000",
-      "status": "ok",
-      "items": 211
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260525/00000000",
-      "status": "ok",
-      "items": 300
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
-      "status": "ok",
-      "items": 246
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260703/00000000",
-      "status": "ok",
-      "items": 210
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260713/00000000",
-      "status": "ok",
-      "items": 290
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260730/00000000",
-      "status": "ok",
-      "items": 264
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260816/00000000",
-      "status": "ok",
-      "items": 225
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260920/00000000",
-      "status": "ok",
-      "items": 167
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20260922/00000000",
-      "status": "ok",
-      "items": 193
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
       "url": "https://milk4724.hatenablog.com/entry/20261012/00000000",
-      "status": "ok",
-      "items": 292
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "revision",
@@ -357,6 +359,18 @@
       "url": "https://oupo.hatenadiary.com/entry/20100415/1271287693",
       "status": "ok",
       "items": 17
+    },
+    {
+      "channel": "revision",
+      "url": "https://oupo.hatenadiary.com/entry/20121118/1353241521",
+      "status": "ok",
+      "items": 39
+    },
+    {
+      "channel": "revision",
+      "url": "https://oupo.hatenadiary.com/entry/20161210/1481361175",
+      "status": "ok",
+      "items": 20
     },
     {
       "channel": "revision",
@@ -498,68 +512,74 @@
     },
     {
       "channel": "blog-feed",
-      "url": "https://ayuzak.hatenadiary.org/feed",
+      "url": "https://d.hatena.ne.jp/ayuzak/rss",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://d.hatena.ne.jp/metagross-armor/rss",
+      "url": "https://metagross-armor.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://d.hatena.ne.jp/spring_mao/rss",
+      "url": "https://miga0547.hatenablog.com/feed",
+      "status": "ok",
+      "items": 9
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://milk4724.hatenablog.com/feed",
       "status": "error",
       "items": 0,
-      "error": "ValueError: redirect outside allowed public Hatena hosts"
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "blog-feed",
-      "url": "https://eunopia.hatenadiary.org/feed",
+      "url": "https://namofure.hatenablog.com/feed",
+      "status": "ok",
+      "items": 18
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://notwogetstwo.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://mahodoriproject.hatenablog.com/feed",
+      "url": "https://purely11.hatenablog.com/feed",
       "status": "ok",
-      "items": 23
+      "items": 26
     },
     {
       "channel": "blog-feed",
-      "url": "https://milk4724.hatenadiary.org/feed",
-      "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://nitrone7.hatenablog.com/feed",
+      "url": "https://rusted-coil-test.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://nyokki2319.hatenablog.com/feed",
-      "status": "ok",
-      "items": 8
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://oupo.hatenadiary.com/feed",
+      "url": "https://taiyaki3gen.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://prie0908.hatenadiary.com/feed",
+      "url": "https://takedpok.hatenablog.com/feed",
       "status": "ok",
-      "items": 16
+      "items": 5
     },
     {
       "channel": "blog-feed",
-      "url": "https://you396.hatenadiary.jp/feed",
+      "url": "https://wasou3721.hatenablog.com/feed",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://ayuzak.hatenadiary.org/feed",
       "status": "ok",
       "items": 30
     },
@@ -580,6 +600,13 @@
       "url": "https://buster-poke.hatenablog.com/feed",
       "status": "ok",
       "items": 30
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://d.hatena.ne.jp/spring_mao/rss",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "blog-feed",
@@ -607,6 +634,12 @@
     },
     {
       "channel": "blog-feed",
+      "url": "https://eunopia.hatenadiary.org/feed",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "channel": "blog-feed",
       "url": "https://fuchiaz.hatenadiary.org/feed",
       "status": "ok",
       "items": 30
@@ -624,117 +657,50 @@
       "items": 30
     },
     {
-      "channel": "blog-feed",
-      "url": "https://hope3gen.hatenablog.com/feed",
+      "channel": "blog-archive",
+      "url": "https://nyokki2319.hatenablog.com/archive?page=1",
       "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://kuzuhiko.hatenadiary.org/feed",
-      "status": "ok",
-      "items": 25
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://larvesta10.hatenablog.com/feed",
-      "status": "ok",
-      "items": 24
+      "items": 16
     },
     {
       "channel": "blog-archive",
-      "url": "https://ayuzak.hatenadiary.org/archive?page=1",
-      "status": "ok",
-      "items": 35
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://d.hatena.ne.jp/spring_mao/archive?page=1",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: redirect outside allowed public Hatena hosts"
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://eunopia.hatenadiary.org/archive?page=1",
-      "status": "ok",
-      "items": 37
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://mahodoriproject.hatenablog.com/archive?page=1",
-      "status": "ok",
-      "items": 41
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://bo-man.hatenablog.com/archive?page=3",
-      "status": "ok",
-      "items": 51
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://miga0547.hatenablog.com/archive?page=2",
+      "url": "https://oupo.hatenadiary.com/archive?page=6",
       "status": "ok",
       "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://milk4724.hatenablog.com/archive?page=6",
+      "url": "https://purely11.hatenablog.com/archive?page=3",
       "status": "ok",
-      "items": 66
+      "items": 12
     },
     {
       "channel": "blog-archive",
-      "url": "https://milk4724.hatenadiary.org/archive?page=5",
+      "url": "https://blastoise-x.hatenablog.com/archive?page=1",
       "status": "ok",
-      "items": 60
+      "items": 48
     },
     {
       "channel": "blog-archive",
-      "url": "https://notwogetstwo.hatenablog.com/archive?page=5",
+      "url": "https://error-astray.hatenablog.com/archive?page=2",
       "status": "ok",
-      "items": 51
+      "items": 58
     },
     {
       "channel": "blog-archive",
-      "url": "https://prie0908.hatenadiary.com/archive?page=2",
-      "status": "ok",
-      "items": 5
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://takedpok.hatenablog.com/archive?page=1",
-      "status": "ok",
-      "items": 14
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://buster-poke.hatenablog.com/archive?page=5",
-      "status": "ok",
-      "items": 60
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://dokudenpa.hatenablog.jp/archive?page=2",
+      "url": "https://eruakudiary.hatenablog.com/archive?page=6",
       "status": "ok",
       "items": 70
     },
     {
       "channel": "blog-archive",
-      "url": "https://e52301147.hatenablog.com/archive?page=3",
+      "url": "https://fuchiaz.hatenadiary.org/archive?page=6",
       "status": "ok",
       "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://namofure.hatenablog.com/archive?page=3",
-      "status": "ok",
-      "items": 5
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://nitrone7.hatenablog.com/archive?page=5",
+      "url": "https://hijikichi.hatenablog.com/archive?page=6",
       "status": "ok",
       "items": 5
     },
@@ -768,132 +734,152 @@
     },
     {
       "channel": "candidate-verify",
-      "url": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041",
-      "status": "ok",
-      "items": 17
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://buster-poke.hatenablog.com/entry/20140630/1404139139",
-      "status": "ok",
-      "items": 18
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://buster-poke.hatenablog.com/entry/20140711/1405093575",
-      "status": "ok",
-      "items": 20
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://buster-poke.hatenablog.com/entry/20140721/1405952530",
-      "status": "ok",
-      "items": 16
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/metagross-armor/20090506",
+      "url": "https://d.hatena.ne.jp/ayuzak/20070713",
       "status": "error",
       "items": 0,
       "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/oupo/20171222/1513931635",
-      "status": "ok",
-      "items": 12
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/spring_mao/20111218/1324173403",
+      "url": "https://d.hatena.ne.jp/metagross-armor/20090102",
       "status": "error",
       "items": 0,
-      "error": "ValueError: redirect outside allowed public Hatena hosts"
+      "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://error-astray.hatenablog.com/entry/20081217/p1",
-      "status": "ok",
-      "items": 8
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://error-astray.hatenablog.com/entry/20090305",
-      "status": "ok",
-      "items": 58
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://eunopia.hatenadiary.org/entry/20081125",
-      "status": "ok",
-      "items": 92
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://eunopia.hatenadiary.org/entry/20081127",
-      "status": "ok",
-      "items": 56
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://eunopia.hatenadiary.org/entry/20090430",
-      "status": "ok",
-      "items": 55
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://eunopia.hatenadiary.org/entry/20090912",
-      "status": "ok",
-      "items": 17
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://eunopia.hatenadiary.org/entry/20101010",
-      "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://mahodoriproject.hatenablog.com/entry/-NobodyDoesItAnyway",
-      "status": "ok",
-      "items": 23
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://mahodoriproject.hatenablog.com/entry/15",
-      "status": "ok",
-      "items": 82
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://mahodoriproject.hatenablog.com/entry/___________________________________",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: no unambiguous article body (roots=1, characters=28)"
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/hunter0245.hatenablog.com/archive%E2%80%9D",
+      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D",
       "status": "error",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/1rm0e3h2y191b6u/AACTUA1OKosHK_O1NeZ3VHsva?dl=0%E2%80%9D",
+      "url": "https://milk4724.hatenablog.com/entry/20130218/1350215139",
       "status": "error",
       "items": 0,
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D",
+      "url": "https://milk4724.hatenablog.com/entry/2019/09/09/00000000",
       "status": "error",
       "items": 0,
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/2021/09/18/172506",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20211108/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20220326/00000000",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
     }
   ],
   "unresolved_errors": [
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20220501/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260326/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260525/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260620/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260703/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260713/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260730/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260816/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260920/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20260922/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20261012/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20250619/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20251215/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "revision",
+      "url": "https://milk4724.hatenablog.com/entry/20251226/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://milk4724.hatenablog.com/",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
     {
       "channel": "blog-feed",
       "url": "https://bzl.hatenablog.com/",
@@ -909,7 +895,7 @@
     {
       "channel": "blog-feed",
       "url": "https://d.hatena.ne.jp/spring_mao/",
-      "at": "2026-10-27T08:07:53+00:00",
+      "at": "2026-10-28T05:44:12+00:00",
       "message": "redirect outside allowed public Hatena hosts"
     },
     {
@@ -929,6 +915,18 @@
       "url": "https://d.hatena.ne.jp/spring_mao/",
       "at": "2026-10-27T08:07:53+00:00",
       "message": "redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20220326/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "channel": "candidate-verify",
@@ -968,26 +966,62 @@
     },
     {
       "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/metagross-armor/20090102",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://d.hatena.ne.jp/ayuzak/20070713",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/buster_poke/20140518",
-      "at": "2026-10-27T08:07:53+00:00",
+      "at": "2026-10-28T05:44:12+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/buster_poke/20140219",
-      "at": "2026-10-27T08:07:53+00:00",
+      "at": "2026-10-28T05:44:12+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/buster_poke/20130905",
-      "at": "2026-10-27T08:07:53+00:00",
+      "at": "2026-10-28T05:44:12+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20211108/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/2021/09/18/172506",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/2019/09/09/00000000",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20130218/1350215139",
+      "at": "2026-10-28T05:44:12+00:00",
+      "message": "ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts"
+    },
+    {
+      "channel": "candidate-verify",
       "url": "https://bzl.hatenablog.com/entry/2020/01/05/212130",
-      "at": "2026-10-27T08:07:53+00:00",
+      "at": "2026-10-28T05:44:12+00:00",
       "message": "ValueError: redirect outside allowed public Hatena hosts"
     }
   ],

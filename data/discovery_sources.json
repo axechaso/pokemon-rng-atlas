@@ -52,7 +52,9 @@
     "homepage": "https://d.hatena.ne.jp/ayuzak/",
     "feed": "https://d.hatena.ne.jp/ayuzak/rss",
     "discovered_at": "2026-10-27T08:07:53+00:00",
-    "discovered_via": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041"
+    "discovered_via": "https://ayuzak.hatenadiary.org/entry/20090110/1231577041",
+    "enabled": false,
+    "migrated_to": "https://ayuzak.hatenadiary.org/"
   },
   "https://d.hatena.ne.jp/buster_poke/": {
     "name": "d.hatena.ne.jp",

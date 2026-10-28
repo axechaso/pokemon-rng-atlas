@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-10-27T08:07:53+00:00
+抓取时间（UTC）：2026-10-28T05:44:12+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
 - 待审新来源：404；待审原文变化：0。
 - 已收录 Hatena 原文：65；已有正文基线：65。首次基线不算修订。
 - 其他 331 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：177/180；获取或解析失败：12。
+- 本次请求：133/180；获取或解析失败：28。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -16,15 +16,43 @@
 
 | 通道 | 成功请求 | 失败请求 |
 | --- | ---: | ---: |
-| blog-archive | 15 | 1 |
-| blog-feed | 23 | 1 |
+| blog-archive | 8 | 0 |
+| blog-feed | 22 | 2 |
 | bookmark-search | 16 | 0 |
-| candidate-verify | 14 | 10 |
-| revision | 65 | 0 |
+| candidate-verify | 0 | 12 |
+| revision | 51 | 14 |
+
+- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>)：ValueError: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20250619/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20251215/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20251226/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [blog-feed](<https://milk4724.hatenablog.com/feed>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 - [blog-feed](<https://d.hatena.ne.jp/spring_mao/rss>)：ValueError: redirect outside allowed public Hatena hosts
-
-- [blog-archive](<https://d.hatena.ne.jp/spring_mao/archive?page=1>)：ValueError: redirect outside allowed public Hatena hosts
 
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>)：ValueError: redirect outside allowed public Hatena hosts
 
@@ -34,36 +62,63 @@
 
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090506>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/ayuzak/20070713>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>)：ValueError: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090102>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://mahodoriproject.hatenablog.com/entry/___________________________________>)：ValueError: no unambiguous article body (roots=1, characters=28)
+- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D>)：HTTPError: HTTP Error 404: Not Found
 
-- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/hunter0245.hatenablog.com/archive%E2%80%9D>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130218/1350215139>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/1rm0e3h2y191b6u/AACTUA1OKosHK_O1NeZ3VHsva?dl=0%E2%80%9D>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/2019/09/09/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/2021/09/18/172506>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20211108/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/00000000>)：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 
 ### 尚未恢复的获取问题（含之前轮次）
 
+- [revision](<https://milk4724.hatenablog.com/entry/20220501/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260326/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260525/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260620/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260703/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260713/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260730/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260816/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260920/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20260922/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20261012/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20250619/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20251215/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [revision](<https://milk4724.hatenablog.com/entry/20251226/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [blog-feed](<https://milk4724.hatenablog.com/>) · 2026-10-28T05:44:12+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：redirect outside allowed public Hatena hosts
 - [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-25T04:43:09+00:00：HTTP Error 404: Not Found
-- [blog-feed](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-27T08:07:53+00:00：redirect outside allowed public Hatena hosts
+- [blog-feed](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-28T05:44:12+00:00：redirect outside allowed public Hatena hosts
 - [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：HTTP Error 404: Not Found
 - [blog-archive](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-27T08:07:53+00:00：redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D>) · 2026-10-28T05:44:12+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D>) · 2026-10-27T08:07:53+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/1rm0e3h2y191b6u/AACTUA1OKosHK_O1NeZ3VHsva?dl=0%E2%80%9D>) · 2026-10-27T08:07:53+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/hunter0245.hatenablog.com/archive%E2%80%9D>) · 2026-10-27T08:07:53+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://mahodoriproject.hatenablog.com/entry/___________________________________>) · 2026-10-27T08:07:53+00:00：ValueError: no unambiguous article body (roots=1, characters=28)
 - [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>) · 2026-10-27T08:07:53+00:00：ValueError: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090506>) · 2026-10-27T08:07:53+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-27T08:07:53+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-27T08:07:53+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-27T08:07:53+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-27T08:07:53+00:00：ValueError: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090102>) · 2026-10-28T05:44:12+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/ayuzak/20070713>) · 2026-10-28T05:44:12+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-28T05:44:12+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-10-28T05:44:12+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-28T05:44:12+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20211108/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/2021/09/18/172506>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/2019/09/09/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130218/1350215139>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-28T05:44:12+00:00：ValueError: redirect outside allowed public Hatena hosts
 
 ## 原文变化（需核实，不等于技术结论已修正）
 
