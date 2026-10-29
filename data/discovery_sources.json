@@ -291,6 +291,13 @@
     "discovered_at": "2026-10-16T06:21:46+00:00",
     "discovered_via": "https://b.hatena.ne.jp/q/%E5%9B%BA%E5%AE%9A%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
   },
+  "https://tsukkakari.hatenadiary.org/": {
+    "name": "tsukkakari.hatenadiary.org",
+    "homepage": "https://tsukkakari.hatenadiary.org/",
+    "feed": "https://tsukkakari.hatenadiary.org/feed",
+    "discovered_at": "2026-10-29T05:49:43+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/20220909/00000000"
+  },
   "https://wasou3721.hatenablog.com/": {
     "name": "オワコンの地:ワソポタミア文明",
     "homepage": "https://wasou3721.hatenablog.com/",
