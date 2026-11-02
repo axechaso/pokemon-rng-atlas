@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-11-01T06:07:06+00:00
+抓取时间（UTC）：2026-11-02T06:06:04+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：473；待审原文变化：3。
+- 待审新来源：479；待审原文变化：4。
 - 已收录 Hatena 原文：65；已有正文基线：65。首次基线不算修订。
 - 其他 331 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：154/180；获取或解析失败：2。
+- 本次请求：156/180；获取或解析失败：3。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -19,30 +19,31 @@
 | blog-archive | 8 | 0 |
 | blog-feed | 23 | 1 |
 | bookmark-search | 16 | 0 |
-| candidate-verify | 11 | 1 |
+| candidate-verify | 10 | 2 |
 | revision | 65 | 0 |
 
 - [blog-feed](<https://d.hatena.ne.jp/spring_mao/rss>)：ValueError: redirect outside allowed public Hatena hosts
 
-- [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090506>)：ValueError: redirected to a non-article page
+
+- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>)：ValueError: redirect outside allowed public Hatena hosts
 
 ### 尚未恢复的获取问题（含之前轮次）
 
 - [blog-feed](<https://bzl.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：redirect outside allowed public Hatena hosts
 - [blog-feed](<https://sina-poke.hatenablog.com/>) · 2026-10-25T04:43:09+00:00：HTTP Error 404: Not Found
-- [blog-feed](<https://d.hatena.ne.jp/spring_mao/>) · 2026-11-01T06:07:06+00:00：redirect outside allowed public Hatena hosts
+- [blog-feed](<https://d.hatena.ne.jp/spring_mao/>) · 2026-11-02T06:06:04+00:00：redirect outside allowed public Hatena hosts
 - [blog-archive](<https://bzl.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [blog-archive](<https://sina-poke.hatenablog.com/>) · 2026-10-27T01:49:16+00:00：HTTP Error 404: Not Found
 - [blog-archive](<https://d.hatena.ne.jp/spring_mao/>) · 2026-10-30T05:51:04+00:00：redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20130829/1377713396>) · 2026-10-31T05:43:22+00:00：HTTPError: HTTP Error 404: Not Found
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D>) · 2026-11-01T06:07:06+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D>) · 2026-10-30T05:51:04+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/1rm0e3h2y191b6u/AACTUA1OKosHK_O1NeZ3VHsva?dl=0%E2%80%9D>) · 2026-10-30T05:51:04+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/hunter0245.hatenablog.com/archive%E2%80%9D>) · 2026-10-29T05:49:43+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://mahodoriproject.hatenablog.com/entry/___________________________________>) · 2026-10-29T05:49:43+00:00：ValueError: no unambiguous article body (roots=1, characters=28)
-- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>) · 2026-10-29T05:49:43+00:00：ValueError: redirect outside allowed public Hatena hosts
-- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090506>) · 2026-10-29T05:49:43+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/spring_mao/20111218/1324173403>) · 2026-11-02T06:06:04+00:00：ValueError: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090506>) · 2026-11-02T06:06:04+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/metagross-armor/20090102>) · 2026-10-31T05:43:22+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/ayuzak/20070713>) · 2026-10-30T05:51:04+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-10-31T05:43:22+00:00：ValueError: redirected to a non-article page
@@ -50,7 +51,6 @@
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-10-31T05:43:22+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20220505/1651395351>) · 2026-10-29T05:49:43+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/1648221467>) · 2026-10-29T05:49:43+00:00：HTTPError: HTTP Error 404: Not Found
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20211108/00000000>) · 2026-10-28T05:44:12+00:00：ValueError: robots.txt unavailable: redirect outside allowed public Hatena hosts
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-10-30T05:51:04+00:00：ValueError: redirect outside allowed public Hatena hosts
 
 ## 原文变化（需核实，不等于技术结论已修正）
@@ -59,7 +59,7 @@
 
 [原文](<https://e52301147.hatenablog.com/entry/2023/03/09/183606>)
 
-- 首次检测：2026-10-31T05:43:22+00:00；最近确认：2026-11-01T06:07:06+00:00。
+- 首次检测：2026-10-31T05:43:22+00:00；最近确认：2026-11-02T06:06:04+00:00。
 - 变化字段：body_sha256, links_sha256, source_updated_raw；段落增／删 0/2。
 - 正文链接增／删 0/5；图片等媒体地址增／删 0/0。
 - 标题：日本版VCクリスタルでTID00000を狙う → 日本版VCクリスタルでTID00000を狙う。
@@ -72,7 +72,7 @@
 
 [原文](<https://milk4724.hatenablog.com/entry/20260620/00000000>)
 
-- 首次检测：2026-11-01T06:07:06+00:00；最近确认：2026-11-01T06:07:06+00:00。
+- 首次检测：2026-11-01T06:07:06+00:00；最近确认：2026-11-02T06:06:04+00:00。
 - 变化字段：body_sha256, source_updated_raw；段落增／删 2/2。
 - 正文链接增／删 0/0；图片等媒体地址增／删 0/0。
 - 标题：【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版) → 【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版)。
@@ -94,8 +94,75 @@
 - 正文 SHA-256：`88a596998f57b414374ebd12c42112ceeb9e30c2932488edb0b6cddfe8d0f1b6` → `087c2b95578c71a7c30ac64b4f21f4b02ffcf6e0fa84d61e5818cc8937df9365`。
 - 核对原文与本站摘要、工具条件和相关研究后，用 README 中的审核命令确认。重复运行不会清除待审变化。
 
+### 97fe3d0e5d4b8c11 · 【ポケモンHGSS】赤いギャラドスの乱数調整
+
+[原文](<https://milk4724.hatenablog.com/entry/20260922/00000000>)
+
+- 首次检测：2026-11-02T06:06:04+00:00；最近确认：2026-11-02T06:06:04+00:00。
+- 变化字段：body_sha256, media_sha256, source_updated_raw；段落增／删 19/1。
+- 正文链接增／删 0/0；图片等媒体地址增／删 1/0。
+- 标题：【ポケモンHGSS】赤いギャラドスの乱数調整 → 【ポケモンHGSS】赤いギャラドスの乱数調整。
+- 字符数：3176 → 3409。
+- 原站更新时间：2026-10-31T20:31:59+09:00 → 2026-11-02T07:07:25+09:00。
+- 正文 SHA-256：`087c2b95578c71a7c30ac64b4f21f4b02ffcf6e0fa84d61e5818cc8937df9365` → `0273ed852ab84d5c8892d1612f155220f4b9a520ac7100d6619486051a2da4d3`。
+- 核对原文与本站摘要、工具条件和相关研究后，用 README 中的审核命令确认。重复运行不会清除待审变化。
+
 
 ## 新来源候选
+
+### milk4724.hatenablog.com
+
+[原文](<https://milk4724.hatenablog.com/entry/20240203/00000000>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### milk4724.hatenablog.com
+
+[原文](<https://milk4724.hatenablog.com/entry/20240202/00000000>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### BW1 パラメータ特定(3DS用)
+
+[原文](<https://milk4724.hatenablog.com/entry/20240104/00000000>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20211108/00000000。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### PID孵化乱数検証
+
+[原文](<https://milk4724.hatenablog.com/entry/20220501/1651390812>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20220505/00000000。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### BW1 パラメータ特定(初代DS・DSlite用)
+
+[原文](<https://milk4724.hatenablog.com/entry/20211107/00000000>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20211108/00000000。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
+
+### milk4724.hatenablog.com
+
+[原文](<https://milk4724.hatenablog.com/entry/20111206/00000000>)
+
+- 首次发现：2026-11-02；来源博客：milk4724.hatenablog.com。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010。
+- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
+- 状态：仅标题线索；语言、主题、作者和日期待核实。
 
 ### milk4724.hatenablog.com
 
@@ -106,14 +173,14 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### 捕獲用ポケモン
+### 【ポケモン】各世代の捕獲要員の紹介
 
 [原文](<https://milk4724.hatenablog.com/entry/2021/10/16/124010>)
 
 - 首次发现：2026-11-01；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010; article-reference · https://milk4724.hatenablog.com/entry/20220514/00000000。
+- 原文发表元数据：2021-10-16T00:00:00+09:00；原站更新时间：2026-02-27T17:56:05+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### ohirugohan.hatenablog.com
 
@@ -291,27 +358,27 @@
 [原文](<https://milk4724.hatenablog.com/entry/20231209/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7; article-reference · https://milk4724.hatenablog.com/entry/20231209/00000000。
+- 原文发表元数据：2023-12-09T00:00:00+09:00；原站更新时间：2026-04-19T22:43:25+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【第4世代乱数】HGSS徘徊乱数 いじっぱり エンテイ 0xd30a0c5c
 
 [原文](<https://milk4724.hatenablog.com/entry/20231208/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7; article-reference · https://milk4724.hatenablog.com/entry/20231208/00000000。
+- 原文发表元数据：2023-12-08T00:00:00+09:00；原站更新时间：2023-12-08T00:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【ポケモンHGSS】 徘徊乱数 臆病 めざパ氷 ライコウ
 
 [原文](<https://milk4724.hatenablog.com/entry/20231207/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7; article-reference · https://milk4724.hatenablog.com/entry/20231207/00000000。
+- 原文发表元数据：2023-12-07T00:00:00+09:00；原站更新时间：2026-09-21T23:58:45+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【第4世代乱数】 ポケモン 乱数調整初心者向けの PHS 導入方法
 
@@ -327,7 +394,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20231204/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=7; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220510/00000000。
 - 原文发表元数据：2023-12-04T00:00:00+09:00；原站更新时间：2026-04-26T18:50:08+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -358,41 +425,41 @@
 - 原文发表元数据：2023-11-19T00:00:00+09:00；原站更新时间：2025-12-04T20:49:35+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### milk4724.hatenablog.com
+### 【ポケモンUSUM(ウルトラサンムーン)】色違いさとピカ乱数の備忘録
 
 [原文](<https://milk4724.hatenablog.com/entry/20220603/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
 - 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 原文发表元数据：2022-06-03T00:00:00+09:00；原站更新时间：2026-08-14T13:05:04+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### milk4724.hatenablog.com
+### 【第7世代乱数】USUM(ウルトラサンムーン) 固定乱数 デンジュモク
 
 [原文](<https://milk4724.hatenablog.com/entry/20220514/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220514/00000000。
+- 原文发表元数据：2022-05-14T00:00:00+09:00；原站更新时间：2026-08-14T13:05:38+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### milk4724.hatenablog.com
+### 【ポケモンサンムーン/ウルトラサンムーン】3DSRNGtool のFAQ (エラー対処方法)
 
 [原文](<https://milk4724.hatenablog.com/entry/20220510/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220510/00000000。
+- 原文发表元数据：2022-05-10T00:00:00+09:00；原站更新时间：2026-05-17T15:33:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### milk4724.hatenablog.com
+### 【第7世代乱数】PID孵化乱数実践
 
 [原文](<https://milk4724.hatenablog.com/entry/20220505/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746; article-reference · https://milk4724.hatenablog.com/entry/20220505/00000000。
+- 原文发表元数据：2022-05-05T00:00:00+09:00；原站更新时间：2022-05-05T00:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【第7世代乱数】USUM(ウルトラサンムーン) 固定乱数 ポニ島 色違いタイプ:ヌル
 
@@ -426,7 +493,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20211025/00000000>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/2021/08/21/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220422/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/2021/08/21/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220422/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220514/00000000。
 - 原文发表元数据：2021-10-25T00:00:00+09:00；原站更新时间：2026-08-14T13:03:03+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -453,7 +520,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/2021/10/13/022746>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746; article-reference · https://milk4724.hatenablog.com/entry/2021/10/14/131539; article-reference · https://milk4724.hatenablog.com/entry/2021/10/23/160853。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231204/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746; article-reference · https://milk4724.hatenablog.com/entry/2021/10/14/131539; article-reference · https://milk4724.hatenablog.com/entry/2021/10/23/160853; article-reference · https://milk4724.hatenablog.com/entry/20220326/00000000。
 - 原文发表元数据：2021-10-13T00:00:00+09:00；原站更新时间：2026-08-14T13:06:04+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -462,7 +529,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20111226/1324626868>)
 
 - 首次发现：2026-10-31；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231209/00000000。
 - 原文发表元数据：2011-12-26T16:54:28+09:00；原站更新时间：2026-04-24T14:57:30+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -705,7 +772,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20231222/00000000>)
 
 - 首次发现：2026-10-29；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231225/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231222/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20231225/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231222/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010。
 - 原文发表元数据：2023-12-22T00:00:00+09:00；原站更新时间：2025-12-02T11:08:22+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -1051,14 +1118,14 @@
 - 原文发表元数据：2023-12-03T00:00:00+09:00；原站更新时间：2026-09-25T18:44:02+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### milk4724.hatenablog.com
+### 色違いとIDの関連について
 
 [原文](<https://milk4724.hatenablog.com/entry/20220326/00000000>)
 
 - 首次发现：2026-10-27；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20251215/00000000; article-reference · https://milk4724.hatenablog.com/entry/20251226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20251215/00000000; article-reference · https://milk4724.hatenablog.com/entry/20251226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220326/00000000。
+- 原文发表元数据：2022-03-26T00:00:00+09:00；原站更新时间：2026-05-03T11:50:57+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 乱数調整汎用ツール
 
@@ -1425,7 +1492,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20240215/00000000>)
 
 - 首次发现：2026-10-24；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=5; article-reference · https://milk4724.hatenablog.com/entry/2021/10/16/124010。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3051,7 +3118,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20260814/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260816/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/08/21/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220422/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260816/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/08/21/00000000; article-reference · https://milk4724.hatenablog.com/entry/2021/10/13/022746; article-reference · https://milk4724.hatenablog.com/entry/20211025/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211113/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220422/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220514/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220603/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3060,7 +3127,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20260623/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-feed · https://milk4724.hatenablog.com/feed; blog-archive · https://milk4724.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/20260922/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231228/00000000。
+- 发现依据：blog-feed · https://milk4724.hatenablog.com/feed; blog-archive · https://milk4724.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/20260922/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231228/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231207/00000000。
 - 原文发表元数据：2026-06-23T00:00:00+09:00；原站更新时间：2026-09-20T16:10:26+09:00。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3105,7 +3172,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20260401/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=2; article-reference · https://milk4724.hatenablog.com/entry/20111226/1324626868。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=2; article-reference · https://milk4724.hatenablog.com/entry/20111226/1324626868; article-reference · https://milk4724.hatenablog.com/entry/20231207/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3213,7 +3280,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20250827/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260922/00000000; blog-archive · https://milk4724.hatenablog.com/archive?page=3; article-reference · https://milk4724.hatenablog.com/entry/20251215/00000000; article-reference · https://milk4724.hatenablog.com/entry/20251226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260922/00000000; blog-archive · https://milk4724.hatenablog.com/archive?page=3; article-reference · https://milk4724.hatenablog.com/entry/20251215/00000000; article-reference · https://milk4724.hatenablog.com/entry/20251226/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231201/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231202/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220326/00000000; article-reference · https://milk4724.hatenablog.com/entry/20231209/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3231,7 +3298,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20240710/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260816/00000000; blog-archive · https://milk4724.hatenablog.com/archive?page=4; article-reference · https://milk4724.hatenablog.com/entry/20231205/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260816/00000000; blog-archive · https://milk4724.hatenablog.com/archive?page=4; article-reference · https://milk4724.hatenablog.com/entry/20231205/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220326/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3285,7 +3352,7 @@
 [原文](<https://milk4724.hatenablog.com/entry/20240106/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260730/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260730/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211108/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
@@ -3348,18 +3415,18 @@
 [原文](<https://milk4724.hatenablog.com/entry/20220326/1648221467>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20220501/00000000。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20220501/00000000; article-reference · https://milk4724.hatenablog.com/entry/20220505/00000000。
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### パラメータ特定記事
+### 【ポケモンBW2】seedparamsearchを利用したパラメータ特定方法 (初代DS DSlite用)
 
 [原文](<https://milk4724.hatenablog.com/entry/20211108/00000000>)
 
 - 首次发现：2026-10-16；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260730/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/20260730/00000000; article-reference · https://milk4724.hatenablog.com/entry/20211108/00000000。
+- 原文发表元数据：2021-11-08T00:00:00+09:00；原站更新时间：2026-07-05T17:53:14+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【検証】ポケモンBW1海外版Timer0の値の片寄り及び安定化可能であるかについて
 
@@ -3420,7 +3487,7 @@
 [原文](<https://larvesta10.hatenablog.com/entry/2020/03/03/005318>)
 
 - 首次发现：2026-10-16；来源博客：larvesta10.hatenablog.com。
-- 发现依据：blog-feed · https://larvesta10.hatenablog.com/feed; blog-archive · https://larvesta10.hatenablog.com/archive?page=1; article-reference · https://larvesta10.hatenablog.com/entry/2020/03/03/005318。
+- 发现依据：blog-feed · https://larvesta10.hatenablog.com/feed; blog-archive · https://larvesta10.hatenablog.com/archive?page=1; article-reference · https://larvesta10.hatenablog.com/entry/2020/03/03/005318; article-reference · https://milk4724.hatenablog.com/entry/20220326/00000000。
 - 原文发表元数据：2020-03-03T00:53:18+09:00；原站更新时间：2020-03-02T15:53:18+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -3456,7 +3523,7 @@
 [原文](<https://larvesta10.hatenablog.com/entry/2019/10/04/140601>)
 
 - 首次发现：2026-10-16；来源博客：larvesta10.hatenablog.com。
-- 发现依据：blog-feed · https://larvesta10.hatenablog.com/feed; blog-archive · https://larvesta10.hatenablog.com/archive?page=1。
+- 发现依据：blog-feed · https://larvesta10.hatenablog.com/feed; blog-archive · https://larvesta10.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/20220603/00000000。
 - 原文发表元数据：2019-10-04T14:06:01+09:00；原站更新时间：2019-10-04T05:06:01+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
