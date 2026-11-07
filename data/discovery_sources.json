@@ -253,6 +253,13 @@
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
   },
+  "https://plusletool.hatenadiary.org/": {
+    "name": "plusletool.hatenadiary.org",
+    "homepage": "https://plusletool.hatenadiary.org/",
+    "feed": "https://plusletool.hatenadiary.org/feed",
+    "discovered_at": "2026-11-07T05:59:26+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/20240125/00000000"
+  },
   "https://prie0908.hatenadiary.com/": {
     "name": "prie0908.hatenadiary.com",
     "homepage": "https://prie0908.hatenadiary.com/",
