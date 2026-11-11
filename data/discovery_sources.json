@@ -162,6 +162,13 @@
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
   },
+  "https://junari.hatenablog.com/": {
+    "name": "junari.hatenablog.com",
+    "homepage": "https://junari.hatenablog.com/",
+    "feed": "https://junari.hatenablog.com/feed",
+    "discovered_at": "2026-11-11T06:23:45+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/20240409/00000000"
+  },
   "https://kuzuhiko.hatenadiary.org/": {
     "name": "kuzuhiko.hatenadiary.org",
     "homepage": "https://kuzuhiko.hatenadiary.org/",
@@ -210,6 +217,13 @@
     "feed": "https://milk4724.hatenadiary.org/feed",
     "discovered_at": "2026-10-16T06:21:46+00:00",
     "discovered_via": "https://b.hatena.ne.jp/q/BW%20%E4%B9%B1%E6%95%B0?mode=rss&target=title&sort=popular&users=1&date_range=all&safe=on"
+  },
+  "https://naberian.hatenablog.com/": {
+    "name": "naberian.hatenablog.com",
+    "homepage": "https://naberian.hatenablog.com/",
+    "feed": "https://naberian.hatenablog.com/feed",
+    "discovered_at": "2026-11-11T06:23:45+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/20240409/00000000"
   },
   "https://namofure.hatenablog.com/": {
     "name": "TASはTASけあい",
