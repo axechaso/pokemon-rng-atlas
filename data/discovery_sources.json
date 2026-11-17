@@ -6,6 +6,13 @@
     "discovered_at": "2026-10-27T01:49:16+00:00",
     "discovered_via": "https://error-astray.hatenablog.com/entry/2026/05/04/120000"
   },
+  "https://bicha-178.hatenadiary.jp/": {
+    "name": "bicha-178.hatenadiary.jp",
+    "homepage": "https://bicha-178.hatenadiary.jp/",
+    "feed": "https://bicha-178.hatenadiary.jp/feed",
+    "discovered_at": "2026-11-17T07:56:21+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/20251231/00000000"
+  },
   "https://blastoise-x.hatenablog.com/": {
     "name": "ろいしんぶろぐ",
     "homepage": "https://blastoise-x.hatenablog.com/",
@@ -161,6 +168,13 @@
     "feed": "https://hope3gen.hatenablog.com/feed",
     "discovered_at": "2026-10-16T06:16:56+00:00",
     "discovered_via": "data/sources.json"
+  },
+  "https://housuu2002.hatenadiary.org/": {
+    "name": "housuu2002.hatenadiary.org",
+    "homepage": "https://housuu2002.hatenadiary.org/",
+    "feed": "https://housuu2002.hatenadiary.org/feed",
+    "discovered_at": "2026-11-17T07:56:21+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/202601025/00000000"
   },
   "https://junari.hatenablog.com/": {
     "name": "junari.hatenablog.com",
