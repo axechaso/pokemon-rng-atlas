@@ -27,6 +27,13 @@
     "discovered_at": "2026-10-20T04:52:58+00:00",
     "discovered_via": "https://hope3gen.hatenablog.com/entry/2023/11/15/014749"
   },
+  "https://bowline-lab.hatenadiary.org/": {
+    "name": "bowline-lab.hatenadiary.org",
+    "homepage": "https://bowline-lab.hatenadiary.org/",
+    "feed": "https://bowline-lab.hatenadiary.org/feed",
+    "discovered_at": "2026-11-24T09:55:32+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/99990104/00000000"
+  },
   "https://buster-poke.hatenablog.com/": {
     "name": "buster-poke.hatenablog.com",
     "homepage": "https://buster-poke.hatenablog.com/",
@@ -154,6 +161,13 @@
     "feed": "https://hijikichi.hatenablog.com/feed",
     "discovered_at": "2026-10-16T06:21:46+00:00",
     "discovered_via": "https://b.hatena.ne.jp/q/%E4%B9%B1%E6%95%B0%E8%AA%BF%E6%95%B4?mode=rss&target=title&sort=recent&users=1&date_range=all&safe=on"
+  },
+  "https://hikineet777.hatenablog.com/": {
+    "name": "hikineet777.hatenablog.com",
+    "homepage": "https://hikineet777.hatenablog.com/",
+    "feed": "https://hikineet777.hatenablog.com/feed",
+    "discovered_at": "2026-11-24T09:55:32+00:00",
+    "discovered_via": "https://milk4724.hatenablog.com/entry/99990107/00000000"
   },
   "https://honasho5.hatenadiary.org/": {
     "name": "honasho5.hatenadiary.org",
