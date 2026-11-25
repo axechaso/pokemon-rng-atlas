@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T09:55:32+00:00",
+  "generated_at": "2026-11-25T08:36:31+00:00",
   "scope": "Hatena only; cross-blog queries and bounded crawling, not an exhaustive index",
-  "requests": 162,
+  "requests": 157,
   "request_limit": 180,
-  "pending_articles": 629,
+  "pending_articles": 633,
   "pending_revisions": 7,
   "hatena_articles": 65,
   "baselines": 65,
   "outside_revision_scope": 331,
-  "errors": 5,
+  "errors": 4,
   "channels": [
     {
       "channel": "revision",
@@ -498,109 +498,121 @@
     },
     {
       "channel": "blog-feed",
-      "url": "https://e52301147.hatenablog.com/feed",
+      "url": "https://bowline-lab.hatenadiary.org/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://hijikichi.hatenablog.com/feed",
+      "url": "https://hikineet777.hatenablog.com/feed",
+      "status": "ok",
+      "items": 5
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://dokudenpa.hatenablog.jp/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://hope3gen.hatenablog.com/feed",
+      "url": "https://error-astray.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://housuu2002.hatenadiary.org/feed",
+      "url": "https://eruakudiary.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://junari.hatenablog.com/feed",
-      "status": "ok",
-      "items": 10
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://kuzuhiko.hatenadiary.org/feed",
-      "status": "ok",
-      "items": 25
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://larvesta10.hatenablog.com/feed",
-      "status": "ok",
-      "items": 24
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://mahodoriproject.hatenablog.com/feed",
-      "status": "ok",
-      "items": 23
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://metagross-armor.hatenablog.com/feed",
+      "url": "https://eunopia.hatenadiary.org/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://milk4724.hatenadiary.org/feed",
+      "url": "https://fuchiaz.hatenadiary.org/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://naberian.hatenablog.com/feed",
+      "url": "https://honasho5.hatenadiary.org/feed",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://miga0547.hatenablog.com/feed",
       "status": "ok",
       "items": 9
     },
     {
       "channel": "blog-feed",
-      "url": "https://nitrone7.hatenablog.com/feed",
+      "url": "https://milk4724.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://nyokki2319.hatenablog.com/feed",
+      "url": "https://namofure.hatenablog.com/feed",
       "status": "ok",
-      "items": 8
+      "items": 18
     },
     {
       "channel": "blog-feed",
-      "url": "https://oupo.hatenadiary.com/feed",
-      "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://plusletool.hatenadiary.org/feed",
+      "url": "https://notwogetstwo.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://pokezei.hatenadiary.org/feed",
+      "url": "https://ohirugohan.hatenablog.com/feed",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://purely11.hatenablog.com/feed",
+      "status": "ok",
+      "items": 26
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://rusted-coil-test.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://prie0908.hatenadiary.com/feed",
+      "url": "https://saka-30294.hatenablog.com/feed",
       "status": "ok",
-      "items": 16
+      "items": 30
     },
     {
       "channel": "blog-feed",
-      "url": "https://you396.hatenadiary.jp/feed",
+      "url": "https://taiyaki3gen.hatenablog.com/feed",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://takedpok.hatenablog.com/feed",
+      "status": "ok",
+      "items": 5
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://tsukkakari.hatenadiary.org/feed",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "channel": "blog-feed",
+      "url": "https://wasou3721.hatenablog.com/feed",
       "status": "ok",
       "items": 30
     },
@@ -629,141 +641,128 @@
       "items": 30
     },
     {
-      "channel": "blog-feed",
-      "url": "https://buster-poke.hatenablog.com/feed",
-      "status": "ok",
-      "items": 30
-    },
-    {
-      "channel": "blog-feed",
-      "url": "https://d.hatena.ne.jp/spring_mao/rss",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: redirect outside allowed public Hatena hosts"
-    },
-    {
       "channel": "blog-archive",
-      "url": "https://rusted-coil-test.hatenablog.com/archive?page=11",
+      "url": "https://bowline-lab.hatenadiary.org/archive?page=1",
       "status": "ok",
       "items": 35
     },
     {
       "channel": "blog-archive",
-      "url": "https://taiyaki3gen.hatenablog.com/archive?page=3",
+      "url": "https://hikineet777.hatenablog.com/archive?page=1",
+      "status": "ok",
+      "items": 15
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://tsukkakari.hatenadiary.org/archive?page=2",
+      "status": "ok",
+      "items": 22
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://wasou3721.hatenablog.com/archive?page=2",
+      "status": "ok",
+      "items": 62
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://ayuzak.hatenadiary.org/archive?page=8",
+      "status": "ok",
+      "items": 35
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://hijikichi.hatenablog.com/archive?page=5",
+      "status": "ok",
+      "items": 16
+    },
+    {
+      "channel": "blog-archive",
+      "url": "https://honasho5.hatenadiary.org/archive?page=6",
       "status": "ok",
       "items": 5
     },
     {
       "channel": "blog-archive",
-      "url": "https://error-astray.hatenablog.com/archive?page=8",
+      "url": "https://hope3gen.hatenablog.com/archive?page=1",
       "status": "ok",
-      "items": 43
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://eruakudiary.hatenablog.com/archive?page=12",
-      "status": "ok",
-      "items": 10
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://fuchiaz.hatenadiary.org/archive?page=6",
-      "status": "ok",
-      "items": 5
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://milk4724.hatenablog.com/archive?page=1",
-      "status": "ok",
-      "items": 65
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://milk4724.hatenadiary.org/archive?page=2",
-      "status": "ok",
-      "items": 60
-    },
-    {
-      "channel": "blog-archive",
-      "url": "https://saka-30294.hatenablog.com/archive?page=4",
-      "status": "ok",
-      "items": 65
+      "items": 63
     },
     {
       "channel": "candidate-verify",
-      "url": "https://bzl.hatenablog.com/entry/2020/01/05/212130",
-      "status": "error",
-      "items": 0,
-      "error": "ValueError: redirect outside allowed public Hatena hosts"
-    },
-    {
-      "channel": "candidate-verify",
-      "url": "https://d.hatena.ne.jp/ayuzak/20070713",
+      "url": "https://d.hatena.ne.jp/buster_poke/20130810",
       "status": "error",
       "items": 0,
       "error": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20130829/1377713396",
+      "url": "https://d.hatena.ne.jp/buster_poke/20130905",
+      "status": "error",
+      "items": 0,
+      "error": "ValueError: redirected to a non-article page"
+    },
+    {
+      "channel": "candidate-verify",
+      "url": "https://milk4724.hatenablog.com/entry/20130904/1378260865",
       "status": "error",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20220326/1648221467",
+      "url": "https://milk4724.hatenablog.com/entry/20220501/1651390812",
       "status": "error",
       "items": 0,
       "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20250726/00000000",
+      "url": "https://bowline-lab.hatenadiary.org/entry/20100411/1270916262",
       "status": "ok",
-      "items": 264
+      "items": 2
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20261108/00000000",
+      "url": "https://bowline-lab.hatenadiary.org/entry/2020/09/06/162015",
       "status": "ok",
-      "items": 222
+      "items": 326
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20261124/00000000",
+      "url": "https://error-astray.hatenablog.com/entry/20091214",
       "status": "ok",
-      "items": 212
+      "items": 97
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/20261201/00000000",
+      "url": "https://hikineet777.hatenablog.com/entry/2022/01/24/025446",
       "status": "ok",
-      "items": 88
+      "items": 82
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/99990104/00000000",
+      "url": "https://hikineet777.hatenablog.com/entry/2022/07/23/210952",
       "status": "ok",
-      "items": 165
+      "items": 47
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/99990105/00000000",
+      "url": "https://hikineet777.hatenablog.com/entry/2023/03/19/202547",
       "status": "ok",
-      "items": 110
+      "items": 61
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/99990107/00000000",
+      "url": "https://hikineet777.hatenablog.com/entry/2023/07/08/184344",
       "status": "ok",
-      "items": 38
+      "items": 136
     },
     {
       "channel": "candidate-verify",
-      "url": "https://milk4724.hatenablog.com/entry/99990109/00000000",
+      "url": "https://milk4724.hatenablog.com/entry/20120218/1329041303",
       "status": "ok",
-      "items": 36
+      "items": 106
     }
   ],
   "unresolved_errors": [
@@ -836,7 +835,7 @@
     {
       "channel": "candidate-verify",
       "url": "https://milk4724.hatenablog.com/entry/20130904/1378260865",
-      "at": "2026-11-19T07:27:47+00:00",
+      "at": "2026-11-25T08:36:31+00:00",
       "message": "HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -866,13 +865,13 @@
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/buster_poke/20130810",
-      "at": "2026-11-19T07:27:47+00:00",
+      "at": "2026-11-25T08:36:31+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {
       "channel": "candidate-verify",
       "url": "https://milk4724.hatenablog.com/entry/20220501/1651390812",
-      "at": "2026-11-19T07:27:47+00:00",
+      "at": "2026-11-25T08:36:31+00:00",
       "message": "HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -950,7 +949,7 @@
     {
       "channel": "candidate-verify",
       "url": "https://d.hatena.ne.jp/buster_poke/20130905",
-      "at": "2026-11-19T07:27:47+00:00",
+      "at": "2026-11-25T08:36:31+00:00",
       "message": "ValueError: redirected to a non-article page"
     },
     {

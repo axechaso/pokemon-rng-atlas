@@ -1,13 +1,13 @@
 # Hatena 待审核更新清单
 
-抓取时间（UTC）：2026-11-24T09:55:32+00:00
+抓取时间（UTC）：2026-11-25T08:36:31+00:00
 
 > 自动发现的线索，尚未核实语言、主题、作者和日期。只有人工写入 articles.json 才会公开为资料卡。
 
-- 待审新来源：629；待审原文变化：7。
+- 待审新来源：633；待审原文变化：7。
 - 已收录 Hatena 原文：65；已有正文基线：65。首次基线不算修订。
 - 其他 331 条来源暂不监测正文修订（含其他网站、GitHub、YouTube、X）。
-- 本次请求：162/180；获取或解析失败：5。
+- 本次请求：157/180；获取或解析失败：4。
 - 发现通道：Hatena Bookmark 跨博客搜索（近期／历史热门）、博客 Feed、正文引用、轮换归档页。
 - 搜索索引、排名、Feed 留存和请求预算限制覆盖范围，不能穷尽整个平台；未抓到不代表没有更新。
 - 原站 updated、HTTP Last-Modified 与发现时间分别保留，均不冒充发表时间；书签日期只记索引时间。
@@ -17,20 +17,18 @@
 | 通道 | 成功请求 | 失败请求 |
 | --- | ---: | ---: |
 | blog-archive | 8 | 0 |
-| blog-feed | 23 | 1 |
+| blog-feed | 24 | 0 |
 | bookmark-search | 16 | 0 |
 | candidate-verify | 8 | 4 |
 | revision | 65 | 0 |
 
-- [blog-feed](<https://d.hatena.ne.jp/spring_mao/rss>)：ValueError: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130810>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>)：ValueError: redirect outside allowed public Hatena hosts
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>)：ValueError: redirected to a non-article page
 
-- [candidate-verify](<https://d.hatena.ne.jp/ayuzak/20070713>)：ValueError: redirected to a non-article page
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130904/1378260865>)：HTTPError: HTTP Error 404: Not Found
 
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130829/1377713396>)：HTTPError: HTTP Error 404: Not Found
-
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/1648221467>)：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220501/1651390812>)：HTTPError: HTTP Error 404: Not Found
 
 ### 尚未恢复的获取问题（含之前轮次）
 
@@ -45,13 +43,13 @@
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20260502/00000000>) · 2026-11-21T07:09:50+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20250507/00000000>) · 2026-11-20T07:18:05+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20250503>) · 2026-11-21T07:09:50+00:00：HTTPError: HTTP Error 404: Not Found
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130904/1378260865>) · 2026-11-19T07:27:47+00:00：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20130904/1378260865>) · 2026-11-25T08:36:31+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20120825/1345888765>) · 2026-11-20T07:18:05+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20211107/1636220447>) · 2026-11-23T07:40:44+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20130920/1379613201>) · 2026-11-22T06:49:58+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20131224>) · 2026-11-20T07:18:05+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130810>) · 2026-11-19T07:27:47+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220501/1651390812>) · 2026-11-19T07:27:47+00:00：HTTPError: HTTP Error 404: Not Found
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130810>) · 2026-11-25T08:36:31+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://milk4724.hatenablog.com/entry/20220501/1651390812>) · 2026-11-25T08:36:31+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20130829/1377713396>) · 2026-11-24T09:55:32+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/xxsakixx.com/archives/53673681.html%E2%80%9D>) · 2026-11-23T07:40:44+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://miga0547.hatenablog.com/entry/2023/12/14/%E2%80%9Dhttps:/www.dropbox.com/sh/tndvd3sweuj19qv/AABKs_D9l7d7yv9iPGOm_DENa?dl=0%E2%80%9D>) · 2026-11-21T07:09:50+00:00：HTTPError: HTTP Error 404: Not Found
@@ -64,7 +62,7 @@
 - [candidate-verify](<https://d.hatena.ne.jp/ayuzak/20070713>) · 2026-11-24T09:55:32+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140518>) · 2026-11-21T07:09:50+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20140219>) · 2026-11-20T07:18:05+00:00：ValueError: redirected to a non-article page
-- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-11-19T07:27:47+00:00：ValueError: redirected to a non-article page
+- [candidate-verify](<https://d.hatena.ne.jp/buster_poke/20130905>) · 2026-11-25T08:36:31+00:00：ValueError: redirected to a non-article page
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20220505/1651395351>) · 2026-11-20T07:18:05+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://milk4724.hatenablog.com/entry/20220326/1648221467>) · 2026-11-24T09:55:32+00:00：HTTPError: HTTP Error 404: Not Found
 - [candidate-verify](<https://bzl.hatenablog.com/entry/2020/01/05/212130>) · 2026-11-24T09:55:32+00:00：ValueError: redirect outside allowed public Hatena hosts
@@ -75,7 +73,7 @@
 
 [原文](<https://e52301147.hatenablog.com/entry/2023/03/09/183606>)
 
-- 首次检测：2026-10-31T05:43:22+00:00；最近确认：2026-11-24T09:55:32+00:00。
+- 首次检测：2026-10-31T05:43:22+00:00；最近确认：2026-11-25T08:36:31+00:00。
 - 变化字段：body_sha256, links_sha256, source_updated_raw；段落增／删 0/2。
 - 正文链接增／删 0/5；图片等媒体地址增／删 0/0。
 - 标题：日本版VCクリスタルでTID00000を狙う → 日本版VCクリスタルでTID00000を狙う。
@@ -114,7 +112,7 @@
 
 [原文](<https://milk4724.hatenablog.com/entry/20260922/00000000>)
 
-- 首次检测：2026-11-02T06:06:04+00:00；最近确认：2026-11-24T09:55:32+00:00。
+- 首次检测：2026-11-02T06:06:04+00:00；最近确认：2026-11-25T08:36:31+00:00。
 - 变化字段：body_sha256, media_sha256, source_updated_raw；段落增／删 19/1。
 - 正文链接增／删 0/0；图片等媒体地址增／删 1/0。
 - 标题：【ポケモンHGSS】赤いギャラドスの乱数調整 → 【ポケモンHGSS】赤いギャラドスの乱数調整。
@@ -127,7 +125,7 @@
 
 [原文](<https://milk4724.hatenablog.com/entry/20261012/00000000>)
 
-- 首次检测：2026-11-06T06:48:23+00:00；最近确认：2026-11-24T09:55:32+00:00。
+- 首次检测：2026-11-06T06:48:23+00:00；最近确认：2026-11-25T08:36:31+00:00。
 - 变化字段：body_sha256, source_updated_raw；段落增／删 1/1。
 - 正文链接增／删 0/0；图片等媒体地址增／删 0/0。
 - 标题：【ポケモンBW2】初心者向けの固定乱数(5genSearch-web使用版) → 【ポケモンBW2】初心者向けの固定乱数(5genSearch-web使用版)。
@@ -153,7 +151,7 @@
 
 [原文](<https://milk4724.hatenablog.com/entry/20260620/00000000>)
 
-- 首次检测：2026-11-15T06:33:55+00:00；最近确认：2026-11-24T09:55:32+00:00。
+- 首次检测：2026-11-15T06:33:55+00:00；最近确认：2026-11-25T08:36:31+00:00。
 - 变化字段：title, source_updated_raw；段落增／删 0/0。
 - 正文链接增／删 0/0；图片等媒体地址增／删 0/0。
 - 标题：【ポケモンSV】道具プリンター乱数調整ツール(Switch2対応・web版) → 道具プリンター乱数調整ツール (Switch 1/2 対応・web版)。
@@ -165,12 +163,48 @@
 
 ## 新来源候选
 
+### 色違い三つ節ノココッチを5世代で乱数調整する方法
+
+[原文](<https://hikineet777.hatenablog.com/entry/2023/03/19/202547>)
+
+- 首次发现：2026-11-25；来源博客：hikineet777.hatenablog.com。
+- 发现依据：blog-feed · https://hikineet777.hatenablog.com/feed; blog-archive · https://hikineet777.hatenablog.com/archive?page=1。
+- 原文发表元数据：2023-03-19T20:25:47+09:00；原站更新时间：2023-03-19T11:25:47+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
+
+### 7世代のID調整のやり方
+
+[原文](<https://hikineet777.hatenablog.com/entry/2022/07/23/210952>)
+
+- 首次发现：2026-11-25；来源博客：hikineet777.hatenablog.com。
+- 发现依据：blog-feed · https://hikineet777.hatenablog.com/feed; blog-archive · https://hikineet777.hatenablog.com/archive?page=1。
+- 原文发表元数据：2022-07-23T21:09:52+09:00；原站更新时间：2022-07-23T12:09:52+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
+
+### BW徘徊ボルトロス色違い乱数調整を100%成功させる方法
+
+[原文](<https://hikineet777.hatenablog.com/entry/2022/01/24/025446>)
+
+- 首次发现：2026-11-25；来源博客：hikineet777.hatenablog.com。
+- 发现依据：blog-feed · https://hikineet777.hatenablog.com/feed; blog-archive · https://hikineet777.hatenablog.com/archive?page=1。
+- 原文发表元数据：2022-01-24T02:54:46+09:00；原站更新时间：2022-01-23T17:54:46+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
+
+### PWツール 孵化乱数消費の設定方法の変更
+
+[原文](<https://bowline-lab.hatenadiary.org/entry/20100411/1270916262>)
+
+- 首次发现：2026-11-25；来源博客：bowline-lab.hatenadiary.org。
+- 发现依据：blog-feed · https://bowline-lab.hatenadiary.org/feed; blog-archive · https://bowline-lab.hatenadiary.org/archive?page=1。
+- 原文发表元数据：2010-04-11T01:17:42+09:00；原站更新时间：2010-04-10T16:17:42+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
+
 ### 【ポケモンPt】プラチナ やぶれたせかい ギラティナの乱数調整(スマホ対応)※ID0-153用
 
 [原文](<https://milk4724.hatenablog.com/entry/20261124/00000000>)
 
 - 首次发现：2026-11-24；来源博客：milk4724.hatenablog.com。
-- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/20261124/00000000; article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000。
+- 发现依据：blog-archive · https://milk4724.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/20261124/00000000; article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000; blog-feed · https://milk4724.hatenablog.com/feed。
 - 原文发表元数据：2026-11-24T00:00:00+09:00；原站更新时间：2026-11-24T09:40:40+09:00。
 - 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
@@ -570,41 +604,41 @@
 - 原文发表元数据：尚未取得；原站更新时间：尚未取得。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
-### 炭鉱博物館乱数 ひかえめ6V オムナイト
+### 【ポケモンDP】 炭鉱博物館乱数 ひかえめ6V オムナイト 0x52140289
 
 [原文](<https://milk4724.hatenablog.com/entry/20120218/1329041303>)
 
 - 首次发现：2026-11-24；来源博客：milk4724.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000; article-reference · https://milk4724.hatenablog.com/entry/20120218/1329041303。
+- 原文发表元数据：2012-02-18T19:08:23+09:00；原站更新时间：2026-05-01T18:08:44+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### 7世代野生乱数のやり方(おすすめ乱数調整位置の画像あり) - にぃとちゃんの乱数調整日記
+### 7世代野生乱数のやり方(おすすめ乱数調整位置の画像あり)
 
 [原文](<https://hikineet777.hatenablog.com/entry/2023/07/08/184344>)
 
 - 首次发现：2026-11-24；来源博客：hikineet777.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990107/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990107/00000000; blog-feed · https://hikineet777.hatenablog.com/feed; blog-archive · https://hikineet777.hatenablog.com/archive?page=1。
+- 原文发表元数据：2023-07-08T18:43:44+09:00；原站更新时间：2023-08-09T19:47:54+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
-### ポケウォーカーの乱数調整(一括法)
+### ポケウォーカーの乱数調整
 
 [原文](<https://error-astray.hatenablog.com/entry/20091214>)
 
 - 首次发现：2026-11-24；来源博客：error-astray.hatenablog.com。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000; article-reference · https://bowline-lab.hatenadiary.org/entry/2020/09/06/162015。
+- 原文发表元数据：2009-12-14T00:00:00+09:00；原站更新时间：2009-12-13T15:00:00+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### ポケウォーカー乱数調整の関連情報まとめ
 
 [原文](<https://bowline-lab.hatenadiary.org/entry/2020/09/06/162015>)
 
 - 首次发现：2026-11-24；来源博客：bowline-lab.hatenadiary.org。
-- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000。
-- 原文发表元数据：尚未取得；原站更新时间：尚未取得。
-- 状态：仅标题线索；语言、主题、作者和日期待核实。
+- 发现依据：article-reference · https://milk4724.hatenablog.com/entry/99990104/00000000; blog-feed · https://bowline-lab.hatenadiary.org/feed; blog-archive · https://bowline-lab.hatenadiary.org/archive?page=1; article-reference · https://bowline-lab.hatenadiary.org/entry/2020/09/06/162015。
+- 原文发表元数据：2020-09-06T16:20:15+09:00；原站更新时间：2020-09-06T07:20:15+09:00。
+- 状态：已获取原站正文与日期元数据；语言、相关性与技术结论仍待人工核实。
 
 ### 【第5世代乱数】BW2 御三家乱数①(5genSearch使用版)
 
@@ -3837,7 +3871,7 @@
 [原文](<https://purely11.hatenablog.com/entry/2022/01/19/230000>)
 
 - 首次发现：2026-10-16；来源博客：purely11.hatenablog.com。
-- 发现依据：blog-feed · https://purely11.hatenablog.com/feed; blog-archive · https://purely11.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/99990107/00000000。
+- 发现依据：blog-feed · https://purely11.hatenablog.com/feed; blog-archive · https://purely11.hatenablog.com/archive?page=1; article-reference · https://milk4724.hatenablog.com/entry/99990107/00000000; article-reference · https://hikineet777.hatenablog.com/entry/2023/07/08/184344。
 - 原文发表元数据：2022-01-19T23:00:00+09:00；原站更新时间：2022-01-19T14:08:20+09:00。
 - 状态：仅标题线索；语言、主题、作者和日期待核实。
 
